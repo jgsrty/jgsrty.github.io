@@ -1,0 +1,30 @@
+{
+  "name": "jgsrty.github.docs",
+  "version": "1.0.0",
+  "description": "rty docs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgsrty/jgsrty.github.docs.git"
+  },
+  "keywords": [
+    "docs",
+    "rty"
+  ],
+  "author": "rty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgsrty/jgsrty.github.docs/issues"
+  },
+  "homepage": "https://github.com/jgsrty/jgsrty.github.docs#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
+}
