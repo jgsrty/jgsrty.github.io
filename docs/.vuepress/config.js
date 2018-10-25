@@ -1,6 +1,5 @@
 const path = require('path');
 const fs = require('fs');
-
 module.exports = {
   title: "rty-docs",
   description: "随笔文档",
@@ -25,6 +24,10 @@ module.exports = {
         link: '/english/introduction'
       },
       {
+        text: 'VuePress',
+        link: '/vuepress/introduction'
+      },
+      {
         text: 'Github',
         link: 'https://github.com/jgsrty'
       }
@@ -41,6 +44,14 @@ module.exports = {
           title: "2018年十月(October)",
           collapsable: true,
           children: genSidebarConfig("english/2018-October", true)
+        },
+      ],
+      "/vuepress/": [
+        "introduction",
+        {
+          title: "配置步骤",
+          collapsable: false,
+          children: genSidebarConfig("vuepress/2018-October", true)
         },
       ]
     }

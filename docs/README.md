@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./img/logo.jpg
+heroImage: ./img/lion.png
 actionText: Start →
 actionLink: /english/introduction
 features:
