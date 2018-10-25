@@ -1,35 +1,17 @@
 # 导读
 
-本文将介绍 SW-BW-UI 的安装方式和基本的用法。
+培养阅读习惯，提高英文读写能力
 
-### 引入 组件库
+### 文章来源
 
-在 main.js 中写入以下内容：
+此网站英语原文基本来自网络，实体书，其他博文中。
 
-```js
-import Vue from "vue";
-import swUI from "@swhy/sw-bw-ui/dist/sw-bw-ui.min";
-import "@swhy/sw-bw-ui/dist/sw-bw-ui.min.css";
-import App from "./App.vue";
+汉语翻译为读写过程中通过翻译软件及个人理解翻译，不一定完全正确，但会在不断的阅读中提高翻译质量。
 
-Vue.use(swUI);
+### 作用
 
-new Vue({
-  el: "#app",
-  components: { App }
-});
-```
+锻炼自己的读写能力
 
-### 开始使用
+希望能在坚持多年后达到能读懂英文开发文档的水平
 
-至此，一个基于 Vue 和 sw-bw-ui 的开发环境已经搭建完毕，现在就可以编写代码了。
-
-启动开发模式：
-
-`npm run dev`
-
-编译：
-
-`npm run build`
-
-各个组件的使用方法请参阅它们各自的文档。
+培养坚持阅读记笔记习惯

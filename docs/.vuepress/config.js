@@ -33,12 +33,12 @@ module.exports = {
       "/english/": [
         "introduction",
         {
-          title: "2018年十一月",
+          title: "2018年十一月(November)",
           collapsable: true,
           children: genSidebarConfig("english/2018-November", true)
         },
         {
-          title: "2018年十月",
+          title: "2018年十月(October)",
           collapsable: true,
           children: genSidebarConfig("english/2018-October", true)
         },
