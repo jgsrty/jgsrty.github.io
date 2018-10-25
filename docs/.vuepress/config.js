@@ -1,51 +1,59 @@
+const path = require('path');
+const fs = require('fs');
+
 module.exports = {
-  title: 'rty-docs',
-  description: '随笔文档',
+  title: "rty-docs",
+  description: "随笔文档",
   head: [
-    ['link', {
-      rel: 'icon',
-      href: '/img/logo.ico'
-    }]
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "/img/logo.ico"
+      }
+    ]
   ],
   themeConfig: {
-    nav: [{
+    sidebarDepth: 3,
+    nav: [
+      {
         text: '主页',
         link: '/'
       },
       {
-        text: '目录',
-        items: [{
-            text: 'English',
-            link: '/english/'
-          },
-          {
-            text: '博客',
-            link: '/blog/'
-          }
-        ]
+        text: '英文阅读',
+        link: '/english/introduction'
       },
-      // 链接到网站
       {
         text: 'Github',
         link: 'https://github.com/jgsrty'
-      },
-    ],
-    sidebar: [{
-        title: '英文阅读', // 侧边栏名称
-        collapsable: true, // 可折叠
-        children: [
-          ['/english/','简介'],
-          ['/english/2018-10-24','善良比聪慧更重要'],
-        ]
-      },
-      {
-        title: '工作笔记',
-        collapsable: true,
-        children: [
-          ['/blog/','简介'],
-          ['/blog/2018-10-24','第一篇笔记'],
-        ]
       }
-    ]
+    ],
+    sidebar: {
+      "/english/": [
+        "introduction",
+        {
+          title: "2018年十一月",
+          collapsable: true,
+          children: genSidebarConfig("english/2018-November", true)
+        },
+        {
+          title: "2018年十月",
+          collapsable: true,
+          children: genSidebarConfig("english/2018-October", true)
+        },
+      ]
+    }
   }
+};
+
+function genSidebarConfig(dir, hasSub) {
+  let p = path.join(__dirname, '../', dir);
+  let files = fs.readdirSync(p);
+  let subDir = hasSub ? dir.split('/')[1] : '';
+  files = files.map(item => {
+    item = subDir ? subDir + '/' + path.basename(item, '.md') : path.basename(item, '.md');
+    return item;
+  });
+  return files;
 }

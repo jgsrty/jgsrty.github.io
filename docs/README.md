@@ -2,7 +2,7 @@
 home: true
 heroImage: ./img/logo.jpg
 actionText: Start →
-actionLink: /english/
+actionLink: /english/introduction
 features:
 - title: 英文读写
   details: 坚持每天读写一段英语美文短句，提高阅读能力并培养习惯
