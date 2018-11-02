@@ -4,7 +4,7 @@ VuePress是尤大神发布的一个全新的基于vue的文档生成器
 
 ## 安装
 
-```
+``` sh
 # 全局安装VuePress
 npm install -D vuepress
 ```
@@ -21,11 +21,11 @@ npm install -D vuepress
 ## 添加代码
 
 * 在docs/README.md中添加代码
-```
+``` sh
 # my first vuepress
 ```
 * 在package.json中添加代码
-```
+``` json
 {
   "scripts": {
     "dev": "vuepress dev docs",
@@ -37,7 +37,7 @@ npm install -D vuepress
 ## 启动项目
 
 * 在vuepress中启动命令
-```
+``` sh
 npm run dev
 ```
 * 启动成功后打开看到以下页面说明vuepress已经初步配置成功
@@ -53,8 +53,8 @@ npm run dev
 ![首页图片](https://upload-images.jianshu.io/upload_images/7704547-74d923ae5371be77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 * 修改首页显示文件 docs/README.md
-```
----
+``` js
+--- 
 home: true
 heroImage: /hero.png
 actionText: 快速上手 →
@@ -76,7 +76,7 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 
 * 导航栏及侧边栏配置 .vuepress/config.js
 
-```
+``` js
 module.exports = {
   themeConfig: {
     nav: [

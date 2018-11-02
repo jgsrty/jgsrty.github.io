@@ -24,7 +24,7 @@
 
 ![创建入口文件](https://upload-images.jianshu.io/upload_images/7704547-de206dbc65d90f09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/467/format/webp)
 
-```
+``` html
 <!DOCTYPE html>
 <html>
 <head>
