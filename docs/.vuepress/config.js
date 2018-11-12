@@ -28,9 +28,19 @@ module.exports = {
         link: '/vuepress/introduction'
       },
       {
-        text: 'Github',
-        link: 'https://github.com/jgsrty'
+        text: '了解更多',
+        items: [
+          { text: 'Github', link: 'https://github.com/jgsrty' },
+          { text: '码云', link: 'https://gitee.com/RtyXmd' },
+          { text: '简书', link: 'https://www.jianshu.com/u/0f735486a824' },
+          { text: '移动端Music', link: 'http://47.100.53.108/#/index' },
+          { text: '管理后台模板', link: 'http://47.100.53.108:9527/#/charts/pieChart' },
+        ]
       }
+      // {
+      //   text: 'Github',
+      //   link: 'https://github.com/jgsrty'
+      // }
     ],
     sidebar: {
       "/english/": [
