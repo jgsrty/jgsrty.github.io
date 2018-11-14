@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs');
 module.exports = {
   title: "rty-docs",
-  description: "随笔文档",
+  description: "Welcome to my docs",
   head: [
     [
       "link",
@@ -18,6 +18,10 @@ module.exports = {
       {
         text: '主页',
         link: '/'
+      },
+      {
+        text: '组件库',
+        link: '/components/introduction'
       },
       {
         text: '英文阅读',
@@ -63,7 +67,20 @@ module.exports = {
           collapsable: false,
           children: genSidebarConfig("vuepress/2018-October", true)
         },
-      ]
+      ],
+      "/components/": [
+        "introduction",
+        {
+          title: "UI组件",
+          collapsable: false,
+          children: genSidebarConfig("components/UI", true)
+        },
+        // "进度条",
+        // {
+        //   title: '123',
+        //   children: genSidebarConfig("components/rtyProgress", true)
+        // }
+      ],
     }
   }
 };
