@@ -1,12 +1,3 @@
-# 按钮
-按钮组件-
-[在线示例地址](https://jgsrty.github.io/component-demo/dist/#/)
-
-## 示例
-<example-button></example-button>
-
-## 使用方法
-``` html
 <template>
   <div>
     <rty-button></rty-button>
@@ -19,10 +10,13 @@
     <rty-button :text="mini.text" :type="warning" :size="mini.size"></rty-button>
   </div>
 </template>
-```
-``` js
+
 <script>
+import rtyButton from '../src/rtyButton'
 export default {
+  components: {
+    rtyButton
+  },
   data() {
     return {
       primary: "primary",
@@ -45,11 +39,3 @@ export default {
   }
 };
 </script>
-```
-
-## 配置选项
-| 参数 | 说明 | 类型 | 可选值 | 默认值 |
-|-|-|-|-|-|
-| text | 按钮文字 | String | default / primary / success / warning / danger | default |
-| type | 按钮类型 | String | default / primary / success / warning / danger | default |
-| size | 按钮尺寸 | String | default / medium / small / mini | default |

@@ -82,7 +82,8 @@ module.exports = {
         // }
       ],
     }
-  }
+  },
+  sass: { indentedSyntax: true },
 };
 
 function genSidebarConfig(dir, hasSub) {
