@@ -22,7 +22,7 @@ Vue.component('rtyButton',rtyButton)
 #### 单个引入
 
 ``` js
-import { rtyButton } from 'rty-vue-components
+import { rtyButton } from 'rty-vue-components'
 export default {
   components:{ rtyButton }
 };
