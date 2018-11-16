@@ -1,18 +1,24 @@
 <template>
   <div>
-    <rty-button></rty-button>
-    <rty-button :text="primary" :type="primary"></rty-button>
-    <rty-button :text="success" :type="success"></rty-button>
-    <rty-button :text="warning" :type="warning"></rty-button>
-    <rty-button :text="danger" :type="danger"></rty-button>
-    <rty-button :text="medium.text" :type="primary" :size="medium.size"></rty-button>
-    <rty-button :text="small.text" :type="success" :size="small.size"></rty-button>
-    <rty-button :text="mini.text" :type="warning" :size="mini.size"></rty-button>
+    <div style="margin-top:10px">
+      <rty-button></rty-button>
+    </div>
+    <div style="margin-top:10px">
+      <rty-button :text="primary" :type="primary"></rty-button>
+      <rty-button :text="success" :type="success"></rty-button>
+      <rty-button :text="warning" :type="warning"></rty-button>
+      <rty-button :text="danger" :type="danger"></rty-button>
+    </div>
+    <div style="margin-top:10px">
+      <rty-button :text="medium.text" :type="primary" :size="medium.size"></rty-button>
+      <rty-button :text="small.text" :type="success" :size="small.size"></rty-button>
+      <rty-button :text="mini.text" :type="warning" :size="mini.size"></rty-button>
+    </div>
   </div>
 </template>
 
 <script>
-import rtyButton from '../src/rtyButton'
+import rtyButton from "../src/rtyButton";
 export default {
   components: {
     rtyButton
