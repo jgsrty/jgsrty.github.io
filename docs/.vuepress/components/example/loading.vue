@@ -6,7 +6,7 @@
     </div>
     <div>
       <rty-button :text="'局部loading'" :type="'primary'" @click="displayLoad2"></rty-button>
-      <div style="position:relative;width:500px;height:200px;border:1px solid #333;">
+      <div style="position:relative;width:500px;height:200px;border:1px solid #333;margin-top:10px">
         <rty-loading :visible="showLoading2" :position="'absolute'"></rty-loading>
       </div>
     </div>
