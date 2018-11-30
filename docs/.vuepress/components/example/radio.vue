@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="margin-top:20px">
     <rty-radio
       v-for="(i,ind) in radioList"
       :key="ind"
@@ -13,7 +13,6 @@
 <script>
 import rtyRadio from "../src/rtyRadio";
 export default {
-  name: "rtyRadio",
   components: {
     rtyRadio
   },
@@ -42,8 +41,8 @@ export default {
   },
   methods: {
     getRadio(val) {
-      console.log(this.radio);
-      console.log(val);
+      console.log("当前选择--" + this.radio);
+      console.log("当前选择--" + val);
     }
   }
 };
