@@ -50,6 +50,11 @@ module.exports = {
       "/english/": [
         "introduction",
         {
+          title: "2018年十二月(December)",
+          collapsable: true,
+          children: genSidebarConfig("english/2018-December", true)
+        },
+        {
           title: "2018年十一月(November)",
           collapsable: true,
           children: genSidebarConfig("english/2018-November", true)
