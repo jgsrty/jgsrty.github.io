@@ -20,7 +20,7 @@ module.exports = {
         link: '/'
       },
       {
-        text: '组件库',
+        text: '组件',
         link: '/components/introduction'
       },
       {
@@ -49,11 +49,11 @@ module.exports = {
     sidebar: {
       "/english/": [
         "introduction",
-        {
-          title: "2019年一月(January)",
-          collapsable: false,
-          children: genSidebarConfig("english/2019-January", true)
-        },
+        // {
+        //   title: "2019年一月(January)",
+        //   collapsable: false,
+        //   children: genSidebarConfig("english/2019-January", true)
+        // },
         {
           title: "2018年十二月(December)",
           collapsable: true,
@@ -61,7 +61,7 @@ module.exports = {
         },
         {
           title: "2018年十一月(November)",
-          collapsable: true,
+          collapsable: false,
           children: genSidebarConfig("english/2018-November", true)
         },
         {
