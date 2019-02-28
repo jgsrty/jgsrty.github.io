@@ -50,8 +50,13 @@ module.exports = {
       "/english/": [
         "introduction",
         {
-          title: "2019年二月(Feburary)",
+          title: "2019年三月(March)",
           collapsable: false,
+          children: genSidebarConfig("english/2019-March", true)
+        },
+        {
+          title: "2019年二月(Feburary)",
+          collapsable: true,
           children: genSidebarConfig("english/2019-Feburary", true)
         },
         {
