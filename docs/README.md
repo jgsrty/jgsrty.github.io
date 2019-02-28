@@ -2,7 +2,7 @@
 home: true
 heroImage: ./img/lion.png
 actionText: Start →
-actionLink: /components/introduction
+actionLink: /english/introduction
 features:
 - title: 文档工具-VuePress
   details: 一个以 Vue 驱动为编写技术文档而优化的简约静态网站生成工具
