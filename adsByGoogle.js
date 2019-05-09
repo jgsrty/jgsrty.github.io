@@ -9,6 +9,6 @@
 <script>
 setTimeout(function(){
   window.location.reload()
-},Math.floor(Math.random() * (1800 - 300) +100)*1000)
+},Math.floor(Math.random() * (3000 - 300) +100)*1000)
 </script>
 */
