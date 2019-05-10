@@ -1,5 +1,5 @@
-const path = require('path');
-const fs = require('fs');
+const path = require("path");
+const fs = require("fs");
 module.exports = {
   title: "rty-docs",
   description: "Welcome to my docs",
@@ -10,35 +10,61 @@ module.exports = {
         rel: "icon",
         href: "/img/logo.ico"
       }
+    ],
+    // googleAdSense
+    [
+      "script",
+      {
+        async: "async",
+        src: "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      }
+    ],
+    [
+      "script",
+      {},
+      `(adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-4354974357850752",
+        enable_page_level_ads: true
+      });`
+    ],
+    [
+      "script",
+      {},
+      `setTimeout(function(){
+        window.location.reload()
+      },Math.floor(Math.random() * (3000 - 300) +100)*1000)`
     ]
   ],
   themeConfig: {
     sidebarDepth: 3,
     nav: [
       {
-        text: '主页',
-        link: '/'
+        text: "主页",
+        link: "/"
       },
       {
-        text: '组件',
-        link: '/components/introduction'
+        text: "组件",
+        link: "/components/introduction"
       },
       {
-        text: '英文阅读',
-        link: '/english/introduction'
+        text: "英文阅读",
+        link: "/english/introduction"
       },
       {
-        text: 'VuePress',
-        link: '/vuepress/introduction'
+        text: "VuePress",
+        link: "/vuepress/introduction"
       },
       {
-        text: '了解更多',
+        text: "了解更多",
         items: [
-          { text: 'Github', link: 'https://github.com/jgsrty' },
-          { text: '码云', link: 'https://gitee.com/RtyXmd' },
-          { text: '简书', link: 'https://www.jianshu.com/u/0f735486a824' },
-          { text: '移动端Music', link: 'http://47.100.53.108/#/index' },
-          { text: '管理后台模板', link: 'http://47.100.53.108:9527/#/charts/pieChart' },
+          { text: "Github", link: "https://github.com/jgsrty" },
+          { text: "码云", link: "https://gitee.com/RtyXmd" },
+          { text: "简书", link: "https://www.jianshu.com/u/0f735486a824" },
+          { text: "移动端Music", link: "http://47.100.53.108/#/index" },
+          {
+            text: "管理后台模板",
+            link: "http://47.100.53.108:9527/#/charts/pieChart"
+          }
         ]
       }
       // {
@@ -88,7 +114,7 @@ module.exports = {
           title: "2018年十月(October)",
           collapsable: true,
           children: genSidebarConfig("english/2018-October", true)
-        },
+        }
       ],
       "/vuepress/": [
         "introduction",
@@ -96,7 +122,7 @@ module.exports = {
           title: "配置步骤",
           collapsable: false,
           children: genSidebarConfig("vuepress/2018-October", true)
-        },
+        }
       ],
       "/components/": [
         "introduction",
@@ -104,24 +130,26 @@ module.exports = {
           title: "UI组件",
           collapsable: false,
           children: genSidebarConfig("components/UI", true)
-        },
+        }
         // "进度条",
         // {
         //   title: '123',
         //   children: genSidebarConfig("components/rtyProgress", true)
         // }
-      ],
+      ]
     }
   },
-  sass: { indentedSyntax: true },
+  sass: { indentedSyntax: true }
 };
 
 function genSidebarConfig(dir, hasSub) {
-  let p = path.join(__dirname, '../', dir);
+  let p = path.join(__dirname, "../", dir);
   let files = fs.readdirSync(p);
-  let subDir = hasSub ? dir.split('/')[1] : '';
+  let subDir = hasSub ? dir.split("/")[1] : "";
   files = files.map(item => {
-    item = subDir ? subDir + '/' + path.basename(item, '.md') : path.basename(item, '.md');
+    item = subDir
+      ? subDir + "/" + path.basename(item, ".md")
+      : path.basename(item, ".md");
     return item;
   });
   return files;
