@@ -55,6 +55,10 @@ module.exports = {
         link: "/vuepress/introduction"
       },
       {
+        text: "前端开发",
+        link: "https://rtyxmd.github.io/"
+      },
+      {
         text: "了解更多",
         items: [
           { text: "Github", link: "https://github.com/jgsrty" },
