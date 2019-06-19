@@ -12,28 +12,28 @@ module.exports = {
       }
     ],
     // googleAdSense
-    [
-      "script",
-      {
-        async: "async",
-        src: "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-      }
-    ],
-    [
-      "script",
-      {},
-      `(adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-4354974357850752",
-        enable_page_level_ads: true
-      });`
-    ],
-    [
-      "script",
-      {},
-      `setTimeout(function(){
-        window.location.reload()
-      },Math.floor(Math.random() * (3000 - 300) +100)*1000)`
-    ]
+    // [
+    //   "script",
+    //   {
+    //     async: "async",
+    //     src: "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    //   }
+    // ],
+    // [
+    //   "script",
+    //   {},
+    //   `(adsbygoogle = window.adsbygoogle || []).push({
+    //     google_ad_client: "ca-pub-4354974357850752",
+    //     enable_page_level_ads: true
+    //   });`
+    // ],
+    // [
+    //   "script",
+    //   {},
+    //   `setTimeout(function(){
+    //     window.location.reload()
+    //   },Math.floor(Math.random() * (3000 - 300) +100)*1000)`
+    // ]
   ],
   themeConfig: {
     sidebarDepth: 3,
