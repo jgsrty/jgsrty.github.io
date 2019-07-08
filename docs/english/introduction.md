@@ -6,7 +6,6 @@ style="margin-left: 2px; margin-bottom:-5px;"
 frameborder="0" scrolling="0" width="100px" height="20px"
 src="https://ghbtns.com/github-btn.html?user=jgsrty&repo=jgsrty.github.docs&type=star&count=true" >
 </iframe>
-:heart:
 <iframe
 style="margin-left: 2px; margin-bottom:-5px;"
 frameborder="0" scrolling="0" width="100px" height="20px"
