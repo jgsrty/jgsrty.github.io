@@ -1,16 +1,16 @@
-const path = require("path");
-const fs = require("fs");
+const path = require('path')
+const fs = require('fs')
 module.exports = {
-  title: "rty-docs",
-  description: "Welcome to my docs",
+  title: 'rty-docs',
+  description: 'Welcome to my docs',
   head: [
     [
-      "link",
+      'link',
       {
-        rel: "icon",
-        href: "/img/logo.ico"
+        rel: 'icon',
+        href: '/img/logo.ico'
       }
-    ],
+    ]
     // googleAdSense
     // [
     //   "script",
@@ -36,38 +36,44 @@ module.exports = {
     // ]
   ],
   themeConfig: {
+    //编辑
+    repo: 'jgsrty/jgsrty.github.docs',
+    docsDir: 'docs',
+    docsBranch: 'master',
+    editLinks: true,
+    //编辑
     sidebarDepth: 3,
     nav: [
       {
-        text: "主页",
-        link: "/"
+        text: '主页',
+        link: '/'
       },
       {
-        text: "组件",
-        link: "/components/introduction"
+        text: '组件',
+        link: '/components/introduction'
       },
       {
-        text: "英文阅读",
-        link: "/english/introduction"
+        text: '英文阅读',
+        link: '/english/introduction'
       },
       {
-        text: "VuePress",
-        link: "/vuepress/introduction"
+        text: 'VuePress',
+        link: '/vuepress/introduction'
       },
       {
-        text: "前端开发",
-        link: "https://rtyxmd.github.io/"
+        text: '前端开发',
+        link: 'https://rtyxmd.github.io/'
       },
       {
-        text: "了解更多",
+        text: '了解更多',
         items: [
-          { text: "Github", link: "https://github.com/jgsrty" },
-          { text: "码云", link: "https://gitee.com/RtyXmd" },
-          { text: "简书", link: "https://www.jianshu.com/u/0f735486a824" },
-          { text: "移动端Music", link: "http://47.100.53.108/#/index" },
+          { text: 'Github', link: 'https://github.com/jgsrty' },
+          { text: '码云', link: 'https://gitee.com/RtyXmd' },
+          { text: '简书', link: 'https://www.jianshu.com/u/0f735486a824' },
+          { text: '移动端Music', link: 'http://47.100.53.108/#/index' },
           {
-            text: "管理后台模板",
-            link: "http://47.100.53.108:9527/#/charts/pieChart"
+            text: '管理后台模板',
+            link: 'http://47.100.53.108:9527/#/charts/pieChart'
           }
         ]
       }
@@ -77,68 +83,68 @@ module.exports = {
       // }
     ],
     sidebar: {
-      "/english/": [
-        "introduction",
+      '/english/': [
+        'introduction',
         {
-          title: "2019六月(June)",
+          title: '2019六月(June)',
           collapsable: false,
-          children: genSidebarConfig("english/2019-June", true)
+          children: genSidebarConfig('english/2019-June', true)
         },
         {
-          title: "2019年五月(May)",
+          title: '2019年五月(May)',
           collapsable: true,
-          children: genSidebarConfig("english/2019-May", true)
+          children: genSidebarConfig('english/2019-May', true)
         },
         {
-          title: "2019年四月(April)",
+          title: '2019年四月(April)',
           collapsable: true,
-          children: genSidebarConfig("english/2019-April", true)
+          children: genSidebarConfig('english/2019-April', true)
         },
         {
-          title: "2019年三月(March)",
+          title: '2019年三月(March)',
           collapsable: true,
-          children: genSidebarConfig("english/2019-March", true)
+          children: genSidebarConfig('english/2019-March', true)
         },
         {
-          title: "2019年二月(Feburary)",
+          title: '2019年二月(Feburary)',
           collapsable: true,
-          children: genSidebarConfig("english/2019-Feburary", true)
+          children: genSidebarConfig('english/2019-Feburary', true)
         },
         {
-          title: "2019年一月(January)",
+          title: '2019年一月(January)',
           collapsable: true,
-          children: genSidebarConfig("english/2019-January", true)
+          children: genSidebarConfig('english/2019-January', true)
         },
         {
-          title: "2018年十二月(December)",
+          title: '2018年十二月(December)',
           collapsable: true,
-          children: genSidebarConfig("english/2018-December", true)
+          children: genSidebarConfig('english/2018-December', true)
         },
         {
-          title: "2018年十一月(November)",
+          title: '2018年十一月(November)',
           collapsable: true,
-          children: genSidebarConfig("english/2018-November", true)
+          children: genSidebarConfig('english/2018-November', true)
         },
         {
-          title: "2018年十月(October)",
+          title: '2018年十月(October)',
           collapsable: true,
-          children: genSidebarConfig("english/2018-October", true)
+          children: genSidebarConfig('english/2018-October', true)
         }
       ],
-      "/vuepress/": [
-        "introduction",
+      '/vuepress/': [
+        'introduction',
         {
-          title: "配置步骤",
+          title: '配置步骤',
           collapsable: false,
-          children: genSidebarConfig("vuepress/2018-October", true)
+          children: genSidebarConfig('vuepress/2018-October', true)
         }
       ],
-      "/components/": [
-        "introduction",
+      '/components/': [
+        'introduction',
         {
-          title: "UI组件",
+          title: 'UI组件',
           collapsable: false,
-          children: genSidebarConfig("components/UI", true)
+          children: genSidebarConfig('components/UI', true)
         }
         // "进度条",
         // {
@@ -149,17 +155,17 @@ module.exports = {
     }
   },
   sass: { indentedSyntax: true }
-};
+}
 
 function genSidebarConfig(dir, hasSub) {
-  let p = path.join(__dirname, "../", dir);
-  let files = fs.readdirSync(p);
-  let subDir = hasSub ? dir.split("/")[1] : "";
+  let p = path.join(__dirname, '../', dir)
+  let files = fs.readdirSync(p)
+  let subDir = hasSub ? dir.split('/')[1] : ''
   files = files.map(item => {
     item = subDir
-      ? subDir + "/" + path.basename(item, ".md")
-      : path.basename(item, ".md");
-    return item;
-  });
-  return files;
+      ? subDir + '/' + path.basename(item, '.md')
+      : path.basename(item, '.md')
+    return item
+  })
+  return files
 }
