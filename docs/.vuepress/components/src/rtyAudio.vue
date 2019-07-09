@@ -28,6 +28,7 @@ export default {
 <style scoped lang="scss">
 .position {
   width: 100%;
+  position: -webkit-sticky;
   position: sticky;
   bottom: 0;
 }
