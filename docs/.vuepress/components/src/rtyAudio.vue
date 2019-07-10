@@ -54,9 +54,10 @@ export default {
 <style scoped lang="scss">
 .position {
   width: 100%;
-  position: -webkit-sticky;
   position: sticky;
+  position: -webkit-sticky;
   bottom: 0;
+  left: 0;
   display: flex;
   justify-content: center;
   align-items: center;
