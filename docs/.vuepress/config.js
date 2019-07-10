@@ -10,7 +10,14 @@ module.exports = {
         rel: 'icon',
         href: '/img/rty-docs.ico'
       }
-    ]
+    ],
+    // [
+    //   'link',
+    //   {
+    //     rel: 'stylesheet',
+    //     href: '//at.alicdn.com/t/font_842333_6hawconwwqp.css'
+    //   }
+    // ]
     // googleAdSense
     // [
     //   "script",
