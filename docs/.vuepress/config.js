@@ -43,6 +43,7 @@ module.exports = {
     // ]
   ],
   themeConfig: {
+    lastUpdated: 'Last Updated',
     //编辑
     repo: 'jgsrty/jgsrty.github.docs',
     docsDir: 'docs',
@@ -63,10 +64,10 @@ module.exports = {
         text: '英文阅读',
         link: '/english/introduction'
       },
-      {
-        text: 'VuePress',
-        link: '/vuepress/introduction'
-      },
+      // {
+      //   text: 'VuePress',
+      //   link: '/vuepress/introduction'
+      // },
       {
         text: '前端开发',
         link: 'https://rtyxmd.github.io/'
