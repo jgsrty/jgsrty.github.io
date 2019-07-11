@@ -1,6 +1,6 @@
 # rty-docs
 
-> [在线预览 - preview](https://jgsrty.github.io/)
+> :heart: [在线预览 - preview](https://jgsrty.github.io/) :heart:
 
 #### 如何运行 - How to run
 ```
