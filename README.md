@@ -46,6 +46,27 @@
 >> [人生选择-爱与恐惧](https://jgsrty.github.io/english/2019-January/%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9-%E7%88%B1%E4%B8%8E%E6%81%90%E6%83%A7.html) -- [Fear or Love -- the Secret of Life](https://jgsrty.github.io/english/2019-January/%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9-%E7%88%B1%E4%B8%8E%E6%81%90%E6%83%A7.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
 >>
 >> [致终将远行的孩子](https://jgsrty.github.io/english/2019-January/%E8%87%B4%E7%BB%88%E5%B0%86%E8%BF%9C%E8%A1%8C%E7%9A%84%E5%AD%A9%E5%AD%90.html) -- [On Children](https://jgsrty.github.io/english/2019-January/%E8%87%B4%E7%BB%88%E5%B0%86%E8%BF%9C%E8%A1%8C%E7%9A%84%E5%AD%A9%E5%AD%90.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+****
+> **2018年12月 December**
+>> [人生的意义](https://jgsrty.github.io/english/2018-December/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89.html) -- [The Meaning of Life](https://jgsrty.github.io/english/2018-December/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+>>
+>> [教育的意义](https://jgsrty.github.io/english/2018-December/%E6%95%99%E8%82%B2%E7%9A%84%E6%84%8F%E4%B9%89.html) -- [The Importance of Education](https://jgsrty.github.io/english/2018-December/%E6%95%99%E8%82%B2%E7%9A%84%E6%84%8F%E4%B9%89.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+>>
+>> [诺贝尔文学奖获奖演说](https://jgsrty.github.io/english/2018-December/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E8%8E%B7%E5%A5%96%E6%BC%94%E8%AF%B4.html) -- [The Award-winning Speech](https://jgsrty.github.io/english/2018-December/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E8%8E%B7%E5%A5%96%E6%BC%94%E8%AF%B4.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+>>
+>> [随心所欲](https://jgsrty.github.io/english/2018-December/%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2.html) -- [Set yourself Free(Do As One Wishes)](https://jgsrty.github.io/english/2018-December/%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+****
+> **2018年11月 November**
+>> [世界的不平等与复杂（一）](https://jgsrty.github.io/english/2018-November/%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%8D%E5%B9%B3%E7%AD%89%E5%8F%8A%E5%A4%8D%E6%9D%82%EF%BC%88%E4%B8%80%EF%BC%89.html) -- [World Inequality and Complexity No.1](https://jgsrty.github.io/english/2018-November/%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%8D%E5%B9%B3%E7%AD%89%E5%8F%8A%E5%A4%8D%E6%9D%82%EF%BC%88%E4%B8%80%EF%BC%89.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+>>
+>> [世界的不平等与复杂（二）](https://jgsrty.github.io/english/2018-November/%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%8D%E5%B9%B3%E7%AD%89%E5%8F%8A%E5%A4%8D%E6%9D%82%EF%BC%88%E4%BA%8C%EF%BC%89.html) -- [World Inequality and Complexity No.2](https://jgsrty.github.io/english/2018-November/%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%8D%E5%B9%B3%E7%AD%89%E5%8F%8A%E5%A4%8D%E6%9D%82%EF%BC%88%E4%BA%8C%EF%BC%89.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+>>
+>> [及时行乐](https://jgsrty.github.io/english/2018-November/%E5%8F%8A%E6%97%B6%E8%A1%8C%E4%B9%90.html) -- [Seize the Day](https://jgsrty.github.io/english/2018-November/%E5%8F%8A%E6%97%B6%E8%A1%8C%E4%B9%90.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+>>
+>> [虔诚的医生](https://jgsrty.github.io/english/2018-November/%E8%99%94%E8%AF%9A%E7%9A%84%E5%8C%BB%E7%94%9F.html) -- [The Religion of a Doctor](https://jgsrty.github.io/english/2018-November/%E8%99%94%E8%AF%9A%E7%9A%84%E5%8C%BB%E7%94%9F.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+****
+> **2018年10月 October**
+>> [善良比聪慧更重要](https://jgsrty.github.io/english/2018-October/%E5%96%84%E8%89%AF%E6%AF%94%E8%81%AA%E6%85%A7%E6%9B%B4%E9%87%8D%E8%A6%81.html) -- [Kindness is more important than Clever](https://jgsrty.github.io/english/2018-October/%E5%96%84%E8%89%AF%E6%AF%94%E8%81%AA%E6%85%A7%E6%9B%B4%E9%87%8D%E8%A6%81.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
 
 
 #### 如何运行 - How to run
@@ -66,6 +87,8 @@ $ npm run dev
 $ npm run sh
 ```
 
+```
 ****
 > ****
 >> []() -- []()
+```
