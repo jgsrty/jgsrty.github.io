@@ -94,6 +94,11 @@ module.exports = {
       '/english/': [
         'introduction',
         {
+          title: '2019八月(August)',
+          collapsable: false,
+          children: genSidebarConfig('english/2019-August', true)
+        },
+        {
           title: '2019七月(July)',
           collapsable: false,
           children: genSidebarConfig('english/2019-July', true)
