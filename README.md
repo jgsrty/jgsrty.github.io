@@ -6,6 +6,8 @@
 > **2019年7月 July**
 >> [为生活而工作，还是为工作而生活](https://jgsrty.github.io/english/2019-July/%E4%B8%BA%E7%94%9F%E6%B4%BB%E8%80%8C%E5%B7%A5%E4%BD%9C%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%BA%E5%B7%A5%E4%BD%9C%E8%80%8C%E6%B4%BB.html)
  -- [Working to live or living to work](https://jgsrty.github.io/english/2019-July/%E4%B8%BA%E7%94%9F%E6%B4%BB%E8%80%8C%E5%B7%A5%E4%BD%9C%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%BA%E5%B7%A5%E4%BD%9C%E8%80%8C%E6%B4%BB.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+ >>
+ >> [减轻书包的重量](https://jgsrty.github.io/english/2019-July/%E5%87%8F%E8%BD%BB%E4%B9%A6%E5%8C%85%E7%9A%84%E9%87%8D%E9%87%8F.html) -- [Reduce the Weight of the Bag](https://jgsrty.github.io/english/2019-July/%E5%87%8F%E8%BD%BB%E4%B9%A6%E5%8C%85%E7%9A%84%E9%87%8D%E9%87%8F.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
 ****
 > **2019年6月 June**
 >> [万里长城](https://jgsrty.github.io/english/2019-June/%E4%B8%87%E9%87%8C%E9%95%BF%E5%9F%8E.html) -- [The Great Wall of China](https://jgsrty.github.io/english/2019-June/%E4%B8%87%E9%87%8C%E9%95%BF%E5%9F%8E.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
@@ -88,7 +90,7 @@ $ npm run sh
 ```
 
 ```
-****
 > ****
 >> []() -- []()
+****
 ```
