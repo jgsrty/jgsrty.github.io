@@ -100,7 +100,7 @@ module.exports = {
         },
         {
           title: '2019七月(July)',
-          collapsable: false,
+          collapsable: true,
           children: genSidebarConfig('english/2019-July', true)
         },
         {
