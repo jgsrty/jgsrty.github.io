@@ -35,6 +35,18 @@ module.exports = {
     
       gtag('config', 'UA-145250139-1');`
     ],
+    //百度统计
+    [
+      "script",
+      {},
+      `var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?96bef00c01d8ee7ee249abc380b9e5ab";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();`
+    ],
     // googleAdSense
     // [
     //   "script",
