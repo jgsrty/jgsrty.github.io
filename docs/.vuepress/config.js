@@ -18,6 +18,23 @@ module.exports = {
     //     href: '//at.alicdn.com/t/font_842333_6hawconwwqp.css'
     //   }
     // ]
+    //Google Analytics
+    [
+      "script",
+      {
+        async: "async",
+        src: "https://www.googletagmanager.com/gtag/js?id=UA-145250139-1"
+      }
+    ],
+    [
+      "script",
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-145250139-1');`
+    ],
     // googleAdSense
     // [
     //   "script",
