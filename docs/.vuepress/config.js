@@ -93,6 +93,10 @@ module.exports = {
         text: '英文阅读',
         link: '/english/introduction'
       },
+      {
+        text: 'Music',
+        link: '/music/introduction'
+      },
       // {
       //   text: 'VuePress',
       //   link: '/vuepress/introduction'
@@ -176,6 +180,14 @@ module.exports = {
           title: '2018年十月(October)',
           collapsable: true,
           children: genSidebarConfig('english/2018/2018-October', false)
+        }
+      ],
+      '/music/': [
+        'introduction',
+        {
+          title: 'Coldplay',
+          collapsable: false,
+          children: genSidebarConfig('music/Coldplay', true)
         }
       ],
       '/vuepress/': [
