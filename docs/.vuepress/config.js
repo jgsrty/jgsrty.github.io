@@ -20,14 +20,14 @@ module.exports = {
     // ]
     //Google Analytics
     [
-      "script",
+      'script',
       {
-        async: "async",
-        src: "https://www.googletagmanager.com/gtag/js?id=UA-145250139-1"
+        async: 'async',
+        src: 'https://www.googletagmanager.com/gtag/js?id=UA-145250139-1'
       }
     ],
     [
-      "script",
+      'script',
       {},
       `window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -37,7 +37,7 @@ module.exports = {
     ],
     //百度统计
     [
-      "script",
+      'script',
       {},
       `var _hmt = _hmt || [];
       (function() {
@@ -46,7 +46,7 @@ module.exports = {
         var s = document.getElementsByTagName("script")[0]; 
         s.parentNode.insertBefore(hm, s);
       })();`
-    ],
+    ]
     // googleAdSense
     // [
     //   "script",
@@ -125,57 +125,57 @@ module.exports = {
         {
           title: '2019八月(August)',
           collapsable: false,
-          children: genSidebarConfig('english/2019-August', true)
+          children: genSidebarConfig('english/2019/2019-August', false)
         },
         {
           title: '2019七月(July)',
           collapsable: true,
-          children: genSidebarConfig('english/2019-July', true)
+          children: genSidebarConfig('english/2019/2019-July', false)
         },
         {
           title: '2019六月(June)',
           collapsable: true,
-          children: genSidebarConfig('english/2019-June', true)
+          children: genSidebarConfig('english/2019/2019-June', false)
         },
         {
           title: '2019年五月(May)',
           collapsable: true,
-          children: genSidebarConfig('english/2019-May', true)
+          children: genSidebarConfig('english/2019/2019-May', false)
         },
         {
           title: '2019年四月(April)',
           collapsable: true,
-          children: genSidebarConfig('english/2019-April', true)
+          children: genSidebarConfig('english/2019/2019-April', false)
         },
         {
           title: '2019年三月(March)',
           collapsable: true,
-          children: genSidebarConfig('english/2019-March', true)
+          children: genSidebarConfig('english/2019/2019-March', false)
         },
         {
           title: '2019年二月(Feburary)',
           collapsable: true,
-          children: genSidebarConfig('english/2019-Feburary', true)
+          children: genSidebarConfig('english/2019/2019-Feburary', false)
         },
         {
           title: '2019年一月(January)',
           collapsable: true,
-          children: genSidebarConfig('english/2019-January', true)
+          children: genSidebarConfig('english/2019/2019-January', false)
         },
         {
           title: '2018年十二月(December)',
           collapsable: true,
-          children: genSidebarConfig('english/2018-December', true)
+          children: genSidebarConfig('english/2018/2018-December', false)
         },
         {
           title: '2018年十一月(November)',
           collapsable: true,
-          children: genSidebarConfig('english/2018-November', true)
+          children: genSidebarConfig('english/2018/2018-November', false)
         },
         {
           title: '2018年十月(October)',
           collapsable: true,
-          children: genSidebarConfig('english/2018-October', true)
+          children: genSidebarConfig('english/2018/2018-October', false)
         }
       ],
       '/vuepress/': [
@@ -207,7 +207,9 @@ module.exports = {
 function genSidebarConfig(dir, hasSub) {
   let p = path.join(__dirname, '../', dir)
   let files = fs.readdirSync(p)
-  let subDir = hasSub ? dir.split('/')[1] : ''
+  let subDir = hasSub
+    ? dir.split('/')[1]
+    : dir.split('/')[1] + '/' + dir.split('/')[2]
   files = files.map(item => {
     item = subDir
       ? subDir + '/' + path.basename(item, '.md')
