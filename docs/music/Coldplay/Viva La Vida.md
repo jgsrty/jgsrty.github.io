@@ -38,7 +38,7 @@ My missionaries in a foreign field
 
 For some reason I can't explain
 
-Once you know there was never'
+Once you'd gone there was never'
 
 Never an honest word
 
@@ -140,7 +140,7 @@ My missionaries in a foreign field
 
 For some reason I can't explain
 
-Once you know there was never'
+Once you'd gone there was never'
 
 Never an honest word
 
