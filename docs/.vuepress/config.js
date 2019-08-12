@@ -188,6 +188,11 @@ module.exports = {
           title: 'Coldplay',
           collapsable: false,
           children: genSidebarConfig('music/Coldplay', true)
+        },
+        {
+          title: 'Chris Medina',
+          collapsable: true,
+          children: genSidebarConfig('music/Chris Medina', true)
         }
       ],
       '/vuepress/': [
