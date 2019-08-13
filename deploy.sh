@@ -12,7 +12,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'https://jgsrty.github.io'
 
 # 如果你想要部署到 https://<USERNAME>.github.io
 git push -f git@github.com:jgsrty/jgsrty.github.io.git master
