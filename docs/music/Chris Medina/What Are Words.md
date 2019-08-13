@@ -1,6 +1,81 @@
 # What Are Words
 
 ## 翻译
+Anywhere you are, I am near
+
+Anywhere you go, I'll be there
+
+Anytime you whisper my name, you'll see
+
+How every single promise I keep
+
+Cause what kind of guy would I be
+
+If I was to leave when you need me most
+
+What are words
+
+If you really don't mean them 
+
+When you say them
+
+What are words
+
+If they're only for good times
+
+Then they done
+
+When it's love 
+
+Yeah, you say them out-loud those words
+
+They never go away
+
+They live on, even when we're gone
+
+And I know an angel was sent just for me
+
+And I know I'm meant to be where I am
+
+And I'm gonna be standing right beside her tonight
+
+And I'm gonna be by your side
+
+I would never leave when she needs me most
+
+What are words
+
+If you really don't mean them
+
+When you say them
+
+What are words
+
+If they're only for good times
+
+Then they done
+
+When it's love 
+
+Yeah, you say them out-loud those words
+
+They never go away
+
+They live on, even when we're gone
+
+Anywhere you are, I am near
+
+Anywhere you go, I'll be there
+
+And I'm gonna be here forever more
+
+Every single promise I keep
+
+Cause what kind of guy would I be
+
+If I was to leave when you need me most
+
+I forever keeping my angel close
 
 ## 生词统计
 | 单词 | 音标 | 翻译 |
@@ -65,7 +140,7 @@ What are words
 
 If they're only for good times
 
-Them they done
+Then they done
 
 When it's love 
 
