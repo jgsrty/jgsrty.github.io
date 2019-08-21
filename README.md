@@ -1,6 +1,7 @@
 # rty-docs
 
-> :heart: [在线预览 - preview](https://jgsrty.github.io/) :heart:  
+> :heart: [在线预览 - preview](https://jgsrty.github.io/) :heart:
+
 > :heart: [国内访问地址 - 速度更快](https://jgsrty.github.io/) :heart:
 
 #### 目录

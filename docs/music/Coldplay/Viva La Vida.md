@@ -202,4 +202,5 @@ Never an honest word
 
 But that was when I rulled the world
 
-<src-rtyAudio :src="'https://rtyresourcesmusic.github.io/Coldplay/Viva La Vida.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyresourcesmusic.github.io/Coldplay/Viva La Vida.mp3'"></src-rtyAudio> -->
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Viva%20La%20Vida.mp3'"></src-rtyAudio>
