@@ -95,4 +95,4 @@ It has been the inspiration for replicas and imitations around the world, from J
 
 No longer considered an eyesore, the Eiffel Tower is an icon of France and is inside the World Heritage Site that includes certain parts of Paris.
 
-<src-rtyAudio :src="'https://rtyresources2019.github.io/2019-June/The Eiffel Tower.mp3'"></src-rtyAudio>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Eiffel Tower.mp3'"></src-rtyAudio>

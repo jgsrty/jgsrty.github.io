@@ -69,4 +69,4 @@ You are ready and able to do beautiful things in this world and after you walk t
 
 Choose love, and don't ever let fear turn you against your playful heart. 
 
-<src-rtyAudio :src="'https://rtyresources2019.github.io/2019-January/Fear or Love.mp3'"></src-rtyAudio>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-January/Fear or Love.mp3'"></src-rtyAudio>

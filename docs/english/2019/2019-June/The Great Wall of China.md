@@ -93,4 +93,4 @@ In fact, nearly 1/3 of the wall has completely disappeared, fallen down and even
 
 Still, the Great Wall is the most popular place for tourists to visit in China, attracting millions of people each year.
 
-<src-rtyAudio :src="'https://rtyresources2019.github.io/2019-June/The Great Wall of China.mp3'"></src-rtyAudio>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Great Wall of China.mp3'"></src-rtyAudio>

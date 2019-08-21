@@ -72,4 +72,4 @@ For many immigrants who came to the United States through New York, it was their
 
 For others, it symbolized the idea of Freedom that America was built on.
 
-<src-rtyAudio :src="'https://rtyresources2019.github.io/2019-June/The Statue of Liberty.mp3'"></src-rtyAudio>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Statue of Liberty.mp3'"></src-rtyAudio>

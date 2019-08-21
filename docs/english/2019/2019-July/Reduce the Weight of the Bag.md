@@ -70,4 +70,4 @@ But in large parts of rural India, children still have to walk great distances, 
 
 Rajinder Shukla's daughter attends school in Uttar Pradesh state. He said she has to bring "about 4-5 kilograms of books in her school bag and also carry her lunch box and water bottle in a separate bag".
 
-<src-rtyAudio :src="'https://rtyresources2019.github.io/2019-July/Reduce the Weight of the Bag.mp3'"></src-rtyAudio>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-July/Reduce the Weight of the Bag.mp3'"></src-rtyAudio>

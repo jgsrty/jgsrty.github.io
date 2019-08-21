@@ -84,4 +84,4 @@ We have a responsibility to act on the facts that we have today.
 
 By doing so, we are honoring the generations that have come before us and we are protecting those that are yet to come.
 
-<src-rtyAudio :src="'https://rtyresources2019.github.io/2019-May/Responsibilities of Our Generation.mp3'"></src-rtyAudio>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-May/Responsibilities of Our Generation.mp3'"></src-rtyAudio>

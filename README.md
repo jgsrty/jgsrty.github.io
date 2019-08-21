@@ -2,7 +2,7 @@
 
 > :heart: [在线预览 - preview](https://jgsrty.github.io/) :heart:
 
-> :heart: [国内访问地址 - 速度更快](https://jgsrty.github.io/) :heart:
+> :heart: [国内访问地址 - 速度更快](https://rtyxmd.gitee.io/) :heart:
 
 #### 目录
 > **2019年8月 Agugust**
