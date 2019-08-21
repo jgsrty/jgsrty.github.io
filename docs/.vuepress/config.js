@@ -1,6 +1,7 @@
 const path = require('path')
 const fs = require('fs')
 module.exports = {
+  base: './',
   title: 'rty-docs',
   description: 'Welcome to my docs',
   head: [
