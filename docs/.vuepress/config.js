@@ -1,6 +1,21 @@
 const path = require('path')
 const fs = require('fs')
 module.exports = {
+  // plugins: {
+  //   robots: {
+  //     host: 'https://rtyxmd.gitee.io',
+  //     disallowAll: false,
+  //     allowAll: true,
+  //     sitemap: '/sitemap.xml',
+  //     policies: [
+  //       {
+  //         userAgent: '*',
+  //         disallow: ['/blog'],
+  //         allow: ['components', 'english', 'music']
+  //       }
+  //     ]
+  //   }
+  // },
   title: 'rty-docs',
   description: 'Welcome to my docs',
   head: [
