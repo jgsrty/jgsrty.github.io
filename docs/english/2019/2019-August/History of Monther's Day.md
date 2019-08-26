@@ -9,7 +9,7 @@
 |-|-|-|
 |  |  |  |
 
-## 原文
+## 原文阅读
 The ancient Greeks were among the first to pay tribute to mom. Sort of.
 
 Their spring festival honored Rhea, the monther of all Greek gods.

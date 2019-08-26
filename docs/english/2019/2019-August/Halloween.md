@@ -59,7 +59,7 @@
 | turnip | 'tɝnɪp | n. 萝卜、大头菜 |
 | prank | præŋk | n. 恶作剧、开玩笑、戏虐； v. 装饰、打扮 |
 
-## 原文
+## 原文阅读
 Halloween falls on October 31 each year in Britain, North America and other parts of the world.
 
 Like many other holidays, Halloween has evolved and changed throughout history and is a mix of pagan and Christian tradition.
