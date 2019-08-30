@@ -64,7 +64,22 @@ This probably wouldn't have pleased Anna, but deep down she would have to be sat
 ## 生词统计
 | 单词 | 音标 | 翻译 |
 |-|-|-|
-|  |  |  |
+| medieval | ˌmɪdɪ'ivəl | adj. 中世纪的、原始的、老式的 |
+| Lent | - | n. 大斋节（亦称齐斋节，自圣灰星期三开始至复活节前的40天，在此期间进行斋戒和忏悔） |
+| wound | wund | n. 创伤、伤口； v. 受伤、伤害 |
+| civil | sɪvl | adj. 公民的、民间的、文职的、有礼貌的 |
+| dedicate | 'dɛdɪket | vt. 致力、献身、题献 |
+| philanthropist | fɪ'lænθrəpɪst | n. 慈善家、博爱主义者、乐善好施的人 |
+| observe | əb'zɝv | v. 庆祝、观察、注意到、评论 |
+| fierce | fɪrs | adj. 凶猛的、猛烈的、暴躁的 |
+| congress | 'kɑŋɡrəs | n. 国会、代表大会、会议、社交 |
+| federal | 'fɛdərəl | adj. 联邦的、同盟的、联邦制的 |
+| enrage | ɪn'reɪdʒ | v. 激怒、使暴怒 |
+| appall | ə'pɔl | v. 使胆寒、使惊骇 |
+| petition | pə'tɪʃən | n. 请愿、请愿书、祈求； v. 请愿、请求 |
+| abolish | ə'bɑlɪʃ | v. 废除、废止、取消、革除 |
+| disturb | dɪ'stɝb | v. 打扰、妨碍、使不安、弄乱 |
+| florist | 'flɔrɪst | n. 花商、种花人、花店 |
 
 ## 原文阅读
 The ancient Greeks were among the first to pay tribute to mom. Sort of.
