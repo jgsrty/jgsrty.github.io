@@ -53,7 +53,7 @@
 |-|-|-|
 | enolve | ɪ'vɑlv | v. 发展、进化、使逐步形成 |
 | pagan | 'pegən | n. 异教徒、非基督教徒； adj. 异教的、异教徒的 |
-| custome | ˈkɑsˌtum | n. 服装、装束、戏装、剧装； v. 给...穿上服装 |
+| costume | ˈkɑsˌtum | n. 服装、装束、戏装、剧装； v. 给...穿上服装 |
 | immigrate | 'ɪmɪɡret | v. 移入； vt. 使移居入境 |
 | custom | 'kʌstəm | n. 习惯、惯例、风俗、海关、关税； adj. 定做的、定制的 |
 | turnip | 'tɝnɪp | n. 萝卜、大头菜 |
