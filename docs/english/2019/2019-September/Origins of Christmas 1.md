@@ -8,13 +8,13 @@ But how long has Christmas been around? And has it always been celebrated the sa
 
 For hundreds of years, many different cultures across Europe celebrated a yearly festival on December 21.
 
-This day is known as the Winter Solstice.
+This day is known as the Winter `Solstice`.
 
-This is a significant day because it is the shortest day of the year, meaning that this day has the least amount of time between sunup and sundown.
+This is a `significant` day because it is the shortest day of the year, meaning that this day has the least amount of time between sunup and sundown.
 
-In ancient Rome, there were multiple celebrations associated with the solstice.
+In ancient Rome, there were multiple celebrations `associated` with the solstice.
 
-One of those celebrations was known as Saturnalia.
+One of those celebrations was known as `Saturnalia`.
 
 Saturnalia was a holiday honoring Saturn, the Roman god of agriculture.
 
@@ -24,7 +24,7 @@ Saturnalia was a festive time when food and drink were plentiful.
 
 During this season of fun, the normal social order would reverse, and the wealthy would turn control of the city over to the poor.
 
-Businesses and schools would even close during the celebration, so that everyone could indulge in the frivolity.
+Businesses and schools would even close during the celebration, so that everyone could `indulge` in the `frivolity`.
 
 In Germany and regions further north, the Winter Solstice celebration was known as Yule.
 
@@ -32,9 +32,9 @@ During the Yule celebration, families would find the biggest log they could and 
 
 They would burn the log on their fireplace and attempt to keep the fire going for 12 days.
 
-During the time the Yule log burned, there would be many days of festivities and revelry.
+During the time the Yule log burned, there would be many days of festivities and `revelry`.
 
-Yule wasn't an important holiday, because this was the time of years when animails were slaughtered.
+Yule wasn't an important holiday, because this was the time of years when animails were `slaughtered`.
 
 And this was the only time of year when most people had fresh meat.
 
@@ -53,7 +53,14 @@ These Winter Solstice traditions and many others helped lay the foundations for 
 ## 生词统计
 ｜ 单词 ｜ 音标 ｜ 翻译 ｜
 ｜-｜-｜-｜
-｜  ｜  ｜  ｜
+｜ solstice ｜ ˈsɑːlstɪs ｜ n. 至、至日、至点 ｜
+| significant | sɪɡˈnɪfɪkənt | adj. 重大的、有效的、有意义的、意味深长的； n. 象征、有意义的事物 |
+| associate | əˈsoʊsieɪt | v. 联想、联系、关联、交往； n. 伙伴、准会员、联想； adj. 联合的、副的 |
+| saturnalia | sætə'neiliə | n. （古罗马）农神节（十二月中旬）、狂欢喧闹 |
+| indulge | ɪnˈdʌldʒ | v. 满足、纵容、沉溺、使沉迷于... |
+| frivolity | frɪˈvɑːləti | n. 轻浮、轻薄、轻率 |
+| revelry | ˈrevlri | n. 狂欢、欢宴 |
+| slaughter | ˈslɔːtər | v. 屠宰、屠杀 |
 
 ## 原文阅读
 Christmas is the most widely celebrated holiday in the world today.
