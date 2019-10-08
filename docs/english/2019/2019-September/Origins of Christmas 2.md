@@ -1,5 +1,5 @@
 # 圣诞节起源 2
-### Origins of Christmas 1
+### Origins of Christmas 2
 
 ## 翻译
 
@@ -9,3 +9,5 @@
 ｜  ｜  ｜  ｜
 
 ## 原文阅读
+
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-September/Origins of Christmas 2.mp3'"></src-rtyAudio>
