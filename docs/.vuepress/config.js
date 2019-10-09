@@ -26,6 +26,14 @@ module.exports = {
         href: '/img/rty-docs.ico'
       }
     ],
+    [
+      'meta',
+      {
+        name: 'keywords',
+        content:
+          'rty,荣天阳,rtyxmd,英文阅读,英语学习,vue组件,vue,英文歌曲,bruno'
+      }
+    ],
     // [
     //   'link',
     //   {
