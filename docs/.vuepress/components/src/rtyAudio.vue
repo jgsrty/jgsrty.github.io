@@ -1,5 +1,4 @@
 <template>
-
   <div class="position">
     <div
       v-show="showLoad"
