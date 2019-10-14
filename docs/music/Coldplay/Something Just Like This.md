@@ -17,4 +17,125 @@
 
 ## Lyric 歌词 
 
+I've been reading books of old
+
+The legends and the myths
+
+Achilles and his gold
+
+Hercules and his gifts
+
+Spiderman's control and Batman with his fists
+
+And clearly, I don't see myself upon that list
+
+She said, "Where'd you wanna go?"
+
+"How much you wanna risk?"
+
+I'm not looking for somebody with some superhuman gifts
+
+Some superhero, some fairytale bliss
+
+Just something I can turn on
+
+Somebody I can kiss
+
+I want something just like this
+
+Doo doo doo, doo doo doo
+
+Doo doo doo, doo doo
+
+Doo doo doo, doo doo doo
+
+Oh, I want something just like this
+
+Doo doo doo, doo doo doo
+
+Doo doo doo, doo doo
+
+Doo doo doo, doo doo doo
+
+Oh I want something just like this
+
+I want something just like this
+
+I've been reading books of old
+
+The legends and the myths
+
+The testaments they told
+
+The moon and its eclipse
+
+And Superman unrolls a suit before he lifts
+
+But I'm not the kind of person that it fits
+
+She said, "Where'd you wanna go?"
+
+"How much you wanna risk?"
+
+I'm not looking for somebody with some superhuman gifts
+
+Some superhero, some fairytale bliss
+
+Just something I can turn to
+
+Somebody I can miss
+
+I want something just like this
+
+I want something just like this
+
+Oh, I want something just like this
+
+Doo doo doo, doo doo doo
+
+Doo doo doo, doo doo
+
+Doo doo doo, doo doo doo
+
+Oh, I want something just like this
+
+Doo doo doo, doo doo doo
+
+Doo doo doo, doo doo
+
+Doo doo doo, doo doo doo
+
+Where'd you wanna go?
+
+How much you wanna risk?
+
+I'm not looking for somebody with some suerhuman gifts
+
+Some superhero, some fairytale bliss
+
+Just something I can turn to
+
+Somebody I can kiss
+
+I want something just like this
+
+Oh, I want something just like this
+
+Oh, I want something just like this
+
+Oh, I want something just like this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Something%20Just%20Like%20This.mp3'"></src-rtyAudio>
