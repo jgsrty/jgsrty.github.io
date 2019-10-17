@@ -49,15 +49,15 @@ As more and more Americans began celebrating the holiday, traditions began to `e
 Eventually, Christmas would become the holiday that we all know and love.
 
 ## 生词统计
-｜ 单词 ｜ 音标 ｜ 翻译 ｜
-｜-｜-｜-｜
-｜ predate ｜ ˌpriːˈdeɪt ｜ v. 在日期上早于 ｜
-｜ catholic ｜ kæθəlɪk ｜ adj. 天主教的、宽宏大量的； n. 天主教徒、罗马天主教 ｜
-｜ accustom ｜ əˈkʌstəm ｜ v. 使习惯于、使适应 ｜
-｜ mischief ｜ ˈmɪstʃɪf ｜ n. 恶作剧、伤害、顽皮 ｜
-｜ hijinks ｜ ˈhaɪdʒɪŋks ｜ n. 狂欢作乐 ｜
-｜ threaten ｜ ˈθretn ｜ v. 威胁、k恐吓 ｜
-｜ emerge ｜ ɪˈmɜːrdʒ ｜ v. 浮现、摆脱、暴露 ｜
+| 单词 | 音标 | 音标 |
+|-|-|-|
+| predate | ˌpriːˈdeɪt | v. 在日期上早于 |
+| catholic | kæθəlɪk | adj. 天主教的、宽宏大量的； n. 天主教徒、罗马天主教 |
+| accustom | əˈkʌstəm | v. 使习惯于、使适应 |
+| mischief | ˈmɪstʃɪf | n. 恶作剧、伤害、顽皮 |
+| hijinks | ˈhaɪdʒɪŋks | n. 狂欢作乐 |
+| threaten | ˈθretn | v. 威胁、k恐吓 |
+| emerge | ɪˈmɜːrdʒ | v. 浮现、摆脱、暴露 |
 
 ## 原文阅读
 The Winter Solstice celebrations of Saturnalia and Yule predated Christmas.
