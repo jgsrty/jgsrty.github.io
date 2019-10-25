@@ -11,27 +11,23 @@ She smiled -- the kind of smile that makes me smile back -- and she said:"When I
 
 A few seconds later she closed her eyes and fell asleep.
 
-The room was peaceful -- almost silent. All I could hear was the soft purr of her breathing.
+The room was peaceful -- almost silent. All I could hear was the soft `purr` of her breathing.
 
 I stayed awake thinking about the time we'd spent together and all the choices in our lives that made this moment possible.
 
 And at some point, I realized that it didn't matter what we'd done or where we'd gone. Nor did the future hold any significance.
 
-All that mattered was the serenity of the moment. Just being with her and breathing with her.
+All that mattered was the `serenity` of the moment. Just being with her and breathing with her.
 
-We must not allow the clock, the calendar, and external pressures to rule our lives and blind us to the fact that each individual moment of our lives is a beautiful mytery and a miracle -- especially those moments we spend in the presence of a loved one.
+We must not allow the clock, the calendar, and external pressures to rule our lives and blind us to the fact that each individual moment of our lives is a beautiful mystery and a miracle -- especially those moments we spend in the presence of a loved one.
 
 ## 翻译
 
 ## 生词统计
 | 单词 | 音标 | 翻译 |
 |-|-|-|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| purr | pɜːr | n. 咕噜咕噜声、颤抖声； v. 发出喉音、猫发出呜呜的声 |
+| serenity | səˈrenəti | n. 平静、宁静、晴朗、风和日丽 |
 
 ## 原文阅读
 It was one warm evening many years ago.
