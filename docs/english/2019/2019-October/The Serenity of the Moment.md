@@ -1,6 +1,7 @@
 # 享受此刻的宁静
 ### The Serenity of the Moment
 
+## 翻译
 #### It was one warm evening many years ago.
 那是多年前的一个温暖夜晚。
 #### After spending nearly every waking minute with Angel for eight straight days, I knew that I had to tell her just one thing.
@@ -21,8 +22,6 @@
 最重要的是享受此刻的宁静，和她同呼吸共命运。
 #### We must not allow the clock, the calendar, and external pressures to rule our lives and blind us to the fact that each individual moment of our lives is a beautiful mystery and a miracle -- especially those moments we spend in the presence of a loved one.
 我们不能让时钟、日历或其他任何外部的压力支配我们的生活，让我忽略这样的事实--我们人生的每一个时刻都是一个美丽的奇迹，那些与爱人一起度过的时光尤其应该倍加珍惜。
-
-## 翻译
 
 ## 生词统计
 | 单词 | 音标 | 翻译 |
