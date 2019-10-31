@@ -7,6 +7,8 @@
 #### 目录
 > **2019年10月 October**
 >> [享受此刻的宁静](https://jgsrty.github.io/english/2019/2019-October/The%20Serenity%20of%20the%20Moment.html) -- [The Serenity of the Moment](https://jgsrty.github.io/english/2019/2019-October/The%20Serenity%20of%20the%20Moment.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+>>
+>> [生活的意义是什么](https://jgsrty.github.io/english/2019/2019-October/What%20Is%20the%20Meaning%20of%20Life.html) -- [What Is the Meaning of Life](https://jgsrty.github.io/english/2019/2019-October/What%20Is%20the%20Meaning%20of%20Life.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
 ****
 > **2019年9月 September**
 >> [圣诞节起源1](https://jgsrty.github.io/english/2019/2019-September/Origins%20of%20Christmas%201.html) -- [Origins of Christmas 1](https://jgsrty.github.io/english/2019/2019-September/Origins%20of%20Christmas%201.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
