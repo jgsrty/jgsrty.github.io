@@ -95,6 +95,11 @@ export default {
       currentSpeed: 2
     }
   },
+  watch: {
+    src(newValue, oldValue) {
+      this.playState = false
+    }
+  },
   methods: {
     //音频加载成功
     audioLoadSuc(res) {
