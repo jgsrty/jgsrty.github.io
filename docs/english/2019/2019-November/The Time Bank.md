@@ -1,6 +1,6 @@
 # 时间银行
 ### The Time Bank
-There is a bank that credits your account each morning with ￥86,400. It carries over no balance from day to day.
+There is a bank that `credits` your account each morning with ￥86,400. It carries over no balance from day to day.
 
 Every evening deletes whatever part of the balance you failed to use during the day.
 
@@ -16,13 +16,13 @@ It carries over no balance. It allows no overdraft.
 
 Each day it opens a new account for you. Each night it burns the remains of the day.
 
-If you fail to use the day's deposits, the loss is yours.
+If you fail to use the day's `deposits`, the loss is yours.
 
 There is no going back. There is no drawing against the "tomorrow."
 
 You must live in the present on today's deposits.
 
-Invest it so as to get from it the utmost in health, happiness, and success!
+Invest it so as to get from it the `utmost` in health, happiness, and success!
 
 The clock is running. Make the most of today.
 
@@ -55,7 +55,9 @@ Today is a gift. That's why it's called -- present!
 ## 生词统计
 | 单词 | 音标 | 翻译 |
 | - | - | - |
-|  |  |  |
+| credit | ˈkredɪt | n. 赊购、赊欠、贷款、信誉、信用、学分； v. 存入金额、认为是...的功劳、把...归于 |
+| deposit | dɪˈpɑːzɪt | n. 订金、订钱、押金、存款； v. 放下、放置、使沉淀、将（钱）存入银行、存储 |
+| utmost | ˈʌtmoʊst | adj. 最大的、极度的； n. 最大量、最大限度、极限、最大可能 |
 
 ## 原文阅读
 
