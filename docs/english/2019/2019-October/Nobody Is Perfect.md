@@ -4,7 +4,7 @@
 ## 翻译
 A man and his girlfriend were getting married. It was a large celebration.
 
-The bride was gorgeous in her white wedding gown and the groom was very dashing in his black suit.
+The bride was `gorgeous` in her white wedding `gown` and the `groom` was very dashing in his black suit.
 
 Everyone could tell that the love they had for each other was true.
 
@@ -12,7 +12,7 @@ A few months later, the wife came to her husband with a proposal:
 
 "I read in a magazine, a while ago, about how we can strengthen our marriage," she offered.
 
-"Each of us will write a list of everything we find a bit annoying about the other person. Then, we can talk about how we can change these annoying things and make our life together happier."
+"Each of us will write a list of everything we find a bit `annoying` about the other person. Then, we can talk about how we can change these annoying things and make our life together happier."
 
 The husband agreed, so each of them went to a separate room in the house and thought of the things that annoyed them about the other.
 
@@ -30,9 +30,9 @@ As she started reading the list to her husband, she noticed that tears were star
 
 She neatly placed her list on the table and folded her hands on top of it.
 
-"Now, you read your list and then we can talk about everything on out lists." She said happily.
+"Now, you read your list and then we can talk about everything on our lists." She said happily.
 
-Quietly the husband stated:"I don't have anything on my list. I think you are perfect the way that you are. You are lovely and wonderful and I wouldn't  ant to change anything about you."
+Quietly the husband stated:"I don't have anything on my list. I think you are perfect the way that you are. You are lovely and wonderful and I wouldn't want to change anything about you."
 
 The wife, touched by his honesty, the depth of his love for her and his acceptance of her, turned her head and wept.
 
@@ -43,7 +43,10 @@ Nothing is perfect. However, we can find perfectness in everything by changing t
 ## 生词统计
 | 单词 | 音标 | 翻译 |
 | - | - | - |
-|  |  |  |
+| gorgeous | ˈɡɔːrdʒəs | adj. 非常漂亮的、美丽动人的、令人愉快的、绚丽的、灿烂的、华丽的 |
+| gown | ɡaʊn | n. 女裙、女长裙、女礼服； v. 给...穿宽大的长袍、使穿睡衣 |
+| groom | ɡruːm | n. 新郎、马夫； v. 修整、装扮、照料 |
+| annoy | əˈnɔɪ | v. 使恼怒、使生气、打扰、骚扰 |
 
 ## 原文阅读
 A man and his girlfriend were getting married. It was large celebration.
