@@ -22,6 +22,8 @@
       @pause="onPause"
       @timeupdate="audioUpdate"
       :src="src"
+      @ended="playEnded"
+      :autoplay="autoplay"
     >
     </audio>
     <div
@@ -75,6 +77,10 @@ export default {
     src: {
       type: String,
       default: ''
+    },
+    playNext: {
+      type: Boolean,
+      default: false
     }
   },
   data() {
@@ -92,13 +98,18 @@ export default {
       playedTime: 0,
       //播放速度
       audioSpeed: audioSpeed,
-      currentSpeed: 2
+      currentSpeed: 2,
+      autoplay: false
     }
   },
   watch: {
     src(newValue, oldValue) {
       this.playState = false
+      this.autoplay = true
     }
+  },
+  mounted() {
+    console.log(this.src);
   },
   methods: {
     //音频加载成功
@@ -146,6 +157,11 @@ export default {
         this.currentSpeed = 0
       }
       this.$refs.audio.playbackRate = this.audioSpeed[this.currentSpeed]
+    },
+    playEnded() {
+      if (this.playNext) {
+        this.$emit('changSrc', true)
+      }
     }
   },
 };

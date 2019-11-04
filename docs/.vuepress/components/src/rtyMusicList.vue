@@ -1,19 +1,21 @@
 <template>
   <div class="play-case">
-    <div
+    <!-- <div
       class="btn"
       @click="getRandomArticle"
     >随便来一篇</div>
-    <div>
-      <div class="intro">
-        <div>{{randomArticle.title}}</div>
-        <div>{{randomArticle.subhead}}</div>
-      </div>
-      <rty-audio
-        v-if="randomArticle"
-        :src="randomArticle.src"
-      ></rty-audio>
+    <div> -->
+    <div class="intro">
+      <div>{{randomArticle.title}}</div>
+      <div class="sub">{{randomArticle.subhead}}</div>
     </div>
+    <rty-audio
+      :src="randomArticle.src"
+      :playNext="playNext"
+      v-if="randomArticle.src"
+      @changSrc="changSrc"
+    ></rty-audio>
+    <!-- </div> -->
   </div>
 </template>
 
@@ -27,10 +29,12 @@ export default {
     return {
       playList: [],
       randomArticle: '',
+      playNext: true
     }
   },
   mounted() {
     this.getAllPlayList(musicList)
+    // console.log(this.playList)
   },
   methods: {
     getAllPlayList(arr) {
@@ -41,14 +45,50 @@ export default {
           })
         })
       })
+      this.getRandomArticle()
     },
     getRandomArticle() {
       let ind = Math.floor(Math.random() * this.playList.length)
       this.randomArticle = this.playList[ind]
+    },
+    changSrc() {
+      this.getRandomArticle()
     }
   },
 }
 let musicList = [
+  {
+    title: 'muisc',
+    children: [
+      {
+        title: 'Coldplay',
+        subhead: 'Coldplay',
+        children: [
+          {
+            title: 'Something Just Like This',
+            subhead: 'Coldplay',
+            src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Something%20Just%20Like%20This.mp3'
+          },
+          {
+            title: 'Viva La Vida',
+            subhead: 'Coldplay',
+            src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Viva%20La%20Vida.mp3'
+          }
+        ]
+      },
+      {
+        title: 'Chris Medina',
+        subhead: 'Chris Medina',
+        children: [
+          {
+            title: 'What Are Words',
+            subhead: '--',
+            src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Chris%20Medina/What%20Are%20Words.mp3'
+          }
+        ]
+      }
+    ]
+  },
   {
     title: 2018,
     children: [
@@ -295,6 +335,13 @@ let musicList = [
     background: #3eaf7c;
     color: #fff;
     border-radius: 4px;
+  }
+  .intro {
+    font-weight: bold;
+    .sub {
+      font-weight: normal;
+      margin: 5px 0;
+    }
   }
 }
 </style>
