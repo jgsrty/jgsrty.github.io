@@ -1,113 +1,113 @@
 # Something Just Like This
 ### 仅此而已
 
-I've been reading books of old
+#### I've been reading books of old
+我曾饱览古老的书籍
+#### The legends and the myths
+那些传说与神话
+#### `Achilles` and his gold
+阿喀琉斯和他的战利品
+#### `Hercules` and his gifts
+大力神与他的天赋
+#### Spiderman's control and Batman with his fists
+蜘蛛侠的控制力和蝙蝠侠的铁拳
+#### And clearly, I don't see myself upon that list
+显而易见我未能名列其中
+#### She said, "Where'd you wanna go?"
+她说，你想去何方？
+#### "How much you wanna risk?"
+你能承担多大的风险？
+#### I'm not looking for somebody with some superhuman gifts
+我并不渴望那些超人类的天赋
+#### Some superhero, some `fairytale` `bliss`
+那种超级英雄，那些童话般的天赐之福
+#### Just something I can turn to
+只是一些我力所能及的事情
+#### Somebody I can kiss
+吻到我爱的人就好
+#### I want something just like this
+我想要的不过是这些
+#### Doo doo doo, doo doo doo
 
-The legends and the myths
+#### Doo doo doo, doo doo
 
-`Achilles` and his gold
+#### Doo doo doo, doo doo doo
 
-`Hercules` and his gifts
+#### Oh, I want something just like this
 
-Spiderman's control and Batman with his fists
+#### Doo doo doo, doo doo doo
 
-And clearly, I don't see myself upon that list
+#### Doo doo doo, doo doo
 
-She said, "Where'd you wanna go?"
+#### Doo doo doo, doo doo doo
 
-"How much you wanna risk?"
+#### Oh, I want something just like this
 
-I'm not looking for somebody with some superhuman gifts
+#### I want something just like this
 
-Some superhero, some `fairytale` `bliss`
+#### I've been reading books of old
 
-Just something I can turn to
+#### The legends and myths
 
-Somebody I can kiss
+#### The `testament` they told
+他们所讲述的圣约
+#### The moon and its eclipse
+月亮的阴晴圆缺
+#### And Superman unrolls a suit before he lifts
+还有超人展示他飞天前的装束
+#### But I'm not the kind of person that it fits
+但我不是这样的英雄
+#### She said, "Where'd you wanna go?"
 
-I want something just like this
+#### "How much you wanna risk?"
 
-Doo doo doo, doo doo doo
+#### I'm not looking for somebody with some superhuman gifts
 
-Doo doo doo, doo doo
+#### Some superhero, some fairytale bliss
 
-Doo doo doo, doo doo doo
+#### Just something I can turn to 
 
-Oh, I want something just like this
+#### Somebody I can miss
+见到我爱的人
+#### I want something just like this
 
-Doo doo doo, doo doo doo
+#### I want something just like this
 
-Doo doo doo, doo doo
+#### Oh, I want something just like this
 
-Doo doo doo, doo doo doo
+#### Doo doo doo, doo doo doo
 
-Oh, I want something just like this
+#### Doo doo doo, doo doo
 
-I want something just like this
+#### Doo doo doo, doo doo doo
 
-I've been reading books of old
+#### Oh, I want something just like this
 
-The legends and myths
+#### Doo doo doo, doo doo doo
 
-The `ˈtestəmənt` they told
+#### Doo doo doo, doo doo
 
-The moon and its eclipse
+#### Doo doo doo, doo doo doo
 
-And Superman unrolls a suit before he lifts
+#### Where'd you wanna go?
 
-But I'm not the kind of person that it fits
+#### How much you wanna risk?
 
-She said, "Where'd you wanna go?"
+#### I'm not looking for somebody with some superhuman gifts
 
-"How much you wanna risk?"
+#### Some superhero, some fairytale bliss
 
-I'm not looking for somebody with some superhuman gifts
+#### Just something I can turn to 
 
-Some superhero, some fairytale bliss
+#### Somebody I can kiss
 
-Just something I can turn to 
+#### I want some thing just like this
 
-Somebody I can miss
+#### Oh, I want something just like this
 
-I want something just like this
+#### Oh, I want something just like this
 
-I want something just like this
-
-Oh, I want something just like this
-
-Doo doo doo, doo doo doo
-
-Doo doo doo, doo doo
-
-Doo doo doo, doo doo doo
-
-Oh, I want something just like this
-
-Doo doo doo, doo doo doo
-
-Doo doo doo, doo doo
-
-Doo doo doo, doo doo doo
-
-Where'd you wanna go?
-
-How much you wanna risk?
-
-I'm not looking for somebody with some superhuman gifts
-
-Some superhero, some fairytale bliss
-
-Just something I can turn to 
-
-Somebody I can kiss
-
-I want some thing just like this
-
-Oh, I want something just like this
-
-Oh, I want something just like this
-
-Oh, I want something just like this
+#### Oh, I want something just like this
 
 ## 翻译
 
