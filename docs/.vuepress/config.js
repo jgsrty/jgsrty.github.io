@@ -120,14 +120,18 @@ module.exports = {
         text: 'Music',
         link: '/music/introduction'
       },
+      {
+        text: '口语短文',
+        link: '/oral/introduction'
+      },
       // {
       //   text: 'VuePress',
       //   link: '/vuepress/introduction'
       // },
-      {
-        text: '前端开发',
-        link: 'https://rtyxmd.github.io/'
-      },
+      // {
+      //   text: '前端开发',
+      //   link: 'https://rtyxmd.github.io/'
+      // },
       {
         text: '了解更多',
         items: [
@@ -248,11 +252,14 @@ module.exports = {
           collapsable: false,
           children: genSidebarConfig('components/UI', true)
         }
-        // "进度条",
-        // {
-        //   title: '123',
-        //   children: genSidebarConfig("components/rtyProgress", true)
-        // }
+      ],
+      '/oral/': [
+        'introduction',
+        {
+          title: '英语口语短文',
+          collapsable: false,
+          children: genSidebarConfig('oral/essay', true)
+        }
       ]
     }
   },
