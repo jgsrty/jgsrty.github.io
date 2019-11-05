@@ -8,3 +8,6 @@
 |  |  |  |
 
 ## 原文阅读
+
+
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesoral/essay/Describe%20a%20type%20of%20transport%20you%20like%20the%20most.mp3'"></src-rtyAudio>

@@ -9,4 +9,6 @@
 |  |  |  |
 
 ## 原文阅读
-321321
+
+
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesoral/essay/Waht%20do%20you%20do%20to%20keep%20yourself%20healthy.mp3'"></src-rtyAudio>
