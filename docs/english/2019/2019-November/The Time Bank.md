@@ -1,5 +1,7 @@
 # 时间银行
 ### The Time Bank
+
+## 翻译
 #### There is a bank that `credits` your account each morning with ￥86,400. It carries over no balance from day to day.
 有一家银行，每天早上在你的账户里存入86,400元。每天都没有结余。
 #### Every evening deletes whatever part of the balance you failed to use during the day.
@@ -50,8 +52,6 @@
 明天是个谜。
 #### Today is a gift. That's why it's called -- present!
 今天是一份礼物。这就是为什么它被称作“现在”！
-
-## 翻译
 
 ## 生词统计
 | 单词 | 音标 | 翻译 |
