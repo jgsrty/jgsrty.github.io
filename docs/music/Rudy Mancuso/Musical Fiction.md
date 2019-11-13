@@ -16,13 +16,13 @@ His girlfriend just broke up with him that day
 
 So things were not okey
 
-So he got himself a Lyff without any hesitation
+So he got himself a Lyff without any `hesitation`
 
 Driver said, "Where are you going?"
 
 I don't have a destination
 
-He said "I know a nice bar that has great booze"
+He said "I know a nice bar that has great `booze`"
 
 Well I have nothing to lose
 
@@ -30,7 +30,7 @@ So he got out of the car and made his way inside the bar
 
 The driver out the window yelled "please give me five star"
 
-He then sat down to get a drink from the bartender by the sink
+He then sat down to get a drink from the `bartender` by the `sink`
 
 That's when he saw the very thing that changed his whole reality
 
@@ -103,11 +103,10 @@ But things will be okey
 ## 生词统计
 | 单词 | 音标 | 翻译 |
 | - | - | - |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| hesitation | ˌhezɪˈteɪʃn | n. 犹豫、疑虑、不情愿 |
+| booze | buːz | n. 酒精饮料； v. 喝酒、（尤指）狂饮 |
+| bartender | ˈbɑːrtendər | n. 酒吧招待 |
+| sink | sɪŋk | v. 下沉、下陷、沉没、倒下、坐下； n. 洗涤池、洗碗槽； adj. 位于社会条件差的贫穷地区的、贫民窟的 |
 
 ## Lyric 歌词
 
