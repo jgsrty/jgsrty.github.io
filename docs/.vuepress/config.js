@@ -235,6 +235,11 @@ module.exports = {
           title: 'Chris Medina',
           collapsable: true,
           children: genSidebarConfig('music/Chris Medina', true)
+        },
+        {
+          title: 'Rudy Mancuso',
+          collapsable: true,
+          children: genSidebarConfig('music/Rudy Mancuso', true)
         }
       ],
       '/vuepress/': [
