@@ -1,5 +1,7 @@
 # 生命的故事
 ### The Story of Life
+
+## 翻译
 Sometime people come into your life and you knew right away that they were meant to be there, so serve some sort of purpose, teach you a lesson, or to help you figure out who you are or who you want to become.
 
 You never know who thses people may be (possibly your roommate, neighbor, coworker, long lost friend, lover, or even a complete stranger), but when you lock eyes with them, you know at that very moment they will affect your life in some profound way.
@@ -39,8 +41,6 @@ Most importantly, if you love someone tell him or her, for you never know what t
 And learn a lesson in life each day that you live.
 
 That's the story of life.
-
-## 翻译
 
 ## 生词统计
 | 单词 | 音标 | 翻译 |
