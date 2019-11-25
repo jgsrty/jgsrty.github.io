@@ -1,5 +1,5 @@
 # Musical Fiction
-### 音乐小说
+### 音乐小说 -- Rudy Mancuso
 
 ## 翻译
 #### Alright, let's try

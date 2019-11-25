@@ -224,22 +224,30 @@ module.exports = {
           children: genSidebarConfig('english/2018/2018-October', false)
         }
       ],
+      // '/music/': [
+      //   'introduction',
+      //   {
+      //     title: 'Coldplay',
+      //     collapsable: false,
+      //     children: genSidebarConfig('music/Coldplay', true)
+      //   },
+      //   {
+      //     title: 'Chris Medina',
+      //     collapsable: true,
+      //     children: genSidebarConfig('music/Chris Medina', true)
+      //   },
+      //   {
+      //     title: 'Rudy Mancuso',
+      //     collapsable: true,
+      //     children: genSidebarConfig('music/Rudy Mancuso', true)
+      //   }
+      // ],
       '/music/': [
         'introduction',
         {
-          title: 'Coldplay',
+          title: 'Music Collection',
           collapsable: false,
-          children: genSidebarConfig('music/Coldplay', true)
-        },
-        {
-          title: 'Chris Medina',
-          collapsable: true,
-          children: genSidebarConfig('music/Chris Medina', true)
-        },
-        {
-          title: 'Rudy Mancuso',
-          collapsable: true,
-          children: genSidebarConfig('music/Rudy Mancuso', true)
+          children: genSidebarConfig('music/collection', true)
         }
       ],
       '/vuepress/': [

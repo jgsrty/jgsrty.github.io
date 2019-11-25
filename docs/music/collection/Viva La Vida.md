@@ -1,5 +1,5 @@
 # Viva La Vida
-### 生命万岁
+### 生命万岁 -- Coldplay
 
 ## 翻译
 #### I used to rule the world
