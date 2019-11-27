@@ -110,7 +110,7 @@ export default {
     }
   },
   mounted() {
-    console.log(this.src);
+    // console.log(this.src);
   },
   methods: {
     //音频加载成功
