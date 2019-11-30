@@ -1,5 +1,7 @@
 # Time
 ### 时间 -- MKJ
+
+## 翻译
 #### oney is not evil by itself
 钱本身无罪
 #### Its just paper with `perceived` value to `obtain` other things we value in other ways
