@@ -2,13 +2,13 @@
 ### How to Boost Your Confidence
 
 ## 翻译
-When faced with a big challenge where potential failure seems to lurk at every corner, maybe you've heard this advice before:"Be more confident."
+When faced with a big challenge where potential failure seems to `lurk` at every corner, maybe you've heard this advice before:"Be more confident."
 
 And most likely, this is what you think when you hear it:"If only it were that simple."
 
 But what is confidence?
 
-Take the belief that you are valuable, worthwhile, and capable, also known as self-esteem, add in the optimism that comes when you are certain of your abilities, and then empowered by these, act courageously to face a challenge head-on.
+Take the belief that you are valuable, worthwhile, and capable, also known as self-esteem, add in the `optimism` that comes when you are certain of your abilities, and then empowered by these, act courageously to face a challenge head-on.
 
 This is confidence. It turns thoughts into action.
 
@@ -16,13 +16,13 @@ So where dose confidence even come from?
 
 There are several factors that impact confidence.
 
-One: what you're born with, such as your genes, which will impact things like the balance of neurochemicals in your brain.
+One: what you're born with, such as your genes, which will impact things like the balance of `neurochemicals` in your brain.
 
 Two: how you're treated. This includes the social pressures of your enviroment.
 
 And three: the part you have control over, the choices you make, the risks you take, and how you think about and respond to challenges and setbacks.
 
-It isn't possible to completely untangle these three factors, but the personal choices we make certainly play a major role in confidence development.
+It isn't possible to completely `untangle` these three factors, but the personal choices we make certainly play a major role in confidence development.
 
 So, by keeping in mind a few practical tips, we do actually have the power to cultivate our own confidence.
 
@@ -75,9 +75,10 @@ This is confidence.
 ## 生词统计
 | 单词 | 音标 | 翻译 |
 | - | - | - |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| lurk | lɜːrk | n. 潜伏、潜藏、埋伏； v. 潜伏、埋伏 |
+| optimism | ˈɑːptɪmɪzəm | n. 乐观、乐观主义 |
+| neurochemical | njuərəu'kemikəl | n. 神经化学物质； adj. 神经化学的 |
+| tangle | ˈtæŋɡl | n. 缠结、混乱、纷乱、争吵； v. 纠缠在一起、乱作一团、处于混乱状态 |
 
 ## 原文阅读
 
