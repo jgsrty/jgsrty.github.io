@@ -329,6 +329,27 @@ let musicList = [
           },
         ]
       },
+      {
+        title: '十二月',
+        subhead: 'December',
+        children: [
+          {
+            title: '如果提高自信',
+            subhead: 'How to Boost Your Confidence',
+            src: 'https://rtyxmd.gitee.io/rtyresources2019/2019-December/How%20to%20Boost%20Your%20Confidence.mp3'
+          },
+          {
+            title: '燃烧我的卡路里',
+            subhead: 'What Is a Calorie',
+            src: 'https://rtyxmd.gitee.io/rtyresources2019/2019-December/What%20Is%20a%20Calorie.mp3'
+          },
+          {
+            title: '水为何如此重要',
+            subhead: 'Why Is Water so Important',
+            src: 'https://rtyxmd.gitee.io/rtyresources2019/2019-December/Why%20Is%20Water%20so%20Important.mp3'
+          }
+        ]
+      },
     ]
   }
 ]
