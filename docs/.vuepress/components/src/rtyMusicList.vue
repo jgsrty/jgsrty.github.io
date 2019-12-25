@@ -312,6 +312,21 @@ let musicList = [
             subhead: 'The Time Bank',
             src: 'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The Time Bank.mp3'
           },
+          {
+            title: '什么才是重要的',
+            subhead: 'What Will Matter',
+            src: 'https://rtyxmd.gitee.io/rtyresources2019/2019-November/What%20Will%20Matter.mp3'
+          },
+          {
+            title: '生命的故事',
+            subhead: 'The Story of Life',
+            src: 'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Story%20of%20LIfe.mp3'
+          },
+          {
+            title: '我们这个时代的悖论',
+            subhead: 'The Paradox of Our Time',
+            src: 'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Paradox%20of%20Our%20Time.mp3'
+          },
         ]
       },
     ]
