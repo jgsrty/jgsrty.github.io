@@ -16,7 +16,7 @@ The book turns out to be one that has appealed to the world for more than 350 ye
 
 That former prisoner was Cervantes, and the book was Don Quixote.
 
-And the sotry poses an interesting question: Why do some people discover new vitality and createivity to the end of their days, while others go to seed long before?
+And the sotry poses an interesting question: Why do some people discover new `vitality` and createivity to the end of their days, while others go to seed long before?
 
 We've all know people run out of steam before they reach life's halfway mark.
 
@@ -28,7 +28,7 @@ We succeed in our field of specialization and then become trapped in it. Nothing
 
 But, if we are willing to learn, the opportunities are everywhere.
 
-The things we learn in maturity seldom involve information and skills. We learn to bear with the things we can't change.
+The things we learn in `maturity` `seldom` involve information and skills. We learn to bear with the things we can't change.
 
 We learn to avoid self-pity. We learn that however much we try to please, some people are never going to love us -- an idea that troubles at first but is eventually relaxing.
 
@@ -47,8 +47,9 @@ They've learned life's most valuable lesson.
 ## 生词统计
 | 单词 | 音标 | 翻译 |
 | - | - | - |
-|  |  |  |
-|  |  |  |
+| vitality | vaɪˈtæləti | n. 活力、生命、生命力 |
+| mature | məˈtʊrəti | n. 成熟、到期、完备 |
+| seldom | ˈseldəm | adv. 很少、不常见 |
 
 ## 原文阅读
 
