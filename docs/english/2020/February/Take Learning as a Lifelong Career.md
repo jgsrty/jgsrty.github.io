@@ -3,29 +3,30 @@
 ### Take learning as a Lifelong Career
 
 ## 翻译
-As food is to the body, so is learning to the mind.
-
-Our bodies grow and muscles develop with the intake of `adequate` `nutritious` food.
-
-Likewise, we should keep learning day by day to maintain our `keen` mental power and expand our intellectual `capacity`.
-
-Constant learning supplies us with `inexhaustible` fuel for driving us to sharpen our power of reasoning, analysis, and judgment.
-
-Learning `incessantly` is the surest way to keep pace with the times in the information age, and an `infallible` `warrant` of success in times of uncertainty.
-
-Once learning stops, vegetation sets in.
-
-It is a common `fallacy` to regard school as the only workshop for the acquisition of knowledge.
-
-On the contrary, learning should be a never-ending process, from the `cradle` to the grave.
-
-With the world ever changing so fast, the cease from learning for just a few days will make a person lag behind.
-
-What's worse, the animalistic instinct `dormant` deep in our `subconsciousness` will come to life, weakening our will to pursue our noble ideal, sapping our determination to sweep away obstacles to our success and strangling for the `refinement` of our character.
-
-Lack of learning will `inevitably` lead to the `stagnation` of the mind, or even worse, its `fossilization`.
-
-Therefore, to stay mentally young, we have to take learning as a lifelong career.
+#### As food is to the body, so is learning to the mind.
+学习之于心灵，就想食物之于身体一样。
+#### Our bodies grow and muscles develop with the intake of `adequate` `nutritious` food.
+摄取了足够的营养，我们的身体得以成长，肌肉得以发达。
+#### Likewise, we should keep learning day by day to maintain our `keen` mental power and expand our intellectual `capacity`.
+同样的，我们应该日复一日的学习，以保持我们敏锐的心智能力，扩展我们的智力。
+#### Constant learning supplies us with `inexhaustible` fuel for driving us to sharpen our power of reasoning, analysis, and judgment.
+不断的学习为我们提供了用之不竭的燃料，来驱使我们磨砺我们的推理、分析和判断能力。
+#### Learning `incessantly` is the surest way to keep pace with the times in the information age, and an `infallible` `warrant` of success in times of uncertainty.
+持续的学习是在信息时代与时代并驾齐驱的最可靠的方法，也是变动的时代取得成功的保证。
+#### Once learning stops, vegetation sets in.
+一旦学习停滞，单调的生活就开始了。
+#### It is a common `fallacy` to regard school as the only workshop for the acquisition of knowledge.
+视学校为获取知识的唯一场所是一种常见的谬误。
+#### On the contrary, learning should be a never-ending process, from the `cradle` to the grave.
+相反，学习应该是一个永无止境的过程，从生到死。
+#### With the world ever changing so fast, the cease from learning for just a few days will make a person lag behind.
+随着变化如此之快的世界，只要停滞学习几天就会让一个人落后。
+#### What's worse, the animalistic instinct `dormant` deep in our `subconsciousness` will come to life, weakening our will to pursue our `noble` ideal, sapping our determination to sweep away obstacles to our success and strangling for the `refinement` of our character.
+更糟的是，蛰伏在我们潜意识深处的兽性本能就会复活，削弱我们追求高贵理想的意志，弱化我们扫除成功障碍的决心，扼杀我们净化人格的力量。
+#### Lack of learning will `inevitably` lead to the `stagnation` of the mind, or even worse, its `fossilization`.
+缺乏学习将不可避免的导致思维的停滞，甚至更糟，会僵化掉。
+#### Therefore, to stay mentally young, we have to take learning as a lifelong career.
+因此，保持心理年轻，我们必须把学习作为一生的事业。
 
 ## 生词统计
 | 单词 | 音标 | 翻译 |
@@ -64,9 +65,9 @@ Once learning stops, vegetation sets in.
 
 It is a common fallacy to regard school as the only workshop for the acquisition of knowledge.
 
-On the contrary, learning should be a never-ending process, from the cradle the the grave.
+On the contrary, learning should be a never-ending process, from the cradle to the grave.
 
-With the word ever changing so fast, the cease from learning for just a few days will make a person lag behind.
+With the world ever changing so fast, the cease from learning for just a few days will make a person lag behind.
 
 What's worse, the animalistic instinct dormant deep in our subconsciousness will come to life, weakening our will to pursue our noble ideal, sapping our determination to sweep away obstacles to our success and strangling for the refinement of our character.
 
