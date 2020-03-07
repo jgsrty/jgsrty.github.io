@@ -154,8 +154,13 @@ module.exports = {
       '/english/': [
         'introduction',
         {
-          title: '2020一月(January)',
+          title: '2020二月(Feruary)',
           collapsable: false,
+          children: genSidebarConfig('english/2020/February', false)
+        },
+        {
+          title: '2020一月(January)',
+          collapsable: true,
           children: genSidebarConfig('english/2020/January', false)
         },
         {
@@ -209,9 +214,9 @@ module.exports = {
           children: genSidebarConfig('english/2019/2019-March', false)
         },
         {
-          title: '2019年二月(Feburary)',
+          title: '2019年二月(February)',
           collapsable: true,
-          children: genSidebarConfig('english/2019/2019-Feburary', false)
+          children: genSidebarConfig('english/2019/2019-February', false)
         },
         {
           title: '2019年一月(January)',
