@@ -1,6 +1,9 @@
 # 读书的价值
 
 ### The Value of Reading
+
+## 翻译
+
 #### You do not need to read a book for the book's `sake`, but for your own.
 不能为了读书而读书，而是为你自己。
 #### You may read because in your high-pressure life, studded with problems and emergencies, you need `periods` of `relief` and yet recognize that peace of mind dose not mean `numbness` of mind.
@@ -32,7 +35,6 @@
 #### Some people act as if it were `demeaning` to them to wish to be well-read, but you can no more be a healthy person mentally without reading `substantial` books than you can be a vigorous person physically without eating solid food.
 有些人表现的好像博览群书是对他的贬低，但如果你没有阅读过大量书籍就无法成为精神上健康的人，就像你不吃食物就无法精力充沛一样。
 
-## 翻译
 
 ## 生词统计
 | 单词 | 音标 | 翻译 |

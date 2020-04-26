@@ -57,38 +57,38 @@ export default {
   },
 }
 let musicList = [
-  {
-    title: 'muisc',
-    children: [
-      {
-        title: 'Coldplay',
-        subhead: 'Coldplay',
-        children: [
-          {
-            title: 'Something Just Like This',
-            subhead: 'Coldplay',
-            src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Something%20Just%20Like%20This.mp3'
-          },
-          {
-            title: 'Viva La Vida',
-            subhead: 'Coldplay',
-            src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Viva%20La%20Vida.mp3'
-          }
-        ]
-      },
-      {
-        title: 'Chris Medina',
-        subhead: 'Chris Medina',
-        children: [
-          {
-            title: 'What Are Words',
-            subhead: '--',
-            src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Chris%20Medina/What%20Are%20Words.mp3'
-          }
-        ]
-      }
-    ]
-  },
+  // {
+  //   title: 'muisc',
+  //   children: [
+  //     {
+  //       title: 'Coldplay',
+  //       subhead: 'Coldplay',
+  //       children: [
+  //         {
+  //           title: 'Something Just Like This',
+  //           subhead: 'Coldplay',
+  //           src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Something%20Just%20Like%20This.mp3'
+  //         },
+  //         {
+  //           title: 'Viva La Vida',
+  //           subhead: 'Coldplay',
+  //           src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Viva%20La%20Vida.mp3'
+  //         }
+  //       ]
+  //     },
+  //     {
+  //       title: 'Chris Medina',
+  //       subhead: 'Chris Medina',
+  //       children: [
+  //         {
+  //           title: 'What Are Words',
+  //           subhead: '--',
+  //           src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Chris%20Medina/What%20Are%20Words.mp3'
+  //         }
+  //       ]
+  //     }
+  //   ]
+  // },
   {
     title: 2018,
     children: [
@@ -351,7 +351,76 @@ let musicList = [
         ]
       },
     ]
-  }
+  },
+  {
+    title: 2020,
+    children: [
+      {
+        title: '一月',
+        subhead: 'January',
+        children: [
+          {
+            title: '越来越多的人选择一个人吃饭',
+            subhead: 'More and More People Dine Alone',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/January/More%20and%20More%20People%20Dine%20Alone.mp3'
+          },
+          {
+            title: '学无止境',
+            subhead: 'So Much to Learn',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/January/So%20Much%20to%20Learn.mp3'
+          },
+          {
+            title: '你的成功始于此',
+            subhead: 'Your Success Starts Here',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/January/Your%20Success%20Starts%20Here.mp3'
+          }
+        ]
+      },
+      {
+        title: '二月',
+        subhead: 'February',
+        children: [
+          {
+            title: '将学习视为终身事业',
+            subhead: 'Take learning as a Lifelong Career',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/February/Take%20Learning%20as%20a%20Lifelong%20Career.mp3'
+          },
+          {
+            title: '读书的价值',
+            subhead: 'The Value of Reading',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/February/The%20Value%20of%20Reading.mp3'
+          },
+        ]
+      },
+      {
+        title: '三月',
+        subhead: 'March',
+        children: [
+          {
+            title: '我们需要朋友',
+            subhead: 'We Need Friends',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/March/We%20Need%20Friends.mp3'
+          },
+        ]
+      },
+      {
+        title: '四月',
+        subhead: 'April',
+        children: [
+          {
+            title: '学习不是一种经验',
+            subhead: 'Learning Is Not Experience',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Is%20Not%20Experience.mp3'
+          },
+          {
+            title: '全神贯注的观察',
+            subhead: 'Look with Intensity',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/April/Look%20with%20Intensity.mp3'
+          },
+        ]
+      }
+    ]
+  },
 ]
 </script>
 
