@@ -408,6 +408,11 @@ let musicList = [
         subhead: 'April',
         children: [
           {
+            title: '学无止境',
+            subhead: 'Learning Has No Past',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Is%20Not%20Experience.mp3'
+          },
+          {
             title: '学习不是一种经验',
             subhead: 'Learning Is Not Experience',
             src: 'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Is%20Not%20Experience.mp3'
