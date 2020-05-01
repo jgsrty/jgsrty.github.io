@@ -9,7 +9,7 @@ Knowledge and wisdom do not go together.
 
 Wisdom comes when there is the maturity of self-knowing.
 
-Without knowing oneself, order is not possible, and therefore there is no virtue.
+Without knowing oneself, order is not possible, and therefore there is no `virtue`.
 
 Now, learning about oneself, and accumulating knowledge about oneself, are two different things...
 
@@ -29,10 +29,8 @@ I have to know myself, the structure, the nature, the significance of the total 
 ## 生词统计
 | 单词 | 音标 | 翻译 |
 |-|-|-|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| virtue | ˈvɜːrtʃuː | n. 美德、优点、贞操、功效 |
+| entity | ˈentəti | n. 实体、存在、本质 |
 
 ## 原文阅读
 
