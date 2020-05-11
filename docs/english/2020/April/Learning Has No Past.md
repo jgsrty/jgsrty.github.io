@@ -21,7 +21,7 @@
 学习总是在当下；而不是过去。
 #### The moment you say to yourself, "I have learned," it has already become knowledge, and from the background of that knowledge you can accumulate, translate, but you cannot further learn.
 当你对自己说“我学过了”的时候，它已经变成了知识，而从这个知识背景中，你可以积累、转化，但你不能进一步学习。
-#### It is only a mind that is not acquiring, but always learning - it is only such a mind that can understand this whole entity that we call the "me," the self.
+#### It is only a mind that is not acquiring, but always learning - it is only such a mind that can understand this whole `entity` that we call the "me," the self.
 只有一颗不求得到，但总是学习的心，才能理解我们称之为“我”的独立存在体，我本身。
 #### I have to know myself, the structure, the nature, the significance of the total entity; but I can't do that burdened with my previous knowledge, with my previous experience, or with a mind that is conditioned, for then I am not learning, I am merely interpreting, translating, looking with an eye that is already clouded by the past.
 我必须了解自己，了解个体存在的构造、本质和意义；但我不能背负着以往的知识、经验以及调整好的思维方式，那样依赖我就不是在学习，而是在解释、翻译，用已经被过去蒙上了一层雾的眼睛在观察。
