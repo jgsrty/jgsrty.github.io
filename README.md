@@ -4,7 +4,7 @@
 
 > :heart: [国内访问地址 - 速度更快](https://rtyxmd.gitee.io/) :heart:
 
-#### 目录
+<!-- #### 目录
 > **2019年10月 October**
 >> [享受此刻的宁静](https://jgsrty.github.io/english/2019/2019-October/The%20Serenity%20of%20the%20Moment.html) -- [The Serenity of the Moment](https://jgsrty.github.io/english/2019/2019-October/The%20Serenity%20of%20the%20Moment.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
 >>
@@ -87,7 +87,7 @@
 >> [世界的不平等与复杂（二）](https://jgsrty.github.io/english/2018/2018-November/World%20Inequality%20and%20Complexity%202.html) -- [World Inequality and Complexity No.2](https://jgsrty.github.io/english/2018/2018-November/World%20Inequality%20and%20Complexity%202.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
 ****
 > **2018年10月 October**
->> [善良比聪慧更重要](https://jgsrty.github.io/english/2018/2018-October/Kindness%20is%20more%20important%20than%20Clever.html) -- [Kindness is more important than Clever](https://jgsrty.github.io/english/2018/2018-October/Kindness%20is%20more%20important%20than%20Clever.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB)
+>> [善良比聪慧更重要](https://jgsrty.github.io/english/2018/2018-October/Kindness%20is%20more%20important%20than%20Clever.html) -- [Kindness is more important than Clever](https://jgsrty.github.io/english/2018/2018-October/Kindness%20is%20more%20important%20than%20Clever.html#%E5%8E%9F%E6%96%87%E9%98%85%E8%AF%BB) -->
 
 
 #### 如何运行 - How to run
