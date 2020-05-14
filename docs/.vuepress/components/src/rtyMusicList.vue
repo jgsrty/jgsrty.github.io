@@ -423,6 +423,17 @@ let musicList = [
             src: 'https://rtyxmd.gitee.io/rtyresources2020/April/Look%20with%20Intensity.mp3'
           },
         ]
+      },
+      {
+        title: '五月',
+        subhead: 'May',
+        children: [
+          {
+            title: '留意身边美好事物',
+            subhead: 'Observe Beautiful Things',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/May/Observe%20Beautiful%20Things.mp3'
+          },
+        ]
       }
     ]
   },
