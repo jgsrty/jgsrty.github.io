@@ -433,6 +433,11 @@ let musicList = [
             subhead: 'Observe Beautiful Things',
             src: 'https://rtyxmd.gitee.io/rtyresources2020/May/Observe%20Beautiful%20Things.mp3'
           },
+          {
+            title: '微笑的价值',
+            subhead: 'The Value of a Smile',
+            src: 'https://rtyxmd.gitee.io/rtyresources2020/May/The%20Value%20of%20a%20Smile.mp3'
+          },
         ]
       }
     ]
