@@ -47,6 +47,30 @@
 | upheaval | ʌpˈhiːvl | n. 剧变、隆起、举起 |
 | serious | ˈsɪriəs | adj. 严肃的、严重的、认真的、庄重的 |
 
+### Part 2 翻译
+I've been building on the anthropology literature and have been talking about matrescence with my patients, using a concept called the "push and pull."
+
+Here's the pull part. So as humans, our babies are uniquely dependent. Unlike other animals, our babies can't walk, they can't feed themselves, they're very hard to take care of.
+
+So evolution has helped us out with this hormone called oxytocin. It's released around childbirth, and also during skin-to-skin touch, so it rises even if you didn't give birth to the baby.
+
+Oxytocin helps a huaman mother's brain zoom in, pulling her attention in, so that the baby is now at the center of her world. But at the same time, her mind is push away, because she remembers there are all these other parts to her identity -- other relationships, her work, hobbies, a spiritual and intellectual life, not to mention physical needs: to sleep, to eat, to exercise, to have sex, to go to the bathroom, alone -- if possible.
+
+This is the emotinal tug-of-war of matrescence. This is the tension the women calling me were feeling. It's why they thought they were sick.
+
+If women understood the natural progression of matrescence, if they knew that most people found it hard to live inside this push and pull, if they knew that under these circumstances, ambivalence was normal and nothing to be ashamed of, they would feel less alone, they would feel less stigmatized, and I think it would even reduce rates of postpartum depression.
+
+I'd love to study that one day. I'm a believer in talk therapy, so if we're going to chagne the way our culture understands this transition to motherhood, women need to be talking to each other, not just me.
+
+So mothers, talk about your matrescence, with other mothers, with your friends, and if you have one, with your partner, so that they can understand their own transition and better support you. But it's not just about protecting your relationship. When you preserve a separate part of your identity, you're also leaving room for your child to develop their own.
+
+When a baby is born, so is a mother, each unsteady in their own way. Matrescence is profound, but it's also hard, and that's what makes it human.
+
+### Part 2 生词统计
+| 单词 | 音标 | 翻译 |
+|-|-|-|
+|  |  |  |
+
 ## 原文阅读
 
 Do you remember a time when you felt hormonal and moody? You skin was breadking out, your body was growing in strange places and very fast, and at the same time, people were expecting you to be growing-up in this new way. Teenagers, right?
@@ -71,7 +95,7 @@ I've been building on the anthropology literature and have been talking about ma
 
 Here's the pull part. So as humans, our babies are uniquely dependent. Unlike other animals, our babies can't walk, they can't feed themselves, they're very hard to take care of. 
 
-So evolution has helped us out with this hormone called exytocin. It's released around childbirth, and also during skin-to-skin touch, so it rises even if you didn't give birth to the baby. 
+So evolution has helped us out with this hormone called oxytocin. It's released around childbirth, and also during skin-to-skin touch, so it rises even if you didn't give birth to the baby. 
 
 Oxytocin helps a human mother's brain zoom in, pulling her attention in, so that the baby is now at the center of her world. But at the same time, her mind is pushing away, because she remembers there are all these other parts to her indentity -- other relationships, her work, hobbies, a spiritual and intellectual life, not to mention physical needs: to sleep, to eat, to exercise, to have sex, to go to the bathroom, alone -- if possible.
 
@@ -81,6 +105,6 @@ If women understood the natural progression of matrescence, if they knew that mo
 
 I'd love to study that one day. I'm a believer in talk therapy, so if we're going to change the way our culture understands this transition to motherhood, women need to be talking to each other, not just me.
 
-So mothers, talk about your matrescence, with other mothers, with your friends, and if you have one, with your partner, so that they can understand their own transition and better support you. But it's not just about protecting your relationship. When you preserve a separate part of you identity, you're also leaving room for your child to develop their own. 
+So mothers, talk about your matrescence, with other mothers, with your friends, and if you have one, with your partner, so that they can understand their own transition and better support you. But it's not just about protecting your relationship. When you preserve a separate part of your identity, you're also leaving room for your child to develop their own. 
 
 When a baby is born, so is a mother, each unsteady in their own way. Matrescence is profound, but it's also hard, and that's what makes it human.
