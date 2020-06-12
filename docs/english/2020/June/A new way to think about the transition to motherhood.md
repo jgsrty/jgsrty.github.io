@@ -48,28 +48,35 @@
 | serious | ˈsɪriəs | adj. 严肃的、严重的、认真的、庄重的 |
 
 ### Part 2 翻译
-I've been building on the anthropology literature and have been talking about matrescence with my patients, using a concept called the "push and pull."
-
-Here's the pull part. So as humans, our babies are uniquely dependent. Unlike other animals, our babies can't walk, they can't feed themselves, they're very hard to take care of.
-
-So evolution has helped us out with this hormone called oxytocin. It's released around childbirth, and also during skin-to-skin touch, so it rises even if you didn't give birth to the baby.
-
-Oxytocin helps a huaman mother's brain zoom in, pulling her attention in, so that the baby is now at the center of her world. But at the same time, her mind is push away, because she remembers there are all these other parts to her identity -- other relationships, her work, hobbies, a spiritual and intellectual life, not to mention physical needs: to sleep, to eat, to exercise, to have sex, to go to the bathroom, alone -- if possible.
-
-This is the emotinal tug-of-war of matrescence. This is the tension the women calling me were feeling. It's why they thought they were sick.
-
-If women understood the natural progression of matrescence, if they knew that most people found it hard to live inside this push and pull, if they knew that under these circumstances, ambivalence was normal and nothing to be ashamed of, they would feel less alone, they would feel less stigmatized, and I think it would even reduce rates of postpartum depression.
-
-I'd love to study that one day. I'm a believer in talk therapy, so if we're going to chagne the way our culture understands this transition to motherhood, women need to be talking to each other, not just me.
-
-So mothers, talk about your matrescence, with other mothers, with your friends, and if you have one, with your partner, so that they can understand their own transition and better support you. But it's not just about protecting your relationship. When you preserve a separate part of your identity, you're also leaving room for your child to develop their own.
-
-When a baby is born, so is a mother, each unsteady in their own way. Matrescence is profound, but it's also hard, and that's what makes it human.
+#### I've been building on the anthropology literature and have been talking about matrescence with my patients, using a concept called the "push and pull."
+我一直在人类学文献的基础上，使用“推和拉”的概念，和病人谈关于孕乳期的问题。
+#### Here's the pull part. So as humans, our babies are uniquely dependent. Unlike other animals, our babies can't walk, they can't feed themselves, they're very hard to take care of.
+“拉”的部分是这样的：我们人类的婴儿特别依赖他人。和其他物种不同的是，我们的婴儿不会走路、不能自己吃饭，照顾他们特别费心。
+#### So evolution has helped us out with this hormone called `oxytocin`. It's released around childbirth, and also during skin-to-skin touch, so it rises even if you didn't give birth to the baby.
+所以进化过程中出现了一种叫催产素的激素来帮助我们解决这个难题。分娩时，身体会释放催产素，（与婴儿）身体接触时也会释放催产素。所以，即使你没在生孩子，身体也会分泌催产素。
+#### Oxytocin helps a huaman mother's brain zoom in, pulling her attention in, so that the baby is now at the center of her world. But at the same time, her mind is push away, because she remembers there are all these other parts to her identity -- other relationships, her work, hobbies, a `spiritual` and `intellectual` life, not to mention physical needs: to sleep, to eat, to exercise, to have sex, to go to the bathroom, alone -- if possible.
+催产素帮助人类母亲的大脑集中精力、把她的注意力“拉”过来，让宝宝成为她当下世界的中心。但与此同时，理智把她从宝宝身上“推”开，因为她想起来自己还有其他的身份——其他各种关系，工作、爱好、精神和知性生活，更不必说生理需要了：睡觉、吃饭、运动、有性生活、去洗手间，一个人做以上的事情，如果可能的话。
+#### This is the emotinal tug-of-war of matrescence. This is the `tension` the women calling me were feeling. It's why they thought they were sick.
+这就是孕乳期的情感纠葛，这就是给我打电话的女士们所感受到的不安，这就是为什么她们认为自己生病了。
+#### If women understood the natural progression of matrescence, if they knew that most people found it hard to live inside this push and pull, if they knew that under these circumstances, `ambivalence` was normal and nothing to be ashamed of, they would feel less alone, they would feel less `stigmatized`, and I think it would even reduce rates of postpartum depression.
+如果女性们已经知晓了孕乳期的自然发展过程，如果她们知道大多数人很难在这种“推和拉”的矛盾中生活，如果她们已然知晓：在这种情况下，矛盾心理是正常的，没什么可感到羞愧的。她们就不会那么孤单无助，也会少一些自责，我认为做到这一点甚至会降低产后抑郁症的发病率。
+#### I'd love to study that one day. I'm a believer in talk `therapy`, so if we're going to chagne the way our culture understands this transition to motherhood, women need to be talking to each other, not just me.
+我很乐意有一天能研究这个课题。我信奉话聊治疗法，所以如果我们要改变我们的文化中对女人转变为母亲的看法，女人们需要相互交谈，而不仅仅是与我交流。
+#### So mothers, talk about your matrescence, with other mothers, with your friends, and if you have one, with your partner, so that they can understand their own transition and better support you. But it's not just about protecting your relationship. When you preserve a separate part of your identity, you're also leaving room for your child to develop their own.
+所以妈妈们，跟其他母亲谈论你的孕乳期感受吧，也可以和朋友交流，如果有条件的话，也要和伴侣交流自己的感受，这样他们也能知晓自己的角色转变，从而更支持你。但这不仅仅是为了保护你和周围人的关系，当你保留你身份中独立部分的同时，你也为孩子留出了自我发展的空间。
+#### When a baby is born, so is a mother, each unsteady in their own way. Matrescence is profound, but it's also hard, and that's what makes it human.
+当婴儿降临时，母亲也会获得新生，母子二人都踉跄着探索自己脚下的路，孕乳期意义深远，但也很艰难，也正是这一点造就了人类。
 
 ### Part 2 生词统计
 | 单词 | 音标 | 翻译 |
 |-|-|-|
-|  |  |  |
+| oxytocin | ,ɒksɪ'təʊsɪn | n. [药]催产素、缩宫素、脑下垂体后叶荷尔蒙 |
+| spirit | ˈspɪrɪt | n. 精神、心灵、情绪、志气、烈酒； v. 鼓励、鼓舞、诱拐 |
+| intellect | ˈɪntəlekt | n. 智力、理解力、知识分子、智力高的人 |
+| tension | ˈtenʃn | n. 张力、拉力、紧张、不安、电压 |
+| ambivalent | æmˈbɪvələnt | adj. 矛盾的、好恶相克的 |
+| stigmatize | ˈstɪɡmətaɪz | v. 污蔑、玷污、给...打上烙印 |
+| therapy | ˈθerəpi | n. 治疗、疗法 |
 
 ## 原文阅读
 
@@ -108,3 +115,5 @@ I'd love to study that one day. I'm a believer in talk therapy, so if we're goin
 So mothers, talk about your matrescence, with other mothers, with your friends, and if you have one, with your partner, so that they can understand their own transition and better support you. But it's not just about protecting your relationship. When you preserve a separate part of your identity, you're also leaving room for your child to develop their own. 
 
 When a baby is born, so is a mother, each unsteady in their own way. Matrescence is profound, but it's also hard, and that's what makes it human.
+
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rty-ted-study/audio/A%20new%20way%20to%20think%20about%20the%20transition%20to%20motherhood.mp3'"></src-rtyAudio>
