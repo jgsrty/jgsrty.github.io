@@ -52,39 +52,43 @@
 | contagious | kənˈteɪdʒəs | adj. 感染性的、会蔓延的 |
 
 ### Part 2 翻译
-So next time, we might not be so lucky. You can have a virus where people feel well enough while they're infectious, that they get on a planu or they go to a market. The source of the virus could be a nature epidemic like Ebola, or it could be a bioterrorism.
-
-So there are things that would literally make things a thousand times worse. In fact let's look at the model of a virus spread through the air, like the Spanish flu back in 1918. So here's what would happen: It would spread throughout the world very, very quickly. And you can see over 30 million people died from that epidemic. So this is a serious problem. We should be concerned.
-
-But in fact, we can build a really good response system. We have the benefits of all the science and technology that we talk about here. We've got cell phones to get information from the public and get information out to them. We have satellite maps where we can see where people are and where they're moving. We have advances in biology, that should dramatically change the turnaround time to look at a pathogen and be able to make drugs and vaccines that fit for that pathogen.
-
-So we can have tools, but those tools need to be put into an overall global health system. And we need preparedness.
-
-The best lessons, I think, on how to get prepared are again, what we do for war. For soldiers, we have full-time, waiting to go. We have reserves that can scale us up to large numbers. NATO has a mobile nuit that can deploy very rapidly. NATO does a lot of war games to check, are people well trained? Do they understand about fuel and logistics and the same radio frequencies? So they are absolutely ready to go.
-
-So there are the kinds of thins we need to deal with an epidemic. What are the key pieces?
-
-First, we need strong health systems in poor countries. That's where mothers can give birth safely, kids can get all their vaccines. But, also where we'll see the outbreak very early on. We need a medical reserve corps: lots of people who've got the training and background who are ready to go, with the expertise.
-
-And then we need to pair those medical people with the military, taking advantage of the military's ability to move fast, do logistics and secure area.
-
-We need to do simulations, germ games, not war games, so that we see where the holes are. The last time a germ game was done in the United States was back in 2001, and it didn't go so well. So far the score is germs: 1, people:0.
-
-Finally, we need lots of advanced R&D in area of vaccines and diagnostics. There are some big breakthroughs, like the Adeno-associated virus, that could work very, very quickly.
-
-Now I don't have an exact budget for what this would cost, but I'm quite sure it's very modest compared to the potential harm. The World Bank estimates that if we have a worldwide flu epidemic, global wealth will go down by over three trillion dollars and we'd have millions and millions of deaths.
-
-These investments offer significant benefits beyond just being ready for the epidemic. The primary healthcare, the R&D, those things would reduce global health equity and make the world more just as well as more safe.
-
-So I think this should absolutely be a priority. There's no need to panic. We don't have to hoard cans of spaghetti or go down into the basement. But we need to get going, because time is not on our side. In fact, if there's one positive thing that can come out of the Ebola epidemic, it's that it can serve as an early warning, a wake-up call, to get ready. If we start now, we can be ready for the next epidemic.
+#### So next time, we might not be so lucky. You can have a virus where people feel well enough while they're infectious, that they get on a plane or they go to a market. The source of the virus could be a nature epidemic like Ebola, or it could be a `bioterrorism`.
+所以下一次我们可能不会这么幸运了。有的人感染了病毒，本人却没事，感觉不到任何不适，他们会乘飞机或逛商场。此外病毒的来源可以是天然的，像埃博拉，或者由生物恐怖主义产生。
+#### So there are things that would literally make things a thousand times worse. In fact let's look at the model of a virus spread through the air, like the Spanish flu back in 1918. So here's what would happen: It would spread throughout the world very, very quickly. And you can see over 30 million people died from that epidemic. So this is a serious problem. We should be concerned.
+所以能让疫情严重上千倍的病毒是存在的。事实上，让我们来看看一个由空气传播的病毒模型，像1918年的西班牙流感。疫情有可能这样发展：病毒会以很快的速度向全世界蔓延。你可以看到全球有三千万人死于这次疫情。所以这是个严重的问题，我们绝不应该忽视。
+#### But in fact, we can build a really good response system. We have the benefits of all the science and technology that we talk about here. We've got cell phones to get information from the public and get information out to them. We have `satellite` maps where we can see where people are and where they're moving. We have advances in `biology`, that should dramatically change the turnaround time to look at a `pathogen` and be able to make drugs and vaccines that fit for that pathogen.
+但事实上我们可以建立一个很好的反应系统。我们可以利用所有发展至今的科学和科技。我们可以用手机来手机信息和发布信息。我们有卫星地图可以看到人们在哪里并往哪里移动。我们在生物学上也有进展，这可以大幅缩减我们找到病原的时间，并可以在短时间内制作出解药或疫苗。
+#### So we can have tools, but those tools need to be put into an overall global health system. And we need preparedness.
+所以我们是有工具的，但这些工具必须整合在一个全球健康系统下。此外我们必须处于准备好的状态。
+#### The best lessons, I think, on how to get prepared are again, what we do for war. For soldiers, we have full-time, waiting to go. We have reserves that can scale us up to large numbers. NATO has a mobile unit that can deploy very rapidly. NATO does a lot of war games to check, are people well trained? Do they understand about fuel and logistics and the same radio frequencies? So they are absolutely ready to go.
+而我们如何做好准备，最好的例子来自于备战。对军人来说，他们是随时随地都准备好要投入战争的。我们还有预备军人，能使备战人口大量增加。北约组织有个机动小组，可以很快地行动起来。北约组织有很多战争游戏用来测试他们是否训练有素，他们是否了解燃油、补给，和同种音频轨迹。所以他们已经准备好了。
+#### So those are the kinds of thins we need to deal with an epidemic. What are the key pieces?
+这些就是面对疫情我们该准备的事，关键点有哪些呢？
+#### First, we need strong health systems in poor countries. That's where mothers can give birth safely, kids can get all their vaccines. But, also where we'll see the outbreak very early on. We need a medical reserve corps: lots of people who've got the training and background who are ready to go, with the expertise.
+第一，在贫穷的国家必须有发达的卫生系统。母亲可以安全的生孩子，孩子们可以接种疫苗。我们也可以在很早的阶段侦察到疫情的爆发。我们需要一个医疗储备部队，一些训练有素的专业人士，随时准备好能带着他们的专长到疫区。
+#### And then we need to pair those medical people with the military, taking advantage of the military's ability to move fast, do logistics and secure area.
+我们可以用军队来配合医护人员，利用军队移动迅速的特性，来进行后勤运输和维护治安。
+#### We need to do simulations, `germ` games, not war games, so that we see where the holes are. The last time a germ game was done in the United States was back in 2001, and it didn't go so well. So far the score is germs: 1, people:0.
+我们也需要进行一些情景模拟，不是战争游戏而是病毒游戏，看看防卫工作存在哪些漏洞。上一次病毒游戏实在美国进行的，那是2001年，进行的也不是很顺利，结果是病毒得一分，人类零分。
+#### Finally, we need lots of advanced R&D in area of vaccines and diagnostics. There are some big breakthroughs, like the Adeno-associated virus, that could work very, very quickly.
+最后我们在疫苗和临床诊断上还需要很多的研发工作。在某些方面，例如腺相关病毒上，我们已经有了相当大的突破，可以在很短的时间内起效。
+#### Now I don't have an exact budget for what this would cost, but I'm quite sure it's very modest compared to the potential harm. The World Bank estimates that if we have a worldwide flu epidemic, global wealth will go down by over three trillion dollars and we'd have millions and millions of deaths.
+我目前没有明确的预算这到底需要花费多少钱，但是我确信跟损失比起来是很值得的。根据世界银行的估算，如果我们有流感的疫情爆发，全球经济会损失三万亿美元。我们会有千百万人死亡。
+#### These investments offer significant benefits beyond just being ready for the epidemic. The primary healthcare, the R&D, those things would reduce global health equity and make the world more just as well as more safe.
+这方面的投资会带来比为疫情备战更多的好处。基础医疗保健，研发，可以促进全球健康的平衡发展，让世界更健康更安全。
+#### So I think this should absolutely be a priority. There's no need to panic. We don't have to `hoard` cans of spaghetti or go down into the basement. But we need to get going, because time is not on our side. In fact, if there's one positive thing that can come out of the Ebola epidemic, it's that it can serve as an early warning, a wake-up call, to get ready. If we start now, we can be ready for the next epidemic.
+所以我觉得这非常重要，刻不容缓。不必恐慌，我们不需要囤积意面罐头或是躲到地下室去，但我们必须立即行动起来，因为时间有限。事实上，要说这场埃博拉病毒的疫情带来了什么正面影响的话，那就是提早响起了警钟，让我们觉醒并做好准备。如果我们即刻开始准备，那么在下一场疫情来临前我们是可以准备好的。
 
 ### Part 2 生词统计
 
 | 单词 | 音标 | 翻译 |
 |-|-|-|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| bioterrorism | ,baɪo'tɛrə,rɪzəm | n. 生物恐怖主义 |
+| satellite | ˈsætəlaɪt | n. 卫星、人造卫星； adj. 卫星的 |
+| biology | baɪˈɑːlədʒi | n. 生物、生物学 |
+| pathogen | ˈpæθədʒən | n. 病原体、病菌 |
+| germ | dʒɜːrm | n. 胚芽、萌芽、细菌； v. 萌芽 |
+| hoard | hɔːrd | n. 贮存、秘藏、古代宝库、情报； v. 贮藏、积敛；储存 |
 
 ## 原文阅读
 
