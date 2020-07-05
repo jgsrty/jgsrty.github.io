@@ -170,4 +170,4 @@ You look so beautiful in white Tonight
 
 So beautiful in white Tonight
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Shane%20Filan/Beautiful%20In%20White.mp3'"></src-rtyAudio>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Beautiful%20In%20White.mp3'"></src-rtyAudio>

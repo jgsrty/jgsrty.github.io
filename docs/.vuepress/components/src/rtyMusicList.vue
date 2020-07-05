@@ -57,38 +57,6 @@ export default {
   },
 }
 let musicList = [
-  // {
-  //   title: 'muisc',
-  //   children: [
-  //     {
-  //       title: 'Coldplay',
-  //       subhead: 'Coldplay',
-  //       children: [
-  //         {
-  //           title: 'Something Just Like This',
-  //           subhead: 'Coldplay',
-  //           src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Something%20Just%20Like%20This.mp3'
-  //         },
-  //         {
-  //           title: 'Viva La Vida',
-  //           subhead: 'Coldplay',
-  //           src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Coldplay/Viva%20La%20Vida.mp3'
-  //         }
-  //       ]
-  //     },
-  //     {
-  //       title: 'Chris Medina',
-  //       subhead: 'Chris Medina',
-  //       children: [
-  //         {
-  //           title: 'What Are Words',
-  //           subhead: '--',
-  //           src: 'https://rtyxmd.gitee.io/rtyresourcesmusic/Chris%20Medina/What%20Are%20Words.mp3'
-  //         }
-  //       ]
-  //     }
-  //   ]
-  // },
   {
     title: 2018,
     children: [

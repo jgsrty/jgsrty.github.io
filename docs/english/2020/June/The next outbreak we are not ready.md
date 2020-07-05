@@ -148,4 +148,4 @@ These investments offer significant benefits beyond just being ready for the epi
 
 So I think this should absolutely be a priority. There's no need to panic. We don't have to hoard cans of spaghetti or go down into the basement. But we need to get going, because time is not on our side. In fact, if there's one positive thing that can come out of the Ebola epidemic, it's that it can serve as an early warning, a wake-up call, to get ready. If we start now, we can be ready for the next epidemic.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rty-ted-study/audio/The%20next%20outbreak%20we%20are%20not%20ready.mp3'"></src-rtyAudio>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/June/The%20next%20outbreak%20we%20are%20not%20ready.mp3'"></src-rtyAudio>
