@@ -115,7 +115,20 @@ $ npm run sh
 ```
 
 ```
+# 中文标题
+
+### english title
+
+>来源：[https://www.youtube.com/teded/featured](https://www.youtube.com/teded/featured)
+
+## 翻译
+
+## 生词统计
 | 单词 | 音标 | 翻译 |
 |-|-|-|
 |  |  |  |
+
+## 原文阅读
+
+<src-rtyAudio :src=""></src-rtyAudio>
 ```

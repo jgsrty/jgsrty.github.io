@@ -2,6 +2,7 @@
 
 ### Real Change Starts From The Inside
 
+## 翻译
 #### There is only one person who is capable to set limits to your growth: it is you.
 只有一个人能限制你的成长，那就是你自己。
 #### You are the only person who can revolutionize your life.
@@ -24,8 +25,6 @@
 如果一个鸡蛋被从外部打破，生命就结束了。如果一个鸡蛋从内部开始打破，那代表新生和开始。
 #### Great things always begin from our inside as it's the way you face life that makes the difference!
 伟大的事情总是从内心开始，因为你面对生活的方式与众不同！
-
-## 翻译
 
 ## 生词统计 
 | 单词 | 音标 | 翻译 |
