@@ -38,4 +38,4 @@ The body responds to the demands you place on it. If you tear your muscles up, e
 
 ## 翻译
 
-<src-rtyAudio :src=""></src-rtyAudio>
+<src-rtyAudio src="https://rtyxmd.gitee.io/rtyresources2020/August/What%20makes%20muscles%20grow.mp3"></src-rtyAudio>
