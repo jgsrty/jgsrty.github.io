@@ -50,9 +50,9 @@ export default {
     getRandomArticle() {
       let ind = Math.floor(Math.random() * this.playList.length)
       this.randomArticle = this.playList[ind]
-      console.log(this.playList)
-      console.log(this.randomArticle)
-      console.log(ind)
+      // console.log(this.playList)
+      // console.log(this.randomArticle)
+      // console.log(ind)
     },
     changSrc() {
       this.getRandomArticle()

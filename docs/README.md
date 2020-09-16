@@ -13,3 +13,4 @@ actionLink: /english/introduction
 footer: MIT Licensed | Copyright © 8102-present Evan You
 ---
 <src-rtyMusicList></src-rtyMusicList>
+<src-nintendoPoint></src-nintendoPoint>
