@@ -154,8 +154,13 @@ module.exports = {
       '/english/': [
         'introduction',
         {
-          title: '2020十月(October)',
+          title: '2020十一月(November)',
           collapsable: false,
+          children: genSidebarConfig('english/2020/November', false)
+        },
+        {
+          title: '2020十月(October)',
+          collapsable: true,
           children: genSidebarConfig('english/2020/October', false)
         },
         {
