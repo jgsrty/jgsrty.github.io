@@ -1,5 +1,11 @@
 const path = require('path')
 const fs = require('fs')
+const route2018 = require('./routes/2018.js')
+const route2019 = require('./routes/2019.js')
+const route2020 = require('./routes/2020.js')
+const route2021 = require('./routes/2021.js')
+let englishFiles = ['introduction']
+englishFiles = englishFiles.concat(route2021, route2020, route2019, route2018)
 module.exports = {
   // plugins: {
   //   robots: {
@@ -42,34 +48,34 @@ module.exports = {
     //   }
     // ]
     //Google Analytics
-    [
-      'script',
-      {
-        async: 'async',
-        src: 'https://www.googletagmanager.com/gtag/js?id=UA-145250139-1'
-      }
-    ],
-    [
-      'script',
-      {},
-      `window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-    
-      gtag('config', 'UA-145250139-1');`
-    ],
+    // [
+    //   'script',
+    //   {
+    //     async: 'async',
+    //     src: 'https://www.googletagmanager.com/gtag/js?id=UA-145250139-1'
+    //   }
+    // ],
+    // [
+    //   'script',
+    //   {},
+    //   `window.dataLayer = window.dataLayer || [];
+    //   function gtag(){dataLayer.push(arguments);}
+    //   gtag('js', new Date());
+
+    //   gtag('config', 'UA-145250139-1');`
+    // ],
     //百度统计
-    [
-      'script',
-      {},
-      `var _hmt = _hmt || [];
-      (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?96bef00c01d8ee7ee249abc380b9e5ab";
-        var s = document.getElementsByTagName("script")[0]; 
-        s.parentNode.insertBefore(hm, s);
-      })();`
-    ]
+    // [
+    //   'script',
+    //   {},
+    //   `var _hmt = _hmt || [];
+    //   (function() {
+    //     var hm = document.createElement("script");
+    //     hm.src = "https://hm.baidu.com/hm.js?96bef00c01d8ee7ee249abc380b9e5ab";
+    //     var s = document.getElementsByTagName("script")[0]; 
+    //     s.parentNode.insertBefore(hm, s);
+    //   })();`
+    // ]
     // googleAdSense
     // [
     //   "script",
@@ -151,144 +157,7 @@ module.exports = {
       // }
     ],
     sidebar: {
-      '/english/': [
-        'introduction',
-        {
-          title: '2020十二月(December)',
-          collapsable: false,
-          children: genSidebarConfig('english/2020/December', false)
-        },
-        {
-          title: '2020十一月(November)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/November', false)
-        },
-        {
-          title: '2020十月(October)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/October', false)
-        },
-        {
-          title: '2020九月(September)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/September', false)
-        },
-        {
-          title: '2020八月(August)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/August', false)
-        },
-        {
-          title: '2020七月(July)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/July', false)
-        },
-        {
-          title: '2020六月(June)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/June', false)
-        },
-        {
-          title: '2020五月(May)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/May', false)
-        },
-        {
-          title: '2020四月(April)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/April', false)
-        },
-        {
-          title: '2020三月(March)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/March', false)
-        },
-        {
-          title: '2020二月(Feruary)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/February', false)
-        },
-        {
-          title: '2020一月(January)',
-          collapsable: true,
-          children: genSidebarConfig('english/2020/January', false)
-        },
-        {
-          title: '2019十二月(December)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-December', false)
-        },
-        {
-          title: '2019十一月(November)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-November', false)
-        },
-        {
-          title: '2019十月(October)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-October', false)
-        },
-        {
-          title: '2019九月(September)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-September', false)
-        },
-        {
-          title: '2019八月(August)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-August', false)
-        },
-        {
-          title: '2019七月(July)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-July', false)
-        },
-        {
-          title: '2019六月(June)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-June', false)
-        },
-        {
-          title: '2019年五月(May)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-May', false)
-        },
-        {
-          title: '2019年四月(April)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-April', false)
-        },
-        {
-          title: '2019年三月(March)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-March', false)
-        },
-        {
-          title: '2019年二月(February)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-February', false)
-        },
-        {
-          title: '2019年一月(January)',
-          collapsable: true,
-          children: genSidebarConfig('english/2019/2019-January', false)
-        },
-        {
-          title: '2018年十二月(December)',
-          collapsable: true,
-          children: genSidebarConfig('english/2018/2018-December', false)
-        },
-        {
-          title: '2018年十一月(November)',
-          collapsable: true,
-          children: genSidebarConfig('english/2018/2018-November', false)
-        },
-        {
-          title: '2018年十月(October)',
-          collapsable: true,
-          children: genSidebarConfig('english/2018/2018-October', false)
-        }
-      ],
+      '/english/': englishFiles,
       '/music/': [
         'introduction',
         {
