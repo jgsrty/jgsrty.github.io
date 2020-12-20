@@ -2,7 +2,7 @@
 
 ### test
 
->来源：[]()
+>来源：[https://space.bilibili.com/6926237/video](https://space.bilibili.com/6926237/video)
 
 ## 原文阅读
 
@@ -24,4 +24,4 @@ I had a great experience which really I learned a lot about meditation through t
 ## 翻译
 
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/How%20to%20Survive%20on%20Mars.mp3`"></src-rtyAudio>
+<src-rtyAudio :src="`https://rtyxmd.gitee.io/rty-resources2021/January/test.mp3`"></src-rtyAudio>
