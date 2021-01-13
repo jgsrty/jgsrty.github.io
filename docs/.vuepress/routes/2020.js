@@ -3,7 +3,7 @@ const genSidebarConfig = require('./getSidebarConfig')
 module.exports = [
     {
         title: '2020十二月(December)',
-        collapsable: false,
+        collapsable: true,
         children: genSidebarConfig('english/2020/December', false)
     },
     {
