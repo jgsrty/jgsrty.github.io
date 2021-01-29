@@ -37,12 +37,13 @@
         <iframe
           width="100%"
           height="100%"
-          src="https://www.sw-fed.kim/sw-bw-ui/example/#/"
+          src="http://elemefe.github.io/mint-ui/#/"
           frameborder="0"
         ></iframe>
       </div>
     </div>
   </div>
+  <!-- src="https://www.sw-fed.kim/sw-bw-ui/example/#/" -->
 </template>
 
 <script>
