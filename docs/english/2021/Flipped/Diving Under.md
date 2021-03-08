@@ -1,6 +1,4 @@
-# Flipped 01
-
-### Diving Under
+# Diving Under
 
 > By Wendelin Van Draneen
 

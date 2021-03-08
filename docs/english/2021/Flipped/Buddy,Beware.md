@@ -1,6 +1,4 @@
-# Flipped 03
-
-### Buddy,Beware!
+# Buddy,Beware!
 
 > By Wendelin Van Draneen
 

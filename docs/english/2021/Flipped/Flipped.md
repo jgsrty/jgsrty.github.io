@@ -1,6 +1,4 @@
-# Flipped 02
-
-### Flipped
+# Flipped
 
 > By Wendelin Van Draneen
 
