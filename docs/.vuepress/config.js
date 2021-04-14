@@ -4,8 +4,9 @@ const route2018 = require('./routes/2018.js')
 const route2019 = require('./routes/2019.js')
 const route2020 = require('./routes/2020.js')
 const route2021 = require('./routes/2021.js')
+const SelfStudy = require('./routes/SelfStudy.js')
 let englishFiles = ['introduction']
-englishFiles = englishFiles.concat(route2021, route2020, route2019, route2018)
+englishFiles = englishFiles.concat(SelfStudy, route2021, route2020, route2019, route2018)
 module.exports = {
   // plugins: {
   //   robots: {
