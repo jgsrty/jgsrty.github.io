@@ -10,6 +10,7 @@ module.exports = [
             '2021/Flipped/Buddy,Beware',
             '2021/Flipped/The Sycamore Tree',
             '2021/Flipped/Brawk-Brawk-Brawk',
+            '2021/Flipped/The Eggs',
         ]
     },
     {
