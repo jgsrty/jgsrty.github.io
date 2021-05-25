@@ -11,6 +11,8 @@ module.exports = [
             '2021/Flipped/The Sycamore Tree',
             '2021/Flipped/Brawk-Brawk-Brawk',
             '2021/Flipped/The Eggs',
+            '2021/Flipped/Get a Grip, Man',
+            '2021/Flipped/The Yard',
         ]
     },
     {

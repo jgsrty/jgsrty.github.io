@@ -268,4 +268,86 @@ It was worth it. Even after Mrs. Helms and Mrs. Stueby offered me more money per
 
 It was a bargain.
 
-Then they cut down the sycamore tree. And two weeks later Champ died. He'd been spending a lot of time sleeping, and even though we didn't really know how old he was, no one was really surprised when one 
+Then they cut down the sycamore tree. And two weeks later Champ died. He'd been spending a lot of time sleeping, and even though we didn't really know how old he was, no one was really surprised when one night Dad went out to feed him and discovered he was dead. We buried him in the backyard, and my brothers put up a cross that reads: HERE LIES THE MYSTERY PISSER P.I.P.
+
+I was upset and pretty dazed for a while. It was raining a lot and I was riding my bike to school to avoid having to take the bus, and each day when I'd get home, I'd retreat to my room, lose myself in a novel, and simply forget about collecting eggs.
+
+Mrs. Stueby was the one who got me back on schedule. She called to say she'd read about the tree in the paper and was sorry about everything that had happened, but it had been some time now and she missed her eggs and was worried that my hens might quit laying. "Distress can push a bird straight into a molting, and we wouldn't want that! Feathers everywhere and not an egg in sight. I'm quite allergic to the feathers myself for I'd probably have a flock of my own, but never you mind. You just bring 'em over when you're up to it. All's I wanted was to check in and let you know how sorry I was about the tree. And your dog, too. Your mother mentioned he passed away."
+
+So I got back to work. I cleared away the eggs I'd neglected and got back into my routine of collecting and cleaning. And one morning when I had enough, I made the rounds. First Mrs. Stueby, then Mrs. Helms, and finally the Loskis. And as I stood at the Loskis' threshold, it occurred to me that I hadn't see Bryce in the longest time. Sure, we'd both been at school, but I'd been so preoccupied with other things that I hadn't really seen him.
+
+My heart started beating faster, and when the door whooshed open and his blue eyes looked right at me, it took everything I had just to say, "Here."
+
+He took the half-carton and said, "You know, you don't have to give us these..."
+
+"I know," I said, and looked down.
+
+We stood there for a record-breaking amount of time saying nothing. Finally he said, "So are you going to start riding the bus again?"
+
+I looked up at him and shrugged. "I don't know. I haven't been up there since... you know."
+
+"It doesn't look so bad anymore. It's all cleared. They'll probably start on the foundation soon."
+
+It sounded perfectly awful to me.
+
+"Well," he said, "I've got to get ready for school. See you  there." Then he smiled and closed the door.
+
+For some reason I just stood there. I felt odd. Out of sorts. Disconnected from everything around me. Was I ever going to go back up to Collier Street? I had to eventually, or so my myther said. Was I just making it harder?
+
+Suddenly the door flew open and Bryce came hurrying out with an overfull kitchen trash can in his hands. "Juli!" he said. "What are you still doing here?"
+
+He startled me, too. I didn't know what I was still doing there. And I was so flustered that I would probably just have run home if he hadn't started struggling with the trash, trying to shove the contents down.
+
+I reached over and said, "Do you need some help?" because it looked like he was about to spill the trash. Then I saw the corner of an egg carton.
+
+This wasn't just any egg carton either. It was my egg carton. The one I'd just brought him. And through the little blue cardboard arcs I could see eggs.
+
+I looked from him to the eggs and said, "What happened? Did you drop them?"
+
+"Yeah," he said quickly. "Yeah, and I'm really sorry about that."
+
+He tried to stop me, but I took the carton from the trash, saying, "All of them?" I opened the carton and gasped. Six whole, perfect eggs. "Why'd you throw them away?"
+
+He pushed past me and went around the house to the trash bin, and I followed him, waiting for an answer.
+
+He shook the garbage out, then turned to face me. "Does the word salmonella mean anything to you?"
+
+"Salmonella? But... "
+
+"My mom doesn't think it's worth the risk."
+
+I followed him back to the porch. "Are you saying she won't eat them because ——"
+
+"Because she's afraid of being poisoned."
+
+"Poisoned! Why?"
+
+"Because your backyard is, like, covered in turds! I mean, look at your place, Juli!" He pointed at our house and said, "Just look at it. It's a complete dive!"
+
+"It is not!" I cried, but the truth was sitting right across the street, impossible to deny. My throat suddenly choked closed and I found it painful to speak. "have you... always thrown them away?"
+
+He shrugged and looked down. "Juli, look. We didn't want to hurt your feelings."
+
+"My feelings? Do you realize Mrs. Stueby and Mrs. Helms pay me for my eggs?"
+
+"You're kidding."
+
+"No! They pay me two dollars a dozen!"
+
+"No way."
+
+"It's true! All those eggs I gave to you I could've sold to Mrs. Stueby or Mrs. Helms!"
+
+"Oh," he said, and looked away. Then he eyed me and said, "Well, why did you just give them to us?"
+
+I was fighting back tears, but it was hard. I chocked out, "I was trying to be neighborly...!"
+
+He put down the trash can, then did something that made my brain freeze. He held me by the shoulders and looked me right in the eyes. "Mrs. Stueby's your neighbor, isn't she? So's Mrs. Helms, right? Why be neighborly to us and not them?"
+
+What was he trying to say? Was it still so obvious how I felt about him? And if he knew, how could he have been so heartless, just throwing my eggs away like that, week after week, year after year?
+
+I couldn't find any words. None at all. I just stared at him, at the clear, brilliant blue of his eyes.
+
+"I'm sorry, Juli," he whispered.
+
+I stumbled home, embarrassed and confused, my heart completely cracked open.
