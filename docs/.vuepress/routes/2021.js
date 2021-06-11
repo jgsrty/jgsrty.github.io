@@ -14,6 +14,7 @@ module.exports = [
             '2021/Flipped/Get a Grip, Man',
             '2021/Flipped/The Yard',
             '2021/Flipped/Looming Large and Smelly',
+            '2021/Flipped/The Visit',
         ]
     },
     {
