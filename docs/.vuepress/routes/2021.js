@@ -15,6 +15,10 @@ module.exports = [
             '2021/Flipped/The Yard',
             '2021/Flipped/Looming Large and Smelly',
             '2021/Flipped/The Visit',
+            '2021/Flipped/The Serious Willies',
+            '2021/Flipped/The Dinner',
+            '2021/Flipped/Flipped ',
+            '2021/Flipped/The Basket Boys',
         ]
     },
     {
