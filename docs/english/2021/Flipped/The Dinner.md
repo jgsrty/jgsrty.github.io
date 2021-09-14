@@ -57,3 +57,35 @@ I forced myself to focus on the conversation. "Do I think that's a doable thing?
 Neither of them answered me. Instead, my father stuck out his hand and said, "Good evening, Rick. Nice of you to have us over."
 
 Mr. Loski pumped my dad's hand and joined our group, making little comments about the weather. When that topic was all dried up, he said, "And wow, that yard of yours has really come along. I told Chet here that we ought to hire him out. He really knows his pickets, doesn't he?"
+
+He was joking. I think. But my father didn't take it that way, and neither did Chet. I was afraid of what might happen next, but then Mrs. Loski tinkled a little dinner bell and called, "Hors d'oeuvres, everybody!"
+
+"The hors d'oeuvres were delicious. But when my father whispered that the teeny-tiny black berries on top of the crackers weren't berries at all, but caviar, I stopped midbite. Fish eggs? Repulsive?
+
+Then my father pointed out that I ate chicken eggs all the time, so why get squeamish over fish eggs? He had a point. I hesitantly finished the cracker, and before long I was having another.
+
+Bryce was standing all by himself across the room, and every time I happened to look his way, he was staring at me.
+
+Finally I completely turned my back on him and said to my father, "So who's trying to invent a perpetual-motion machine, anyway?"
+
+My father laughed. "Mad scientists all over the world."
+
+"Really?"
+
+"Yes. For hundreds of years."
+
+"Well, what do they do? What's one look like?"
+
+It wasn't long before Chet was in on the discussion. And just as I was finally starting to catch on to magnetism, gyroscopic particles, and zero-point energy, I felt someone standing behind me.
+
+It was Bryce.
+
+I could feel my cheeks flush with anger. Couldn't he see I wanted to be left alone? I took a step away from him, but what that did was open up the group and allow him to move forward. Now he was standing in our circle listening to our discussion!
+
+Well! Surely he was not interested in perpetual motion. I barely was myself! So, I reasoned, continuing our discussion would drive him away. I dove back in, and when the conversation started to peter out, I came up with my own ideas on perpetual-motion machines. I was like a perpetual-idea machine, spinning ridiculous suggestions right out of the air.
+
+And still he wouldn't leave. He didn't say anything, he just stood there, listening. Then when Mrs. Loski announced that dinner was ready, Bryce held my arm and whispered, "Juli, I'm sorry. I've never been so sorry about anything in my whole life. You're right, I was a jerk, and I'm sorry."
+
+I yanked my arm free from his grasp and said, "It seems to me you've been sorry about a whole lot of things lately!" and left him there with his apology hanging wounded in the air.
+
+It didn't take me long to realize that I'd made a mistake. I should have let him say he was sorry and then simply continued to ignore him. But I'd snapped at him in the middle of an apology, which somehow made me the rude one.
