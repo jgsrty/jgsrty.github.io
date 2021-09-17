@@ -89,3 +89,25 @@ And still he wouldn't leave. He didn't say anything, he just stood there, listen
 I yanked my arm free from his grasp and said, "It seems to me you've been sorry about a whole lot of things lately!" and left him there with his apology hanging wounded in the air.
 
 It didn't take me long to realize that I'd made a mistake. I should have let him say he was sorry and then simply continued to ignore him. But I'd snapped at him in the middle of an apology, which somehow made me the rude one.
+
+I sneaked a peek at him across the table, but he was watching his dad, who was asking my brothers about graduating and their plans for college.
+
+I had, of course, seen Mr. Loski many times, but usually from a distance. Still, it seemed impossible that I'd never noticed his eyes before. They were blue. Brilliant blue. And although Mr. Loski's were set farther back and were hidden somewhat by his eyebrows and cheekbones, there was no mistaking where Bryce had gotten his eyes. His hair was black, too, like Bryce's, and his teeth were white and straight.
+
+Even though Chet had called Bryce the spitting image of his father, I'd never really thought of them as looking alike. But now I saw that they did look alike, though where his dad seemed kind of smug, Bryce seemed... well, right now he seemed angry.
+
+Then from the other side of the table, I heard, "Your sarcasm is not appreciated, Dad."
+
+Mrs. Loski gave a small gasp, and everyone looked at Lynetta. "Well, it's not," she said.
+
+In all the years we've lived across the street from the Loskis, I've said about ten words to Lynetta, and she's said fewer back. To me she's scary. So it wasn't a surprise to see her glaring at her father, but it was uncomfortable. Mrs. Loski was keeping a smile perched on her face, but she was blinking a lot, glancing nervously around the table. I looked from one person to the next, too, wondering if dinner at the Loskis' was always this tense.
+
+Suddenly Lynetta got up and dashed down the hall, but she was back in a flash with a CD in her hand. And when she put it in the player, I recognized one of my brothers' songs blaring through the speakers.
+
+We'd heard this song, "Candle Ice," pouring out of my brother' bedroom at least a million times, so we were used to it. But I looked over at my mom, worried that she might be embarrassed by the distorting guitar and the gritty lyrics. This was definitely not caviar music.
+
+She seemed a little uncertain, but in a happy way. She was sharing secret smiles with my father, and honestly, I think she even giggled. My dad was looking amused, although he was very reserved about it, and it took me until the end of the song to realize that he was proud. Proud that this noise came from his boys.
+
+That surprised me. Dad had never been real big on any rendition of my brothers' band, although he's never really criticized it either. But then Mr. Loski started grilling Matt and Mike about how they'd afforded to record their own music, and they explained about working and saving and shopping for good deals on equipment, and that's when I realized why my father was proud.
+
+My brothers were feeling pretty good, too, you could tell. And it was no wonder, with the way Lynetta was carrying on table how great "Candle Ice" was. she was positively gushing, which seemed very odd, coming from Lynetta.
