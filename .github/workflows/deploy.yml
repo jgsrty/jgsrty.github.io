@@ -15,6 +15,11 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
+      
+      - name: 安装node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.21.0
 
       - name: Build
         run: npm cache clean --force && npm install && npm run build
