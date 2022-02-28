@@ -17,7 +17,7 @@ jobs:
           persist-credentials: false
 
       - name: Build
-        run: npm cache clean --force && npm install cnpm -g && cnpm install && npm run build
+        run: npm cache clean --force && npm install && npm run build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
