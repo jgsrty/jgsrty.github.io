@@ -5,6 +5,7 @@ module.exports = [
     title: "汉语言文学",
     collapsable: false,
     children: [
+      "SelfStudy/ChineseLiterature/红楼梦研究",
       "SelfStudy/ChineseLiterature/中国现代文学史-客观",
       "SelfStudy/ChineseLiterature/中国现代文学史-主观",
       "SelfStudy/ChineseLiterature/中国现代文学作品选",
