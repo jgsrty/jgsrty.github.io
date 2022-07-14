@@ -91,4 +91,4 @@
 <p>But doing any ordinary job as well as one can is in itself an admirable commitment.</p>
 <p>People who work toward such excellence -- whether they are driving a truck, or running a store -- make the world better just by being the kind of people they are.</p>
 <p>They've learned life's most valuable lesson.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/January/Your%20Success%20Starts%20Here.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/January/Your%20Success%20Starts%20Here.mp3'"></src-rtyAudio> --></div></template>

@@ -118,4 +118,4 @@
 <p>Finally, sometimes around the 1820s, Christmas began the process of taking on its modern shape.</p>
 <p>As more and more Americans began celebrating the holiday, traditions began to emerge and spread from place to place.</p>
 <p>Eventually, Christmas would become the holiday that we all know and love.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-September/Origins of Christmas 2.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-September/Origins of Christmas 2.mp3'"></src-rtyAudio> --></div></template>

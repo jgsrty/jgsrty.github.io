@@ -199,4 +199,4 @@
 <p>And yet death is the destination we all share. No one has ever escaped it.</p>
 <p>And that is as it should be, because Death is very likely the single best invention of life.</p>
 <p>It is Life's change agent. It clears out the old to make for the new.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Thoughts on Death.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Thoughts on Death.mp3'"></src-rtyAudio> --></div></template>

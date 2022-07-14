@@ -92,5 +92,5 @@
 <p>After six months, I couldn't see the value in it. I had no idea what I wanted to do with my life and no idea how college was going to help me figure it out. And here I was spending all of the money my parents had saved their entire life.</p>
 <p>So I decided to drop out and trust that it would all work out OK. It was pretty scary at the time, but looking back it was one of the best decisions I ever made.</p>
 <p>The minute I dropped out I could stop taking the required classes that didn't interest me, and begin dropping in on the ones that looked far more interesting.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Reasons of Dropping Out.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Reasons of Dropping Out.mp3'"></src-rtyAudio> -->
 </div></template>

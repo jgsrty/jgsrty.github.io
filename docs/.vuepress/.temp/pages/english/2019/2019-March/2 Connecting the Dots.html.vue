@@ -129,4 +129,4 @@
 <p>Again, you can't connect the dots looking forward, you can only connect them looking backwards.</p>
 <p>So you have to trust that the dots will somehow connect in your future. You have to trust in something -- your gut, destiny, life, karma, whatever.</p>
 <p>Because believing that the dots will connect down the road will give you the confidence to follow your heart even when it leads you off the well-worn path and that will make all the difference.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Connect the Dots.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Connect the Dots.mp3'"></src-rtyAudio> --></div></template>

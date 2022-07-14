@@ -69,4 +69,4 @@ That afternoon, I noticed more things on my way home from school than usual.
 
 Remember: Life is not measured by the number of breaths we take, but by the moments that take our breath away.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/May/Observe%20Beautiful%20Things.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/May/Observe%20Beautiful%20Things.mp3'"></src-rtyAudio> -->

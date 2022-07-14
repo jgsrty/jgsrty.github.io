@@ -31,4 +31,4 @@
 <p>When you get older, your wild life will live for younger day</p>
 <p>Think of me if ever you're afraid</p>
 <h2 id="翻译" tabindex="-1"><a class="header-anchor" href="#翻译" aria-hidden="true">#</a> 翻译</h2>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/The%20Nights.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/The%20Nights.mp3'"></src-rtyAudio> --></div></template>

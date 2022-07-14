@@ -126,4 +126,4 @@
 <p>Today, the Eiffel Tower is the most popular paid attraction in the world, with about 7 million visitors each year.</p>
 <p>It has been the inspiration for replicas and imitations around the world, from Janpan to Guatemala to Las Vagas.</p>
 <p>No longer considered an eyesore, the Eiffel Tower is an icon of France and is inside the World Heritage Site that includes certain parts of Paris.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Eiffel Tower.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Eiffel Tower.mp3'"></src-rtyAudio> --></div></template>

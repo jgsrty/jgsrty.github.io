@@ -56,4 +56,4 @@ It is only a mind that is not acquiring, but always learning - it is only such a
 
 I have to know myself, the structure, the nature, the significance of the total entity; but I can't do that burdened with my previous knowledge, with my previous experience, or with a mind that is conditioned, for then I am not learning, I am merely interpreting, translating, looking with an eye that is already clouded by the past.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Has%20No%20Past.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Has%20No%20Past.mp3'"></src-rtyAudio> -->

@@ -126,4 +126,4 @@
 <p>They also told stories of a mythical being, Odin, who flew through the sky during Yule to leave presents and sweets for children.</p>
 <p>They also believed Odin would determine who would prosper and who would fail in the coming year.</p>
 <p>These Winter Solstice traditions and many others helped lay the foundations for what would some day become Christmas.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-September/Origins of Christmas 1.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-September/Origins of Christmas 1.mp3'"></src-rtyAudio> --></div></template>

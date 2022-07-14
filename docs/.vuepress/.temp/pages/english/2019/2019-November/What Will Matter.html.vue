@@ -140,5 +140,5 @@
 <p>What will matter is how long you will be remembered, by whom and for what.</p>
 <p>Living a life that matters doesn't happen by accident.</p>
 <p>It's not a matter of circumstance but of choice.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/What%20Will%20Matter.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/What%20Will%20Matter.mp3'"></src-rtyAudio> -->
 </div></template>

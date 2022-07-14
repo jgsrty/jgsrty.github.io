@@ -26,4 +26,4 @@ We don't become happy just because we're free - if we are. Or because we've been
 
 It opens our eyes, our ears, tells us where delights are lurking, convinces us that there is only one freedom of any importance whatsoever, that of the mind, and gives us the assurance - the confidence - to walk the path our mind, our educated mind, offers.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2018-December/The Importance of Education.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2018-December/The Importance of Education.mp3'"></src-rtyAudio> -->

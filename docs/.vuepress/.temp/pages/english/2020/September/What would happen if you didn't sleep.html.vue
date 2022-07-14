@@ -157,4 +157,4 @@
 <p>那我们睡觉的时候，大脑是如何运作防止这些发生的呢？科学家们发现了一种淋巴系统，一种能清除这些积聚物的系统，当我们睡觉的时候，这个系统会非常活跃。它利用脑髓液来清除在细胞之间的有毒物质。淋巴管，为免疫细胞提供路径的血管，最近被发现存在于大脑中，淋巴管也可能在清除大脑日常代谢物中扮演了重要的角色。</p>
 <h4 id="while-scientists-continue-exploring-the-restorative-mechanisms-behind-sleep-we-can-be-sure-that-slipping-into-slumber-is-a-necessity-if-we-want-to-maintain-our-health-and-our-sanity" tabindex="-1"><a class="header-anchor" href="#while-scientists-continue-exploring-the-restorative-mechanisms-behind-sleep-we-can-be-sure-that-slipping-into-slumber-is-a-necessity-if-we-want-to-maintain-our-health-and-our-sanity" aria-hidden="true">#</a> While scientists continue exploring the restorative mechanisms behind sleep, we can be sure that slipping into <code v-pre>slumber</code> is a necessity if we want to maintain our health and our sanity.</h4>
 <p>虽然科学家们还在继续探索关于睡眠的修复机制，我们可以肯定的是，想要保持健康和离职，睡觉时必须的。</p>
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/September/What would happen if you didn't sleep.mp3`"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/September/What would happen if you didn't sleep.mp3`"></src-rtyAudio> --></div></template>

@@ -91,4 +91,4 @@
 <p>The wife, touched by his honesty, the depth of his love for her and his acceptance of her, turned her head and wept.</p>
 <p>In life, we don't really have to look for things that are disappointing, depressing and annoying. These things will always be there.</p>
 <p>Nothing is perfect. However, we can find perfectness in everything by changing the way we see things.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-October/Nobody%20Is%20Perfect.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-October/Nobody%20Is%20Perfect.mp3'"></src-rtyAudio> --></div></template>

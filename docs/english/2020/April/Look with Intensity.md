@@ -57,4 +57,4 @@ There is beauty, there is vigor, there is vitality in a single leaf.
 
 So to learn about the leaf, the flower, the cloud, the sunset, or a human being, you must look with all intensity.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Look%20with%20Intensity.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Look%20with%20Intensity.mp3'"></src-rtyAudio> -->

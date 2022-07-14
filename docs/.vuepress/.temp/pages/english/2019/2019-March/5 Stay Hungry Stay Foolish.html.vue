@@ -109,4 +109,4 @@ It was sort of like Google in paperback form, 35 years before Google came along:
 <p>And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.</p>
 <p>Stay Hungry. Stay Foolish.</p>
 <p>Thank you all very much.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Stay Hungry Stay Foolish.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Stay Hungry Stay Foolish.mp3'"></src-rtyAudio> --></div></template>

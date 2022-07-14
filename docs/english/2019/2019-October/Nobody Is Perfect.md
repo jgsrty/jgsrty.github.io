@@ -88,4 +88,4 @@ In life, we don't really have to look for things that are disappointing, depress
 
 Nothing is perfect. However, we can find perfectness in everything by changing the way we see things.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-October/Nobody%20Is%20Perfect.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-October/Nobody%20Is%20Perfect.mp3'"></src-rtyAudio> -->

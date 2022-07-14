@@ -64,4 +64,4 @@ Luckily, we can wake up from this nightmare, because the Earth will never be as 
 #### Luckily, we can make up from this nightmare, because the Earth will never be as big as the Sun. In fact, our planet is actually getting smaller! Our atmosphere leaks, and so we end up losing several hundred tons of mass to space every day. So take a nice, deep breath, and be glad it's that easy! It's not always a good idea to mess with proportions, and bigger definitely doesn't always mean better.
 幸运的是，我们可以从这场噩梦中醒来，因为地球永远不会像太阳那么大。事实上，我们的星球正在变得越来越小！我们的大气在泄露，所以我们每天都会损失几百吨的质量到太空中。所以，好好地深呼吸一下吧，对如此容易的呼吸感到高兴！打乱比例并不总是一个好主意，更大也并不总是意味着更好。
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/What%20If%20Earth%20Was%20As%20Big%20As%20the%20Sun.mp3`"></src-rtyAudio>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/What%20If%20Earth%20Was%20As%20Big%20As%20the%20Sun.mp3`"></src-rtyAudio> -->

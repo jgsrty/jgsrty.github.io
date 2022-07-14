@@ -64,4 +64,4 @@ Mars isn't for everybody. It's just hostile. The process of making Mars our new 
 #### Mars isn't for everybody. It's just `hostile`. The process of making Mars our new home will be very slow, but theoretically, it's doable.
 火星并不适合所有人。它充满了敌意。在火星上建造我们的新家园过程将会非常缓慢，但从理论上讲，这是可行的。
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/How%20to%20Survive%20on%20Mars.mp3`"></src-rtyAudio>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/How%20to%20Survive%20on%20Mars.mp3`"></src-rtyAudio> -->

@@ -116,4 +116,4 @@
 <p>Only some pieces of the wall are taken care of, however, as it is simply too big and too damaged by time and old battles to repair and take care of it all.</p>
 <p>In fact, nearly 1/3 of the wall has completely disappeared, fallen down and even the stones taken away by local people to use in building.</p>
 <p>Still, the Great Wall is the most popular place for tourists to visit in China, attracting millions of people each year.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Great Wall of China.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Great Wall of China.mp3'"></src-rtyAudio> --></div></template>

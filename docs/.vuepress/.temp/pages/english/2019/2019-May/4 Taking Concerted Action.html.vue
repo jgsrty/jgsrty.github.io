@@ -109,4 +109,4 @@
 <p>The greatest inheritance we can pass on to the next generation is a safe and sustainable environment, the priceless endowment of nature.</p>
 <p>Let us not tell our children the sad tale of how we watched as the last elephants, rhinos and tigers died out, but the inspiring story of how we turned the tide and preserved them for all humanity.</p>
 <p>And in so doing, let us show the world that by working together we can stand up to the great challenges our planet and our familys will face in the generations to come.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-May/Taking Concerted Action.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-May/Taking Concerted Action.mp3'"></src-rtyAudio> --></div></template>

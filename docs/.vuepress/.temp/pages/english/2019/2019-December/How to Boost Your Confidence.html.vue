@@ -139,5 +139,5 @@
 <p>Give youself a pep talk, stand up, and go for it.</p>
 <p>The excitement you'll feel knowing that whatever the result, you'll have gained greater knowledge and understanding.</p>
 <p>This is confidence.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-December/How%20to%20Boost%20Your%20Confidence.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-December/How%20to%20Boost%20Your%20Confidence.mp3'"></src-rtyAudio> -->
 </div></template>

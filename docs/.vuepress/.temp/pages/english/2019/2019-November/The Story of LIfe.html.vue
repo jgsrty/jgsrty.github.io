@@ -94,4 +94,4 @@
 <p>Most importantly, if you love someone tell him or her, for you never know what tomorrow may have in store.</p>
 <p>And learn a lesson in life each day that you live.</p>
 <p>That's the story of life.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Story%20of%20LIfe.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Story%20of%20LIfe.mp3'"></src-rtyAudio> --></div></template>

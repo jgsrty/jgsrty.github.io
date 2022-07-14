@@ -89,4 +89,4 @@ However, abnormally numerous or large floaters that interfere with vision, may b
 #### However, abnormally numerous or large floaters that interfere with vision, may be a sign of a more serious condition, requiring immediate medical treatment. But the majority of the time entoptic phenomena, such as floaters and blue sky sprites, are just a gentle reminder that what we think we see depends just as much on our biology and minds, as it dose on the external world.
 但是数目异常多或者大到影响视线的飞蚊，可能意味着你需要紧急医疗救助。但是多数的眼内现象，比如飞蚊症或谢瑞尔氏现象，只是委婉地提醒我们自认为看到的东西取决于我们的生理和大脑，就和取决于外部世界一样。
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/August/What are those floaty things in your eye.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/August/What are those floaty things in your eye.mp3'"></src-rtyAudio> -->

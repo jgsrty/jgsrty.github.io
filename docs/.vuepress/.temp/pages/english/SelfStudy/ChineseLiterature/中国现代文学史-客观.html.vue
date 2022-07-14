@@ -124,9 +124,9 @@
 </tr>
 <tr>
 <td>《故事新编》</td>
-<td><div style="color:lightblue">1922-1926</div><br/><strong>1924-1925</strong></td>
+<td>1922-1926<br><strong>1924-1925</strong></td>
 <td>8篇</td>
-<td><div style="color:lightblue">《补天》《奔月》《铸剑》</div><br/><strong>《理水》中国脊梁——大禹 《采薇》《出关》《非攻》《起死》</strong></td>
+<td>《补天》《奔月》《铸剑》<br><strong>《理水》中国脊梁——大禹 《采薇》《出关》《非攻》《起死》</strong></td>
 </tr>
 </tbody>
 </table>

@@ -109,4 +109,4 @@
 No.2, what is your purpose here in life;<br>
 No.3, what is your destiny when you're done here.</p>
 <p>If you don't know the answers of any of those three questions, you're more disabled than I.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-April/Learn More on Bad Days.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-April/Learn More on Bad Days.mp3'"></src-rtyAudio> --></div></template>

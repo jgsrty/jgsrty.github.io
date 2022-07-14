@@ -74,4 +74,4 @@
 <p>If you want to learn about a leaf -- a leaf of the spring or a leaf of summer -- you must really look at it, see the symmetry of it, the texture of it, the quality of the living leaf.</p>
 <p>There is beauty, there is vigor, there is vitality in a single leaf.</p>
 <p>So to learn about the leaf, the flower, the cloud, the sunset, or a human being, you must look with all intensity.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Look%20with%20Intensity.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Look%20with%20Intensity.mp3'"></src-rtyAudio> --></div></template>

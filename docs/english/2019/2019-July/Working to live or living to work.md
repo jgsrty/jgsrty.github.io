@@ -61,4 +61,4 @@ What we will look back on are the memories we made, the hours we spend with thos
 
 Holidays should be a time where we go away and come together. From now on, let's take our whole vacation and be fully present -- creating memories that will last forever.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-July/Working to live or living to work.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-July/Working to live or living to work.mp3'"></src-rtyAudio> -->

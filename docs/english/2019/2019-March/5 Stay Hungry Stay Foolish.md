@@ -74,4 +74,4 @@ Stay Hungry. Stay Foolish.
 
 Thank you all very much.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Stay Hungry Stay Foolish.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Stay Hungry Stay Foolish.mp3'"></src-rtyAudio> -->

@@ -69,4 +69,4 @@ A study of experienced golfers revealed that those who hit chip shots,  while fo
 #### A study of experienced golfers revealed that those who hit chip shots, while focused on the flight of the ball, performed significantly better than those who focused on the motion of their arms. So, perhaps we can modify that age-old saying: practice, under pressure, with focus and with that glorious end goal in sight, makes perfect. 
 一项有关经验丰富的高尔夫球手的研究表明，那些在切杆时关注球的飞行情况的人，比那些注意力都在手臂挥舞动作的人表现的更出色。所以，或许我们可以修改那句古话：在压力下全神贯注的练习，专注于远大目标方能达到完美。
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/October/How%20to%20stay%20calm%20under%20pressure.mp3`"></src-rtyAudio>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/October/How%20to%20stay%20calm%20under%20pressure.mp3`"></src-rtyAudio> -->

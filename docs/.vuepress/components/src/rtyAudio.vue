@@ -71,7 +71,6 @@
 
 <script>
 let audioSpeed = ['0.5', '0.75', '1.0', '1.25', '1.5', '2.0']
-import NoSleep from 'nosleep.js'
 export default {
   name: "rtyAudio",
   props: {
@@ -120,11 +119,6 @@ export default {
     },
     //切换播放状态
     changePlayState() {
-      let noSleep = new NoSleep()
-      document.addEventListener('click', function enableNoSleep() {
-        document.removeEventListener('click', enableNoSleep, false);
-        noSleep.enable();
-      }, false);
       return this.playState ? this.$refs.audio.pause() : this.$refs.audio.play();
     },
     // 当音频播放
@@ -174,7 +168,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import url('./audioFont/iconfont.css'); //自定义播放style
+// @import url('./audioFont/iconfont.css'); //自定义播放style
 .custom-audio {
   width: 100%;
   .flex-content {

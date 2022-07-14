@@ -181,4 +181,4 @@
 <p>Variations in things like enzyme levels, gut bacteria, and even intestine length, means that every individual's ability to extract energy from food is a little different.</p>
 <p>So a caloire is a useful energy measure, but to work out exactly how many of them each of us requires we need to factor in things like exercise, food type, and our body's ability to process energy.</p>
 <p>Good luck finding all of that on a nutrition label.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-December/What%20Is%20a%20Calorie.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-December/What%20Is%20a%20Calorie.mp3'"></src-rtyAudio> --></div></template>

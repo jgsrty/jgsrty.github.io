@@ -67,4 +67,4 @@
 <p>There was a time when people may have felt awkward about asking for a table for one, but those day are over.</p>
 <p>Now, we have our smartphones to keep us company at the table.</p>
 <p>&quot;It doesn't feel as alone as it may have before all the advances in technology,&quot; said Laurie Demeritt, whose company provided the statistics for the report.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/January/More%20and%20More%20People%20Dine%20Alone.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/January/More%20and%20More%20People%20Dine%20Alone.mp3'"></src-rtyAudio> --></div></template>

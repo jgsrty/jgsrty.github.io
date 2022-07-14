@@ -52,4 +52,4 @@ I thought, let me be to someone else what no one wants to me. Let me send a mess
 
 That there is an "us", that there is a "we", and that kid or teenager or adult is loved, and they are not alone.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-April/Grew Up in Survival Mode.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-April/Grew Up in Survival Mode.mp3'"></src-rtyAudio> -->

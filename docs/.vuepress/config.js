@@ -56,11 +56,11 @@ module.exports = {
         link: "/music/introduction",
         activeMatch: "^/music/",
       },
-      {
-        text: "组件",
-        link: "/components/introduction",
-        activeMatch: "^/components/",
-      },
+      // {
+      //   text: "组件",
+      //   link: "/components/introduction",
+      //   activeMatch: "^/components/",
+      // },
       {
         text: "口语短文",
         link: "/oral/introduction",
@@ -91,14 +91,14 @@ module.exports = {
           children: genSidebarConfig("music/collection", true),
         },
       ],
-      "/components/": [
-        "/components/introduction.md",
-        {
-          text: "UI组件",
-          collapsible: false,
-          children: genSidebarConfig("components/UI", true),
-        },
-      ],
+      // "/components/": [
+      //   "/components/introduction.md",
+      //   {
+      //     text: "UI组件",
+      //     collapsible: false,
+      //     children: genSidebarConfig("components/UI", true),
+      //   },
+      // ],
       "/oral/": [
         "/oral/introduction.md",
         {

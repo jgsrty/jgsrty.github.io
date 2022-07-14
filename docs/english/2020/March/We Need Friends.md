@@ -63,4 +63,4 @@ With my friends, I know what to treasure, what to tolerate and what to share.
 
 I will never forget my old friends, and I'll keep making new friends.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/March/We%20Need%20Friends.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/March/We%20Need%20Friends.mp3'"></src-rtyAudio> -->

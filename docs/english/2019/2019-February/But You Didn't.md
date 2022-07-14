@@ -45,4 +45,4 @@ Yes, there were lots of things you didn't do. But you put up with me, and loved 
 There were lots of things I wanted to make up to you when you returned from Vietnam.
 But you didn't.
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2019/2019-Feburary/But You Didn't.mp3`"></src-rtyAudio>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2019/2019-Feburary/But You Didn't.mp3`"></src-rtyAudio> -->

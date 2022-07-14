@@ -50,4 +50,4 @@ All that mattered was the serenity of the moment. Just being with her and breath
 
 We must not allow the clock, the calendar, and external pressures to rule our lives and blind us to the fact that each individual moment of our lives is a beautiful mystery and a miracle -- especially those moments we spend in the presence of a loved one.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-October/The%20Serenity%20of%20the%20Moment.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-October/The%20Serenity%20of%20the%20Moment.mp3'"></src-rtyAudio> -->

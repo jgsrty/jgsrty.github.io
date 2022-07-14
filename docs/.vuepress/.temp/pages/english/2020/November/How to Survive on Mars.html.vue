@@ -119,4 +119,4 @@
 <p>第五点：发挥作用。这应该是清单上的第一条建议，但我想把这个残酷的事实留在最后。你不能仅仅因为赢了竞赛或者花很多钱就去火星。你必须是一名训练有素的宇航员，至少有一个工程、生物或物理科学、计算机科学、数学方面的硕士学位。你可以拥有植物学硕士学位，但你不能成为一名游客。如果你符合上述条件，你在火星上的典型一天将包括照料植物、维护检查维修所有的水、电和过滤系统，以保持你的居所运行。以及对行星的一些光线探索。你需要想地球的中心发送更新数据，你很可能会非常想念地球。</p>
 <h4 id="mars-isn-t-for-everybody-it-s-just-hostile-the-process-of-making-mars-our-new-home-will-be-very-slow-but-theoretically-it-s-doable" tabindex="-1"><a class="header-anchor" href="#mars-isn-t-for-everybody-it-s-just-hostile-the-process-of-making-mars-our-new-home-will-be-very-slow-but-theoretically-it-s-doable" aria-hidden="true">#</a> Mars isn't for everybody. It's just <code v-pre>hostile</code>. The process of making Mars our new home will be very slow, but theoretically, it's doable.</h4>
 <p>火星并不适合所有人。它充满了敌意。在火星上建造我们的新家园过程将会非常缓慢，但从理论上讲，这是可行的。</p>
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/How%20to%20Survive%20on%20Mars.mp3`"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/How%20to%20Survive%20on%20Mars.mp3`"></src-rtyAudio> --></div></template>

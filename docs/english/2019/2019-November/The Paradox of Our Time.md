@@ -86,4 +86,4 @@ A kiss and an embrace will mend hurt when it comes from deep inside of you.
 
 Life is not measured by the number of breaths we take, but by the moments that take our breath away.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Paradox%20of%20Our%20Time.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Paradox%20of%20Our%20Time.mp3'"></src-rtyAudio> -->

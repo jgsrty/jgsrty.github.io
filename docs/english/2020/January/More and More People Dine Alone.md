@@ -77,4 +77,4 @@ Now, we have our smartphones to keep us company at the table.
 "It doesn't feel as alone as it may have before all the advances in technology," said Laurie Demeritt, whose company provided the statistics for the report.
 
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/January/More%20and%20More%20People%20Dine%20Alone.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/January/More%20and%20More%20People%20Dine%20Alone.mp3'"></src-rtyAudio> -->

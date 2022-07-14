@@ -136,4 +136,4 @@
 <p>截至目前，这两项热力学定律阻碍了与永动机相关的所有想法及其他完美节能的美梦。是否永远无法产生永动机这个无法定论，认为人类对宇宙的了解仍极为有限。或许人们会发现全新的运动规则，迫使我们重新审视热力学定律。又或许永动机存在于渺小的量子领域。</p>
 <h4 id="what-we-can-be-reasonably-sure-about-is-that-we-ll-never-stop-looking-for-now-the-one-thing-that-seems-truly-perpetual-is-our-search" tabindex="-1"><a class="header-anchor" href="#what-we-can-be-reasonably-sure-about-is-that-we-ll-never-stop-looking-for-now-the-one-thing-that-seems-truly-perpetual-is-our-search" aria-hidden="true">#</a> What we can be reasonably sure about is that we'll never stop looking. For now, the one thing that seems truly perpetual is our search.</h4>
 <p>唯一能确定的是人类会不停的探索，现在，唯一看似永动机的就是人类的探索。</p>
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/October/Why%20don't%20perpetual%20motion%20machines%20ever%20work.mp3`"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/October/Why%20don't%20perpetual%20motion%20machines%20ever%20work.mp3`"></src-rtyAudio> --></div></template>

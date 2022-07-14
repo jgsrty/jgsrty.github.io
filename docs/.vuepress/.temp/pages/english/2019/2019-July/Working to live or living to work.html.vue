@@ -80,5 +80,5 @@
 <p>Because when our lives are almost over, it won't matter how much money we made, or hours we worked, or times we got Employee of the Month.</p>
 <p>What we will look back on are the memories we made, the hours we spend with those we loved, and were we Father of the Month, Monther of the Year, Friend of a Lifetime.</p>
 <p>Holidays should be a time where we go away and come together. From now on, let's take our whole vacation and be fully present -- creating memories that will last forever.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-July/Working to live or living to work.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-July/Working to live or living to work.mp3'"></src-rtyAudio> -->
 </div></template>

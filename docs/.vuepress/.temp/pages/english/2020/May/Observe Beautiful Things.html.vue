@@ -61,5 +61,5 @@
 <p>The class was completely quiet. We all packed up our books and went out of the room silently.</p>
 <p>That afternoon, I noticed more things on my way home from school than usual.</p>
 <p>Remember: Life is not measured by the number of breaths we take, but by the moments that take our breath away.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/May/Observe%20Beautiful%20Things.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/May/Observe%20Beautiful%20Things.mp3'"></src-rtyAudio> -->
 </div></template>

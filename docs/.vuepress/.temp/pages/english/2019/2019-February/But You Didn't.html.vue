@@ -66,4 +66,4 @@
 <p>Yes, there were lots of things you didn't do. But you put up with me, and loved me, and protected me.</p>
 <p>There were lots of things I wanted to make up to you when you returned from Vietnam.
 But you didn't.</p>
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2019/2019-Feburary/But You Didn't.mp3`"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2019/2019-Feburary/But You Didn't.mp3`"></src-rtyAudio> --></div></template>

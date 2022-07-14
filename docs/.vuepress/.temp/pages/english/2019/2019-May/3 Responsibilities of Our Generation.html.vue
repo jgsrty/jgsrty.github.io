@@ -125,4 +125,4 @@
 <p>They are just accepting the truth: that all credible evidence and scientific research shows, for example, the rhino horn cannot cure cancer.</p>
 <p>We have a responsibility to act on the facts that we have today.</p>
 <p>By doing so, we are honoring the generations that have come before us and we are protecting those that are yet to come.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-May/Responsibilities of Our Generation.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-May/Responsibilities of Our Generation.mp3'"></src-rtyAudio> --></div></template>

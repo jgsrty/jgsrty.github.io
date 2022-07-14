@@ -38,4 +38,4 @@ I had a great experience which really I learned a lot about meditation through t
 #### I had a great experience which really I learned a lot about meditation through this experience, I was on a jet ski and I took the jet ski out in the ocean and I just kinda sat. And I just let the current just take me wherever it was gonna take me and I really saw a lot of meditation through that moment because I wasn't trying to control the moment. I wasn't trying to force myself upon the waves and dictate where I was gonna go, I just let the waves take me there. And there was a lot of peacefulness involved in that.
 我有个很棒的经历，通过这次经历，我学到了很多关于冥想的东西。我当时在一艘摩托艇上，我开着摩托艇驶入大海，然后我就那么坐着，我只是让水流带我去任何它要带我去的地方，通过那次，我领悟了很多冥想的东西。因为我并未试图控制那个时刻，也没有强制自己去哪，我只是在随波逐流。那个过程非常平静。
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rty-resources2021/January/Meditation.mp3`"></src-rtyAudio>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rty-resources2021/January/Meditation.mp3`"></src-rtyAudio> -->

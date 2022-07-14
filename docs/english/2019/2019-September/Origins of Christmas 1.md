@@ -112,4 +112,4 @@ They also believed Odin would determine who would prosper and who would fail in 
 
 These Winter Solstice traditions and many others helped lay the foundations for what would some day become Christmas.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-September/Origins of Christmas 1.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-September/Origins of Christmas 1.mp3'"></src-rtyAudio> -->

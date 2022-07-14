@@ -109,4 +109,4 @@
 <p>Life is telling stories to your grandchildren.</p>
 <p>Life is in the little things.</p>
 <p>And only little things matter because one day you'll look back and realize that those were the big things.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-October/What%20Is%20the%20Meaning%20of%20Life.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-October/What%20Is%20the%20Meaning%20of%20Life.mp3'"></src-rtyAudio> --></div></template>

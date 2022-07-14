@@ -58,4 +58,4 @@ Think of me if ever you're afraid
 
 ## 翻译
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/The%20Nights.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/The%20Nights.mp3'"></src-rtyAudio> -->

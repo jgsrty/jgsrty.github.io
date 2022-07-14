@@ -96,4 +96,4 @@
 <blockquote>
 <p>纪·哈·纪伯伦（Kahlil Gibran），黎巴嫩诗人、画家、被称为‘体术天才’、‘黎巴嫩文坛骄子’，代表作品有《我的心灵告诫我》《先知》《论友谊》等。纪伯伦是阿拉伯文学的主要奠基人，爱与美是其作品的主旋律。</p>
 </blockquote>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-January/On Children.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-January/On Children.mp3'"></src-rtyAudio> --></div></template>

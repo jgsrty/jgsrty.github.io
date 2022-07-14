@@ -103,5 +103,5 @@
 <p>Mumbai is the capital of the Indian state of Maharashtra. The state requires that a school bag's weight should be no more than 10 percent of a child's body weight. Many schools there have started using white boards and projectors in classes. This has reduced the number of books to be carried to school.</p>
 <p>But in large parts of rural India, children still have to walk great distances, weighed down by heavy school bags.</p>
 <p>Rajinder Shukla's daughter attends school in Uttar Pradesh state. He said she has to bring &quot;about 4-5 kilograms of books in her school bag and also carry her lunch box and water bottle in a separate bag&quot;.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-July/Reduce the Weight of the Bag.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-July/Reduce the Weight of the Bag.mp3'"></src-rtyAudio> -->
 </div></template>

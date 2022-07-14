@@ -75,4 +75,4 @@ So if you ever notice our planet going off course and heading towards Jupiter, y
 #### So if you ever notice our planet going off course and heading towards Jupiter, you might want to jump off along the way. Maybe right as we pass over Mars.
 所以，如果你注意到我们的星球偏离了轨道，朝着木星飞去，你可能想要中途跳下，也许就在我们飞过火星的时候。
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/What%20If%20Jupiter%20Swallowed%20Earth.mp3`"></src-rtyAudio>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/What%20If%20Jupiter%20Swallowed%20Earth.mp3`"></src-rtyAudio> -->

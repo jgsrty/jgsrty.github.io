@@ -75,4 +75,4 @@ Doesn't learning imply something new, something that I don't know and am learnin
 
 If I am merely adding to what I already know, it is no longer learning.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Is%20Not%20Experience.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Is%20Not%20Experience.mp3'"></src-rtyAudio> -->

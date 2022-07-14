@@ -74,5 +74,5 @@ So I decided to drop out and trust that it would all work out OK. It was pretty 
 
 The minute I dropped out I could stop taking the required classes that didn't interest me, and begin dropping in on the ones that looked far more interesting.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Reasons of Dropping Out.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Reasons of Dropping Out.mp3'"></src-rtyAudio> -->
 

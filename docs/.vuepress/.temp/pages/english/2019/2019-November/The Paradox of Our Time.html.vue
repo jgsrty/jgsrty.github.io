@@ -98,4 +98,4 @@
 <p>Remember, to say, &quot;I love you&quot; to your partner and your loved ones, but most of all mean it.</p>
 <p>A kiss and an embrace will mend hurt when it comes from deep inside of you.</p>
 <p>Life is not measured by the number of breaths we take, but by the moments that take our breath away.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Paradox%20of%20Our%20Time.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Paradox%20of%20Our%20Time.mp3'"></src-rtyAudio> --></div></template>

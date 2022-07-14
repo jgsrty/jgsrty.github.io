@@ -141,4 +141,4 @@
 <p>This day I'll cherish</p>
 <p>You look so beautiful in white Tonight</p>
 <p>So beautiful in white Tonight</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Beautiful%20In%20White.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Beautiful%20In%20White.mp3'"></src-rtyAudio> --></div></template>

@@ -67,4 +67,4 @@
 <p>This letter, in which I speak my truth, and integrate my small story into a much larger and more important one, is worth sending.</p>
 <p>I thought, let me be to someone else what no one wants to me. Let me send a message to that kid, maybe in America, maybe some place far overseas, maybe somewhere deep inside, a kid who's being targeted at hoem or at school or in the streets, that someone is watching and listening and caring.</p>
 <p>That there is an &quot;us&quot;, that there is a &quot;we&quot;, and that kid or teenager or adult is loved, and they are not alone.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-April/Grew Up in Survival Mode.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-April/Grew Up in Survival Mode.mp3'"></src-rtyAudio> --></div></template>

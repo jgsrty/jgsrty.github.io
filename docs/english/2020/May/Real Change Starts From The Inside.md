@@ -56,4 +56,4 @@ If an egg is broken from outside force, life ends. If an egg is broken from insi
 
 Great things always begin from our inside as it's the way you face life that makes the difference!
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/May/Real%20Change%20Starts%20From%20The%20Inside.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/May/Real%20Change%20Starts%20From%20The%20Inside.mp3'"></src-rtyAudio> -->

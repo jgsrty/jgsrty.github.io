@@ -135,4 +135,4 @@
 <p>What's worse, the animalistic instinct dormant deep in our subconsciousness will come to life, weakening our will to pursue our noble ideal, sapping our determination to sweep away obstacles to our success and strangling for the refinement of our character.</p>
 <p>Lack of learning will inevitably lead to the stagnation of the mind, or even worse, its fossilization.</p>
 <p>Therefore, to stay mentally young, we have to take learning as a lifelong career.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/February/Take%20Learning%20as%20a%20Lifelong%20Career.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/February/Take%20Learning%20as%20a%20Lifelong%20Career.mp3'"></src-rtyAudio> --></div></template>

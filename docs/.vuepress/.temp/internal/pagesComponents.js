@@ -7,8 +7,6 @@ export const pagesComponents = {
   "v-66968fc6": defineAsyncComponent(() => import(/* webpackChunkName: "v-66968fc6" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/blog/2018-10-24.html.vue")),
   // path: /blog/
   "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/blog/index.html.vue")),
-  // path: /components/introduction.html
-  "v-621c6c82": defineAsyncComponent(() => import(/* webpackChunkName: "v-621c6c82" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/components/introduction.html.vue")),
   // path: /english/introduction.html
   "v-34431b72": defineAsyncComponent(() => import(/* webpackChunkName: "v-34431b72" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/english/introduction.html.vue")),
   // path: /music/introduction.html
@@ -17,20 +15,6 @@ export const pagesComponents = {
   "v-7226a4b7": defineAsyncComponent(() => import(/* webpackChunkName: "v-7226a4b7" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/oral/introduction.html.vue")),
   // path: /vuepress/introduction.html
   "v-3dc178b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-3dc178b4" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/vuepress/introduction.html.vue")),
-  // path: /components/UI/%E5%88%86%E9%A1%B5.html
-  "v-1b7d46b5": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b7d46b5" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/components/UI/分页.html.vue")),
-  // path: /components/UI/%E5%8A%A0%E8%BD%BD.html
-  "v-4241797e": defineAsyncComponent(() => import(/* webpackChunkName: "v-4241797e" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/components/UI/加载.html.vue")),
-  // path: /components/UI/%E5%8D%95%E9%80%89%E6%A1%86.html
-  "v-21a1fecd": defineAsyncComponent(() => import(/* webpackChunkName: "v-21a1fecd" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/components/UI/单选框.html.vue")),
-  // path: /components/UI/%E5%AF%B9%E8%AF%9D%E6%A1%86.html
-  "v-7243aac7": defineAsyncComponent(() => import(/* webpackChunkName: "v-7243aac7" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/components/UI/对话框.html.vue")),
-  // path: /components/UI/%E6%8C%89%E9%92%AE.html
-  "v-ff6531f4": defineAsyncComponent(() => import(/* webpackChunkName: "v-ff6531f4" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/components/UI/按钮.html.vue")),
-  // path: /components/UI/%E6%8F%90%E7%A4%BA%E6%B0%94%E6%B3%A1.html
-  "v-6cd9c388": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cd9c388" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/components/UI/提示气泡.html.vue")),
-  // path: /components/UI/%E8%BF%9B%E5%BA%A6%E6%9D%A1.html
-  "v-7d386bb2": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d386bb2" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/components/UI/进度条.html.vue")),
   // path: /music/collection/Beautiful%20In%20White.html
   "v-f04ba9e4": defineAsyncComponent(() => import(/* webpackChunkName: "v-f04ba9e4" */"D:/self/jgsrty.github.io/docs/.vuepress/.temp/pages/music/collection/Beautiful In White.html.vue")),
   // path: /music/collection/Musical%20Fiction.html

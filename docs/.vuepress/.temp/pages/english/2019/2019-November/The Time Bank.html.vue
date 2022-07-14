@@ -104,4 +104,4 @@
 <p>Yesterday is history.</p>
 <p>Tomorrow is a mystery.</p>
 <p>Today is a gift. That's why it's called -- present!</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Time%20Bank.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Time%20Bank.mp3'"></src-rtyAudio> --></div></template>

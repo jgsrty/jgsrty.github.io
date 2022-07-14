@@ -104,4 +104,4 @@ They knock on the doors and say 'trick or treat'; the owner of each house gives 
 
 If they don't, they may be on the receiving end of a prank.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-August/Halloween.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-August/Halloween.mp3'"></src-rtyAudio> -->

@@ -57,4 +57,4 @@
 <p>The moment you say to yourself, &quot;I have learned,&quot; it has already become knowledge, and from the background of that knowledge you can accumulate, translate, but you cannot further learn.</p>
 <p>It is only a mind that is not acquiring, but always learning - it is only such a mind that can understand this whole entity that we call the &quot;me,&quot; the self.</p>
 <p>I have to know myself, the structure, the nature, the significance of the total entity; but I can't do that burdened with my previous knowledge, with my previous experience, or with a mind that is conditioned, for then I am not learning, I am merely interpreting, translating, looking with an eye that is already clouded by the past.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Has%20No%20Past.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/April/Learning%20Has%20No%20Past.mp3'"></src-rtyAudio> --></div></template>

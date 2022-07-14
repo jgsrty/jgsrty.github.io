@@ -83,4 +83,4 @@ The body responds to the demands you place on it. If you tear your muscles up, e
 #### The body responds to the demands you place on it. If you tear your muscles up, eat right, rest and repeat, you'll create the conditions to make your muscles as big and strong as possible. It is with muscles as it is with life: Meaningful growth requires chanllenge and stress.
 身体会对你的需求做出回应，如果你撕裂肌肉，补充营养，休息然后重复这些，你就为肌肉变大变强创造了条件，肌肉增长和生活一个道理：有意义的成长需要挑战和压力。
 
-<src-rtyAudio src="https://rtyxmd.gitee.io/rtyresources2020/August/What%20makes%20muscles%20grow.mp3"></src-rtyAudio>
+<!-- <src-rtyAudio src="https://rtyxmd.gitee.io/rtyresources2020/August/What%20makes%20muscles%20grow.mp3"></src-rtyAudio> -->

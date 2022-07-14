@@ -75,4 +75,4 @@ Lack of learning will inevitably lead to the stagnation of the mind, or even wor
 
 Therefore, to stay mentally young, we have to take learning as a lifelong career.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/February/Take%20Learning%20as%20a%20Lifelong%20Career.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/February/Take%20Learning%20as%20a%20Lifelong%20Career.mp3'"></src-rtyAudio> -->

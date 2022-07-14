@@ -18,4 +18,4 @@ When I'm commuting within the city, I prefer to take the metro. Compared with ot
 
 When I'm travelling long distance, I prefer to take the high-speed trains. That is when I have the choice not to take the plane. Trains are out of the question when I'm travelling across the ocean. But when I'm travelling back and forth within China, I go for the high-speed trains most of the time, because they are a lot less hassle and the seats are more comfortable.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesoral/essay/Describe%20a%20type%20of%20transport%20you%20like%20the%20most.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesoral/essay/Describe%20a%20type%20of%20transport%20you%20like%20the%20most.mp3'"></src-rtyAudio> -->

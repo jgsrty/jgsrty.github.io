@@ -212,5 +212,5 @@
 <p>I'd love to study that one day. I'm a believer in talk therapy, so if we're going to change the way our culture understands this transition to motherhood, women need to be talking to each other, not just me.</p>
 <p>So mothers, talk about your matrescence, with other mothers, with your friends, and if you have one, with your partner, so that they can understand their own transition and better support you. But it's not just about protecting your relationship. When you preserve a separate part of your identity, you're also leaving room for your child to develop their own.</p>
 <p>When a baby is born, so is a mother, each unsteady in their own way. Matrescence is profound, but it's also hard, and that's what makes it human.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/June/A%20new%20way%20to%20think%20about%20the%20transition%20to%20motherhood.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/June/A%20new%20way%20to%20think%20about%20the%20transition%20to%20motherhood.mp3'"></src-rtyAudio> -->
 </div></template>

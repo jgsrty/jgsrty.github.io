@@ -106,4 +106,4 @@
 <p>当我们撞向木星时，这两个行星的大气层都会被压缩，温度会迅速升高，甚至会让空气着火。但至少我们不用担心撞到木星的核心，因为我们不可能到那里。我们的星球太小了，在这种情况发生前就会被烧毁在大气层中。但这将会对木星产生影响，因为地球的残骸将会完全混合到它的大气层中。</p>
 <h4 id="so-if-you-ever-notice-our-planet-going-off-course-and-heading-towards-jupiter-you-might-want-to-jump-off-along-the-way-maybe-right-as-we-pass-over-mars" tabindex="-1"><a class="header-anchor" href="#so-if-you-ever-notice-our-planet-going-off-course-and-heading-towards-jupiter-you-might-want-to-jump-off-along-the-way-maybe-right-as-we-pass-over-mars" aria-hidden="true">#</a> So if you ever notice our planet going off course and heading towards Jupiter, you might want to jump off along the way. Maybe right as we pass over Mars.</h4>
 <p>所以，如果你注意到我们的星球偏离了轨道，朝着木星飞去，你可能想要中途跳下，也许就在我们飞过火星的时候。</p>
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/What%20If%20Jupiter%20Swallowed%20Earth.mp3`"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/November/What%20If%20Jupiter%20Swallowed%20Earth.mp3`"></src-rtyAudio> --></div></template>

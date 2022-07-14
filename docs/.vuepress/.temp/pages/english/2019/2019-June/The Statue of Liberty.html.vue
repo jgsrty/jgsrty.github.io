@@ -91,4 +91,4 @@
 <p>The Statue of Liberty quickly became a famous landmark.</p>
 <p>For many immigrants who came to the United States through New York, it was their first sight of their new country.</p>
 <p>For others, it symbolized the idea of Freedom that America was built on.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Statue of Liberty.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-June/The Statue of Liberty.mp3'"></src-rtyAudio> --></div></template>

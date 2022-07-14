@@ -53,4 +53,4 @@ And that's the end goal for biomimetic design, making products, systems, and cit
 #### And that's the end goal for biomimetic design, making products, systems, and cities functionally indistinguishable from the natural world. Life has been around on Earth for 3.8 billion years, and what designers are starting to realize is that's a lot of research and development time. The people who design our world have a lot to learn from the natural world. All they have to do is take a look.
 这就是仿生设计的最终目标，让产品、系统和城市像自然界一样循环工作。生命在地球上已经存在了38亿年了，设计师们需要学习的还有很多，他们要做的就是多去大自然里看一看。
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rty-resources2021/January/Learn%20From%20the%20Nature.mp3`"></src-rtyAudio>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rty-resources2021/January/Learn%20From%20the%20Nature.mp3`"></src-rtyAudio> -->

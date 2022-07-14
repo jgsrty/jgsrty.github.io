@@ -89,4 +89,4 @@ No.3, what is your destiny when you're done here.
 
 If you don't know the answers of any of those three questions, you're more disabled than I.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-April/Learn More on Bad Days.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-April/Learn More on Bad Days.mp3'"></src-rtyAudio> -->

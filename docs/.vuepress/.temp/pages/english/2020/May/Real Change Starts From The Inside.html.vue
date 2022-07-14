@@ -52,4 +52,4 @@
 <p>The world is like a mirror: it gives back to anyone the reflection of the thoughts in which one has strongly believed.</p>
 <p>If an egg is broken from outside force, life ends. If an egg is broken from inside force, life begins.</p>
 <p>Great things always begin from our inside as it's the way you face life that makes the difference!</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/May/Real%20Change%20Starts%20From%20The%20Inside.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/May/Real%20Change%20Starts%20From%20The%20Inside.mp3'"></src-rtyAudio> --></div></template>

@@ -70,4 +70,4 @@
 <p>We all care for each other, love and help each other. We feel we are happiest when we chat an exchange ideas with one another.</p>
 <p>With my friends, I know what to treasure, what to tolerate and what to share.</p>
 <p>I will never forget my old friends, and I'll keep making new friends.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/March/We%20Need%20Friends.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/March/We%20Need%20Friends.mp3'"></src-rtyAudio> --></div></template>

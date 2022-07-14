@@ -127,4 +127,4 @@ And that is as it should be, because Death is very likely the single best invent
 
 It is Life's change agent. It clears out the old to make for the new.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Thoughts on Death.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Thoughts on Death.mp3'"></src-rtyAudio> -->

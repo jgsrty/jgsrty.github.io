@@ -192,4 +192,4 @@ And while I didn't set a personal record that day, I did finish 30 seconds per m
 
 And so this is me. This is my average. Seventy-five days from today, I'll be in Bostom for my second time. I'm super excited about that. But keep in mind, this isn't really just about racing. I'm working really hard every day to be better in so many other ways, a better parent, a better husband, a better coach, teammate, friend, person. And I promise you, even though what you see here is very visible in terms of challenges that I face, everybody here has something that they're fighting, and it may be visible, it may not be, but please, take some time and focus on you instead or others, and I bet you can win those challenges, and really start accomplishing so many great things.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/July/Stop comparing yourself to others.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/July/Stop comparing yourself to others.mp3'"></src-rtyAudio> -->

@@ -169,4 +169,4 @@
 <p>Oh, I want something just like this</p>
 <p>Oh, I want something just like this</p>
 <p>Oh, I want something just like this</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Something%20Just%20Like%20This.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Something%20Just%20Like%20This.mp3'"></src-rtyAudio> --></div></template>

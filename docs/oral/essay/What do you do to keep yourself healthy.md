@@ -28,4 +28,4 @@ However, having a good diet alone isn't enough. Exercise is another key element 
 
 Well, that's how I keep myself healthy, by having a good balance between diet and exercise.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesoral/essay/Waht%20do%20you%20do%20to%20keep%20yourself%20healthy.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesoral/essay/Waht%20do%20you%20do%20to%20keep%20yourself%20healthy.mp3'"></src-rtyAudio> -->

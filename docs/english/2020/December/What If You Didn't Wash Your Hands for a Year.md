@@ -66,4 +66,4 @@ Here's how to do it right. Wet your hands with clean water. Turn off the tap, an
 #### Here's how to do it right. Wet your hands with clean water. Turn off the tap, and apply soap. Keep lathering your hands for at least 20 seconds. You can hum a verse of your favorite song twice, or just watch this video from this point and still the end. Make sure to wash between your fingers, under your nails, and the back of your hands. Rinse your hands with water and dry them with a clean towel. Do it regularly and stay safe.
 以下是正确的做法。先用清水打湿手，关上水龙头，涂上肥皂。保持双手冲水20秒以。你可以哼两遍你最喜欢的曲子，或者就从这里看视频直到结束。确保你的手指间、指甲下面和手背都洗干净。再用清水冲洗双手，并用干净的毛巾擦干。保持这样做保持安全。
 
-<src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/December/What%20If%20You%20Didn't%20Wash%20Your%20Hands%20for%20a%20Year.mp3`"></src-rtyAudio>
+<!-- <src-rtyAudio :src="`https://rtyxmd.gitee.io/rtyresources2020/December/What%20If%20You%20Didn't%20Wash%20Your%20Hands%20for%20a%20Year.mp3`"></src-rtyAudio> -->

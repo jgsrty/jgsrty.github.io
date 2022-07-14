@@ -115,4 +115,4 @@
 <p>But instead of worrying about evil spirits, they go from house to house asking for treats.</p>
 <p>They knock on the doors and say 'trick or treat'; the owner of each house gives candy or something special to each trick-or-treater.</p>
 <p>If they don't, they may be on the receiving end of a prank.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-August/Halloween.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-August/Halloween.mp3'"></src-rtyAudio> --></div></template>

@@ -1,3 +1,3 @@
-<template><div><src-rtyMusicList></src-rtyMusicList>
-<src-nintendoPoint></src-nintendoPoint>
+<template><div><!-- <src-rtyMusicList></src-rtyMusicList>
+<src-nintendoPoint></src-nintendoPoint> -->
 </div></template>

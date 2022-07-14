@@ -92,4 +92,4 @@ And learn a lesson in life each day that you live.
 
 That's the story of life.
 
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Story%20of%20LIfe.mp3'"></src-rtyAudio>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-November/The%20Story%20of%20LIfe.mp3'"></src-rtyAudio> -->

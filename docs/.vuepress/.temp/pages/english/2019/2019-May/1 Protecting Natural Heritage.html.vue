@@ -97,4 +97,4 @@
 <p>It concerns particularly the environment, and I know that protecting China's rich and beautiful natural heritage is important to all Chinese families.</p>
 <p>It is the mass destruction and trafficking of iconic endangered species.</p>
 <p>And it is time to talk about the growing human demand for illegal wildlife products that drive the trade and makes it profitable.</p>
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-May/Protecting Natural Heritage.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-May/Protecting Natural Heritage.mp3'"></src-rtyAudio> --></div></template>

@@ -128,4 +128,4 @@ Medina于2015年与挪威女友Skylstad交往，2017年7月Skylstad生下了他�
 <p>If I was to leave when you need me most</p>
 <p>I'm forever keeping my angel close</p>
 <!-- <src-rtyAudio :src="'https://rtyresourcesmusic.github.io/Chris Medina/What Are Words.mp3'"></src-rtyAudio> -->
-<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/What%20Are%20Words.mp3'"></src-rtyAudio></div></template>
+<!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/What%20Are%20Words.mp3'"></src-rtyAudio> --></div></template>
