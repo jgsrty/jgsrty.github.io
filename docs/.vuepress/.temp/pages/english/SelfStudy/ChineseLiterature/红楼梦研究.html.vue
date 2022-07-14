@@ -1,0 +1,592 @@
+<template><div><h1 id="红楼们研究" tabindex="-1"><a class="header-anchor" href="#红楼们研究" aria-hidden="true">#</a> 红楼们研究</h1>
+<h3 id="简述《红楼梦》情节划分的阶段" tabindex="-1"><a class="header-anchor" href="#简述《红楼梦》情节划分的阶段" aria-hidden="true">#</a> 简述《红楼梦》情节划分的阶段</h3>
+<p>根据《红楼梦》中的重大事件、重要标志，以及人物活动环境的变化，小说划分为四个情节阶段</p>
+<ul>
+<li><strong>序幕</strong>：1 - 15回</li>
+<li><strong>回光返照</strong>：6 - 22回</li>
+<li><strong>死而不僵</strong>：23 - 80回</li>
+<li><strong>烟消火灭</strong>：80 - 120回</li>
+</ul>
+<h3 id="《红楼梦》的主题" tabindex="-1"><a class="header-anchor" href="#《红楼梦》的主题" aria-hidden="true">#</a> 《红楼梦》的主题</h3>
+<p><strong>以宝玉和黛玉的爱情悲剧，以及薛宝钗的婚姻悲剧描写为线索</strong>，全面展现了封建社会末期的生活画卷，揭示了封建阶级灭亡的必然性。</p>
+<h3 id="《好了歌》" tabindex="-1"><a class="header-anchor" href="#《好了歌》" aria-hidden="true">#</a> 《好了歌》</h3>
+<p><strong>《好了歌》<strong>分为四段，分别指出世人对</strong>功名、金钱、妻妾、儿孙</strong>的痴心追求及其必然落空的结局。<br>
+<strong>《好了歌》<strong>的注解形象揭示了</strong>封建贵族阶级日趋衰亡的必然性，是预示全书主题的重要笔墨。</strong></p>
+<h3 id="木石前盟" tabindex="-1"><a class="header-anchor" href="#木石前盟" aria-hidden="true">#</a> 木石前盟</h3>
+<ul>
+<li>指的是《红楼梦》中<strong>贾宝玉与林黛玉</strong>前世的爱情盟誓</li>
+<li>木指林黛玉的前世<strong>绛珠仙草</strong>，石指贾宝玉的前世<strong>神瑛石（神瑛侍者）</strong></li>
+<li>神瑛侍者以<strong>甘露</strong>之水灌溉绛珠仙草，使其修成人形</li>
+<li>为报灌溉之恩，绛珠仙子情愿随神瑛侍者<strong>下凡历劫</strong>，将自己一世的<strong>眼泪</strong>还他</li>
+</ul>
+<h3 id="贾雨村" tabindex="-1"><a class="header-anchor" href="#贾雨村" aria-hidden="true">#</a> 贾雨村</h3>
+<p><strong>雨村</strong>是他的号，他是个<strong>追名逐利、忘恩负义</strong>的无耻<strong>官僚典型</strong></p>
+<h3 id="序幕的作用" tabindex="-1"><a class="header-anchor" href="#序幕的作用" aria-hidden="true">#</a> 序幕的作用</h3>
+<p>与正文有联系</p>
+<ul>
+<li>主题：通过甄士隐、贾雨村<strong>荣枯浮沉</strong>的故事概括了小说的主题</li>
+<li>人物：通过甄士隐、贾雨村的<strong>牵引</strong>，介绍了小说中的重要人物</li>
+<li>故事：通过甄士隐、贾雨村把<strong>天上的爱情故事搬到人间</strong></li>
+<li>艺术手法：特殊的艺术手法：<strong>艺术虚构</strong></li>
+</ul>
+<h3 id="选择题" tabindex="-1"><a class="header-anchor" href="#选择题" aria-hidden="true">#</a> 选择题</h3>
+<ul>
+<li>清代护花主人<strong>王希廉</strong>认为《红楼梦》的<strong>纲领是第五回</strong></li>
+<li>前80回写了十五年间的事情 ———— 周汝昌《<strong>红楼纪历</strong>》</li>
+<li><strong>雍正、乾隆</strong>时期，涉及贾府百年光阴，重点描写<strong>后20年</strong></li>
+<li>用<strong>花</strong>的新陈代谢表示贾府的兴衰际遇 ———— 话石主人《红楼梦<strong>精义</strong>》</li>
+<li>用<strong>一年四季</strong>表示贾府的兴衰际遇 ———— 二知道人《红楼梦<strong>说梦</strong>》</li>
+</ul>
+<h4 id="小说第一回-跛足道人疯疯癫癫唱的《好了歌》和甄士隐的《好了歌注》-被视作全书的主题歌" tabindex="-1"><a class="header-anchor" href="#小说第一回-跛足道人疯疯癫癫唱的《好了歌》和甄士隐的《好了歌注》-被视作全书的主题歌" aria-hidden="true">#</a> 小说第一回，跛足道人疯疯癫癫唱的《好了歌》和甄士隐的《好了歌注》，被视作全书的主题歌</h4>
+<h4 id="曹雪芹在小说中-借-贾雨村言-将-真事隐去" tabindex="-1"><a class="header-anchor" href="#曹雪芹在小说中-借-贾雨村言-将-真事隐去" aria-hidden="true">#</a> 曹雪芹在小说中，借“贾雨村言”将“真事隐去”</h4>
+<h3 id="秦可卿" tabindex="-1"><a class="header-anchor" href="#秦可卿" aria-hidden="true">#</a> 秦可卿</h3>
+<ul>
+<li>乳名<strong>兼美</strong>，字<strong>可卿</strong>，金陵十二钗之一，宁国府重孙<strong>贾蓉</strong>的原配夫人</li>
+<li>曹雪芹原著第十三回的回目是“秦可卿淫丧天香楼”，后来因秦可卿死前曾托梦给<strong>王熙凤</strong>，有功于贾府，故<strong>脂砚斋</strong>命曹雪芹将回目名改为“<strong>秦可卿死封龙禁尉</strong>”</li>
+</ul>
+<h3 id="第九回-闹学堂-的描写有何深意-有什么作用" tabindex="-1"><a class="header-anchor" href="#第九回-闹学堂-的描写有何深意-有什么作用" aria-hidden="true">#</a> 第九回“闹学堂”的描写有何深意？有什么作用？</h3>
+<ul>
+<li><strong>家塾、祠堂</strong>是祖宗的遗传，是孝的象征</li>
+<li>封建社会尊崇<strong>百行孝为先</strong>，宝玉等人在学堂不是发奋读书，而是随心所欲，乃至在课堂上大打出手，这是对封建统治者所提倡的<strong>孝的怀疑和挑战</strong></li>
+<li>从<strong>精神</strong>角度看，贾府已经<strong>岌岌可危</strong></li>
+</ul>
+<h3 id="小说多次描写元妃省亲时落泪的意义是什么" tabindex="-1"><a class="header-anchor" href="#小说多次描写元妃省亲时落泪的意义是什么" aria-hidden="true">#</a> 小说多次描写元妃省亲时落泪的意义是什么</h3>
+<ul>
+<li>袒露了<strong>元春丰富的感情世界</strong>，表现出人情美和人性美。【主角是啥样的人】</li>
+<li>表现了<strong>元春对自由生活、天伦之乐的向往</strong>。【她想要什么】</li>
+<li>包含了<strong>对封建皇权的批判</strong>。【批判什么】</li>
+<li>表现了<strong>曹雪芹的人性观、妇女观、以及对薄命女儿的同情</strong>。【作者观点】</li>
+</ul>
+<h3 id="弄权铁槛寺" tabindex="-1"><a class="header-anchor" href="#弄权铁槛寺" aria-hidden="true">#</a> 弄权铁槛寺</h3>
+<ul>
+<li>“王熙凤弄权铁槛寺”写的是凤姐贪图三千两银子，利用权势活活<strong>拆散和逼死一对未婚夫妻</strong>。</li>
+<li>一方面表现了王熙凤<strong>贪婪、肆意作为、好卖弄手段</strong>的侧面性格</li>
+<li>另一方面写活了一个<strong>老谋深算、钻营说事的奸尼净虚</strong>的形象</li>
+<li>真实的反映了<strong>封建社会末期的世态人情</strong></li>
+</ul>
+<h3 id="刘姥姥这一人物在小说结构上有何作用" tabindex="-1"><a class="header-anchor" href="#刘姥姥这一人物在小说结构上有何作用" aria-hidden="true">#</a> 刘姥姥这一人物在小说结构上有何作用</h3>
+<ul>
+<li>刘姥姥即是贯穿小说始终的<strong>线索人物</strong>，又具有其独立的<strong>审美价值</strong></li>
+<li>作为一个与荣国府略有瓜葛又没有来往的<strong>局外人</strong>，能够更冷静、客观、真实的观察</li>
+<li>因其是个富有<strong>阅历的老妇人</strong>，故观察的更为细致，评判更加准确</li>
+<li>充当贾府<strong>由盛而衰的见证人</strong>，在贾府出事后能够知恩图报，从而与势力的官场形成鲜明对比</li>
+</ul>
+<h4 id="小说第七回曾借焦大之口揭露宁国府的荒淫-如今生下这些畜生来-每日偷狗戏鸡-爬灰的爬灰-养小叔子的养小叔子。" tabindex="-1"><a class="header-anchor" href="#小说第七回曾借焦大之口揭露宁国府的荒淫-如今生下这些畜生来-每日偷狗戏鸡-爬灰的爬灰-养小叔子的养小叔子。" aria-hidden="true">#</a> 小说第七回曾借<strong>焦大</strong>之口揭露宁国府的荒淫：如今生下这些畜生来，每日偷狗戏鸡，爬灰的爬灰，养小叔子的养小叔子。</h4>
+<h4 id="黛玉听到的-原来姹紫嫣红开遍-是这般付与断井颓垣-出自-《牡丹亭》" tabindex="-1"><a class="header-anchor" href="#黛玉听到的-原来姹紫嫣红开遍-是这般付与断井颓垣-出自-《牡丹亭》" aria-hidden="true">#</a> 黛玉听到的“原来姹紫嫣红开遍，是这般付与断井颓垣”出自**《牡丹亭》**</h4>
+<h4 id="《红楼梦》贾府的族长是贾珍" tabindex="-1"><a class="header-anchor" href="#《红楼梦》贾府的族长是贾珍" aria-hidden="true">#</a> 《红楼梦》贾府的族长是<strong>贾珍</strong></h4>
+<h3 id="第22回出现的灯谜中" tabindex="-1"><a class="header-anchor" href="#第22回出现的灯谜中" aria-hidden="true">#</a> 第22回出现的灯谜中</h3>
+<ul>
+<li>“猴子身轻站树梢 —— 打一果名”，其作者是<strong>贾母</strong></li>
+<li>“身自端方，体自坚硬，虽不能言，有言必应 —— 打一用物，其作者是<strong>贾政</strong></li>
+</ul>
+<h3 id="百足之虫-死而不僵" tabindex="-1"><a class="header-anchor" href="#百足之虫-死而不僵" aria-hidden="true">#</a> 百足之虫，死而不僵</h3>
+<ul>
+<li>指的是第23-80回**贾府死而不僵的阶段</li>
+<li>人物主要活动地点是<strong>大观园</strong>，笔墨主要涉及<strong>经济、政治</strong>两个方面
+<ul>
+<li><strong>经济上寅吃卯粮，后手不接</strong></li>
+<li><strong>政治上不断生事，防不胜防</strong></li>
+</ul>
+</li>
+<li>死而不僵主要写了宝玉挨打、红楼二尤、抄检大观园等三件大事。</li>
+</ul>
+<h3 id="宝玉挨打的原因是什么" tabindex="-1"><a class="header-anchor" href="#宝玉挨打的原因是什么" aria-hidden="true">#</a> 宝玉挨打的原因是什么</h3>
+<p>宝玉挨打是贾府内外各种矛盾激化的结果</p>
+<ul>
+<li><strong>根本原因</strong>:<strong>正统与叛逆</strong>的矛盾，表现为贾政与贾宝玉的父子矛盾</li>
+<li><strong>远因</strong>:<strong>金钏之死</strong>，主奴矛盾</li>
+<li><strong>近因</strong>:<strong>雨村来访</strong>，两条道路的矛盾</li>
+<li><strong>导火索</strong>:忠顺王府派人到贾府寻找<strong>琪官</strong>，两个护官符集团之间的矛盾</li>
+<li><strong>催化剂</strong>:<strong>贾环</strong>告状，嫡庶之间的矛盾</li>
+</ul>
+<h3 id="红楼二尤-悲剧的思想意义主要表现在哪些方面" tabindex="-1"><a class="header-anchor" href="#红楼二尤-悲剧的思想意义主要表现在哪些方面" aria-hidden="true">#</a> &quot;红楼二尤&quot;悲剧的思想意义主要表现在哪些方面</h3>
+<ul>
+<li>尤二姐、尤三姐被迫自杀</li>
+<li>一方面反映了贾府男性主子的<strong>糜烂</strong>和女性主子的<strong>毒辣</strong></li>
+<li>另一方面表现了封建贞操观及封建势力的<strong>吃人本质</strong></li>
+<li>尤氏姐妹性格、遭遇不同，但结局类似，表现了<strong>封建社会妇女的悲剧</strong></li>
+<li>她们的悲剧，揭示了<strong>贾府主子空虚、庸俗的灵魂和腐朽的生活方式</strong>，是《红楼梦》衰败主题的重要内容</li>
+</ul>
+<h3 id="大观园各人物居住地" tabindex="-1"><a class="header-anchor" href="#大观园各人物居住地" aria-hidden="true">#</a> 大观园各人物居住地</h3>
+<ul>
+<li>贾宝玉 —— 怡红院</li>
+<li>林黛玉 —— 潇湘馆</li>
+<li>薛宝钗 —— 蘅芜苑</li>
+<li>贾探春 —— 秋爽斋</li>
+<li>贾迎春 —— 紫菱洲</li>
+<li>贾惜春 —— 藕香榭</li>
+<li>李纨 —— 稻香村</li>
+<li>妙玉 —— 栊翠庵</li>
+<li>史湘云 —— 枕霞阁</li>
+</ul>
+<h4 id="贾宝玉为晴雯所写的悼词-《芙蓉女儿诔》-是红楼梦全部诗词中最长的一篇" tabindex="-1"><a class="header-anchor" href="#贾宝玉为晴雯所写的悼词-《芙蓉女儿诔》-是红楼梦全部诗词中最长的一篇" aria-hidden="true">#</a> 贾宝玉为晴雯所写的悼词**《芙蓉女儿诔》**，是红楼梦全部诗词中最长的一篇</h4>
+<h4 id="高鹗续书中-家道复出-兰桂齐芳-指的是贾珠之子贾兰-宝玉之子贾桂均飞黄腾达" tabindex="-1"><a class="header-anchor" href="#高鹗续书中-家道复出-兰桂齐芳-指的是贾珠之子贾兰-宝玉之子贾桂均飞黄腾达" aria-hidden="true">#</a> 高鹗续书中“家道复出，兰桂齐芳”指的是<strong>贾珠</strong>之子贾兰，宝玉之子贾桂均飞黄腾达</h4>
+<h3 id="贾府衰败的主要原因是什么" tabindex="-1"><a class="header-anchor" href="#贾府衰败的主要原因是什么" aria-hidden="true">#</a> 贾府衰败的主要原因是什么</h3>
+<ul>
+<li><strong>钱财</strong>越来越少，经济是权势的基础，经济崩溃必然导致权势丧失</li>
+<li>贾府<strong>主子</strong>资质平庸，缺少<strong>才干</strong>，升不了<strong>大官</strong>，影响了<strong>权势</strong></li>
+<li><strong>林家、史家、薛家</strong>早在贾府垮台之前就寿终正寝了，这对贾府极为不利，势单力薄必然崩溃</li>
+<li><strong>元妃早逝</strong>，后台倒塌，使贾府元气大伤，否则不至于<strong>抄家</strong></li>
+</ul>
+<h3 id="贾宝玉叛逆思想的主要表现" tabindex="-1"><a class="header-anchor" href="#贾宝玉叛逆思想的主要表现" aria-hidden="true">#</a> 贾宝玉叛逆思想的主要表现</h3>
+<ul>
+<li>反对<strong>仕途经济</strong>，反对仕途经济使宝黛爱情的基础</li>
+<li>反对<strong>封建婚姻制度</strong>，面对“金玉良缘”和“木石前盟”的选择，宝玉始终坚持自己的价值取向，不向封建家长屈服</li>
+<li>反对<strong>封建礼教</strong>，《芙蓉女儿诔》中矛头直指迫害晴雯致死的封建家长</li>
+</ul>
+<h3 id="贾宝玉新思想的主要表现" tabindex="-1"><a class="header-anchor" href="#贾宝玉新思想的主要表现" aria-hidden="true">#</a> 贾宝玉新思想的主要表现</h3>
+<ul>
+<li>宝玉脑中的<strong>女尊男卑</strong>思想，是一种新思想</li>
+<li>宝玉提倡<strong>主奴平等</strong>，也是一种新思想的体现</li>
+<li>宝玉尊重<strong>人的价值</strong>，放任自己的<strong>个性</strong>，认为人的欲望不该被<strong>压抑</strong></li>
+</ul>
+<h3 id="《红楼梦》关于爱情描写的作用表现在哪些方面" tabindex="-1"><a class="header-anchor" href="#《红楼梦》关于爱情描写的作用表现在哪些方面" aria-hidden="true">#</a> 《红楼梦》关于爱情描写的作用表现在哪些方面</h3>
+<ul>
+<li>表现了<strong>反对封建主题，歌颂叛逆爱情</strong></li>
+<li>烘托<strong>封建贵族家庭的衰败</strong></li>
+<li>用爱情描写掩盖了某些<strong>政治斗争</strong></li>
+</ul>
+<h3 id="《红楼梦》是怎样借助爱情笔墨掩盖政治描写的" tabindex="-1"><a class="header-anchor" href="#《红楼梦》是怎样借助爱情笔墨掩盖政治描写的" aria-hidden="true">#</a> 《红楼梦》是怎样借助爱情笔墨掩盖政治描写的</h3>
+<ul>
+<li>故意强调“<strong>擅风情，秉月貌</strong>，便是败家的根本”，借以隐蔽<strong>四大家族真正衰败的原因</strong></li>
+<li>作者故意用<strong>爱情和两性关系</strong>的描写来隐蔽某些重大的<strong>政治事件</strong></li>
+<li>小说往往利用<strong>爱情纠葛</strong>，架枪带棒地<strong>抨击时政</strong></li>
+</ul>
+<h3 id="高鹗续书的成功之处" tabindex="-1"><a class="header-anchor" href="#高鹗续书的成功之处" aria-hidden="true">#</a> 高鹗续书的成功之处</h3>
+<ul>
+<li><strong>一系列重要人物的死亡，元妃逝世，后台倒塌。黛玉焚稿断痴情。贾母归天</strong>，最为贾府最高统治者，其死亡说明封建宗法偶像失灵。<strong>王熙凤病死</strong>，代表贾府顶梁柱的折断。这些人物的死亡侧面表现了贾府的破败</li>
+<li>写到了<strong>抄家</strong>，预示着<strong>衰败的开始</strong>，符合曹雪芹原意</li>
+<li><strong>奴隶的逃跑反抗</strong>，何三带人夜劫贾府</li>
+<li><strong>贾宝玉出家</strong>，意味着贾府后继无人</li>
+</ul>
+<h3 id="高鹗续书的局限性" tabindex="-1"><a class="header-anchor" href="#高鹗续书的局限性" aria-hidden="true">#</a> 高鹗续书的局限性</h3>
+<ul>
+<li><strong>“家道复出，兰桂齐芳”</strong>，抄没的家产被发还，革去的世职得到恢复，贾珠之子贾兰与宝玉之子贾桂都飞黄腾达</li>
+<li><strong>宝玉中举</strong>，宝玉反抗仕途经济，写他中举有违人物性格逻辑</li>
+<li>有些人物结局不符合曹雪芹愿意，最突出的是<strong>王熙凤</strong>，其判词：凡鸟偏从末世来，都知爱慕此生才。一从二令三人木，哭向金陵事更哀。尽管学术界对此有三十余种解释，但绝大多数同意王熙凤日后<strong>被休、哭向金陵娘家</strong>一说</li>
+</ul>
+<h3 id="兰桂齐芳" tabindex="-1"><a class="header-anchor" href="#兰桂齐芳" aria-hidden="true">#</a> 兰桂齐芳</h3>
+<ul>
+<li>兰指<strong>贾兰</strong>，是<strong>贾珠和李纨</strong>之子</li>
+<li>桂指<strong>贾桂</strong>，是<strong>贾宝玉与宝钗之子</strong></li>
+<li>他们后来都做了高官，使家道复兴</li>
+</ul>
+<h3 id="红楼梦的地位" tabindex="-1"><a class="header-anchor" href="#红楼梦的地位" aria-hidden="true">#</a> 红楼梦的地位</h3>
+<ul>
+<li>红楼梦是中国古典小说中最伟大的一部杰作</li>
+<li>在世界文学史上当之无愧的占据着一席重要的地位</li>
+<li>《红楼梦》被誉为<strong>封建社会的百科全书</strong>，是一部浓缩的<strong>二十四史</strong></li>
+<li>《红楼梦》是中国古代文学研究的重要对象，并形成一门<strong>红学</strong></li>
+</ul>
+<h3 id="《红楼梦》的两大特点" tabindex="-1"><a class="header-anchor" href="#《红楼梦》的两大特点" aria-hidden="true">#</a> 《红楼梦》的两大特点</h3>
+<ul>
+<li><strong>伟大</strong>，其伟大在于写的最好，影响最大</li>
+<li><strong>复杂</strong>，其复杂在于争议最多，最难理解</li>
+</ul>
+<h3 id="《红楼梦》产生的时代背景" tabindex="-1"><a class="header-anchor" href="#《红楼梦》产生的时代背景" aria-hidden="true">#</a> 《红楼梦》产生的时代背景</h3>
+<ul>
+<li>大背景：康熙、雍正、乾隆年间</li>
+<li>具体：乾隆前期</li>
+</ul>
+<h4 id="字字看来都是血-十年辛苦不寻常-————-曹雪芹对《红楼梦》的自评" tabindex="-1"><a class="header-anchor" href="#字字看来都是血-十年辛苦不寻常-————-曹雪芹对《红楼梦》的自评" aria-hidden="true">#</a> “字字看来都是血，十年辛苦不寻常” ———— 曹雪芹对《红楼梦》的自评</h4>
+<h3 id="《红楼梦》产生的政治背景" tabindex="-1"><a class="header-anchor" href="#《红楼梦》产生的政治背景" aria-hidden="true">#</a> 《红楼梦》产生的政治背景</h3>
+<ul>
+<li>封建帝王权力的不断扩大</li>
+<li>官僚阶层的集体堕落</li>
+<li>皇位的争夺变得极为可怕</li>
+<li>政治保守、闭关锁国、文字狱、雍正御制《朋党论》</li>
+</ul>
+<h3 id="《红楼梦》产生的经济背景" tabindex="-1"><a class="header-anchor" href="#《红楼梦》产生的经济背景" aria-hidden="true">#</a> 《红楼梦》产生的经济背景</h3>
+<ul>
+<li>主要分两个方面，农业与手工业和商业</li>
+<li>贫富不均导致的农民起义</li>
+</ul>
+<h3 id="《红楼梦》的作者" tabindex="-1"><a class="header-anchor" href="#《红楼梦》的作者" aria-hidden="true">#</a> 《红楼梦》的作者</h3>
+<ul>
+<li>袁枚的**《随园诗话》**《红楼梦》作者为曹雪芹</li>
+<li>最早在《题红楼梦》的《小引》中记载，从而明确《红楼梦》作者是曹雪芹的是<strong>明义</strong></li>
+<li><strong>永忠</strong>记载《红楼梦》作者为曹雪芹，“传神文笔足千秋，不是情人不泪流”</li>
+</ul>
+<h3 id="曹雪芹家世" tabindex="-1"><a class="header-anchor" href="#曹雪芹家世" aria-hidden="true">#</a> 曹雪芹家世</h3>
+<ul>
+<li>曾祖父曹玺（江宁织造）妻孙氏是康熙皇帝保姆</li>
+<li>曹頫，因骚扰驿站，亏空制织造款被抄家</li>
+</ul>
+<h3 id="曹雪芹一生的三个阶段" tabindex="-1"><a class="header-anchor" href="#曹雪芹一生的三个阶段" aria-hidden="true">#</a> 曹雪芹一生的三个阶段</h3>
+<ul>
+<li>第一阶段是曹雪芹抄家前的幼年时期，生活在南京，雍正元年到雍正五年</li>
+<li>第二阶段是抄家后迁居北京时期，从雍正六年到乾隆五年</li>
+<li>第三阶段是曹家再次遭受打击、彻底衰落，由城内迁居西山。《红楼梦》也是创作于这一时期，即乾隆六年到乾隆二十八年</li>
+</ul>
+<h3 id="脂评本" tabindex="-1"><a class="header-anchor" href="#脂评本" aria-hidden="true">#</a> 脂评本</h3>
+<ul>
+<li>脂评本是<strong>乾隆年间</strong>的手抄本</li>
+<li>有<strong>五种形式的批注：开首总批、眉批、夹批、文中双行批注、回末总批</strong>、</li>
+<li>脂评本亦称脂本，是指附有脂砚斋评语的抄本，脂指的是脂砚斋</li>
+<li>脂砚斋是<strong>集体笔名，脂砚斋最多，畸笏叟次之</strong></li>
+</ul>
+<h3 id="脂评本的特点" tabindex="-1"><a class="header-anchor" href="#脂评本的特点" aria-hidden="true">#</a> 脂评本的特点</h3>
+<ul>
+<li>底本书名《脂砚斋重评石头记》</li>
+<li>附有大量脂砚斋等人的评语</li>
+<li>都是抄本</li>
+<li>仅有八十回</li>
+</ul>
+<h3 id="脂评本之甲戌本" tabindex="-1"><a class="header-anchor" href="#脂评本之甲戌本" aria-hidden="true">#</a> 脂评本之甲戌本</h3>
+<ul>
+<li>又称<strong>脂铨本，脂残本，现存16回，该抄本脂评最多，最接近作者手稿</strong>，书名《脂砚斋重评石头记》</li>
+<li>胡适深信甲戌本是最古的本子</li>
+</ul>
+<h3 id="脂评本之已卯本" tabindex="-1"><a class="header-anchor" href="#脂评本之已卯本" aria-hidden="true">#</a> 脂评本之已卯本</h3>
+<ul>
+<li>又称<strong>脂怡本</strong>，书名《脂砚斋重评石头记》</li>
+<li>该抄本与庚辰本大体相同，现藏于北京中国博物馆</li>
+</ul>
+<h3 id="脂评本之庚辰本" tabindex="-1"><a class="header-anchor" href="#脂评本之庚辰本" aria-hidden="true">#</a> 脂评本之庚辰本</h3>
+<ul>
+<li>又称<strong>脂京本</strong>，书名《脂砚斋重评石头记》</li>
+<li>现存<strong>78</strong>回</li>
+<li>1933年归北京大学读书馆</li>
+</ul>
+<h3 id="脂评本之列宁格勒本" tabindex="-1"><a class="header-anchor" href="#脂评本之列宁格勒本" aria-hidden="true">#</a> 脂评本之列宁格勒本</h3>
+<ul>
+<li>又称<strong>脂亚本</strong>，书名《石头记》</li>
+<li>该抄本由<strong>帕维尔·库尔梁德采夫</strong>于清道光年间带回俄国，藏于前苏联<strong>亚洲人民研究院列宁格勒分院</strong></li>
+</ul>
+<h3 id="脂评本之有正本" tabindex="-1"><a class="header-anchor" href="#脂评本之有正本" aria-hidden="true">#</a> 脂评本之有正本</h3>
+<ul>
+<li>又称戚序本，脂戚本，书名《石头记》</li>
+<li>现存80回，卷首有<strong>戚寥生的《石头记序》</strong></li>
+</ul>
+<h3 id="脂评本之蒙古王府本" tabindex="-1"><a class="header-anchor" href="#脂评本之蒙古王府本" aria-hidden="true">#</a> 脂评本之蒙古王府本</h3>
+<ul>
+<li>又称蒙府本，脂蒙本，书名《石头记》</li>
+<li>清蒙古王府原藏，现藏于北京图书馆</li>
+</ul>
+<h3 id="脂评本之南京图书馆藏本-靖应鲲藏本" tabindex="-1"><a class="header-anchor" href="#脂评本之南京图书馆藏本-靖应鲲藏本" aria-hidden="true">#</a> 脂评本之南京图书馆藏本 &amp; 靖应鲲藏本</h3>
+<ul>
+<li>南京图书馆藏本
+<ul>
+<li>又称脂宁本，书名《石头记》，现藏于南京图书馆</li>
+</ul>
+</li>
+<li>靖应鲲藏本
+<ul>
+<li>又称脂靖本，书名《石头记》，此本不慎迷失</li>
+</ul>
+</li>
+</ul>
+<h3 id="脂评本之甲辰本" tabindex="-1"><a class="header-anchor" href="#脂评本之甲辰本" aria-hidden="true">#</a> 脂评本之甲辰本</h3>
+<ul>
+<li>又称脂晋本，脂梦本。书名《红楼梦》，存80回缺半页。</li>
+<li><strong>是现存抄本中最完整的抄本</strong></li>
+<li>正文接近甲戌本，这是《红楼梦》<strong>从批注转到白文本的过渡本。</strong></li>
+<li>现藏于北京图书馆，<strong>程刻本主要据此</strong></li>
+</ul>
+<h3 id="脂评本分类" tabindex="-1"><a class="header-anchor" href="#脂评本分类" aria-hidden="true">#</a> 脂评本分类</h3>
+<ul>
+<li>原本手抄本
+<ul>
+<li>甲戌本、已卯本、庚辰本、列宁格勒本</li>
+</ul>
+</li>
+<li>加工整理的抄本
+<ul>
+<li>正本、南京图书馆藏本、蒙古王府本、靖应鲲藏本</li>
+</ul>
+</li>
+<li>曾山篡改的抄本
+<ul>
+<li>甲辰本、科学院藏本、已酉本、郑振铎藏本</li>
+</ul>
+</li>
+</ul>
+<h3 id="程刻本" tabindex="-1"><a class="header-anchor" href="#程刻本" aria-hidden="true">#</a> 程刻本</h3>
+<ul>
+<li>程刻本又称程本，由<strong>程伟元、高鹗</strong>将原文80回手抄本补足120回后印行的版本</li>
+</ul>
+<h3 id="程刻本的特点" tabindex="-1"><a class="header-anchor" href="#程刻本的特点" aria-hidden="true">#</a> 程刻本的特点</h3>
+<ul>
+<li>书名《红楼梦》</li>
+<li>没有脂砚斋等人的批语</li>
+<li>都是刻本</li>
+<li>都是120回</li>
+</ul>
+<h3 id="红楼梦人物系统" tabindex="-1"><a class="header-anchor" href="#红楼梦人物系统" aria-hidden="true">#</a> 红楼梦人物系统</h3>
+<ul>
+<li>情情：黛玉、晴雯、尤三姐
+<ul>
+<li>指林黛玉等用情专一，只对那些又情于自己的表示眷恋和关怀</li>
+</ul>
+</li>
+<li>情不情：贾宝玉
+<ul>
+<li>贾宝玉不但用情于对自己有情的人，还用情于对自己无情的人和无知者</li>
+</ul>
+</li>
+</ul>
+<h3 id="宝玉论" tabindex="-1"><a class="header-anchor" href="#宝玉论" aria-hidden="true">#</a> 宝玉论</h3>
+<ul>
+<li>古今未有只一人</li>
+<li>童心的灵光
+<ul>
+<li>受<strong>李贽</strong>童心说影响，“夫童心者，绝假纯真，最初一念之本心也”</li>
+</ul>
+</li>
+<li>弱的天才
+<ul>
+<li>与宝玉的<strong>深沉性</strong>相关</li>
+<li>蕴藏在他<strong>丰富复杂的情感内容之中</strong></li>
+<li>体现于其<strong>内在情感的焦点</strong> ——— <strong>“痴”上</strong></li>
+</ul>
+</li>
+<li>脂砚斋评宝玉：古今未有之一人</li>
+</ul>
+<h3 id="宝玉童心说的表现" tabindex="-1"><a class="header-anchor" href="#宝玉童心说的表现" aria-hidden="true">#</a> 宝玉童心说的表现</h3>
+<ul>
+<li><strong>对女性“清净洁白”的美好世界的维护</strong></li>
+<li><strong>与世俗社会扼杀人性中最美好感情的礼法的抵触与对抗</strong></li>
+<li><strong>对被社会所污染、毁灭的美好事物的挽救与挚爱</strong></li>
+</ul>
+<h3 id="宝玉的三点局限" tabindex="-1"><a class="header-anchor" href="#宝玉的三点局限" aria-hidden="true">#</a> 宝玉的三点局限</h3>
+<ul>
+<li><strong>意淫、泛爱、移情</strong></li>
+</ul>
+<h3 id="黛玉性格的丰富性与复杂性" tabindex="-1"><a class="header-anchor" href="#黛玉性格的丰富性与复杂性" aria-hidden="true">#</a> 黛玉性格的丰富性与复杂性</h3>
+<ul>
+<li><strong>叛逆精神与高尚境界</strong></li>
+<li><strong>敏感、多疑和伤感</strong></li>
+<li><strong>娇贵、清高的贵族气味</strong></li>
+<li><strong>诗性的芳馨</strong></li>
+</ul>
+<h3 id="黛玉的性格演变" tabindex="-1"><a class="header-anchor" href="#黛玉的性格演变" aria-hidden="true">#</a> 黛玉的性格演变</h3>
+<ul>
+<li>赠绢：<strong>宝黛定情的标志，使她神痴心醉</strong>
+<ul>
+<li>对宝玉：放下疑虑、猜度</li>
+<li>对宝钗：高兴、松懈</li>
+</ul>
+</li>
+<li>忆绢：<strong>黛玉性格转变的重要阶段，使她沉吟思索</strong>
+<ul>
+<li>对既有社会秩序的幽怨、怀疑和愤恨</li>
+</ul>
+</li>
+<li>焚绢：<strong>决绝</strong>
+<ul>
+<li>在反叛的道路上用自己的生命做最后的抗议</li>
+</ul>
+</li>
+</ul>
+<h3 id="《葬花辞》" tabindex="-1"><a class="header-anchor" href="#《葬花辞》" aria-hidden="true">#</a> 《葬花辞》</h3>
+<ul>
+<li>二十七回<strong>林黛玉葬花</strong>时所作的一首古体诗，是黛玉<strong>感叹身世遭遇</strong>的全部<strong>哀音</strong>的代表，也是曹雪芹借以塑造这一艺术形象，表现其<strong>性格特征</strong>的重要部分。</li>
+</ul>
+<h3 id="金玉良缘" tabindex="-1"><a class="header-anchor" href="#金玉良缘" aria-hidden="true">#</a> 金玉良缘</h3>
+<ul>
+<li>象征的是薛宝钗的<strong>金锁</strong>和贾宝玉的<strong>通灵宝玉</strong>，用来借指姻缘前世注定的说法</li>
+</ul>
+<h3 id="薛宝钗的性格特征" tabindex="-1"><a class="header-anchor" href="#薛宝钗的性格特征" aria-hidden="true">#</a> 薛宝钗的性格特征</h3>
+<ul>
+<li><strong>注重现实的功利</strong></li>
+<li><strong>世故而虚伪</strong></li>
+<li><strong>冷静甚至冷酷的高度理性特征</strong></li>
+</ul>
+<h3 id="薛宝钗的性格矛盾" tabindex="-1"><a class="header-anchor" href="#薛宝钗的性格矛盾" aria-hidden="true">#</a> 薛宝钗的性格矛盾</h3>
+<ul>
+<li><strong>做人与恋爱的矛盾</strong>
+<ul>
+<li>做人：以实现金玉良缘为目标，笼络、奉承主宰宝玉婚姻或与宝玉关系亲密之人（以做人为目标，而不是恋爱）</li>
+<li>恋爱：看到宝玉对仕途经济的反感和宝玉的才华、柔情与细心</li>
+</ul>
+</li>
+<li><strong>冷与热的矛盾</strong>
+<ul>
+<li>表面冰冷之下对功利的热衷</li>
+<li>虚伪、世故之下对爱与理解的渴求</li>
+</ul>
+</li>
+<li><strong>儒与道的矛盾</strong>
+<ul>
+<li>用道家的装愚守拙来掩盖自己的才华横溢</li>
+<li>有道家注重的朴素简洁。又注重美丽，冷中放香</li>
+<li>凡事追求合理合法。也会与家人怄气、乃至任性</li>
+</ul>
+</li>
+</ul>
+<h3 id="凤姐论" tabindex="-1"><a class="header-anchor" href="#凤姐论" aria-hidden="true">#</a> 凤姐论</h3>
+<ul>
+<li><strong>都知爱慕此生才</strong>
+<ul>
+<li>经世济国之才：协理宁国府</li>
+<li>语言天才：逗贾母开心</li>
+<li>生存智慧：对上特殊的恩宠和宽容、对下是权威</li>
+</ul>
+</li>
+<li><strong>机关算尽太聪明</strong>
+<ul>
+<li>权和利：贪婪的欲念毁灭了内心中美好的东西</li>
+<li>超出道德的底线：对别的生命的漠视和对异己的无情绞杀</li>
+</ul>
+</li>
+<li><strong>凡鸟偏从末世来</strong>
+<ul>
+<li>指凤姐生于<strong>末世</strong>的不幸，风指的是<strong>王熙凤</strong>，从“凤”字拆出来“凡鸟”二字比喻<strong>庸才</strong>，借用<strong>吕安对喜</strong>的典故点出“凤”，自然是种讥讽</li>
+</ul>
+</li>
+</ul>
+<h3 id="《红楼梦》诗体小说的特征" tabindex="-1"><a class="header-anchor" href="#《红楼梦》诗体小说的特征" aria-hidden="true">#</a> 《红楼梦》诗体小说的特征</h3>
+<ul>
+<li>曹雪芹以<strong>诗人式的创作冲动</strong>投入创作</li>
+<li>在《红楼梦》中<strong>经营了诸多诗的意象</strong></li>
+<li>把<strong>诗性的高雅和小说的俗性相融合</strong>，使中国古典小说获得了真正的**“诗魂”**</li>
+</ul>
+<h3 id="《红楼梦》的矛盾主线" tabindex="-1"><a class="header-anchor" href="#《红楼梦》的矛盾主线" aria-hidden="true">#</a> 《红楼梦》的矛盾主线</h3>
+<ul>
+<li>以贾宝玉、林黛玉为代表的具有初步民主思想的<strong>封建叛逆者</strong>，和以贾政、薛宝钗为代表的<strong>封建卫道士</strong>之间的矛盾</li>
+<li>以晴雯、鸳鸯等人为代表的<strong>被压迫的奴隶</strong>，和以贾母、王夫人、王熙凤等人为代表的<strong>封建统治阶级</strong>之间的矛盾</li>
+<li>封建阶级内部<strong>尔虞我诈、勾心斗角、争权夺利</strong>的矛盾</li>
+</ul>
+<h3 id="《红楼梦》的叙事艺术" tabindex="-1"><a class="header-anchor" href="#《红楼梦》的叙事艺术" aria-hidden="true">#</a> 《红楼梦》的叙事艺术</h3>
+<ul>
+<li><strong>复现与辐射</strong>
+<ul>
+<li>复现：多次描绘同一类生活景观与画面，从而表现出蕴含的意义，让读者不断感受到新貌、新声、新色、新线</li>
+<li>辐射：从生活现象的某个点出发，对生活进行延展性的描绘</li>
+</ul>
+</li>
+<li><strong>流动与切入</strong>
+<ul>
+<li>流动：注意考察事件之间的相互勾连、相互连接的关系，讲究起承转合</li>
+<li>切入：突然中止对前一幅生活画面的描写，直接转向后一幅画面，空间转换、情节紧凑、对比强烈</li>
+</ul>
+</li>
+<li><strong>融化与凝聚</strong>
+<ul>
+<li>融化：在艺术描写中以分散的笔墨，把对人物与事件的描写放在复杂的生活中去叙述，使读者得出总体印象</li>
+<li>凝聚：集中笔墨，对特定人与事进行突出的描写，使其在读者心中留下深刻的印象</li>
+</ul>
+</li>
+</ul>
+<h3 id="《红楼梦》对传统悲剧的突破表现在哪些方面" tabindex="-1"><a class="header-anchor" href="#《红楼梦》对传统悲剧的突破表现在哪些方面" aria-hidden="true">#</a> 《红楼梦》对传统悲剧的突破表现在哪些方面</h3>
+<ul>
+<li>价值的毁灭
+<ul>
+<li>曹雪芹实事求是的运用了<strong>价值观念</strong>，比前人更准确的把握了<strong>悲剧艺术的本质内核</strong></li>
+<li>确认了悲剧人物的复杂性，让不同质量的<strong>人生有价值的东西</strong>遭到了不同形式的毁灭</li>
+</ul>
+</li>
+<li>真实性与必然性
+<ul>
+<li>把被封建统治阶级颠倒了的<strong>真和假</strong>，重新颠倒过来</li>
+<li>打破“团圆主义”，指出结局是<strong>白茫茫大地真干净</strong></li>
+<li>在<strong>残酷的现实环境中</strong>，表现<strong>悲剧人物的死亡</strong></li>
+</ul>
+</li>
+<li>几乎无事的悲剧
+<ul>
+<li>写社会上<strong>常有的人和事</strong>，这是《红楼梦》考察生活、精选题材的特征</li>
+<li>展开《红楼梦》的<strong>悲剧长卷</strong>，看到的是一个<strong>贵族世家的日常生活图景</strong></li>
+<li>很少有大起大落、发生在刹那间的毁灭，却有着<strong>不间断、十分隐秘的折磨</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="清代" tabindex="-1"><a class="header-anchor" href="#清代" aria-hidden="true">#</a> 清代</h3>
+<ul>
+<li>清嘉庆年间，**《京都竹枝词》有“开谈不说红楼梦，读尽诗书也枉然”**的说法</li>
+<li>最早<strong>查禁</strong>《红楼梦》的是嘉庆年间<strong>玉麟</strong></li>
+<li><strong>润东漱石主人</strong>称《红楼梦》<strong>“引人入斜径”</strong></li>
+<li>《红楼梦》屡次被官方禁毁，一度被书商换上**《金玉缘》**的名字</li>
+</ul>
+<h3 id="近代" tabindex="-1"><a class="header-anchor" href="#近代" aria-hidden="true">#</a> 近代</h3>
+<ul>
+<li><strong>黄遵宪</strong>给予了《红楼梦》这样的评价“开天辟地，从古至今第一部好小说，当与日月争光，万古不磨者”</li>
+<li><strong>侠人</strong>在**《小说丛话》**中认为，<strong>曹雪芹与龚自珍</strong>可并称为“吾国近百年来的大思想家”</li>
+</ul>
+<h3 id="现当代" tabindex="-1"><a class="header-anchor" href="#现当代" aria-hidden="true">#</a> 现当代</h3>
+<ul>
+<li><strong>胡适</strong>把<strong>考证</strong>的方法引入《红楼梦》的研究</li>
+<li>王国维把西方理论引入到《红楼梦》的研究中，具有划时代的意义</li>
+<li>新中国成立以来，<strong>俞平伯以红学家</strong>的身份留名文史</li>
+</ul>
+<h3 id="海外" tabindex="-1"><a class="header-anchor" href="#海外" aria-hidden="true">#</a> 海外</h3>
+<ul>
+<li>乾隆58年，《红楼梦》流传到<strong>日本长崎</strong>，这是已知流传到国外最早的文字记载</li>
+<li><strong>大高岩</strong>对《红楼梦》的研究和评价是<strong>最全面、最系统</strong>的</li>
+<li>自署<strong>红楼梦主</strong>的是<strong>伊藤漱平</strong></li>
+<li>朝鲜语著名古典小说**《玉楼梦》《九云记》**就是在《红楼梦》的影响下诞生的</li>
+<li><strong>帕勒休克</strong>翻译了第一部<strong>全译本《红楼梦》</strong>，也是<strong>欧洲国家出版的第一个全译本</strong></li>
+</ul>
+<h3 id="《红楼梦》在小说创作方面对后代的影响包括哪些方面" tabindex="-1"><a class="header-anchor" href="#《红楼梦》在小说创作方面对后代的影响包括哪些方面" aria-hidden="true">#</a> 《红楼梦》在小说创作方面对后代的影响包括哪些方面</h3>
+<ul>
+<li><strong>续书</strong>的大量涌现</li>
+<li>18世纪末至19世纪80年代，续书多达<strong>三十多种</strong></li>
+<li><strong>模仿之作</strong>的不断涌现</li>
+<li>魏秀仁的**《花月痕》**在写作上明显受到了《红楼梦》的影响</li>
+</ul>
+<h3 id="关于旧红学" tabindex="-1"><a class="header-anchor" href="#关于旧红学" aria-hidden="true">#</a> 关于旧红学</h3>
+<ul>
+<li>指的是五四时期以前，关于《红楼梦》的<strong>评点、索引和题咏</strong>，以<strong>评点派</strong>最具代表性</li>
+<li>脂砚斋的《脂砚斋重评石头记》以其<strong>史料</strong>价值而非艺术价值著称</li>
+<li>评点家代表
+<ul>
+<li><strong>王希廉的《红楼梦评注》</strong></li>
+<li><strong>姚燮的《读红楼梦纲领》</strong></li>
+<li><strong>张新之的《妙复轩评石头记》</strong></li>
+</ul>
+</li>
+<li>清宗室诗人<strong>永忠</strong>评《红楼梦》“传神文笔足千秋，不是情人不泪流”</li>
+</ul>
+<h3 id="护花主人王希廉" tabindex="-1"><a class="header-anchor" href="#护花主人王希廉" aria-hidden="true">#</a> 护花主人王希廉</h3>
+<ul>
+<li>第五回为纲领</li>
+<li>真假二字为全书关键</li>
+<li>尊薛抑林</li>
+</ul>
+<h3 id="索引派" tabindex="-1"><a class="header-anchor" href="#索引派" aria-hidden="true">#</a> 索引派</h3>
+<ul>
+<li>20世纪初红学研究形成的派别</li>
+<li>影响较大的有：清世祖与董鄂妃说、<strong>明珠家事说</strong>以及政治小说</li>
+<li>代表人物
+<ul>
+<li>王梦阮、沈瓶庵的**《红楼梦索引》**，写清世祖与董鄂妃的爱情故事</li>
+<li><strong>蔡元培的《石头记索引》</strong>，认为《红楼梦》是<strong>康熙朝政治小说</strong></li>
+<li>邓狂言的《红楼梦释真》</li>
+</ul>
+</li>
+<li>以上三派被胡适称为<strong>晚清索引三派</strong></li>
+</ul>
+<h3 id="新红学" tabindex="-1"><a class="header-anchor" href="#新红学" aria-hidden="true">#</a> 新红学</h3>
+<ul>
+<li>考证派</li>
+<li>创始人为<strong>胡适、俞平伯、顾颉刚</strong></li>
+<li>新红学的概念最早是由顾颉刚为俞平伯写序的时候提出来的</li>
+</ul>
+<h3 id="新红学考证派的研究方向" tabindex="-1"><a class="header-anchor" href="#新红学考证派的研究方向" aria-hidden="true">#</a> 新红学考证派的研究方向</h3>
+<ul>
+<li>关于《红楼梦》作者及其生平家世的研究被称为<strong>曹学</strong></li>
+<li>对《红楼梦》版本的研究被称为<strong>版本学</strong></li>
+<li>对脂砚斋评语的研究又叫<strong>脂学</strong></li>
+<li>对后40回佚稿的研究又称<strong>探佚学</strong></li>
+</ul>
+<h3 id="胡适的研究贡献" tabindex="-1"><a class="header-anchor" href="#胡适的研究贡献" aria-hidden="true">#</a> 胡适的研究贡献</h3>
+<ul>
+<li>肯定《红楼梦》的作者是曹雪芹</li>
+<li>从版本方面考证《红楼梦》是没有完成的作品，认为后40回是高鹗的续作</li>
+<li>用治经学、史学的态度来治《红楼梦》，把考证的方法运用于小说的研究</li>
+</ul>
+<h3 id="俞平伯把红学研究分为三个部分" tabindex="-1"><a class="header-anchor" href="#俞平伯把红学研究分为三个部分" aria-hidden="true">#</a> 俞平伯把红学研究分为三个部分</h3>
+<ul>
+<li>王国维代表的批评派</li>
+<li>蔡元培代表的索引派</li>
+<li>胡适代表的考证派</li>
+</ul>
+<h4 id="周汝昌-考证派红学的集大成者" tabindex="-1"><a class="header-anchor" href="#周汝昌-考证派红学的集大成者" aria-hidden="true">#</a> 周汝昌，考证派红学的集大成者</h4>
+<h3 id="批评派" tabindex="-1"><a class="header-anchor" href="#批评派" aria-hidden="true">#</a> 批评派</h3>
+<ul>
+<li><strong>王国维的《红楼梦评论》<strong>第一次将</strong>西方美学的批评理论</strong>引入到中国古典小说的研究领域，以德国哲学家<strong>叔本华</strong>的理论作为他的哲学和美学观念基础</li>
+<li><strong>吴宓</strong>的**《红楼梦新谈》<strong>，用</strong>亚里士多德的悲剧理论**解释《红楼梦》的悲剧</li>
+<li>佩之的**《红楼梦新评》<strong>用</strong>西方社会学**来解说《红楼梦》</li>
+<li>陈觉玄提出“四大家族”的说法</li>
+</ul>
+</div></template>

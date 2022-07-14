@@ -11,7 +11,7 @@
         v-if="item.type === 'group'"
         :item="item"
         :open="i === openGroupIndex"
-        :collapsable="item.collapsable || item.collapsible"
+        :collapsible="item.collapsible || item.collapsible"
         :depth="depth"
         @toggle="toggleGroup(i)"
       />

@@ -1,0 +1,133 @@
+<template><div><h1 id="那些飘在眼前的东西是什么" tabindex="-1"><a class="header-anchor" href="#那些飘在眼前的东西是什么" aria-hidden="true">#</a> 那些飘在眼前的东西是什么</h1>
+<h3 id="what-are-those-floaty-things-in-your-eye" tabindex="-1"><a class="header-anchor" href="#what-are-those-floaty-things-in-your-eye" aria-hidden="true">#</a> What are those floaty things in your eye</h3>
+<blockquote>
+<p>来源：<a href="https://www.youtube.com/teded/featured" target="_blank" rel="noopener noreferrer">https://www.youtube.com/teded/featured<ExternalLinkIcon/></a></p>
+</blockquote>
+<h2 id="原文阅读" tabindex="-1"><a class="header-anchor" href="#原文阅读" aria-hidden="true">#</a> 原文阅读</h2>
+<p>Have you ever noticed something swimming in your field of vision? It may look like a tiny worm or a transparent blob, and whenever you try to get a closer look, it disappears, only to reappear as soon as you shift your glance. But don't go rinsing out your eyes! What you are seeing is a common phenomenon known as a floater.</p>
+<p>The scientific name for these objects is Muscae volitantes, Latin for &quot;flying flies,&quot; and true to their name, they can be somewhat annoying. But they're not actually bugs or any kind of external objects at all. Rather, they exist inside your eyeball.</p>
+<p>Floaters may seem to be alive, since they move and change shape, but they are not alive. Floaters are tiny objects that cast shadows on the retina, the light-sensitive tissue at the back of your eye.</p>
+<p>They might be bits of tissue, red blood cells, or clumps of protein. And because they're suspended within the vitreous humor, the gellike liquid that fills the inside of your eye, floaters drift along with your eye movements, and seem to bounce a little when your eye stops.</p>
+<p>Floaters may be only barely distinguishable most of the time. They become more visible the close they are to the retina, just as holding your hand closer to a table with an overhead light, will result in a more sharply defined shadow.</p>
+<p>And floaters are particularly noticeable, when you are looking at a uniform bright surface, like a blank computer screen, snow, or a clear sky, where the consistency of the background makes them easier to distinguish.</p>
+<p>The brighter the light is, the more your pupil contracts. This has an effect similar to replacing a large diffuse light fixture with a single overhead light bulb, which also makes the shadow apper clearer.</p>
+<p>There is another visual phenomenon that looks similar to floaters, but is in fact unrelated.</p>
+<p>If you've seen tiny dots of light darting about, when looking at a bright blue sky, you're experienced what is known as the blue field entoptic phenomenon.</p>
+<p>In some ways, this is the opposite of seeing floaters. Here, you are not seeing shadows, but little moving windows letting light through to your retina. The windows are actually caused by white blood cells, moving through the capillaries along your retina's surface.</p>
+<p>These leukocytes can be so large that they nearly fill a capillary, causing a plasma space to open up in front of them.</p>
+<p>Because the space and the white blood cells are both more transparent to blue light than the red blood cells normally present in capillaries, we see a moving dot of light wherever this happens, following the paths of your capillaries and moving in time with your pulse.</p>
+<p>Under ideal viewing conditions, you might even see what looks like a dark tail following the dot. This is the red blood cells that have bunched up behind the leukocyte.</p>
+<p>Some science museums have an exhibit which consists of a screen of blue light, allowing you to see these blue sky sprites much more clearly than you normally would.</p>
+<p>While everybody's eyes experience these sort of effects, the number and type vary greatly. In the case of floaters, they often go unnoticed, as our brain learns to ignore them.</p>
+<p>However, abnormally numerous or large floaters that interfere with vision, may be a sign of a more serious condition, requiring immediate medical treatment. But the majority of the time entoptic phenomena, such as floaters and blue sky sprites, are just a gentle reminder that what we think we see depends just as much on our biology and minds, as it dose on the external world.</p>
+<h2 id="生词统计" tabindex="-1"><a class="header-anchor" href="#生词统计" aria-hidden="true">#</a> 生词统计</h2>
+<table>
+<thead>
+<tr>
+<th>单词</th>
+<th>音标</th>
+<th>翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>rinse</td>
+<td>rɪns</td>
+<td>v. 冲洗掉、漂净； n. 冲洗、漂洗</td>
+</tr>
+<tr>
+<td>phenomenon</td>
+<td>fəˈnɑːmɪnən</td>
+<td>n. 现象、奇迹、杰出的人才</td>
+</tr>
+<tr>
+<td>cast</td>
+<td>kæst</td>
+<td>v. 投射（光、影、视线）、投、计算、浇筑</td>
+</tr>
+<tr>
+<td>tissue</td>
+<td>ˈtɪʃuː</td>
+<td>n. 组织、纸巾、薄纱、一套</td>
+</tr>
+<tr>
+<td>clump</td>
+<td>klʌmp</td>
+<td>n. 丛、块； v. 形成一丛、使凝结成块</td>
+</tr>
+<tr>
+<td>vitreous</td>
+<td>ˈvɪtriəs</td>
+<td>adj. 玻璃的、玻璃状的</td>
+</tr>
+<tr>
+<td>pupil</td>
+<td>ˈpjuːpl</td>
+<td>n. [解剖]瞳孔、学生、未成年</td>
+</tr>
+<tr>
+<td>contract</td>
+<td>ˈkɑːntrækt</td>
+<td>v. 收缩、缩短、感染、订约； n. 合同、契约、婚约</td>
+</tr>
+<tr>
+<td>diffuse</td>
+<td>dɪˈfjuːs</td>
+<td>adj. 弥漫的、散开的； v. 传播、扩散、四散</td>
+</tr>
+<tr>
+<td>entoptic</td>
+<td>ɛnt'ɑptɪk</td>
+<td>adj. 眼内的、内视的</td>
+</tr>
+<tr>
+<td>capillary</td>
+<td>ˈkæpəleri</td>
+<td>n. 毛细血管、微血管； adj. 毛细管的、毛状的</td>
+</tr>
+<tr>
+<td>leukocyte</td>
+<td>ˈluːkəsaɪt</td>
+<td>n. 白血球</td>
+</tr>
+<tr>
+<td>plasma</td>
+<td>ˈplæzmə</td>
+<td>n. 血浆、[等离子]等离子体</td>
+</tr>
+</tbody>
+</table>
+<h2 id="翻译" tabindex="-1"><a class="header-anchor" href="#翻译" aria-hidden="true">#</a> 翻译</h2>
+<h4 id="have-you-ever-noticed-something-swimming-in-your-field-of-vision-it-may-look-like-a-tiny-worm-or-a-transparent-blob-and-whenever-you-try-to-get-a-closer-look-it-disappears-only-to-reappear-as-soon-as-you-shift-your-glance-but-don-t-go-rinsing-out-your-eyes-what-you-are-seeing-is-a-common-phenomenon-known-as-a-floater" tabindex="-1"><a class="header-anchor" href="#have-you-ever-noticed-something-swimming-in-your-field-of-vision-it-may-look-like-a-tiny-worm-or-a-transparent-blob-and-whenever-you-try-to-get-a-closer-look-it-disappears-only-to-reappear-as-soon-as-you-shift-your-glance-but-don-t-go-rinsing-out-your-eyes-what-you-are-seeing-is-a-common-phenomenon-known-as-a-floater" aria-hidden="true">#</a> Have you ever noticed something swimming in your field of vision? It may look like a tiny worm or a transparent blob, and whenever you try to get a closer look, it disappears, only to reappear as soon as you shift your glance. But don't go <code v-pre>rinsing</code> out your eyes! What you are seeing is a common <code v-pre>phenomenon</code> known as a floater.</h4>
+<p>你是否注意到自己的视线中有漂浮物？它看起来像是小虫或是透明滴液，但当你想要更仔细地看它的时候，它又消失了，当你迅速转换眼球时，它又会出现。不用去冲洗眼睛！你看到的其实是一种常见现象，飞蚊症。</p>
+<h4 id="the-scientific-name-for-these-objects-is-muscae-volitantes-latin-for-flying-flies-and-true-to-their-name-they-can-be-somewhat-annoying-but-they-re-not-actually-bugs-or-any-kind-of-external-objects-at-all-rather-they-exist-inside-your-eyeball" tabindex="-1"><a class="header-anchor" href="#the-scientific-name-for-these-objects-is-muscae-volitantes-latin-for-flying-flies-and-true-to-their-name-they-can-be-somewhat-annoying-but-they-re-not-actually-bugs-or-any-kind-of-external-objects-at-all-rather-they-exist-inside-your-eyeball" aria-hidden="true">#</a> The scientific name for these objects is Muscae volitantes, Latin for &quot;flying flies,&quot; and true to their name, they can be somewhat annoying. But they're not actually bugs or any kind of external objects at all. Rather, they exist inside your eyeball.</h4>
+<p>科学界称之为 Muscae volitantes，是拉丁语中飞蚊的意思，物如其名，它们有时很讨厌。但它们不是真正的虫或者其他身外之物。它们就存在于你的眼球中。</p>
+<h4 id="floaters-may-seem-to-be-alive-since-they-move-and-chagne-shape-but-they-are-not-alive-floaters-are-tiny-objects-that-cast-shadows-on-the-retina-the-light-sensitve-tissue-at-the-back-of-your-eye" tabindex="-1"><a class="header-anchor" href="#floaters-may-seem-to-be-alive-since-they-move-and-chagne-shape-but-they-are-not-alive-floaters-are-tiny-objects-that-cast-shadows-on-the-retina-the-light-sensitve-tissue-at-the-back-of-your-eye" aria-hidden="true">#</a> Floaters may seem to be alive, since they move and chagne shape, But they are not alive. Floaters are tiny objects that <code v-pre>cast</code> shadows on the retina, the light-sensitve <code v-pre>tissue</code> at the back of your eye.</h4>
+<p>因为飞蚊会不断地变形，所以人们会觉得它们是有生命的，其实不是。飞蚊是一种极小的物质，投影于视网膜，也就是眼球后部的光敏组织。</p>
+<h4 id="they-might-be-bits-of-tissue-red-blood-cells-or-clumps-of-protein-and-because-they-re-suspended-within-the-vitreous-humor-the-gellike-liquid-that-fills-the-inside-of-your-eye-floaters-drift-alone-with-your-eye-movements-and-seem-to-bounce-a-little-when-your-eye-stops" tabindex="-1"><a class="header-anchor" href="#they-might-be-bits-of-tissue-red-blood-cells-or-clumps-of-protein-and-because-they-re-suspended-within-the-vitreous-humor-the-gellike-liquid-that-fills-the-inside-of-your-eye-floaters-drift-alone-with-your-eye-movements-and-seem-to-bounce-a-little-when-your-eye-stops" aria-hidden="true">#</a> They might be bits of tissue, red blood cells, or <code v-pre>clumps</code> of protein. And because they're suspended within the <code v-pre>vitreous</code> humor, the gellike liquid that fills the inside of your eye, floaters drift alone with your eye movements, and seem to bounce a little when your eye stops.</h4>
+<p>它们可能是小块组织，红细胞、或是蛋白质团。由于它们悬浮于玻璃体，也就是眼球内的胶状组织，飞蚊会随眼球而移动，眼球停止转动时，它又会少许地弹动。</p>
+<h4 id="floaters-may-be-only-barely-distinguishable-most-of-the-time-they-become-more-visible-the-close-they-are-to-the-retina-just-as-holding-your-hand-closer-to-a-table-with-an-overhead-light-will-result-in-a-more-sharply-defined-shadow" tabindex="-1"><a class="header-anchor" href="#floaters-may-be-only-barely-distinguishable-most-of-the-time-they-become-more-visible-the-close-they-are-to-the-retina-just-as-holding-your-hand-closer-to-a-table-with-an-overhead-light-will-result-in-a-more-sharply-defined-shadow" aria-hidden="true">#</a> Floaters may be only barely distinguishable most of the time. They become more visible the close they are to the retina, just as holding your hand closer to a table with an overhead light, will result in a more sharply defined shadow.</h4>
+<p>飞蚊大多数时候不易被察觉，越靠近视网膜的可见度越高。就像你把手放在掉等下，更接近桌子时，手的阴影会更加明显。</p>
+<h4 id="and-floaters-are-particulary-noticeable-when-you-are-looking-at-a-uniform-bright-surface-like-a-blank-computer-screen-snow-or-a-clear-sky-where-the-consistency-of-the-background-makes-them-easier-to-distinguish" tabindex="-1"><a class="header-anchor" href="#and-floaters-are-particulary-noticeable-when-you-are-looking-at-a-uniform-bright-surface-like-a-blank-computer-screen-snow-or-a-clear-sky-where-the-consistency-of-the-background-makes-them-easier-to-distinguish" aria-hidden="true">#</a> And floaters are particulary noticeable, when you are looking at a uniform bright surface, like a blank computer screen, snow, or a clear sky, where the consistency of the background makes them easier to distinguish.</h4>
+<p>当你盯着发光的物体表面时，飞蚊也会很容易看到，像是空白的屏幕、雪、或者晴空，颜色一致的背景会使飞蚊更明显。</p>
+<h4 id="the-brighter-the-light-is-the-more-your-pupil-contracts-this-has-an-effect-similar-to-replacing-a-large-diffuse-light-fixture-with-a-single-overhead-light-bulb-which-also-makes-the-shadow-apper-clearer" tabindex="-1"><a class="header-anchor" href="#the-brighter-the-light-is-the-more-your-pupil-contracts-this-has-an-effect-similar-to-replacing-a-large-diffuse-light-fixture-with-a-single-overhead-light-bulb-which-also-makes-the-shadow-apper-clearer" aria-hidden="true">#</a> The brighter the light is, the more your <code v-pre>pupil</code> <code v-pre>contracts</code>. This has an effect similar to replacing a large <code v-pre>diffuse</code> light fixture with a single overhead light bulb, which also makes the shadow apper clearer.</h4>
+<p>当看到的光越亮，瞳孔就会收缩的越厉害。这就好比把许多散射的光换成一个大的聚光灯，也会使阴影更加明显。</p>
+<h4 id="there-is-another-visual-phenomenon-that-looks-similar-to-floaters-but-is-in-fact-unrelated" tabindex="-1"><a class="header-anchor" href="#there-is-another-visual-phenomenon-that-looks-similar-to-floaters-but-is-in-fact-unrelated" aria-hidden="true">#</a> There is another visual phenomenon that looks similar to floaters, but is in fact unrelated.</h4>
+<p>另外还有一种现象与飞蚊症类似，但其实它们并没有关系。</p>
+<h4 id="if-you-ve-seen-tiny-dots-of-light-darting-about-when-looking-at-a-bright-blue-sky-you-re-experienced-what-is-known-as-the-blue-field-entoptic-phenomenon" tabindex="-1"><a class="header-anchor" href="#if-you-ve-seen-tiny-dots-of-light-darting-about-when-looking-at-a-bright-blue-sky-you-re-experienced-what-is-known-as-the-blue-field-entoptic-phenomenon" aria-hidden="true">#</a> If you've seen tiny dots of light darting about, when looking at a bright blue sky, you're experienced what is known as the blue field <code v-pre>entoptic</code> phenomenon.</h4>
+<p>当你仰望蓝天时，会看到小光电在快速闪动，这被称为谢瑞尔氏现象。</p>
+<h4 id="in-some-ways-this-is-the-opposite-of-seeing-floaters-here-you-are-not-seeing-shadows-but-little-moving-windows-letting-light-through-to-your-retina-the-windows-are-actually-caused-by-white-blood-cells-moving-through-the-capillaries-along-your-retina-s-surface" tabindex="-1"><a class="header-anchor" href="#in-some-ways-this-is-the-opposite-of-seeing-floaters-here-you-are-not-seeing-shadows-but-little-moving-windows-letting-light-through-to-your-retina-the-windows-are-actually-caused-by-white-blood-cells-moving-through-the-capillaries-along-your-retina-s-surface" aria-hidden="true">#</a> In some ways, this is the opposite of seeing floaters. Here, you are not seeing shadows, but little moving windows letting light through to your retina. The windows are actually caused by white blood cells, moving through the <code v-pre>capillaries</code> along your retina's surface.</h4>
+<p>这与看到飞蚊相反，此时你看到的不是阴影，而是一些移动的小开口让光进入视网膜。而是一些移动的小开口是由白细胞造成的，白细胞穿梭在视网膜表面的毛细血管。</p>
+<h4 id="these-leukocytes-can-be-so-large-that-they-nearly-fill-a-capillary-causing-a-plasma-space-to-open-up-in-front-of-them" tabindex="-1"><a class="header-anchor" href="#these-leukocytes-can-be-so-large-that-they-nearly-fill-a-capillary-causing-a-plasma-space-to-open-up-in-front-of-them" aria-hidden="true">#</a> These <code v-pre>leukocytes</code> can be so large that they nearly fill a capillary, causing a <code v-pre>plasma</code> space to open up in front of them.</h4>
+<p>白细胞可以大到填满整个毛细血管。这导致了白细胞身前的空隙。</p>
+<h4 id="because-the-space-and-the-white-blood-cells-are-both-more-transparent-to-blue-light-than-the-red-blood-cells-normally-present-in-capillaries-we-see-a-moving-dot-of-light-wherever-this-happens-following-the-paths-of-your-capillaries-and-moving-in-time-with-your-pulse" tabindex="-1"><a class="header-anchor" href="#because-the-space-and-the-white-blood-cells-are-both-more-transparent-to-blue-light-than-the-red-blood-cells-normally-present-in-capillaries-we-see-a-moving-dot-of-light-wherever-this-happens-following-the-paths-of-your-capillaries-and-moving-in-time-with-your-pulse" aria-hidden="true">#</a> Because the space and the white blood cells are both more transparent to blue light than the red blood cells normally present in capillaries, we see a moving dot of light wherever this happens, following the paths of your capillaries and moving in time with your pulse.</h4>
+<p>由于这些空隙和白细胞本身，相比于血管中的白细胞更易于让蓝光通过，我们因此看到小光点，沿着毛细血管移动，也随着脉搏而移动。</p>
+<h4 id="under-ideal-viewing-conditions-you-might-even-see-what-looks-like-a-dark-tail-following-the-dot-this-is-the-red-blood-cells-that-have-bunched-up-behind-the-leukocyte" tabindex="-1"><a class="header-anchor" href="#under-ideal-viewing-conditions-you-might-even-see-what-looks-like-a-dark-tail-following-the-dot-this-is-the-red-blood-cells-that-have-bunched-up-behind-the-leukocyte" aria-hidden="true">#</a> Under ideal viewing conditions, you might even see what looks like a dark tail following the dot. This is the red blood cells that have bunched up behind the leukocyte.</h4>
+<p>在理想状态下，你甚至能看到光点后面有条黑尾巴。这是白细胞身后堆积的红细胞造成的。</p>
+<h4 id="some-science-museums-have-an-exhibit-which-consists-of-a-screen-of-blue-light-allowing-you-to-see-these-blue-sky-sprites-much-more-clearly-than-you-normally-would" tabindex="-1"><a class="header-anchor" href="#some-science-museums-have-an-exhibit-which-consists-of-a-screen-of-blue-light-allowing-you-to-see-these-blue-sky-sprites-much-more-clearly-than-you-normally-would" aria-hidden="true">#</a> Some science museums have an exhibit which consists of a screen of blue light, allowing you to see these blue sky sprites much more clearly than you normally would.</h4>
+<p>有些科技博物馆中，会展览出一整屏幕的蓝光，这会让你更清楚的看到这一现象。</p>
+<h4 id="while-everybody-s-eyes-experience-these-sort-of-effects-the-number-and-type-vary-greatly-in-the-case-of-floaters-they-often-go-unnoticed-as-our-brain-learns-to-ignore-them" tabindex="-1"><a class="header-anchor" href="#while-everybody-s-eyes-experience-these-sort-of-effects-the-number-and-type-vary-greatly-in-the-case-of-floaters-they-often-go-unnoticed-as-our-brain-learns-to-ignore-them" aria-hidden="true">#</a> While everybody's eyes experience these sort of effects, the number and type vary greatly. In the case of floaters, they often go unnoticed, as our brain learns to ignore them.</h4>
+<p>虽然每个人都会经历这些现象，每个人看到的程度都不同。就飞蚊症而言，大多数会被我们的大脑所忽视。</p>
+<h4 id="however-abnormally-numerous-or-large-floaters-that-interfere-with-vision-may-be-a-sign-of-a-more-serious-condition-requiring-immediate-medical-treatment-but-the-majority-of-the-time-entoptic-phenomena-such-as-floaters-and-blue-sky-sprites-are-just-a-gentle-reminder-that-what-we-think-we-see-depends-just-as-much-on-our-biology-and-minds-as-it-dose-on-the-external-world" tabindex="-1"><a class="header-anchor" href="#however-abnormally-numerous-or-large-floaters-that-interfere-with-vision-may-be-a-sign-of-a-more-serious-condition-requiring-immediate-medical-treatment-but-the-majority-of-the-time-entoptic-phenomena-such-as-floaters-and-blue-sky-sprites-are-just-a-gentle-reminder-that-what-we-think-we-see-depends-just-as-much-on-our-biology-and-minds-as-it-dose-on-the-external-world" aria-hidden="true">#</a> However, abnormally numerous or large floaters that interfere with vision, may be a sign of a more serious condition, requiring immediate medical treatment. But the majority of the time entoptic phenomena, such as floaters and blue sky sprites, are just a gentle reminder that what we think we see depends just as much on our biology and minds, as it dose on the external world.</h4>
+<p>但是数目异常多或者大到影响视线的飞蚊，可能意味着你需要紧急医疗救助。但是多数的眼内现象，比如飞蚊症或谢瑞尔氏现象，只是委婉地提醒我们自认为看到的东西取决于我们的生理和大脑，就和取决于外部世界一样。</p>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2020/August/What are those floaty things in your eye.mp3'"></src-rtyAudio></div></template>

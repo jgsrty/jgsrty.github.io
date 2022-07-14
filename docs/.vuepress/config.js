@@ -1,212 +1,137 @@
-const path = require('path')
-const fs = require('fs')
-const route2018 = require('./routes/2018.js')
-const route2019 = require('./routes/2019.js')
-const route2020 = require('./routes/2020.js')
-const route2021 = require('./routes/2021.js')
-const SelfStudy = require('./routes/SelfStudy.js')
-let englishFiles = ['introduction']
-englishFiles = englishFiles.concat(SelfStudy, route2021, route2020, route2019, route2018)
+const { webpackBundler } = require("@vuepress/bundler-webpack");
+const path = require("path");
+const fs = require("fs");
+const route2018 = require("./routes/2018.js");
+const route2019 = require("./routes/2019.js");
+const route2020 = require("./routes/2020.js");
+const route2021 = require("./routes/2021.js");
+const SelfStudy = require("./routes/SelfStudy.js");
+const { defaultTheme } = require("vuepress-webpack");
+let englishFiles = ["/english/introduction.md"];
+englishFiles = englishFiles.concat(SelfStudy, route2021, route2020, route2019, route2018);
 module.exports = {
-  // plugins: {
-  //   robots: {
-  //     host: 'https://rtyxmd.gitee.io',
-  //     disallowAll: false,
-  //     allowAll: true,
-  //     sitemap: '/sitemap.xml',
-  //     policies: [
-  //       {
-  //         userAgent: '*',
-  //         disallow: ['/blog'],
-  //         allow: ['components', 'english', 'music']
-  //       }
-  //     ]
-  //   }
-  // },
-  title: 'rty-docs',
-  description: 'Welcome to my docs',
+  title: "rty-docs",
+  description: "Welcome to my docs",
   head: [
     [
-      'link',
+      "link",
       {
-        rel: 'icon',
-        href: '/img/rty-docs.ico'
-      }
+        rel: "icon",
+        href: "/img/rty-docs.ico",
+      },
     ],
     [
-      'meta',
+      "meta",
       {
-        name: 'keywords',
-        content:
-          'rty,荣天阳,rtyxmd,英文阅读,英语学习,vue组件,vue,英文歌曲,bruno'
-      }
+        name: "keywords",
+        content: "rty,荣天阳,rtyxmd,英文阅读,英语学习,vue组件,vue,英文歌曲,bruno",
+      },
     ],
-    // [
-    //   'link',
-    //   {
-    //     rel: 'stylesheet',
-    //     href: '//at.alicdn.com/t/font_842333_6hawconwwqp.css'
-    //   }
-    // ]
-    //Google Analytics
-    // [
-    //   'script',
-    //   {
-    //     async: 'async',
-    //     src: 'https://www.googletagmanager.com/gtag/js?id=UA-145250139-1'
-    //   }
-    // ],
-    // [
-    //   'script',
-    //   {},
-    //   `window.dataLayer = window.dataLayer || [];
-    //   function gtag(){dataLayer.push(arguments);}
-    //   gtag('js', new Date());
-
-    //   gtag('config', 'UA-145250139-1');`
-    // ],
-    //百度统计
-    // [
-    //   'script',
-    //   {},
-    //   `var _hmt = _hmt || [];
-    //   (function() {
-    //     var hm = document.createElement("script");
-    //     hm.src = "https://hm.baidu.com/hm.js?96bef00c01d8ee7ee249abc380b9e5ab";
-    //     var s = document.getElementsByTagName("script")[0]; 
-    //     s.parentNode.insertBefore(hm, s);
-    //   })();`
-    // ]
-    // googleAdSense
-    // [
-    //   "script",
-    //   {
-    //     async: "async",
-    //     src: "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-    //   }
-    // ],
-    // [
-    //   "script",
-    //   {},
-    //   `(adsbygoogle = window.adsbygoogle || []).push({
-    //     google_ad_client: "ca-pub-4354974357850752",
-    //     enable_page_level_ads: true
-    //   });`
-    // ],
-    // [
-    //   "script",
-    //   {},
-    //   `setTimeout(function(){
-    //     window.location.reload()
-    //   },Math.floor(Math.random() * (3000 - 300) +100)*1000)`
-    // ]
   ],
-  themeConfig: {
-    lastUpdated: 'Last Updated',
-    //编辑
-    repo: 'jgsrty/jgsrty.github.docs',
-    docsDir: 'docs',
-    docsBranch: 'master',
-    editLinks: true,
-    //编辑
-    sidebarDepth: 3,
-    nav: [
+  theme: defaultTheme({
+    repo: "https://github.com/jgsrty",
+    docsRepo: "https://github.com/jgsrty/jgsrty.github.io",
+    docsBranch: "master",
+    contributorsText: "贡献者",
+    editLinkText: "在GitHub上编辑此页",
+    editLinkPattern: ":repo/edit/:branch/docs/:path",
+    lastUpdatedText: "上次更新",
+    navbar: [
       {
-        text: '主页',
-        link: '/'
+        text: "主页",
+        link: "/",
       },
       {
-        text: '组件',
-        link: '/components/introduction'
+        text: "汉语言文学",
+        link: "/english/SelfStudy/ChineseLiterature/红楼梦研究.html",
+        activeMatch: "^/english/SelfStudy",
       },
       {
-        text: '英文阅读',
-        link: '/english/introduction'
+        text: "英文阅读",
+        link: "/english/introduction",
+        activeMatch: "^/english/[2018,2019,2020,2021]",
       },
       {
-        text: 'Music',
-        link: '/music/introduction'
+        text: "Music",
+        link: "/music/introduction",
+        activeMatch: "^/music/",
       },
       {
-        text: '口语短文',
-        link: '/oral/introduction'
+        text: "组件",
+        link: "/components/introduction",
+        activeMatch: "^/components/",
       },
-      // {
-      //   text: 'VuePress',
-      //   link: '/vuepress/introduction'
-      // },
-      // {
-      //   text: '前端开发',
-      //   link: 'https://rtyxmd.github.io/'
-      // },
       {
-        text: '了解更多',
-        items: [
-          { text: 'Github', link: 'https://github.com/jgsrty' },
-          { text: '码云', link: 'https://gitee.com/RtyXmd' },
-          { text: '简书', link: 'https://www.jianshu.com/u/0f735486a824' },
-          { text: '移动端Music', link: 'http://47.100.53.108:7300/#/index' },
+        text: "口语短文",
+        link: "/oral/introduction",
+        activeMatch: "^/oral/",
+      },
+      {
+        text: "了解更多",
+        children: [
+          { text: "掘金", link: "https://juejin.cn/user/2154698520407687" },
+          { text: "码云Gitee", link: "https://gitee.com/RtyXmd" },
+          { text: "简书", link: "https://www.jianshu.com/u/0f735486a824" },
+          { text: "移动端Music", link: "http://47.100.53.108:7300/#/index" },
           {
-            text: '管理后台模板',
-            link: 'http://47.100.53.108:9527/#/charts/pieChart'
-          }
-        ]
-      }
-      // {
-      //   text: 'Github',
-      //   link: 'https://github.com/jgsrty'
-      // }
+            text: "管理后台模板",
+            link: "http://47.100.53.108:9527/#/charts/pieChart",
+          },
+        ],
+      },
     ],
+    sidebarDepth: 3,
     sidebar: {
-      '/english/': englishFiles,
-      '/music/': [
-        'introduction',
+      "/english/": englishFiles,
+      "/music/": [
+        "/music/introduction.md",
         {
-          title: 'Music Collection',
-          collapsable: false,
-          children: genSidebarConfig('music/collection', true)
-        }
+          text: "Music Collection",
+          collapsible: false,
+          children: genSidebarConfig("music/collection", true),
+        },
       ],
-      '/vuepress/': [
-        'introduction',
+      "/components/": [
+        "/components/introduction.md",
         {
-          title: '配置步骤',
-          collapsable: false,
-          children: genSidebarConfig('vuepress/2018-October', true)
-        }
+          text: "UI组件",
+          collapsible: false,
+          children: genSidebarConfig("components/UI", true),
+        },
       ],
-      '/components/': [
-        'introduction',
+      "/oral/": [
+        "/oral/introduction.md",
         {
-          title: 'UI组件',
-          collapsable: false,
-          children: genSidebarConfig('components/UI', true)
-        }
+          text: "英语口语短文",
+          collapsible: false,
+          children: genSidebarConfig("oral/essay", true),
+        },
       ],
-      '/oral/': [
-        'introduction',
-        {
-          title: '英语口语短文',
-          collapsable: false,
-          children: genSidebarConfig('oral/essay', true)
-        }
-      ]
-    }
-  },
-  sass: { indentedSyntax: true }
-}
+    },
+  }),
+  // themeConfig: {
+  //   lastUpdated: "Last Updated",
+  //   //编辑
+  //   repo: "jgsrty/jgsrty.github.docs",
+  //   docsDir: "docs",
+  //   docsBranch: "master",
+  //   editLinks: true,
+  //   //编辑
+  //   sidebarDepth: 3,
+  //
+  // },
+  bundler: webpackBundler({
+    sass: { indentedSyntax: true },
+  }),
+};
 
 function genSidebarConfig(dir, hasSub) {
-  let p = path.join(__dirname, '../', dir)
-  let files = fs.readdirSync(p)
-  let subDir = hasSub
-    ? dir.split('/')[1]
-    : dir.split('/')[1] + '/' + dir.split('/')[2]
-  files = files.map(item => {
-    item = subDir
-      ? subDir + '/' + path.basename(item, '.md')
-      : path.basename(item, '.md')
-    return item
-  })
-  return files
+  let p = path.join(__dirname, "../", dir);
+  let files = fs.readdirSync(p);
+  let subDir = hasSub ? dir.split("/")[1] : dir.split("/")[1] + "/" + dir.split("/")[2];
+  files = files.map((item) => {
+    item = subDir ? subDir + "/" + path.basename(item, ".md") : path.basename(item, ".md");
+    return `/${dir.split("/")[0]}/${item}`;
+  });
+  return files;
 }

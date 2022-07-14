@@ -1,0 +1,1598 @@
+<template><div><h1 id="中国古代文学史二" tabindex="-1"><a class="header-anchor" href="#中国古代文学史二" aria-hidden="true">#</a> 中国古代文学史二</h1>
+<blockquote>
+<p><a href="https://www.bilibili.com/video/BV1CK4y1v7qT" target="_blank" rel="noopener noreferrer">全集串讲<ExternalLinkIcon/></a></p>
+</blockquote>
+<h2 id="宋代文学" tabindex="-1"><a class="header-anchor" href="#宋代文学" aria-hidden="true">#</a> 宋代文学</h2>
+<h3 id="北宋初期文学" tabindex="-1"><a class="header-anchor" href="#北宋初期文学" aria-hidden="true">#</a> 北宋初期文学</h3>
+<h4 id="宋初两人-柳开、穆修" tabindex="-1"><a class="header-anchor" href="#宋初两人-柳开、穆修" aria-hidden="true">#</a> 宋初两人：柳开、穆修</h4>
+<ul>
+<li><strong>柳开</strong>：北宋散文家《河东先生集》，古文运动先驱，以恢复韩愈、柳宗元的传统为己任。</li>
+<li><strong>穆修</strong>：继柳开之后的古文作家，其文强调教化作用，在宋古文的发展上有一定影响<br>
+<strong>文学主张：</strong>
+<ul>
+<li>反对五代浮艳文风</li>
+<li>标举文统和道统</li>
+<li>鼓吹复古</li>
+<li>倡导质朴文风</li>
+</ul>
+</li>
+</ul>
+<h4 id="白体" tabindex="-1"><a class="header-anchor" href="#白体" aria-hidden="true">#</a> 白体</h4>
+<ol>
+<li>宋初诗歌流派，代表<strong>王禹偁</strong>，《小畜集》</li>
+<li>学习白居易，诗风<strong>平易晓畅</strong></li>
+<li>多反应官场应酬、消遣</li>
+</ol>
+<h4 id="西昆体" tabindex="-1"><a class="header-anchor" href="#西昆体" aria-hidden="true">#</a> 西昆体</h4>
+<ul>
+<li><strong>宋初</strong>影响很大的文学流派</li>
+<li>因《<strong>西昆酬唱集</strong>》得名，代表：<strong>杨亿、钱惟演、刘筠</strong></li>
+<li>特色：<strong>讲究修辞</strong>，大量用典，以学问为诗</li>
+<li>对宋诗发展影响很大，尤其宋江西诗派<br>
+<strong>杨亿</strong>：学习<strong>李商隐，讲究辞采</strong>，风格典丽，不乏<strong>清峭感怆</strong>的讽喻之作</li>
+</ul>
+<h4 id="晚唐体" tabindex="-1"><a class="header-anchor" href="#晚唐体" aria-hidden="true">#</a> 晚唐体</h4>
+<ul>
+<li><strong>宋初</strong>诗歌流派</li>
+<li>代表：<strong>林逋《山园小梅》</strong></li>
+<li>模仿唐：贾岛、姚合诗风，<strong>清逸隐忧</strong><br>
+<strong>林逋</strong>：<strong>和靖先生</strong>，时称<strong>梅妻鹤子</strong>，特点：以细碎小巧的笔法写<strong>清苦幽静</strong>的隐居生活</li>
+</ul>
+<h4 id="晏殊" tabindex="-1"><a class="header-anchor" href="#晏殊" aria-hidden="true">#</a> 晏殊</h4>
+<ul>
+<li>字同叔，有<strong>富贵词人</strong>之称，代表作《<strong>珠玉词</strong>》，与第七子晏几道称为<strong>大晏</strong>、<strong>小晏</strong><br>
+<strong>晏殊词创作特色：</strong>
+<ul>
+<li>受南唐词影响，近<strong>冯延巳</strong></li>
+<li>词风<strong>温润秀洁</strong></li>
+<li>语言<strong>明镜雅致</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="欧阳修与北宋诗文革新" tabindex="-1"><a class="header-anchor" href="#欧阳修与北宋诗文革新" aria-hidden="true">#</a> 欧阳修与北宋诗文革新</h3>
+<p><strong>欧阳修在北宋诗文革新中起到什么作用</strong></p>
+<ul>
+<li>起<strong>文坛盟主</strong>领袖的作用</li>
+<li><strong>散文成就最高</strong>，影响最大</li>
+<li><strong>诗取材广泛、以文为诗、以议论为诗</strong>，宋诗创始者之一</li>
+<li>与晏殊同为<strong>北宋花间词人</strong>代表<br>
+<strong>1. 欧阳修的散文</strong></li>
+<li>继承韩愈散文<strong>文从字顺</strong>，建立<strong>平易流畅、委屈婉转</strong>的风格</li>
+<li>开宋文赋先河，变骈文对仗为<strong>骈散相间、奇偶错杂</strong></li>
+<li>散文佳处在于<strong>平易流畅中富于曲折变化</strong><br>
+<strong>2. 欧阳修的词</strong></li>
+<li>词派：与晏殊同为北宋初期<strong>花间体词人</strong>代表</li>
+<li>内容：<strong>情词</strong>比例大</li>
+<li>风格：花间词<strong>温润秀洁</strong>，但也有<strong>风格豪放</strong>的词章《人间词话》</li>
+</ul>
+<h4 id="梅尧臣" tabindex="-1"><a class="header-anchor" href="#梅尧臣" aria-hidden="true">#</a> 梅尧臣</h4>
+<ul>
+<li>称宛陵先生，今存《<strong>宛陵先生集</strong>》，与苏舜钦齐名，时好<strong>苏梅</strong><br>
+<strong>梅尧臣诗歌内容：</strong></li>
+<li>反映<strong>社会现实和民生疾苦</strong></li>
+<li><strong>个人日常生活</strong>的琐碎事物<br>
+<strong>梅尧臣诗歌特点：</strong> 追求<strong>苦硬瘦劲</strong>，风格<strong>平淡、古淡</strong></li>
+</ul>
+<p><strong>苏舜钦</strong>：字子美，今存《苏学士文集》<br>
+<strong>苏舜钦诗歌风格</strong>：反映现实，揭露社会黑暗，诗风<strong>豪狂雄放</strong></p>
+<h4 id="王安石的散文内容和特点" tabindex="-1"><a class="header-anchor" href="#王安石的散文内容和特点" aria-hidden="true">#</a> 王安石的散文内容和特点</h4>
+<ul>
+<li><strong>政论文</strong>多为<strong>政令教化</strong>，结构严谨、语言朴素、说理透彻</li>
+<li><strong>小品文笔力雄健</strong>、富有感情</li>
+<li><strong>议论文</strong>结构严谨、<strong>析理透辟</strong></li>
+<li>叙事抒情之作，随笔挥洒<br>
+<strong>1. 王安石的诗歌</strong></li>
+<li><strong>王荆公体、半山诗</strong></li>
+<li>风格既<strong>清新闲适，又沉郁悲壮</strong></li>
+<li>主要是<strong>绝句，雅丽精绝</strong>、含蓄深婉<br>
+<strong>2. 王安石诗歌内容</strong></li>
+<li>早期：多<strong>感时、咏史怀古</strong></li>
+<li>晚期：专注<strong>自然山水</strong><br>
+<strong>3. 王安石的词</strong>：将以史为鉴的凝重题材引入词中，开拓了词的题材内容</li>
+</ul>
+<p><strong>曾巩的散文特点</strong></p>
+<ul>
+<li>风格：<strong>古雅平正、雍容冲合</strong></li>
+<li>内容：<strong>长于议论、多引经据典</strong></li>
+<li>手法：<strong>规矩严密</strong></li>
+</ul>
+<p><strong>苏洵</strong>：散文笔锋老辣，具有<strong>雄辩说服力，带有战国纵横家色彩</strong><br>
+<strong>苏辙</strong>：散文<strong>淡泊平和，汪洋淡泊</strong></p>
+<h3 id="苏轼的文学成就" tabindex="-1"><a class="header-anchor" href="#苏轼的文学成就" aria-hidden="true">#</a> 苏轼的文学成就</h3>
+<p><strong>苏轼散文总体成就</strong>：</p>
+<ul>
+<li><strong>洒脱自然</strong>，错综变化</li>
+<li>善于比喻，多<strong>形象思维</strong></li>
+<li><strong>诗化散文</strong></li>
+<li>标志着宋代<strong>古文运动的最高成就</strong><br>
+<strong>1. 记叙文的艺术特点</strong>：</li>
+<li>记叙文是苏轼<strong>散文中文学价值最高、最具独创性</strong>的部分，以<strong>山水游记</strong>《前赤壁赋》和<strong>亭台堂阁记</strong>为代表。</li>
+<li><strong>记叙、描写、议论并重</strong></li>
+<li><strong>诗情画意</strong>，一出自然<br>
+<strong>2. 议论文</strong>：</li>
+<li><strong>雄辩恣肆、气势充沛</strong>其中政论、史论最突出，同王安石</li>
+</ul>
+<p><strong>苏轼诗歌内容</strong></p>
+<ul>
+<li><strong>社会政治诗</strong>，反映民生疾苦的</li>
+<li><strong>山水景物诗</strong>，将人生感悟融入其中</li>
+<li><strong>和陶诗</strong>，描写亲身经历</li>
+<li><strong>题画诗</strong>，提出诗画理论</li>
+</ul>
+<p><strong>苏轼诗歌艺术特色</strong></p>
+<ul>
+<li><strong>以文为诗</strong></li>
+<li>以<strong>才学为诗，好议论用典</strong></li>
+<li>出色的文字表现力，有<strong>才气</strong></li>
+<li>擅长<strong>七言</strong>，风格多样</li>
+</ul>
+<p><strong>苏轼的词</strong></p>
+<ul>
+<li>风格<strong>豪放旷达、雄健清刚</strong>，<strong>以诗为词</strong>《水调歌头》《定风波》<br>
+<strong>苏轼词的题材</strong>
+<ul>
+<li>将<strong>情</strong>的范围扩展至<strong>朋友、师生、兄弟、夫妻</strong>之间。</li>
+<li><strong>农村题材</strong>正式入词由苏轼开始</li>
+<li>奠定了<strong>咏物词</strong>的体制特色</li>
+</ul>
+</li>
+</ul>
+<h3 id="黄庭坚与江西诗派" tabindex="-1"><a class="header-anchor" href="#黄庭坚与江西诗派" aria-hidden="true">#</a> 黄庭坚与江西诗派</h3>
+<h4 id="江西诗派" tabindex="-1"><a class="header-anchor" href="#江西诗派" aria-hidden="true">#</a> 江西诗派</h4>
+<ul>
+<li><strong>宋代影响最大</strong>的诗歌流派</li>
+<li>有<strong>一祖三宗</strong>之说，一祖为杜甫，三宗为黄庭坚、陈师道、陈与义</li>
+<li>以<strong>吟咏书斋生活</strong>为主，讲究用典、<strong>生新瘦硬</strong></li>
+</ul>
+<p><strong>黄庭坚和山谷体</strong></p>
+<ul>
+<li>自号<strong>山谷道人</strong>，江西诗派开山之祖，开创了山谷体，代表作《山谷集》<br>
+<strong>1. 诗歌内容</strong></li>
+<li>日常交际应酬的<strong>赠答诗、咏物诗</strong></li>
+<li><strong>反映民生疾苦和时事政治</strong>的诗</li>
+<li>表现<strong>自我人格</strong>抒情写意的诗<br>
+<strong>2. 诗歌艺术特色</strong></li>
+<li>以<strong>学杜甫</strong>为宗旨，发展了<strong>拗句，拗律</strong></li>
+<li>强调<strong>无一字无来处、点铁成金、夺胎换骨</strong></li>
+<li>风格<strong>生新瘦硬</strong><br>
+<strong>3. 词的艺术特点</strong></li>
+<li><strong>雅词</strong>得苏东坡豪放词神韵</li>
+<li><strong>俗词</strong>有明显学柳永的痕迹</li>
+</ul>
+<p><strong>陈师道</strong></p>
+<ul>
+<li>号<strong>后山居士</strong>，后山体<br>
+<strong>诗歌艺术特征</strong>
+<ul>
+<li><strong>讲苦吟、求奇拙</strong></li>
+<li>一味学山谷体瘦硬，故其<strong>诗瘦硬而不通神</strong></li>
+<li>以简缩字句为工，<strong>瘦而有骨</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>陈与义</strong></p>
+<ul>
+<li>号<strong>简斋</strong>，简斋体<br>
+<strong>诗歌的独特性</strong>
+<ul>
+<li>后期多<strong>忧国感时、寄托遥深</strong>的诗篇</li>
+<li>诗风<strong>雄阔浑厚，沉郁悲壮</strong></li>
+<li>重<strong>意境</strong>，重<strong>白描</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="柳永与北宋词坛" tabindex="-1"><a class="header-anchor" href="#柳永与北宋词坛" aria-hidden="true">#</a> 柳永与北宋词坛</h3>
+<h4 id="柳永" tabindex="-1"><a class="header-anchor" href="#柳永" aria-hidden="true">#</a> 柳永</h4>
+<ul>
+<li><strong>柳永的慢词</strong><br>
+<strong>1. 柳永词的题材领域</strong></li>
+<li>表现具有<strong>下层市民特征</strong>的感情、观念、价值标准</li>
+<li>多写<strong>风尘女子</strong>、感情真挚、深沉</li>
+<li>多写<strong>男女之情</strong>，表现生活感情</li>
+<li><strong>羁旅行役、城市风光</strong><br>
+<strong>2. 柳永对词体的贡献</strong></li>
+<li>以<strong>创作慢词</strong>著称，完善了慢词体制和表现手法</li>
+<li><strong>语言通俗</strong>，采用市井方言俗语</li>
+<li>运用<strong>韵脚、四声</strong>等吸引感染受众</li>
+</ul>
+<h4 id="秦观" tabindex="-1"><a class="header-anchor" href="#秦观" aria-hidden="true">#</a> 秦观</h4>
+<ul>
+<li>世称<strong>淮海先生</strong>，著有《<strong>淮海词</strong>》，苏门四学士、苏门六君子<br>
+<strong>词的艺术特点</strong>
+<ul>
+<li>词以抒情为主，严重的<strong>感伤情调</strong>，羁旅词典型</li>
+<li>语言<strong>清新雅致</strong>，具有动听的音乐美</li>
+<li>在<strong>婉约词体</strong>的发展中有重要地位</li>
+</ul>
+</li>
+</ul>
+<h4 id="晏几道" tabindex="-1"><a class="header-anchor" href="#晏几道" aria-hidden="true">#</a> 晏几道</h4>
+<ul>
+<li>号小山，晏殊第七子，著有《<strong>小山词</strong>》<br>
+<strong>词的艺术特点</strong>
+<ul>
+<li>最后一位以写<strong>小令著称</strong>的词人</li>
+<li><strong>题材狭窄</strong>，工于言情</li>
+<li>词风<strong>凄楚感伤</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="贺铸" tabindex="-1"><a class="header-anchor" href="#贺铸" aria-hidden="true">#</a> 贺铸</h4>
+<ul>
+<li>词集《<strong>东山词</strong>》，风格<strong>儿女英雄兼而有之</strong><br>
+<strong>词的艺术特点</strong>
+<ul>
+<li><strong>盛世妖治</strong>，继承花间词风</li>
+<li><strong>悲壮激昂</strong>，表达爱国豪情及壮志难酬</li>
+</ul>
+</li>
+</ul>
+<h4 id="周邦彦" tabindex="-1"><a class="header-anchor" href="#周邦彦" aria-hidden="true">#</a> 周邦彦</h4>
+<ul>
+<li>字美成，号清真居士，词集《<strong>清真集</strong>》，诗、词、文、赋无所不擅，尤通音律，<strong>北宋词集大成者</strong><br>
+<strong>艺术成就、章法结构、集大成者</strong>
+<ul>
+<li>擅长写<strong>羁旅行役</strong></li>
+<li>继承柳永<strong>善于铺叙</strong>的特点</li>
+<li>善于<strong>章法布局</strong></li>
+<li>常使用<strong>不同感情相互衬托</strong>的手法</li>
+<li><strong>以景结尾</strong>是周邦彦词的又一特色</li>
+<li><strong>语言典雅</strong>，善于<strong>化前人的诗句入词</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="李清照" tabindex="-1"><a class="header-anchor" href="#李清照" aria-hidden="true">#</a> 李清照</h4>
+<ul>
+<li>号<strong>易安居士，易安体</strong>，两宋之交女词人，<strong>婉约词</strong>派代表，有千古第一才女之称，词风运用<strong>白描，自然流畅</strong><br>
+<strong>1. 李清照《词论》主要内容</strong></li>
+<li><strong>尚雅</strong>，强调<strong>声律</strong>，<strong>思想雅正</strong>及<strong>语言音律</strong>的文雅。</li>
+<li><strong>词别是一家</strong>的主张，强调诗词有别<br>
+<strong>2. 李清照词风以靖康之变为界</strong></li>
+<li>前期：词风<strong>自然妩媚，清丽淡雅</strong> 如《如梦令》</li>
+<li>后期：词风<strong>沉郁哀痛</strong> 如《声声慢》<br>
+<strong>3. 李清照词的艺术特色</strong></li>
+<li>语言<strong>清新淡雅又通俗晓畅</strong></li>
+<li>浅近的语言、<strong>白描的手法</strong>，自然流畅</li>
+<li>善用<strong>寻常口语</strong>，既能表达情思又能巧合音律</li>
+<li>李清照<strong>精于音律</strong>，善于将语言变化与声情相结合，达到艺术极致</li>
+</ul>
+<h4 id="朱敦儒" tabindex="-1"><a class="header-anchor" href="#朱敦儒" aria-hidden="true">#</a> 朱敦儒</h4>
+<ul>
+<li>字希珍，<strong>樵歌体</strong>，风格<strong>自然飘逸</strong>，语言浅白如画</li>
+</ul>
+<h3 id="辛弃疾与辛派词人" tabindex="-1"><a class="header-anchor" href="#辛弃疾与辛派词人" aria-hidden="true">#</a> 辛弃疾与辛派词人</h3>
+<h4 id="辛弃疾" tabindex="-1"><a class="header-anchor" href="#辛弃疾" aria-hidden="true">#</a> 辛弃疾</h4>
+<ul>
+<li>号<strong>嫁轩居士</strong>，词集《嫁轩长短句》，又名《嫁轩词》<br>
+<strong>1. 嫁轩体</strong></li>
+<li>指南宋中叶杰出词人辛弃疾的词</li>
+<li>辛弃疾的词发出了<strong>时代最强音</strong>，代表南宋<strong>爱国词的最高成就</strong></li>
+<li>其词达到了<strong>词体艺术的高峰</strong><br>
+<strong>2. 辛弃疾词的题材内容</strong></li>
+<li><strong>爱国词</strong>，最突出的题材，抒发<strong>爱国豪情和壮志难酬</strong>的悲愤</li>
+<li><strong>儿女缠绵</strong>之情</li>
+<li><strong>农家词</strong>，《清平乐》</li>
+<li><strong>咏春词</strong>，《摸鱼儿》</li>
+<li>艳情词<br>
+<strong>3. 辛弃疾词的艺术成就</strong></li>
+<li><strong>婉约词柔中带刚</strong>《祝英台近》</li>
+<li><strong>喜议论，以论为词</strong>《永遇乐》</li>
+<li><strong>喜用典，用典广泛</strong>《西江月》</li>
+</ul>
+<p><strong>辛派词人</strong></p>
+<ul>
+<li>南宋时期与辛弃疾同一批<strong>豪放派词人</strong></li>
+<li>主题抒发<strong>爱国主义</strong>情感，风格豪放</li>
+<li>主要任务<strong>张元擀</strong>、张孝祥、<strong>陈亮</strong>、刘过<br>
+<strong>1. 张元擀</strong>号芦川居士，词集《芦川词》</li>
+<li>南渡前：风格“极妩秀之至”</li>
+<li>南渡后：词风慷慨激昂，如《贺新郎》<br>
+<strong>2. 陈亮</strong>号龙川，词集《<strong>龙川词</strong>》</li>
+<li>词风豪放如嫁轩，在词中<strong>议论纵横</strong></li>
+</ul>
+<h3 id="陆游与南宋中期诗文" tabindex="-1"><a class="header-anchor" href="#陆游与南宋中期诗文" aria-hidden="true">#</a> 陆游与南宋中期诗文</h3>
+<h4 id="陆游" tabindex="-1"><a class="header-anchor" href="#陆游" aria-hidden="true">#</a> 陆游</h4>
+<ul>
+<li>号放翁<br>
+<strong>1. 陆游的诗歌创作时期</strong></li>
+<li>早期：<strong>清新拔俗</strong> 《游山西村》</li>
+<li>中期：<strong>豪放悲壮</strong> 《三月十七日夜醉中作》与范成大结交</li>
+<li>晚期：<strong>清淡秀逸</strong> 《十一月四日风雨大作》<br>
+<strong>2. 陆游诗歌的艺术成就</strong></li>
+<li><strong>古体诗风格悲壮</strong>，表达了沦陷区人民渴望收复的愿望《关山月》</li>
+<li><strong>七律自然圆转而对仗工整</strong>，古今律诗第一《书愤》</li>
+<li><strong>绝句风格清淡秀逸</strong>《秋思》<br>
+<strong>3. 陆游词的特色</strong></li>
+<li><strong>慷慨激昂，壮志难酬</strong></li>
+<li><strong>清淡秀逸</strong>，即可咏物，也可表达男女情爱<br>
+<strong>4. 陆游散文的特点</strong></li>
+<li><strong>记叙文</strong>成就较为突出，也包括议论文、小品文</li>
+<li>文字<strong>简洁优美</strong>，富有<strong>诗情画意</strong></li>
+</ul>
+<h4 id="杨万里" tabindex="-1"><a class="header-anchor" href="#杨万里" aria-hidden="true">#</a> 杨万里</h4>
+<ul>
+<li>号<strong>诚斋</strong>，著有《<strong>诚斋集</strong>》，诗歌创作中<strong>绝句</strong>最为出色<br>
+<strong>诚斋体</strong>
+<ul>
+<li><strong>杨万里</strong>的诗被称为诚斋体</li>
+<li>想象<strong>新奇风趣</strong>，语言通俗明快</li>
+<li>创造了一种<strong>新鲜活泼</strong>的写法，开辟了新的诗风</li>
+</ul>
+</li>
+</ul>
+<h4 id="范成大" tabindex="-1"><a class="header-anchor" href="#范成大" aria-hidden="true">#</a> 范成大</h4>
+<ul>
+<li>号石湖居士，著有《<strong>石湖集</strong>》，代表作《<strong>四时田园杂兴</strong>》
+<strong>范成大诗歌主要贡献</strong>
+<ul>
+<li><strong>爱国诗</strong>，以出使金国写的纪事诗为代表</li>
+<li><strong>田园诗</strong>，最著名，写农村自然景物和民生艰苦</li>
+</ul>
+</li>
+</ul>
+<h4 id="朱熹" tabindex="-1"><a class="header-anchor" href="#朱熹" aria-hidden="true">#</a> 朱熹</h4>
+<ul>
+<li>号<strong>晦庵</strong>，中国教育史上<strong>继孔子后的又一人</strong>，有《<strong>四书章句集注</strong>》，主张<strong>文道一体</strong>
+<strong>朱熹的诗歌和散文</strong>
+<ul>
+<li>诗歌：风格雅正、<strong>以诗喻理</strong></li>
+<li>散文：功力深刻、细致周密</li>
+</ul>
+</li>
+</ul>
+<h3 id="姜夔与南宋清雅词派" tabindex="-1"><a class="header-anchor" href="#姜夔与南宋清雅词派" aria-hidden="true">#</a> 姜夔与南宋清雅词派</h3>
+<h4 id="姜夔" tabindex="-1"><a class="header-anchor" href="#姜夔" aria-hidden="true">#</a> 姜夔</h4>
+<ul>
+<li>字尧章，号<strong>白石道人</strong>，开创了<strong>清雅词派</strong><br>
+<strong>1. 清雅词派</strong></li>
+<li><strong>南宋词坛</strong>流行的文学流派</li>
+<li>以<strong>姜夔</strong>为代表</li>
+<li>特点是<strong>清空骚雅</strong>，讲究音律<br>
+<strong>2. 白石词的情思内涵</strong></li>
+<li>题材以<strong>感伤时事、咏物言志及追记恋情</strong>为主，格调<strong>清越、高旷</strong></li>
+<li>反映<strong>家国、时政感慨</strong><br>
+<strong>3. 白石词的艺术成就</strong></li>
+<li><strong>清幽空灵</strong>的意境</li>
+<li><strong>虚字</strong>的使用</li>
+<li>以<strong>健笔写柔情</strong>，褪尽铅华，更见清刚</li>
+<li>精通音律，以<strong>雅乐注入词体</strong><br>
+<strong>4. 白石词对词史的贡献</strong></li>
+<li>姜夔首创的<strong>清雅词风</strong>于婉约、豪放之外别立一宗，称为广为词家承认的<strong>第三派</strong></li>
+<li><strong>丰富了词体风格</strong>的内涵，使<strong>词能与传统诗文并列</strong></li>
+<li>从<strong>婉约传统风格</strong>中独立出来</li>
+<li>促进了吴文英、史达祖、张炎等风格相近词人群的形成，标志着<strong>词学流派的形成</strong></li>
+</ul>
+<h4 id="吴文英" tabindex="-1"><a class="header-anchor" href="#吴文英" aria-hidden="true">#</a> 吴文英</h4>
+<ul>
+<li>号梦窗，有《<strong>梦窗词集</strong>》，存词三百余首，南宋词人中仅次于辛弃疾<br>
+<strong>1. 吴文英梦窗词的题材</strong></li>
+<li><strong>酬酢赠答</strong>之作，多写于充当门客时</li>
+<li><strong>哀伤时事</strong>之作</li>
+<li><strong>忆旧悼亡</strong>之作</li>
+<li><strong>恋情词</strong><br>
+<strong>2. 梦窗词的艺术成就</strong></li>
+<li>风格上：<strong>浓艳密丽</strong></li>
+<li>手法上：讲究<strong>用典用字</strong>，风格雅丽</li>
+<li>内容上：章法结构独特，时间与空间<strong>交错杂糅</strong>的叙述方式，内容亦真亦幻</li>
+<li>语言上：常用<strong>冷僻、怪异</strong>字词，造成特别效果</li>
+</ul>
+<h4 id="史达祖" tabindex="-1"><a class="header-anchor" href="#史达祖" aria-hidden="true">#</a> 史达祖</h4>
+<ul>
+<li>号梅溪，世称“梅溪先生”，<strong>咏物词</strong>在当时及后世享有盛誉。清雅词派重要词人</li>
+</ul>
+<h4 id="张炎" tabindex="-1"><a class="header-anchor" href="#张炎" aria-hidden="true">#</a> 张炎</h4>
+<ul>
+<li>著有《词源》《山中白云词》留词约300首。前期词风优美，多写景。后期词风凄凉，多亡国哀吟及身世零落之慨</li>
+</ul>
+<h3 id="南宋后期文学" tabindex="-1"><a class="header-anchor" href="#南宋后期文学" aria-hidden="true">#</a> 南宋后期文学</h3>
+<h4 id="永嘉四灵" tabindex="-1"><a class="header-anchor" href="#永嘉四灵" aria-hidden="true">#</a> 永嘉四灵</h4>
+<ul>
+<li>南宋后期四位诗人，<strong>徐玑、徐照、翁卷、赵师秀</strong>，都是永嘉人，诗风相近。效仿晚唐体诗<br>
+<strong>永嘉四灵诗歌艺术特点</strong>
+<ul>
+<li>取<strong>贾岛、姚合</strong>的<strong>晚唐体苦吟</strong>诗风</li>
+<li>格律诗，专攻<strong>五律</strong></li>
+<li>诗歌多<strong>冲淡平和</strong>，追求<strong>平淡简远</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="江湖诗派" tabindex="-1"><a class="header-anchor" href="#江湖诗派" aria-hidden="true">#</a> 江湖诗派</h4>
+<ul>
+<li><strong>南宋后期影响最大</strong>的诗派，因《<strong>江湖诗集</strong>》得名</li>
+<li>多效仿<strong>四灵</strong>体，崇尚<strong>晚唐</strong>的清巧之思</li>
+<li>代表诗人<strong>刘克庄、戴复古</strong>、方岳等。<br>
+<strong>1. 刘克庄的诗歌分期及艺术特点</strong></li>
+<li>早年从<strong>晚唐体、四灵体</strong>入手，风格清淡简远</li>
+<li>后摒弃四灵诗风，转<strong>尚古体</strong>，尊韩愈诗，追求<strong>悲愤慷慨</strong></li>
+<li>六十岁之后诗风更为沉痛，<strong>沉郁悲凉</strong></li>
+<li>融汇众作而<strong>自为一家</strong>，江湖诗派宗师<br>
+<strong>2. 戴复古</strong></li>
+<li>号石屏，著有《<strong>石屏诗集</strong>》，江湖诗派代表诗人</li>
+<li><strong>五律</strong>数量最多，占了全集一半以上</li>
+<li>曾从<strong>陆游</strong>学习而诗艺大进</li>
+</ul>
+<h4 id="文天祥及逸民作家" tabindex="-1"><a class="header-anchor" href="#文天祥及逸民作家" aria-hidden="true">#</a> 文天祥及逸民作家</h4>
+<ul>
+<li><strong>文天祥</strong>号文山，有《<strong>文山先生全集</strong>》，代表作《<strong>过零丁洋</strong>》。后期学杜甫，抒发<strong>爱国思想</strong>与坚贞的民族气节。<strong>慷慨激昂，悲壮苍凉</strong></li>
+<li><strong>汪元量</strong>，有《湖州歌九十八首》，被称为<strong>宋亡诗史</strong></li>
+<li><strong>刘辰翁</strong>，耿直著称，《<strong>须溪集</strong>》</li>
+</ul>
+<h2 id="辽金元文学" tabindex="-1"><a class="header-anchor" href="#辽金元文学" aria-hidden="true">#</a> 辽金元文学</h2>
+<h3 id="辽金文学" tabindex="-1"><a class="header-anchor" href="#辽金文学" aria-hidden="true">#</a> 辽金文学</h3>
+<h4 id="概况" tabindex="-1"><a class="header-anchor" href="#概况" aria-hidden="true">#</a> 概况</h4>
+<ul>
+<li>寺公大师：《<strong>醉义歌</strong>》，辽诗中最长诗篇</li>
+<li>耶律洪基：《<strong>题黄菊赋</strong>》</li>
+<li>耶律倍：辽代<strong>第一位</strong>文学艺术家，《<strong>海上诗</strong>》</li>
+<li>萧观音：《<strong>伏虎林</strong>》</li>
+<li>萧瑟瑟：《<strong>讽谏歌</strong>》</li>
+</ul>
+<h4 id="金初借才异代" tabindex="-1"><a class="header-anchor" href="#金初借才异代" aria-hidden="true">#</a> 金初借才异代</h4>
+<ul>
+<li>金初文坛作家主要由两部分人组成，一是辽入金文臣，如韩肪。二是宋入金文士，如宇文虚中、吴激、蔡松年</li>
+</ul>
+<h4 id="金中后期国潮文派" tabindex="-1"><a class="header-anchor" href="#金中后期国潮文派" aria-hidden="true">#</a> 金中后期国潮文派</h4>
+<ul>
+<li><strong>金代中后期</strong>的诗文作家群，形成了有别于宋的独特风格</li>
+<li><strong>蔡圭</strong>：对<strong>闲适生活的向往</strong>与热爱，时常展现出<strong>豪杰之气</strong></li>
+<li><strong>党怀英</strong>：诗精细工整、<strong>古朴自然</strong></li>
+<li><strong>王庭筠</strong>：多写景咏怀之作，<strong>清新秀丽</strong></li>
+<li><strong>赵秉文</strong>：诗歌创作强调<strong>师古</strong>。七言豪放不拘一格，五言闲淡简远</li>
+</ul>
+<h4 id="元好问" tabindex="-1"><a class="header-anchor" href="#元好问" aria-hidden="true">#</a> 元好问</h4>
+<ul>
+<li><strong>金元时期</strong>多方面成就大家</li>
+<li><strong>诗、词、文、文学批评</strong>等方面都取得了很高成就</li>
+<li>诗风<strong>豪放悲凉</strong>，善<strong>七律七绝</strong>，著有《<strong>论诗三十首</strong>》<br>
+<strong>1. 《论诗三十首》体现的审美追求和诗学观念</strong></li>
+<li>以<strong>风雅</strong>为宗，要求诗歌回归正体</li>
+<li>推崇<strong>自然</strong>，标举<strong>清刚雄健</strong> 如“一语天然万古新，豪华落尽见真淳”</li>
+<li>推尊<strong>李白、杜甫</strong>，对<strong>黄庭坚</strong>或效法黄庭坚诗形成的弊端有所批评<br>
+<strong>2. 元好问诗的思想内容</strong></li>
+<li>早年多写<strong>伤乱诗</strong>，反映时代的不幸，诗风苍凉沉郁</li>
+<li>晚年写咏物诗、山水诗、题画诗等，善<strong>七律七绝</strong><br>
+<strong>3. 元好问词的艺术特点</strong></li>
+<li>词风格<strong>沉郁悲凉</strong></li>
+<li>兼豪放词与婉约词于一体，形成<strong>清雄顿挫而深婉明丽</strong>的成熟风格<br>
+<strong>4. 元好问散文取法欧苏</strong>，平易之中又极有情致</li>
+</ul>
+<h4 id="诸宫调" tabindex="-1"><a class="header-anchor" href="#诸宫调" aria-hidden="true">#</a> 诸宫调</h4>
+<ul>
+<li>宋金元时期流行的一种<strong>说唱艺术</strong></li>
+<li>用<strong>多种宫调的曲子</strong>联合演唱，杂以说白，<strong>表演长篇故事</strong><br>
+<strong>《西厢记诸宫调》</strong>
+<ul>
+<li><strong>现存唯一完整的诸宫调作品</strong></li>
+<li>根据唐传奇《<strong>莺莺传</strong>》进行的再创作</li>
+<li>作者<strong>金代董解元</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="元杂剧的兴盛和代表作家" tabindex="-1"><a class="header-anchor" href="#元杂剧的兴盛和代表作家" aria-hidden="true">#</a> 元杂剧的兴盛和代表作家</h3>
+<h4 id="元杂剧作家作品和发展分期" tabindex="-1"><a class="header-anchor" href="#元杂剧作家作品和发展分期" aria-hidden="true">#</a> 元杂剧作家作品和发展分期</h4>
+<ul>
+<li>前期：<strong>大都</strong> 作家：<strong>关汉卿、白朴、马致远</strong>； 内容：<strong>社会剧、悲剧</strong></li>
+<li>后期：<strong>杭州</strong> 作家：<strong>郑光祖、宫天挺、秦简夫、乔吉</strong>；内容：<strong>爱情剧、神仙道化剧、文人事迹剧</strong></li>
+<li><strong>元曲四大家</strong> 关汉卿、白朴、马致远、郑光祖<br>
+<strong>1. 元杂剧分类</strong></li>
+<li>最早分类：《<strong>青楼集</strong>》作者<strong>邾经</strong></li>
+<li>明代分类：<strong>朱权</strong>提出，<strong>神仙道化</strong>列首</li>
+<li>近代分类：<strong>爱情婚姻剧、神仙道化剧、公案剧、历史剧、家庭伦理剧</strong><br>
+<strong>2. 元杂剧体制</strong></li>
+<li>角色以<strong>旦、末</strong>为主；女主叫正旦，男主叫正末<br>
+<strong>3. 元杂剧前期作家概况</strong></li>
+<li>纪君祥：《<strong>赵氏孤儿</strong>》</li>
+<li>郑廷玉：《看钱奴》《忍字记》《后庭花》</li>
+<li>康进之：《<strong>李逵负荆</strong>》</li>
+<li>石君宝：《<strong>秋胡戏妻</strong>》</li>
+<li>神话剧双壁：尚仲闲《<strong>柳毅传书</strong>》和李好古《<strong>张生煮海</strong>》</li>
+</ul>
+<h4 id="《梧桐雨》" tabindex="-1"><a class="header-anchor" href="#《梧桐雨》" aria-hidden="true">#</a> 《梧桐雨》</h4>
+<ul>
+<li>作者：白朴<br>
+<strong>1. 描写唐明皇人物形象</strong></li>
+<li>把帝王生活的<strong>豪华奢侈</strong>、纸醉金迷渲染的淋漓尽致</li>
+<li>也写出唐明皇孤独寂寞时的<strong>悔恨和哀怨</strong><br>
+<strong>2. 创作特色</strong></li>
+<li>善于表现患难后的寂寞和孤愤</li>
+<li>极富<strong>情感冲击力、沉雄悲壮</strong>，创造悲凉意境</li>
+</ul>
+<h4 id="马致远" tabindex="-1"><a class="header-anchor" href="#马致远" aria-hidden="true">#</a> 马致远</h4>
+<ul>
+<li>《黄粱梦》比喻虚幻不实的事和欲望的破灭犹如一梦<br>
+<strong>1. 马致远《汉宫秋》</strong></li>
+<li><strong>历史剧</strong>《汉宫秋》</li>
+<li>马致远杂居代表作，写汉元帝时期<strong>昭君出塞</strong>的事</li>
+<li>强烈的<strong>批判意识</strong>和浓郁的<strong>民族情绪</strong><br>
+<strong>2. 马致远《陈抟高卧》</strong></li>
+<li><strong>神仙道化剧</strong>《陈抟高卧》，全名《西华山陈抟高卧》</li>
+<li>马致远元杂剧代表作之一，描写<strong>陈抟参破功名，弃绝仕途</strong>的心路历程</li>
+<li>酣畅淋漓、<strong>声韵兼美</strong><br>
+<strong>3. 马致远神仙道化剧</strong></li>
+<li>以<strong>劝人出家归隐、寻找脱离红尘</strong>为主旨，有<strong>佛道虚无避世</strong>的思想倾向</li>
+<li>剧中神仙都是人间隐士，如《<strong>黄粱梦</strong>》《<strong>陈抟高卧</strong>》等</li>
+</ul>
+<h4 id="《倩女离魂》" tabindex="-1"><a class="header-anchor" href="#《倩女离魂》" aria-hidden="true">#</a> 《倩女离魂》</h4>
+<ul>
+<li>元代<strong>郑光祖</strong>杂剧代表作</li>
+<li>出自唐传奇小说《<strong>离魂记</strong>》，以<strong>倩女灵魂和躯体分离</strong>作为故事情节</li>
+<li>反映青年女子在<strong>封建礼教禁锢和压抑下心灵的痛苦</strong><br>
+<strong>《倩女离魂》的艺术特色</strong>
+<ul>
+<li><strong>情节离奇</strong>，富于浪漫色彩</li>
+<li>语言笔触细腻、善于融化前人诗句入曲</li>
+</ul>
+</li>
+</ul>
+<h4 id="《范张鸡黍》" tabindex="-1"><a class="header-anchor" href="#《范张鸡黍》" aria-hidden="true">#</a> 《范张鸡黍》</h4>
+<ul>
+<li>元代<strong>宫天挺</strong>杂剧代表作</li>
+<li>主要描写<strong>范、张、孔、王</strong>四人友情</li>
+<li>歌颂<strong>人间友情</strong>的同时，抨击<strong>仕途黑暗</strong></li>
+</ul>
+<h4 id="《两世姻缘》" tabindex="-1"><a class="header-anchor" href="#《两世姻缘》" aria-hidden="true">#</a> 《两世姻缘》</h4>
+<ul>
+<li>元代<strong>乔吉</strong>杂剧代表作</li>
+<li>写<strong>歌妓</strong>和<strong>书生</strong>的两世姻缘爱情故事</li>
+<li>曲词<strong>清丽雅正，优美又富有感染力</strong></li>
+</ul>
+<h4 id="《东堂老》" tabindex="-1"><a class="header-anchor" href="#《东堂老》" aria-hidden="true">#</a> 《东堂老》</h4>
+<ul>
+<li>元代<strong>秦简夫</strong>杂剧代表作</li>
+<li>写商人<strong>李实</strong>帮助友人不孝子<strong>扬州奴</strong>悔过自新、重振家业的故事</li>
+<li>既反映了对<strong>商人和商业的肯定</strong>，也表现了<strong>儒家伦理观念</strong>对商人的影响<br>
+<strong>艺术特色</strong>：人物形象刻画细致逼真</li>
+</ul>
+<h3 id="戏曲家关汉卿和王实甫" tabindex="-1"><a class="header-anchor" href="#戏曲家关汉卿和王实甫" aria-hidden="true">#</a> 戏曲家关汉卿和王实甫</h3>
+<h4 id="关汉卿" tabindex="-1"><a class="header-anchor" href="#关汉卿" aria-hidden="true">#</a> 关汉卿</h4>
+<p><strong>关汉卿作品分类</strong></p>
+<ul>
+<li><strong>公案剧</strong>：揭露社会政治黑暗《窦娥冤》</li>
+<li><strong>妇女生活剧</strong>：描写妇女生活和斗争，突出她们的坚强、勇敢和机智《救风尘》</li>
+<li><strong>历史剧</strong>：歌颂历史英雄人物《单刀会》</li>
+</ul>
+<h4 id="《窦娥冤》" tabindex="-1"><a class="header-anchor" href="#《窦娥冤》" aria-hidden="true">#</a> 《窦娥冤》</h4>
+<ul>
+<li>关汉卿<strong>公案剧</strong>代表作，也是元杂剧最著名的悲剧</li>
+<li>主旨在于<strong>揭露窦娥感天动地的冤屈</strong><br>
+<strong>《窦娥冤》创作特色</strong>
+<ul>
+<li><strong>戏剧冲突尖锐激烈，性格刻画</strong>非常鲜明</li>
+<li>通过<strong>窦娥与社会现实的冲突</strong>，表现<strong>封建社会妇女的悲剧命运</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="《西厢记》" tabindex="-1"><a class="header-anchor" href="#《西厢记》" aria-hidden="true">#</a> 《西厢记》</h4>
+<ul>
+<li>元代<strong>王实甫</strong>杂剧代表作</li>
+<li>通过<strong>张生和崔莺莺</strong>的爱情故事，歌颂青年男女<strong>反抗礼教、争取婚姻自由</strong>的斗争精神</li>
+<li>我国古代<strong>爱情剧</strong>成就最高、影响最大的作品之一<br>
+<strong>《西厢记》的戏剧冲突</strong>
+<ul>
+<li>一方是崔莺莺、张生、红娘与老妇人及郑恒的冲突，另一方是崔莺莺、张生、红娘之间的冲突</li>
+<li>戏剧冲突不是以崔莺莺、张生的胜利结束、而是一种妥协的结果</li>
+</ul>
+</li>
+</ul>
+<h3 id="元代散曲" tabindex="-1"><a class="header-anchor" href="#元代散曲" aria-hidden="true">#</a> 元代散曲</h3>
+<p><strong>元代散曲</strong></p>
+<ul>
+<li>周德清概括特点：<strong>文而不文，俗而不俗，造语必俊</strong><br>
+<strong>元代散曲的艺术特点</strong>
+<ul>
+<li>用<strong>口语和白话</strong>写成</li>
+<li>一泻而下、一览无遗</li>
+<li>靠<strong>风趣</strong>、讽刺取胜</li>
+<li>通俗易懂又<strong>不乏文采</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>前期散曲家</strong></p>
+<ul>
+<li>关汉卿、王和卿、马致远<br>
+<strong>1. 关汉卿散曲</strong></li>
+<li><strong>男女恋情</strong>为主、自适情怀、自赞自嘲</li>
+<li>以<strong>质朴为主</strong></li>
+<li>富有生活激情、常表现出<strong>诙谐的个性</strong><br>
+<strong>2. 王和卿</strong></li>
+<li><strong>滑稽挑达</strong>的作品风格<br>
+<strong>3. 马致远散曲艺术特色</strong></li>
+<li>前期散曲作家中<strong>保存作品最多</strong>，被称为<strong>曲状元</strong></li>
+<li>描写<strong>自然景物</strong>和<strong>游子漂泊</strong></li>
+<li>曲中<strong>豪放派</strong>代表</li>
+<li>多写<strong>隐居生活</strong>，与世无争、及时行乐</li>
+</ul>
+<p><strong>后期散曲家</strong></p>
+<ul>
+<li>张养浩、乔吉、张可久<br>
+<strong>1. 张养浩散曲艺术特点</strong></li>
+<li>带有<strong>政治批判</strong>色彩，语言<strong>质朴豪放</strong></li>
+<li>讽刺<strong>社会官场</strong>，赞美<strong>田园生活</strong></li>
+<li>对<strong>社会历史</strong>的看法、对<strong>民生疾苦</strong>的同情</li>
+<li>创作注重<strong>立意构思</strong>，风格近诗</li>
+<li>有<strong>奔放浩荡</strong>的气韵，如《潼关怀古》<em>兴，百姓苦；亡，百姓苦</em><br>
+<strong>2. 乔吉</strong></li>
+<li>元后期杂剧作家，也已散曲名世《<strong>水仙子</strong>》</li>
+<li>风格<strong>清丽雅正</strong></li>
+<li>与<strong>张可久</strong>并称<br>
+<strong>3. 张可久散曲特点</strong></li>
+<li>内容反映<strong>现实并加以讽刺</strong></li>
+<li><strong>吊古伤今</strong>作品，表现无奈的心境</li>
+<li>多<strong>咏物写景</strong>、闲适游冶</li>
+<li>注重<strong>形式格律、雕琢字句</strong></li>
+</ul>
+<h3 id="宋元南戏和话本" tabindex="-1"><a class="header-anchor" href="#宋元南戏和话本" aria-hidden="true">#</a> 宋元南戏和话本</h3>
+<h4 id="南戏" tabindex="-1"><a class="header-anchor" href="#南戏" aria-hidden="true">#</a> 南戏</h4>
+<ul>
+<li><strong>南曲戏文</strong>的简称</li>
+<li>中心在<strong>浙江温州</strong>一带，被称为<strong>温州杂剧</strong>，温州唐代为永嘉郡，又称<strong>永嘉杂剧</strong></li>
+</ul>
+<p><strong>早期南戏作品</strong></p>
+<ul>
+<li>《张协状元》《宦门子弟错立身》《小孙屠》</li>
+</ul>
+<p><strong>中后期南戏四大传奇</strong></p>
+<ul>
+<li>《荆钗记》《白兔记》《拜月亭记》《杀狗记》<br>
+<strong>1. 《荆钗记》</strong></li>
+<li><strong>以情节关目胜</strong>，结构精巧、戏剧性强<br>
+<strong>2. 《白兔记》</strong></li>
+<li><strong>词极古质</strong>，富有民间文学特色<br>
+<strong>3. 《拜月亭记》</strong></li>
+<li>运用<strong>巧合误会</strong>的手法，出人意料又在情理之中，有较强的感染力<br>
+<strong>4. 《杀狗记》</strong></li>
+<li><strong>曲文俚俗</strong>，明白如话</li>
+</ul>
+<p><strong>成就最高《琵琶记》</strong></p>
+<ul>
+<li><strong>高明</strong>著，<strong>南戏之祖</strong><br>
+<strong>《琵琶记》的艺术成就</strong>
+<ul>
+<li>塑造了<strong>赵五娘</strong>这一<strong>鲜明人物形象</strong>，体现中国妇女吃苦耐劳的传统美德</li>
+<li>采用<strong>苦乐相错</strong>的戏剧结构手法</li>
+<li><strong>曲辞富有表现力</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="宋元话本" tabindex="-1"><a class="header-anchor" href="#宋元话本" aria-hidden="true">#</a> 宋元话本</h4>
+<ul>
+<li>古代<strong>说话人</strong>的底本</li>
+<li>分“说话四家”，<strong>小说、说铁骑、说经、讲史</strong></li>
+<li>现在见到的基本是<strong>小说</strong>和<strong>讲史</strong><br>
+<strong>1. 平话/讲史</strong></li>
+<li>元代<strong>讲史</strong>话本多标明为<strong>平话</strong></li>
+<li>讲述<strong>历史故事并加以评说</strong></li>
+<li>大多根据正史、野史改编<br>
+<strong>2. 说铁骑</strong></li>
+<li>宋代说话四家之一</li>
+<li>讲述战争中英雄传奇的故事</li>
+<li>是英雄传奇小说的来源<br>
+<strong>3. 话本小说的艺术特点</strong></li>
+<li><strong>体制形式</strong>结合市民听众需要创作而来</li>
+<li><strong>叙述方式</strong>符合大众欣赏习惯</li>
+<li>使用<strong>白话</strong>进行演说</li>
+</ul>
+<h3 id="元代诗文" tabindex="-1"><a class="header-anchor" href="#元代诗文" aria-hidden="true">#</a> 元代诗文</h3>
+<p><strong>元诗四大家</strong></p>
+<ul>
+<li><strong>虞集、杨载、范梈、揭奚斯</strong><br>
+<strong>1. 元前期诗文</strong></li>
+<li><strong>耶律楚材</strong> 风格：<strong>超拔、雄豪</strong></li>
+<li><strong>郝经</strong> 风格：<strong>苍浑崎岖</strong></li>
+<li><strong>戴表元</strong> 风格：富有<strong>唐诗风味</strong></li>
+<li><strong>赵孟頫</strong> 风格：诗风转变关键人物<br>
+<strong>2. 元中期诗文</strong></li>
+<li>姚燧 风格：<strong>宏肆该洽</strong>，自然流露</li>
+<li><strong>虞集</strong>元诗四大家之首 风格追求：<strong>至清至和</strong></li>
+<li><strong>揭奚斯</strong> 擅长<strong>五言诗</strong> 被称为“五字长城”<br>
+<strong>3. 元后期诗文</strong></li>
+<li><strong>杨维桢</strong>《铁崖体》 学<strong>李贺</strong>，追求新奇。代表作《铁崖古乐府》</li>
+<li>萨都剌 成就最高的<strong>少数民族</strong>诗人</li>
+</ul>
+<h2 id="明代文学" tabindex="-1"><a class="header-anchor" href="#明代文学" aria-hidden="true">#</a> 明代文学</h2>
+<h3 id="《三国演义》《水浒传》" tabindex="-1"><a class="header-anchor" href="#《三国演义》《水浒传》" aria-hidden="true">#</a> 《三国演义》《水浒传》</h3>
+<h4 id="《三国演义》" tabindex="-1"><a class="header-anchor" href="#《三国演义》" aria-hidden="true">#</a> 《三国演义》</h4>
+<ul>
+<li>作者罗贯中<br>
+<strong>1. 《三国演义》的内容和思想倾向</strong></li>
+<li>表现了<strong>明君贤相</strong>的<strong>儒家伦理观念</strong>，强调<strong>人才</strong>的作用</li>
+<li>始终以<em>义</em>作为描写和<strong>衡量人物</strong>的重要标准</li>
+<li>展示了汉晋之间<strong>政治、军事斗争</strong>的复杂性，被视为<strong>绝好的历史教科书</strong></li>
+<li>继承宋代以来以<strong>蜀汉</strong>为正统的看法，<strong>尊刘贬曹</strong><br>
+<strong>2. 《三国演义》的艺术成就</strong></li>
+<li>正确处理了历史事实和艺术创造关系的问题</li>
+<li><strong>七分事实</strong>指主<strong>主要框架、人物、事件</strong>按照史书记载来组织安排</li>
+<li><strong>三分虚构</strong>指人物和时间细节描绘上，采用<strong>民间传闻中的精彩片段</strong><br>
+<strong>3. 《三国演义》的人物特点</strong></li>
+<li>善于运用<strong>层层渲染</strong>的手法</li>
+<li>运用<strong>传奇色彩</strong>的故事和<strong>生动的细节</strong>塑造人物</li>
+<li>善于<strong>对比烘托</strong>的手法</li>
+<li>缺点：人物性格缺少发展变化，为突出人物特点<strong>夸张而失真</strong><br>
+<strong>4. 《三国演义》的悲剧精神</strong></li>
+<li>小说以<strong>尊刘贬曹</strong>为基本思想倾向，最后却三分归晋</li>
+<li>将<strong>正面美好因素</strong>赋予刘备集团，最终却一步步走向衰亡的<strong>悲剧性结局</strong></li>
+<li>导致刘备集团失败的直接原因是<strong>用道德价值压制政治利益</strong></li>
+</ul>
+<h4 id="《水浒传》" tabindex="-1"><a class="header-anchor" href="#《水浒传》" aria-hidden="true">#</a> 《水浒传》</h4>
+<ul>
+<li>作者施耐庵<br>
+<strong>1. 《水浒传》的内容</strong></li>
+<li>第一部分 1-70回 写<strong>108名好汉被逼上梁山</strong>的经过，梁山好汉的<strong>个人英雄传奇</strong>故事</li>
+<li>第二部分 70-82回 写<strong>梁山义军同官府对抗</strong>，梁山好汉的<strong>集体传奇</strong>故事</li>
+<li>第三部分 82-结束 写<strong>梁山义军被招安后四处征战</strong>至最后失败的经过，是梁山起义的最终<strong>悲剧结局</strong><br>
+<strong>2. 《水浒传》的思想倾向</strong></li>
+<li>揭露当时社会的黑暗，突出<strong>官逼民反</strong>的主题</li>
+<li>突出梁山好汉<strong>替天行道</strong>，强调<strong>忠义</strong>性质</li>
+<li><strong>忠义</strong>作为<strong>封建道德</strong>难以两全的矛盾<br>
+<strong>3. 《水浒传》的艺术成就</strong></li>
+<li>塑造了栩栩如生、神态各异的<strong>草莽英雄人物形象</strong>，被视为<strong>英雄传奇</strong>小说的典范</li>
+<li>把<strong>人物置于情节发展</strong>之中，高度融合</li>
+<li>塑造人物时倾注着<strong>强烈的爱憎情感</strong></li>
+<li>结构主要是<strong>单线发展</strong>，情节相对独立</li>
+<li>继承发展了<strong>说话</strong>艺术风格，运用<strong>白话</strong>写景叙事，语言生动、准确、富有<strong>表现力</strong><br>
+<strong>4. 《水浒传》中义的表现</strong></li>
+<li>张扬一种<strong>路见不平、拔刀相助、仗义疏财</strong>的精神</li>
+<li>对<strong>朋友、弱者</strong>义的精神</li>
+</ul>
+<h3 id="《西游记》《金瓶梅》" tabindex="-1"><a class="header-anchor" href="#《西游记》《金瓶梅》" aria-hidden="true">#</a> 《西游记》《金瓶梅》</h3>
+<h4 id="《西游记》" tabindex="-1"><a class="header-anchor" href="#《西游记》" aria-hidden="true">#</a> 《西游记》</h4>
+<ul>
+<li>作者吴承恩<br>
+<strong>1. 《西游记》的主旨</strong></li>
+<li>作者笔下的孙悟空机智、勇敢、富于<strong>斗争精神</strong></li>
+<li>孙悟空象征<strong>心猿</strong>，<strong>大闹天宫</strong>喻<strong>放心</strong>，<strong>被压五行山下</strong>喻<strong>定心</strong>，<strong>取经修成正果</strong>喻<strong>修心</strong></li>
+<li>虽是神魔小说，却与<strong>现实生活</strong>有着极为密切的关系，反映<strong>明中后期</strong>社会现实<br>
+<strong>2. 《西游记》的艺术特色</strong></li>
+<li>最突出的是小说具有<strong>奇幻色彩</strong></li>
+<li>语言风格<strong>诙谐幽默</strong></li>
+<li>艺术结构<strong>单线发展</strong>，每一回故事<strong>相对独立</strong></li>
+<li>善于汲取<strong>民间说唱</strong>和<strong>方言口语</strong>的精华</li>
+</ul>
+<h4 id="《金瓶梅》" tabindex="-1"><a class="header-anchor" href="#《金瓶梅》" aria-hidden="true">#</a> 《金瓶梅》</h4>
+<ul>
+<li>作者兰陵笑笑生<br>
+<strong>1. 《金瓶梅》的内容与思想意义</strong></li>
+<li>通过对西门庆这样一个集<strong>富商、恶霸、官僚、淫棍</strong>于一身的人物<strong>不动声色</strong>的描写，表现了明代后期<strong>社会黑暗、吏治腐朽、官商勾结、权钱交易</strong>等社会现象</li>
+<li>不仅写出了西门庆的<strong>贪婪狠毒</strong>，也写出了他的<strong>精明强干</strong>，真实塑造了明后期<strong>新兴商人</strong>的形象</li>
+<li>通过<strong>家庭兴衰</strong>的故事，表现对于<strong>人性</strong>更为深刻的思考<br>
+<strong>2. 《金瓶梅》的艺术成就及对中国小说发展的贡献</strong></li>
+<li><strong>所写题材和人物都有所不同</strong></li>
+<li>塑造人物摆脱了以往小说<strong>人物类型化</strong>的缺陷</li>
+<li>艺术手法：运用<strong>白描手法</strong>写世俗人情，<strong>直抒其事</strong>，对比和讽刺的手法</li>
+<li>艺术结构：<strong>不再注重情节的曲折</strong>，突出人物之间的<strong>相互关系</strong>，形成一种<strong>网状</strong>的艺术结构</li>
+<li>语言特色：更加<strong>口语化、通俗化</strong></li>
+</ul>
+<h3 id="明代白话短篇小说" tabindex="-1"><a class="header-anchor" href="#明代白话短篇小说" aria-hidden="true">#</a> 明代白话短篇小说</h3>
+<h4 id="冯梦龙" tabindex="-1"><a class="header-anchor" href="#冯梦龙" aria-hidden="true">#</a> 冯梦龙</h4>
+<ul>
+<li>受<strong>童心说</strong>影响、强调<strong>自然人性</strong>，重视<strong>通俗文学</strong><br>
+<strong>1. 冯梦龙三言的主要内容和思想倾向</strong></li>
+<li><strong>商人题材</strong>的小说，突破了传统<strong>重农抑商</strong>的观念</li>
+<li><strong>婚恋题材</strong>的小说，要求<strong>婚姻爱情自由</strong>的思想观念</li>
+<li>从<strong>市民阶层</strong>出发，对社会不公提出抨击<br>
+<strong>2. 冯梦龙三言的艺术特色</strong></li>
+<li>更贴近<strong>日常的世俗生活</strong>，善于抓住<strong>偶然巧合</strong>构成<strong>富有传奇色彩</strong>的故事</li>
+<li>善于把<strong>人物置于外部世界</strong>的激烈冲突中，表现人物<strong>内心活动</strong></li>
+<li>语言精炼<strong>雅俗共赏</strong>，<strong>生活气息</strong>浓郁</li>
+</ul>
+<h3 id="汤显祖与明代戏剧" tabindex="-1"><a class="header-anchor" href="#汤显祖与明代戏剧" aria-hidden="true">#</a> 汤显祖与明代戏剧</h3>
+<h4 id="明代戏剧基本特征" tabindex="-1"><a class="header-anchor" href="#明代戏剧基本特征" aria-hidden="true">#</a> 明代戏剧基本特征</h4>
+<ul>
+<li>明代戏剧包括<strong>杂剧和传奇</strong>两种类型，作家作品众多</li>
+<li><strong>题材多样</strong></li>
+<li><strong>审美风格雅化</strong></li>
+</ul>
+<h4 id="徐渭《四声猿》" tabindex="-1"><a class="header-anchor" href="#徐渭《四声猿》" aria-hidden="true">#</a> 徐渭《四声猿》</h4>
+<ul>
+<li>徐渭的杂剧作品，长短不拘，<strong>形式灵活</strong>，追求个性<br>
+<strong>《四声猿》取义《水经注》<em>猿鸣三声泪沾裳</em></strong>
+<ul>
+<li>《<strong>狂鼓史</strong>渔阳三弄》一折 俗称“阴骂曹”，<strong>最杰出</strong>的作品</li>
+<li>《<strong>玉禅师</strong>翠乡一梦》二折</li>
+<li>《<strong>雌木兰</strong>替父从军》三折</li>
+<li>《<strong>女状元</strong>辞凰得凤》</li>
+</ul>
+</li>
+</ul>
+<h4 id="明中期三大传奇" tabindex="-1"><a class="header-anchor" href="#明中期三大传奇" aria-hidden="true">#</a> 明中期三大传奇</h4>
+<ul>
+<li>李开先《<strong>宝剑记</strong>》改动林冲性格、以忠奸斗争为主要矛盾</li>
+<li>梁辰鱼《<strong>浣纱记</strong>》关于西施的故事</li>
+<li>王士祯《<strong>鸣凤记</strong>》忠奸斗争</li>
+</ul>
+<h4 id="明后期汤沈之争" tabindex="-1"><a class="header-anchor" href="#明后期汤沈之争" aria-hidden="true">#</a> 明后期汤沈之争</h4>
+<ul>
+<li>汤显祖和沈璟围绕<strong>戏曲观念与创作</strong>展开的政论
+<ul>
+<li>汤显祖强调文学性，注重<strong>文辞</strong></li>
+<li>沈璟强调舞台性，注重<strong>格律</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="汤显祖的临川四梦" tabindex="-1"><a class="header-anchor" href="#汤显祖的临川四梦" aria-hidden="true">#</a> 汤显祖的临川四梦</h4>
+<ul>
+<li>《<strong>紫钗记</strong>》《<strong>牡丹亭</strong>》《<strong>南柯记</strong>》《<strong>邯郸记</strong>》，其中《牡丹亭》成就最高<br>
+<strong>《牡丹亭》思想内容和艺术成就</strong>
+<ul>
+<li>成功塑造了杜丽娘这一<strong>追求自由与爱情的女性形象</strong></li>
+<li>因感春如梦，<strong>为情而死</strong>是杜丽娘性格的<strong>一次升华</strong></li>
+<li>身为<strong>鬼魂</strong>，向阎王胡判官诉说经历，为情而生，性格的<strong>又一次升华</strong></li>
+<li>回到<strong>现实</strong>，在朝堂上<strong>对抗父命</strong>，向<strong>皇帝诉说心曲</strong>，性格<strong>第三次升华</strong></li>
+<li>对<strong>传统道德观念</strong>予以猛烈的冲击，具有鲜明的时代精神</li>
+</ul>
+</li>
+</ul>
+<h3 id="明代散文" tabindex="-1"><a class="header-anchor" href="#明代散文" aria-hidden="true">#</a> 明代散文</h3>
+<h4 id="明代散文概况" tabindex="-1"><a class="header-anchor" href="#明代散文概况" aria-hidden="true">#</a> 明代散文概况</h4>
+<ul>
+<li><strong>宋濂和刘基</strong>代表元明之际散文创作的最高成就<br>
+<strong>1. 台阁体散文及“三杨“</strong></li>
+<li><strong>明初</strong>文坛最流行的是台阁体</li>
+<li>代表人物”三杨“：杨士奇、杨荣、杨溥</li>
+<li>以粉饰太平、歌功颂德为主，风格<strong>雍容和雅、平易畅达</strong><br>
+<strong>2. 刘基</strong></li>
+<li>散文与宋濂<strong>并为一代之宗</strong>，诗<strong>风格沉郁</strong></li>
+<li>写的最好的是<strong>寓言性杂文</strong><br>
+<strong>3. 宋濂</strong></li>
+<li>明朝<strong>开国文臣之首</strong><br>
+<strong>宋濂的文学思想</strong>
+<ul>
+<li>认为<strong>文道不可为二</strong></li>
+<li>散文宗法韩愈、欧阳修，具有<strong>醇深典正、浑穆雍容</strong>的特征</li>
+<li>写的最好的是<strong>人物传记</strong></li>
+<li><strong>抒情写景</strong>，笔调清新</li>
+</ul>
+</li>
+</ul>
+<h4 id="归有光与唐宋派散文" tabindex="-1"><a class="header-anchor" href="#归有光与唐宋派散文" aria-hidden="true">#</a> 归有光与唐宋派散文</h4>
+<p><strong>唐宋派</strong></p>
+<ul>
+<li><strong>明代嘉靖</strong>年间出现的文学复古流派</li>
+<li>代表人物：<strong>王慎中、唐顺之、茅坤、归有光</strong></li>
+<li>主张<strong>文道合一</strong>、文宗<strong>唐宋诸家</strong><br>
+<strong>归有光</strong>
+<ul>
+<li>《震川先生文集》，<strong>唐宋派</strong>散文创作<strong>成就最高</strong></li>
+<li>主张<strong>文道合一</strong></li>
+<li>注重散文<strong>抒情功能和审美特质</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="公安派与晚明时期小品文" tabindex="-1"><a class="header-anchor" href="#公安派与晚明时期小品文" aria-hidden="true">#</a> 公安派与晚明时期小品文</h4>
+<p><strong>李贽</strong></p>
+<ul>
+<li>晚明思想与文学革新的<strong>旗手</strong><br>
+<strong>童心说</strong>
+<ul>
+<li><strong>绝假纯真，最初一念之本心</strong></li>
+<li>不受外在影响，<strong>真实坦率地表露内心</strong>情感欲望</li>
+<li><strong>反对伪道学</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>公安派提出“性灵说”</strong></p>
+<ul>
+<li><strong>万历后期影响最大</strong>的诗文流派</li>
+<li>代表人物：<strong>袁宗道、袁宏道、袁中道</strong></li>
+<li>在李贽“童心说”的影响下，进一步提出“性灵说”，主张<strong>独抒性灵，不拘格套</strong></li>
+<li>肯定人在世俗中的情感和欲望，强调<strong>个性的发扬</strong><br>
+<strong>袁宏道</strong>
+<ul>
+<li>三袁中<strong>声望最高</strong></li>
+<li>被认为<strong>柳宗元之后</strong>山水游记散文<strong>又一高峰</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>竟陵派</strong></p>
+<ul>
+<li>公安派之后，<strong>晚明文坛</strong>上影响较大的诗文流派</li>
+<li>代表：<strong>钟惺、谭元春</strong></li>
+<li>艺术特征：<strong>孤峭幽冷、曲径幽深</strong></li>
+</ul>
+<p><strong>张岱的小品文</strong></p>
+<ul>
+<li>张岱的小品文在明代散文史上占有<strong>重要地位</strong></li>
+<li>善于把<strong>写景、写人、风俗民情</strong>相结合，富有诗情画意</li>
+<li>汲取<strong>公安派、竟陵派的长处</strong></li>
+<li>时而<strong>反思人生</strong>，流露出易代之际遗民的<strong>悲凉情绪</strong></li>
+</ul>
+<h3 id="明代诗歌、散曲、民歌" tabindex="-1"><a class="header-anchor" href="#明代诗歌、散曲、民歌" aria-hidden="true">#</a> 明代诗歌、散曲、民歌</h3>
+<h4 id="明代前期诗歌" tabindex="-1"><a class="header-anchor" href="#明代前期诗歌" aria-hidden="true">#</a> 明代前期诗歌</h4>
+<ul>
+<li>高启 明初诗歌创作<strong>成就最高</strong>的诗人
+<ul>
+<li>反映<strong>时代动乱</strong>，感慨民生艰难</li>
+<li>表现自我个性、抒写<strong>生活志趣</strong></li>
+<li>大量<strong>咏史怀古</strong>的诗篇</li>
+<li>高启诗各体兼工、<strong>笔力矫健</strong>，<strong>七言歌行</strong>最盛</li>
+</ul>
+</li>
+<li>刘基 擅诗文，诗与高启齐名，元末之作<strong>沉郁苍凉</strong></li>
+<li>茶陵诗派：明前期诗歌流派
+<ul>
+<li><strong>李东阳</strong>为代表，谢铎、张泰等</li>
+<li>以<strong>杜甫</strong>诗风加以匡正，注重<strong>诗歌语言的艺术</strong></li>
+</ul>
+</li>
+<li>吴中四杰：高启、杨基、张羽、徐愤</li>
+</ul>
+<h4 id="明中期诗歌" tabindex="-1"><a class="header-anchor" href="#明中期诗歌" aria-hidden="true">#</a> 明中期诗歌</h4>
+<ul>
+<li>前七子：也叫宏正七子，复古主义文学流派
+<ul>
+<li>代表 <strong>李梦阳、何景明</strong>等</li>
+<li>主张<strong>文必秦汉、诗必盛唐</strong></li>
+<li>实质是借助<strong>复古</strong>达到<strong>变革的目的</strong></li>
+</ul>
+</li>
+<li>吴中四才子
+<ul>
+<li>代表 <strong>祝允明、唐寅、文徽明、徐祯卿</strong></li>
+<li>市民思想意识浓厚，追求<strong>物质享乐</strong>的满足</li>
+</ul>
+</li>
+<li>后七子
+<ul>
+<li>代表 <strong>李攀龙、王士祯</strong>等</li>
+<li>比前七子更加重视<strong>诗歌的艺术特征</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="明代晚期诗歌" tabindex="-1"><a class="header-anchor" href="#明代晚期诗歌" aria-hidden="true">#</a> 明代晚期诗歌</h4>
+<ul>
+<li>陈子龙：<strong>明末最后一位大诗人</strong>
+<ul>
+<li>主张<strong>效法汉魏盛唐</strong></li>
+<li>风格<strong>悲壮苍凉</strong></li>
+</ul>
+</li>
+<li>夏完淳：<strong>忧伤国事与少年英气融为一体</strong></li>
+</ul>
+<h4 id="明代散曲" tabindex="-1"><a class="header-anchor" href="#明代散曲" aria-hidden="true">#</a> 明代散曲</h4>
+<ul>
+<li>前中期散曲
+<ul>
+<li>朱有墩：《<strong>诚斋乐府</strong>》</li>
+<li>王磐：《<strong>王西楼乐府</strong>》</li>
+<li>陈铎：《<strong>秋碧乐府</strong>》数量为<strong>明代散曲家之冠</strong></li>
+</ul>
+</li>
+<li>后期散曲
+<ul>
+<li>梁辰鱼：《<strong>江东白苎</strong>》</li>
+</ul>
+</li>
+</ul>
+<h4 id="明代民歌" tabindex="-1"><a class="header-anchor" href="#明代民歌" aria-hidden="true">#</a> 明代民歌</h4>
+<ul>
+<li>冯梦龙《<strong>挂枝儿</strong>》《<strong>山歌</strong>》
+<ul>
+<li>主要内容以<strong>男女恋情</strong>最为突出</li>
+<li>艺术特点：<strong>形象生动</strong></li>
+</ul>
+</li>
+</ul>
+<h2 id="清代文学" tabindex="-1"><a class="header-anchor" href="#清代文学" aria-hidden="true">#</a> 清代文学</h2>
+<h3 id="清代诗歌" tabindex="-1"><a class="header-anchor" href="#清代诗歌" aria-hidden="true">#</a> 清代诗歌</h3>
+<h4 id="清初诗歌" tabindex="-1"><a class="header-anchor" href="#清初诗歌" aria-hidden="true">#</a> 清初诗歌</h4>
+<p><strong>江左三大家</strong></p>
+<ul>
+<li><strong>清初</strong>著名诗人</li>
+<li><strong>钱谦益、吴伟业、龚鼎孳</strong><br>
+<strong>钱谦益的文学主张</strong>
+<ul>
+<li><strong>重学问</strong>，强调诗中有学</li>
+<li><strong>重性灵</strong>，指的是“天地之气”</li>
+</ul>
+</li>
+</ul>
+<p><strong>南施北宋</strong></p>
+<ul>
+<li><strong>施闰章、宋琬</strong>
+<ul>
+<li>施闰章诗风<strong>温柔敦厚</strong></li>
+<li>宋琬诗风<strong>雄健磊落</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>《圆圆曲》</strong></p>
+<ul>
+<li>清代<strong>吴伟业</strong>叙事体诗代表作，七言歌行体</li>
+<li>描写<strong>吴三桂为夺回爱妾陈圆圆</strong>，不惜叛国投敌的故事</li>
+<li>表现了<strong>易代之际</strong>独有的生命感和历史感</li>
+</ul>
+<h4 id="遗民诗" tabindex="-1"><a class="header-anchor" href="#遗民诗" aria-hidden="true">#</a> 遗民诗</h4>
+<ul>
+<li><strong>顾炎武</strong> 诗风 <strong>高古</strong> 天下兴亡、匹夫有责</li>
+<li>吴嘉纪 诗风 <strong>质朴、苍劲</strong></li>
+<li>钱澄之 后期多<strong>闲适</strong>诗</li>
+<li>屈大均 <strong>五律最为擅长，有古直之风</strong></li>
+<li>岭南三大家： <strong>屈大均、陈恭伊、梁佩兰</strong></li>
+</ul>
+<h4 id="王士祯与康熙诗坛" tabindex="-1"><a class="header-anchor" href="#王士祯与康熙诗坛" aria-hidden="true">#</a> 王士祯与康熙诗坛</h4>
+<p><strong>王士祯“神韵说”</strong></p>
+<ul>
+<li>神：指<strong>恰到好处的诗味</strong></li>
+<li>韵：指<strong>悠闲清淡的境界</strong></li>
+<li>诗歌所表现的对象具有一种意境美<br>
+<strong>王士祯的诗歌思想</strong>
+<ul>
+<li>提出“神韵说”</li>
+<li>尊唐，推崇<strong>王维、孟浩然</strong>闲淡清远的意境</li>
+<li>凭吊怀古、山水人情的<strong>七言绝句</strong>反映了“神韵说”的审美主张</li>
+</ul>
+</li>
+</ul>
+<p><strong>康熙诗坛</strong></p>
+<ul>
+<li>赵执信 《<strong>四库全书总目提要</strong>》</li>
+<li>查慎行 宗宋</li>
+<li>厉鹗 宗宋 《宋诗纪事》</li>
+</ul>
+<h4 id="乾嘉诗风" tabindex="-1"><a class="header-anchor" href="#乾嘉诗风" aria-hidden="true">#</a> 乾嘉诗风</h4>
+<ul>
+<li><strong>沈德潜</strong>的<strong>格调说</strong>
+<ul>
+<li>诗歌创作带有<strong>明显的维护封建统治色彩</strong></li>
+<li>推尊<strong>唐诗</strong>，重诗歌声音的美</li>
+</ul>
+</li>
+<li><strong>翁方纲</strong>的<strong>肌理说</strong>
+<ul>
+<li>“肌理”即“文理”、“义理”，经术学问</li>
+<li>诗歌创作要基于<strong>学问</strong></li>
+</ul>
+</li>
+<li><strong>袁枚</strong>的<strong>性灵说</strong>
+<ul>
+<li>强调真性情</li>
+<li>语言追求<strong>通俗生动</strong></li>
+</ul>
+</li>
+<li><strong>黄景仁的诗歌特点</strong>
+<ul>
+<li>怀才不遇的感伤情调，诗风<strong>愤世悲凉</strong></li>
+<li>七古、七律见长，<strong>七古雄伟，七律流丽</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="清代文章" tabindex="-1"><a class="header-anchor" href="#清代文章" aria-hidden="true">#</a> 清代文章</h3>
+<h4 id="学者之文" tabindex="-1"><a class="header-anchor" href="#学者之文" aria-hidden="true">#</a> 学者之文</h4>
+<ul>
+<li><strong>顾炎武</strong> 不以文人自居《日知录》</li>
+<li><strong>黄宗羲</strong> 号梨洲，《明夷待访录》</li>
+<li><strong>王夫之</strong> 号姜斋，称船山先生《船山诗文集》</li>
+</ul>
+<h4 id="文人之文" tabindex="-1"><a class="header-anchor" href="#文人之文" aria-hidden="true">#</a> 文人之文</h4>
+<ul>
+<li><strong>侯方域、魏禧、汪琬</strong>，号称“清初三大家”</li>
+<li>散文风格上<strong>纠正晚明散文的纤巧轻浮</strong>之气</li>
+<li>主张恢复唐宋散文的<strong>醇厚</strong>传统</li>
+<li>以<strong>侯方域</strong>成就最为突出
+<ul>
+<li>侯方域：长于古文、尊唐宋八家</li>
+<li>魏禧：代表作《<strong>大铁椎转</strong>》</li>
+<li>汪琬：时称尧峰先生</li>
+</ul>
+</li>
+</ul>
+<h4 id="桐城派" tabindex="-1"><a class="header-anchor" href="#桐城派" aria-hidden="true">#</a> 桐城派</h4>
+<ul>
+<li>代表：<strong>方苞、刘大櫆、姚鼐</strong></li>
+<li><strong>清代中期</strong>重要的文学流派，均为<strong>安徽桐城人</strong>故称<strong>桐城派</strong></li>
+<li>以<strong>程朱之学</strong>为思想基础，以先秦两汉、唐宋八家古文为<strong>楷模</strong><br>
+<strong>1. 方苞的古文理论</strong></li>
+<li>提出<strong>义法说</strong></li>
+<li>提出<strong>艺术莫难于古文</strong>的观点<br>
+<strong>2. 刘大櫆</strong></li>
+<li>提出<strong>神气说</strong></li>
+<li>著有《<strong>论文偶记</strong>》，具有社会批判思想<br>
+<strong>3. 姚鼐</strong></li>
+<li>提出<strong>神理气味说</strong>
+<strong>姚鼐的古文理论</strong>
+<ul>
+<li>古文创作要具备<strong>义理、文章、考证</strong></li>
+<li>在刘大櫆神气说的基础上，提出<strong>神理气味</strong>和<strong>格律声色</strong></li>
+<li>提出<strong>阴柔和阳刚</strong>的文章风格论，强调平淡、自然</li>
+<li>古文迂回荡漾，以<strong>神韵见长</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="阳湖派" tabindex="-1"><a class="header-anchor" href="#阳湖派" aria-hidden="true">#</a> 阳湖派</h4>
+<ul>
+<li>代表：<strong>恽敬、张惠言</strong></li>
+<li>风格不以古文自限，<strong>好言政治</strong></li>
+</ul>
+<h4 id="汪中与清代骈文的复兴" tabindex="-1"><a class="header-anchor" href="#汪中与清代骈文的复兴" aria-hidden="true">#</a> 汪中与清代骈文的复兴</h4>
+<ul>
+<li><strong>李兆洛</strong>编选《<strong>骈体文钞</strong>》</li>
+<li>骈文名家创作成就最高的是<strong>汪中</strong><br>
+<strong>汪中骈文的特点</strong>
+<ul>
+<li>学<strong>文法六朝</strong>，合<strong>汉魏晋宋</strong>，自铸伟词</li>
+<li>代表作《袁盐船文》</li>
+</ul>
+</li>
+</ul>
+<h3 id="清词" tabindex="-1"><a class="header-anchor" href="#清词" aria-hidden="true">#</a> 清词</h3>
+<h4 id="清初词坛" tabindex="-1"><a class="header-anchor" href="#清初词坛" aria-hidden="true">#</a> 清初词坛</h4>
+<p><strong>阳羡词派</strong></p>
+<ul>
+<li><strong>清初</strong>词坛流派，取名地江苏宜兴，古称阳羡</li>
+<li>以<strong>陈维崧</strong>为首</li>
+<li>推崇<strong>苏辛</strong>，不废声律
+<strong>陈维崧</strong>
+<ul>
+<li>前期风华绮丽，中晚年作品<strong>深婉豪宕、苍凉沉郁</strong></li>
+<li>慢词盘转起伏，将赋与歌行用于词</li>
+<li>小令笔力苍劲、意境阔达</li>
+</ul>
+</li>
+</ul>
+<p><strong>浙西词派</strong></p>
+<ul>
+<li><strong>清代前期</strong>最大的词派，影响深广</li>
+<li>创始者<strong>朱彝尊</strong>及主要作者都是浙江人，故称浙西词派</li>
+<li>风格特点<strong>醇正秀雅</strong><br>
+<strong>朱彝尊</strong>
+<ul>
+<li>遵奉<strong>姜夔、张炎</strong>，讲求醇正秀雅，风格<strong>沉郁苍凉</strong></li>
+<li>偏重词的格律、技巧，收录于《江湖载酒集》</li>
+</ul>
+</li>
+</ul>
+<p><strong>纳兰性德</strong></p>
+<ul>
+<li>国出第一词人</li>
+<li>推崇<strong>李煜</strong>，著有《<strong>饮水词</strong>》等</li>
+<li>纳兰性德与曹贞吉、顾贞观合称<strong>京华三绝</strong><br>
+<strong>纳兰性德词的艺术特点</strong>
+<ul>
+<li><strong>爱情词婉丽清凄</strong></li>
+<li><strong>边塞词</strong>绘景如画</li>
+<li><strong>悼亡词</strong>尤为凄婉</li>
+</ul>
+</li>
+</ul>
+<p><strong>顾贞观</strong></p>
+<ul>
+<li>代表作《<strong>金缕曲》二首</strong>，赠友</li>
+<li>以词代书，全是家常语</li>
+</ul>
+<h4 id="常州词派" tabindex="-1"><a class="header-anchor" href="#常州词派" aria-hidden="true">#</a> 常州词派</h4>
+<ul>
+<li><strong>清代嘉庆年间</strong>出现的词派</li>
+<li>代表：<strong>张惠言、周济</strong></li>
+<li>反对浙西诗派徒有形式，讲究<strong>比兴、寄托</strong></li>
+</ul>
+<p><strong>张惠言</strong></p>
+<ul>
+<li>号茗柯，常州词派代表，著有《<strong>茗柯词</strong>》<br>
+<strong>张惠言艺术特点</strong>
+<ul>
+<li>注重<strong>质实、比兴</strong></li>
+<li>以物咏志，<strong>寄慨遥深</strong></li>
+<li>追求儒家的<strong>中和</strong>美学</li>
+</ul>
+</li>
+</ul>
+<p><strong>周济</strong></p>
+<ul>
+<li>常州词派理论<strong>集大成者</strong><br>
+《宋四家词选》中提出：<strong>非寄托不入，专寄托不出</strong>
+<ul>
+<li>非寄托不入：从<strong>创作主体</strong>而言，词的创作要有深刻寓意</li>
+<li>专寄托不出：从<strong>接受者</strong>而言，对词反复吟咏方能体会其中深意</li>
+<li>词作<strong>隐晦，令人费解</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="清代小说" tabindex="-1"><a class="header-anchor" href="#清代小说" aria-hidden="true">#</a> 清代小说</h3>
+<h4 id="世情小说" tabindex="-1"><a class="header-anchor" href="#世情小说" aria-hidden="true">#</a> 世情小说</h4>
+<ul>
+<li>《<strong>红楼梦</strong>》的出现将世情小说的创作推向高潮</li>
+<li>《<strong>醒世姻缘传</strong>》是继《金瓶梅》之后又一部以家庭描写为中心的长篇白话小说</li>
+</ul>
+<h4 id="才子佳人小说" tabindex="-1"><a class="header-anchor" href="#才子佳人小说" aria-hidden="true">#</a> 才子佳人小说</h4>
+<ul>
+<li>世情小说的一种，前期主要有《<strong>平山冷燕</strong>》《<strong>玉娇梨</strong>》《<strong>好逑传</strong>》等</li>
+</ul>
+<h4 id="才学小说" tabindex="-1"><a class="header-anchor" href="#才学小说" aria-hidden="true">#</a> 才学小说</h4>
+<ul>
+<li>清代中叶，<strong>考据学风盛行</strong>，以精通古书、博文强识为荣</li>
+<li>影响最大的是李汝珍的《<strong>镜花缘</strong>》
+<ul>
+<li>以<strong>女皇武则天</strong>为背景，体现了作者对妇女地位思考和关注</li>
+</ul>
+</li>
+</ul>
+<h4 id="神怪小说" tabindex="-1"><a class="header-anchor" href="#神怪小说" aria-hidden="true">#</a> 神怪小说</h4>
+<ul>
+<li>清初神怪小说的代表作是董说的《<strong>西游补</strong>》</li>
+<li>清中期神怪小说代表作是《<strong>绿野仙踪</strong>》</li>
+</ul>
+<h4 id="话本小说" tabindex="-1"><a class="header-anchor" href="#话本小说" aria-hidden="true">#</a> 话本小说</h4>
+<ul>
+<li>影响较大的有《<strong>清夜钟</strong>》《<strong>豆棚闲话</strong>》《<strong>西湖佳话</strong>》</li>
+<li>成就最大的是李渔的《<strong>无声戏</strong>》和《<strong>十二楼</strong>》<br>
+<strong>李渔话本小说的特点</strong>
+<ul>
+<li>艺术上进行<strong>创新、不拘格套</strong></li>
+<li><strong>结构清晰、主线明确</strong></li>
+<li>有的小说<strong>庸俗无聊，格调不高</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="讲唱文学的兴盛" tabindex="-1"><a class="header-anchor" href="#讲唱文学的兴盛" aria-hidden="true">#</a> 讲唱文学的兴盛</h4>
+<ul>
+<li><strong>鼓词</strong>：流行于北方，今传最早的是明代《大唐秦王词话》</li>
+<li><strong>弹词</strong>：演唱文学的最高成就《<strong>天雨花</strong>》《<strong>再生缘</strong>》</li>
+<li><strong>子弟书</strong>
+<ul>
+<li>鼓词的一支，由八旗子弟首创并流行</li>
+<li>东城调粗犷，多激昂历史题材</li>
+<li>西城调柔缓，多曲折爱情故事</li>
+</ul>
+</li>
+</ul>
+<h4 id="蒲松龄" tabindex="-1"><a class="header-anchor" href="#蒲松龄" aria-hidden="true">#</a> 蒲松龄</h4>
+<ul>
+<li>字留仙，清代小说家，代表作文言短篇小说《<strong>聊斋志异</strong>》是中国<strong>文言小说史上</strong>的集大成者，代表古代<strong>短片小说发展的高峰</strong><br>
+<strong>1. 《聊斋志异》的思想意蕴</strong></li>
+<li>写<strong>狐鬼与人</strong>的爱情故事，歌颂<strong>青年男女</strong>的真挚感情</li>
+<li>揭露<strong>科举考试</strong>的腐败和弊端，讽刺考官的昏庸</li>
+<li>揭露了当时社会<strong>政治黑暗和吏治腐败</strong><br>
+<strong>2. 《聊斋志异》的艺术成就</strong></li>
+<li>塑造了众多的<strong>人物形象</strong>，故事曲折离奇</li>
+<li>奇幻、<strong>想象丰富</strong></li>
+<li><strong>口语与文言</strong>相结合</li>
+</ul>
+<h4 id="吴敬梓" tabindex="-1"><a class="header-anchor" href="#吴敬梓" aria-hidden="true">#</a> 吴敬梓</h4>
+<ul>
+<li>清代小说家，代表作《<strong>儒林外史</strong>》以科举考试为中心，塑造了封建末世的儒林群相，是讽刺小说的典范<br>
+<strong>1. 《儒林外史》的思想内容</strong></li>
+<li>描写封建末世的儒林群相，敢于写出为<strong>正史不写的黑暗历史</strong></li>
+<li>刻画了<strong>追求功名富贵与讲究文行出处</strong>的两组人物<br>
+<strong>2. 《儒林外史》塑造的两组对立人物</strong></li>
+<li>一类是以<strong>牺牲自我个性为代价，追求功名利禄之徒</strong>，有<strong>范进、周进、鲁编修</strong>等</li>
+<li>一类是<strong>保持人格独立、讲究文行出处</strong>的潇洒人士，有<strong>王冕、杜少卿</strong>等</li>
+<li>两组形象的对立，揭露了<strong>封建科举制度下儒林群相可笑的戏剧表面背后的悲剧性质</strong></li>
+</ul>
+<h3 id="曹雪芹" tabindex="-1"><a class="header-anchor" href="#曹雪芹" aria-hidden="true">#</a> 曹雪芹</h3>
+<h4 id="曹雪芹《红楼梦》" tabindex="-1"><a class="header-anchor" href="#曹雪芹《红楼梦》" aria-hidden="true">#</a> 曹雪芹《红楼梦》</h4>
+<ul>
+<li>字梦阮，雪芹是别号。反叛礼教，反抗名教，反传统思想。代表作《<strong>红楼梦</strong>》是中国古典小说史上的<strong>巅峰之作</strong></li>
+<li>《红楼梦》“满纸荒唐言，一把辛酸泪。都云作者痴，谁解其中味？”</li>
+<li>《红楼梦》的中心线索是<strong>宝黛爱情</strong><br>
+<strong>1. 《红楼梦》版本</strong></li>
+<li>80回抄本：<strong>甲戌本、已卯本、庚辰本</strong></li>
+<li>120回刻本：高鹗续写后40回，<strong>程高本</strong>，目前常见的是<strong>程已本</strong><br>
+<strong>2. 新红学</strong></li>
+<li><strong>五四运动之后</strong>开始崛起的红学流派</li>
+<li>代表人物<strong>胡适</strong>《红楼梦考证》、<strong>俞平伯</strong>《红楼梦辨》<br>
+<strong>3. 红楼梦的思想内容</strong></li>
+<li><strong>情</strong>的世界，指贾宝玉与红楼女子的情感世界</li>
+<li><strong>礼</strong>的世界，指封建家庭的价值体系和规则秩序</li>
+<li><strong>理</strong>的世界，作者对历史和人物命运的思考<br>
+<strong>4. 《红楼梦》人物塑造得特点</strong></li>
+<li>通过<strong>对比</strong>写出不同得性格特征</li>
+<li>置人物于<strong>社会环境中</strong>，写出其复杂性</li>
+<li>通过<strong>日常生活</strong>来刻画人物</li>
+<li>利用<strong>心理描写</strong>来刻画人物</li>
+<li>注重<strong>环境</strong>描写，烘托人物性格<br>
+<strong>5. 《红楼梦》具有很强的写实性，这是曹雪芹自觉的艺术追求</strong><br>
+<strong>6. 经纬交叉、错综复杂的网状结构</strong><br>
+<strong>7. 小说中还出现了叙事者、隐形作者与作品意义</strong>三者间的差异</li>
+</ul>
+<h3 id="清代戏剧" tabindex="-1"><a class="header-anchor" href="#清代戏剧" aria-hidden="true">#</a> 清代戏剧</h3>
+<h4 id="清初戏剧三大流派" tabindex="-1"><a class="header-anchor" href="#清初戏剧三大流派" aria-hidden="true">#</a> 清初戏剧三大流派</h4>
+<ul>
+<li><strong>苏州派</strong>：以<strong>李玉为代表</strong>，戏剧有较强的市民色彩</li>
+<li><strong>文人派</strong>：以<strong>吴伟业、尤侗为代表</strong>，戏剧有案头化倾向</li>
+<li><strong>娱乐派</strong>：以<strong>李渔为代表</strong>，戏剧讲求娱乐功能</li>
+</ul>
+<p><strong>苏州派</strong></p>
+<ul>
+<li>明清之际<strong>苏州一带</strong>重要戏剧流派</li>
+<li>以<strong>李玉</strong>为代表，还有朱素臣、朱佐朝等<br>
+<strong>创作特点</strong>
+<ul>
+<li>作家都是<strong>社会中下层</strong>出身，大多与仕途无缘</li>
+<li>作品题材<strong>关注现实</strong></li>
+<li><strong>情节</strong>排场<strong>生动曲折</strong>，适合演出</li>
+<li>有强烈的<strong>伦理教化色彩</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>李玉的生平</strong></p>
+<ul>
+<li>字玄玉，<strong>一笠庵</strong>主人</li>
+<li>最著名的是<strong>一笠庵四种曲《一捧雪》《人兽关》《永团圆》《占花魁》</strong></li>
+<li>入清后作品由关注世态人情转向朝堂政治《<strong>清忠谱</strong>》<br>
+<strong>《清忠谱》</strong>
+<ul>
+<li>以东林党人和苏州人民反抗<strong>阉党魏忠贤</strong>黑暗统治的斗争为题材</li>
+<li>以<strong>周顺昌</strong>为主线</li>
+<li>歌颂了<strong>东林党人舍生取义的高尚节操</strong>，抨击了<strong>魏忠贤党羽祸国殃民的罪行</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>文人派</strong></p>
+<ul>
+<li>作品借<strong>历史故事</strong>抒发身世之苦</li>
+<li>意境上接近诗歌，曲词优雅</li>
+<li>不利于演出，多是<strong>案头之曲</strong></li>
+<li>代表<strong>吴伟业、尤侗</strong></li>
+</ul>
+<p><strong>李渔</strong></p>
+<ul>
+<li>清代剧作家和戏剧理论家</li>
+<li>代表作《<strong>笠翁传奇十种</strong>》和《<strong>闲情偶记</strong>》，多<strong>才子佳人</strong>题材<br>
+<strong>戏剧创作特点</strong>
+<ul>
+<li>剧作<strong>剧情新奇、不入陈套</strong>，追求戏剧性</li>
+</ul>
+</li>
+</ul>
+<h4 id="洪晟" tabindex="-1"><a class="header-anchor" href="#洪晟" aria-hidden="true">#</a> 洪晟</h4>
+<ul>
+<li>字昉思，代表作《<strong>长生殿</strong>》<br>
+<strong>1. 《长生殿》的内容思想</strong></li>
+<li>清代洪晟所著</li>
+<li>代表清代戏剧的<strong>最高成就</strong></li>
+<li>借助<strong>李隆基和杨玉环</strong>的爱情来隐喻个人命运无常<br>
+<strong>2. 《长生殿》的艺术成就</strong></li>
+<li><strong>结构完整，针线绵密</strong>，独具匠心</li>
+<li>语言<strong>清雅秀丽</strong>，有浓厚的抒情色彩</li>
+<li><strong>曲辞音律</strong>，独步一时</li>
+</ul>
+<h4 id="《桃花扇》" tabindex="-1"><a class="header-anchor" href="#《桃花扇》" aria-hidden="true">#</a> 《桃花扇》</h4>
+<ul>
+<li><strong>清代戏剧家孔尚任</strong>于康熙三十八年完成的传奇作品</li>
+<li>以<strong>侯方域、李香君</strong>的爱情故事为线索，借“离合之情”写“兴亡之感”<br>
+<strong>《桃花扇》的艺术特色</strong>
+<ul>
+<li>通过<strong>离合之情</strong>写<strong>兴亡之感</strong>，突出个人与历史的紧密联系</li>
+<li><strong>结构严谨</strong>，独具匠心</li>
+<li>语言<strong>典雅有余，本色不足</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="清中后期-戏剧衰落" tabindex="-1"><a class="header-anchor" href="#清中后期-戏剧衰落" aria-hidden="true">#</a> 清中后期-戏剧衰落</h4>
+<ul>
+<li><strong>唐英</strong>：多是宣传<strong>传统道德观念</strong>的作品</li>
+<li><strong>蒋士铨</strong>：剧作以<strong>歌颂纲常伦理为主</strong>。《冬青树》取材于历史，叙述南宋灭亡的故事，歌颂<strong>文天祥</strong></li>
+<li><strong>杨潮观</strong>：杂剧三十余种，都是一折短剧</li>
+</ul>
+<h3 id="清代弹词" tabindex="-1"><a class="header-anchor" href="#清代弹词" aria-hidden="true">#</a> 清代弹词</h3>
+<h4 id="弹词" tabindex="-1"><a class="header-anchor" href="#弹词" aria-hidden="true">#</a> 弹词</h4>
+<ul>
+<li>作为<strong>韵文体长篇小说</strong>最迟产生于明末清初</li>
+<li>原始弹词是一种<strong>说唱文艺形式</strong></li>
+<li>流行于南方用<strong>琵琶、三弦</strong>伴奏的讲唱文学<br>
+<strong>1. 弹词的内容特点</strong></li>
+<li>主要以<strong>儿女英雄</strong>为主，也有<strong>杂糅神仙</strong>类</li>
+<li><strong>韵散相间</strong>，以七字韵文为主</li>
+<li>流行于江南一带，故有<strong>南词</strong>之称</li>
+<li>两种不同面貌：原始体、书面体<br>
+<strong>2. 弹词的女性文学特征</strong></li>
+<li>叙事大多以<strong>女性为主</strong></li>
+<li>喜欢在作品中表现自己<strong>写作时的心境和状态</strong></li>
+<li>反映<strong>清代妇女生活</strong>的各个层面和<strong>不幸命运</strong></li>
+<li>强烈的<strong>男女平等意识</strong>和<strong>追求自由理想</strong>境界的奋斗精神</li>
+<li>追求<strong>真正爱情</strong>和<strong>自主婚姻</strong></li>
+</ul>
+<h4 id="弹词三大" tabindex="-1"><a class="header-anchor" href="#弹词三大" aria-hidden="true">#</a> 弹词三大</h4>
+<ul>
+<li>《<strong>天雨花</strong>》《<strong>再生缘</strong>》《<strong>笔生花</strong>》<strong>清代韵文体小说</strong>的杰出代表作<br>
+<strong>1. 《天雨花》</strong></li>
+<li>作者陶贞怀，成书于<strong>清代嘉庆年间</strong></li>
+<li><strong>政治色彩浓郁</strong>，以明末为背景，反映忠臣义士维护正义的斗争<br>
+<strong>2. 《再生缘》</strong></li>
+<li>作者陈端生</li>
+<li>主要写<strong>孟丽君反抗“夫权、父权、君权”的故事</strong></li>
+<li>弹词小说中<strong>流传最广、影响最大</strong>的作品</li>
+</ul>
+<h2 id="近代文学" tabindex="-1"><a class="header-anchor" href="#近代文学" aria-hidden="true">#</a> 近代文学</h2>
+<h3 id="近代诗词" tabindex="-1"><a class="header-anchor" href="#近代诗词" aria-hidden="true">#</a> 近代诗词</h3>
+<h4 id="近代诗坛主要流派" tabindex="-1"><a class="header-anchor" href="#近代诗坛主要流派" aria-hidden="true">#</a> 近代诗坛主要流派</h4>
+<ul>
+<li><strong>宋诗派、同光体</strong></li>
+<li>启蒙诗人：<strong>龚自珍、魏源</strong></li>
+<li>新派诗人：<strong>梁启超、黄遵宪</strong></li>
+<li>革命派诗人：<strong>南社诗人</strong></li>
+<li>汉魏六朝诗派：<strong>王闿运</strong></li>
+<li>晚唐诗派：<strong>樊增祥、易顺鼎</strong></li>
+</ul>
+<h4 id="龚自珍" tabindex="-1"><a class="header-anchor" href="#龚自珍" aria-hidden="true">#</a> 龚自珍</h4>
+<ul>
+<li>主导<strong>近代诗风新变</strong>的著名诗人</li>
+<li>其诗感慨议论，执着于<strong>理想世界</strong></li>
+<li>艺术上<strong>想象奇特</strong>，语言<strong>瑰丽</strong></li>
+</ul>
+<h4 id="宋诗派" tabindex="-1"><a class="header-anchor" href="#宋诗派" aria-hidden="true">#</a> 宋诗派</h4>
+<ul>
+<li>道光、咸丰、同治时期占据<strong>诗坛中心</strong>的是宋诗派</li>
+<li>代表：程恩泽、郑珍</li>
+<li>情致流露相对隐蔽，自觉追求<strong>奇绝不俗</strong>的诗镜</li>
+</ul>
+<h4 id="同光体" tabindex="-1"><a class="header-anchor" href="#同光体" aria-hidden="true">#</a> 同光体</h4>
+<ul>
+<li>清末民初由宋诗派演化而来</li>
+<li><strong>闽派</strong>：陈衍、郑孝胥</li>
+<li><strong>浙派</strong>：沈曾值，<strong>同光体之魁杰</strong></li>
+<li><strong>赣派</strong>：陈三立，<strong>成就最显著、古典诗歌传统</strong>最后一位重要诗人</li>
+</ul>
+<h4 id="维新派诗人" tabindex="-1"><a class="header-anchor" href="#维新派诗人" aria-hidden="true">#</a> 维新派诗人</h4>
+<ul>
+<li>康有为、梁启超、谭嗣同、黄遵宪<br>
+<strong>1. 梁启超与诗界革命</strong></li>
+<li>梁启超变法失败后，流亡海外，提出“诗界革命”</li>
+<li>主张诗歌创作要有<strong>新意境、新语句、古风格</strong><br>
+<strong>2. 黄遵宪的新派诗创作</strong>《人境庐诗草》</li>
+<li>黄遵宪是<strong>近代诗歌革命</strong>的先行者</li>
+<li>多写<strong>海外新事物</strong>的作品</li>
+<li>诗歌<strong>写实叙事，条理清晰</strong></li>
+<li><strong>反拟古，尊独创，<strong>要求</strong>我手写我口</strong></li>
+</ul>
+<h4 id="南社" tabindex="-1"><a class="header-anchor" href="#南社" aria-hidden="true">#</a> 南社</h4>
+<ul>
+<li>清末民初<strong>革命派文学团体</strong>，成立于1909年</li>
+<li>代表：陈去病、高旭、柳亚子</li>
+<li>诗作激扬悲慨，有<strong>革命豪情</strong></li>
+</ul>
+<h4 id="革命派诗人" tabindex="-1"><a class="header-anchor" href="#革命派诗人" aria-hidden="true">#</a> 革命派诗人</h4>
+<ul>
+<li>女革命家<strong>秋瑾</strong>，诗<strong>格调雄健</strong></li>
+</ul>
+<h4 id="近代词" tabindex="-1"><a class="header-anchor" href="#近代词" aria-hidden="true">#</a> 近代词</h4>
+<ul>
+<li>蒋春霖：《水云楼词》崇尚姜夔、张炎</li>
+<li>顾春：清代著名女词人，风格<strong>细腻绵密，自然精工</strong></li>
+<li>同光以后词坛崇尚<strong>常州词派</strong></li>
+<li>王鹏运：《半塘词稿》，<strong>临林词派</strong>创始人，作品<strong>沉郁悲凉、较为朗炼</strong></li>
+</ul>
+<h4 id="王国维" tabindex="-1"><a class="header-anchor" href="#王国维" aria-hidden="true">#</a> 王国维</h4>
+<ul>
+<li>号静安，著有《<strong>人间词话</strong>》《红楼梦评论》<br>
+<strong>《人间词话》</strong>
+<ul>
+<li>作者清代<strong>王国维</strong></li>
+<li>创造性提出<strong>境界说</strong></li>
+<li>词学思想与话语表述颇具<strong>现代意义</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="近代文的新生面" tabindex="-1"><a class="header-anchor" href="#近代文的新生面" aria-hidden="true">#</a> 近代文的新生面</h3>
+<h4 id="经世文风" tabindex="-1"><a class="header-anchor" href="#经世文风" aria-hidden="true">#</a> 经世文风</h4>
+<ul>
+<li>龚自珍：经世文风的<strong>开创者</strong></li>
+<li>魏源：师夷长技以制夷《海国图志》</li>
+<li>冯桂芬：继龚自珍、魏源后有一位<strong>经世文章家</strong>
+<ul>
+<li>公开批评<strong>桐城派</strong>所遵从的<strong>道统</strong></li>
+<li>其<strong>变法思想</strong>在近代思想史上具有独特价值</li>
+</ul>
+</li>
+</ul>
+<h4 id="后期桐城派" tabindex="-1"><a class="header-anchor" href="#后期桐城派" aria-hidden="true">#</a> 后期桐城派</h4>
+<ul>
+<li><strong>姚门四弟子</strong>：管桐、方东树、姚莹、梅曾亮</li>
+<li>就古文而言<strong>梅曾亮</strong>成就最高</li>
+</ul>
+<h4 id="湘乡派" tabindex="-1"><a class="header-anchor" href="#湘乡派" aria-hidden="true">#</a> 湘乡派</h4>
+<ul>
+<li>曾国藩继承<strong>桐城派余绪</strong>，自成一派</li>
+<li><strong>曾门四弟子</strong>：黎庶昌、张裕钊、<strong>吴汝纶</strong>、薛福成<br>
+<strong>曾国藩的古文理论</strong>
+<ul>
+<li>讲究<strong>实用</strong></li>
+<li><strong>骈散</strong>结合</li>
+<li>不重义法而重<strong>雄奇</strong>之气</li>
+<li>重视古文的<strong>审美特性</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="新文体" tabindex="-1"><a class="header-anchor" href="#新文体" aria-hidden="true">#</a> 新文体</h4>
+<ul>
+<li><strong>梁启超</strong>首创的政论、杂文</li>
+<li>运用<strong>新名词、新概念</strong></li>
+<li><strong>文白夹杂</strong>，兼采众制</li>
+</ul>
+<h4 id="作家作品" tabindex="-1"><a class="header-anchor" href="#作家作品" aria-hidden="true">#</a> 作家作品</h4>
+<ul>
+<li>梁启超《少年中国说》</li>
+<li>邹容《革命军》</li>
+<li>陈天华《猛回头》</li>
+<li><strong>章士钊</strong>《柳文指要》，<strong>逻辑文</strong></li>
+<li><strong>章太炎</strong>：提倡<strong>魏晋之文</strong></li>
+<li>郑观应《易言》，<strong>报章文体</strong></li>
+</ul>
+<h3 id="近代小说与戏剧" tabindex="-1"><a class="header-anchor" href="#近代小说与戏剧" aria-hidden="true">#</a> 近代小说与戏剧</h3>
+<h4 id="近代小说主要种类" tabindex="-1"><a class="header-anchor" href="#近代小说主要种类" aria-hidden="true">#</a> 近代小说主要种类</h4>
+<p><strong>狭义小说、狭邪小说、政治小说、谴责小说、翻译小说</strong></p>
+<h4 id="小说界的革命" tabindex="-1"><a class="header-anchor" href="#小说界的革命" aria-hidden="true">#</a> 小说界的革命</h4>
+<ul>
+<li><strong>梁启超</strong>提出的口号《<strong>新中国未来记</strong>》</li>
+<li>中心意图是改良群治</li>
+<li>提升了小说在社会生活和文化生产中的地位</li>
+</ul>
+<h4 id="狭义小说" tabindex="-1"><a class="header-anchor" href="#狭义小说" aria-hidden="true">#</a> 狭义小说</h4>
+<ul>
+<li>近代前期广为流行的有《<strong>儿女英雄传</strong>》《<strong>荡寇志</strong>》《<strong>三侠五义</strong>》<br>
+<strong>1. 《儿女英雄传》</strong></li>
+<li>作者<strong>文康</strong></li>
+<li>讲述侠女何玉凤为父报仇的故事</li>
+<li>作者试图将<strong>才子佳人小说</strong>与<strong>英雄传奇</strong>相结合</li>
+<li>吸取<strong>民间说书艺术优点</strong>，以<strong>说话人</strong>的口吻来写<br>
+<strong>2. 《荡寇志》</strong></li>
+<li>作者<strong>俞万春</strong><br>
+<strong>3. 《三侠五义》</strong></li>
+<li>近代<strong>侠义公案小说</strong>代表作<br>
+<strong>《三侠五义》的思想内容</strong>
+<ul>
+<li>内容以清关<strong>包拯</strong>在侠客义士辅佐下<strong>除暴安良</strong>为主线</li>
+<li>穿插<strong>侠客义士们的仗义行为</strong></li>
+<li>反映<strong>社会不平</strong>和民众幻想政治清明的愿望</li>
+</ul>
+</li>
+</ul>
+<h4 id="狭邪小说" tabindex="-1"><a class="header-anchor" href="#狭邪小说" aria-hidden="true">#</a> 狭邪小说</h4>
+<ul>
+<li>道光至光绪年间，以<strong>狎优狎妓</strong>为主题的男女题材小说</li>
+<li>创作主题多是<strong>潦倒文士</strong>，其<strong>格调不高</strong>，缺乏社会批判力度</li>
+<li>代表作《<strong>品花宝鉴</strong>》《<strong>花月痕</strong>》《<strong>青楼梦</strong>》《<strong>海上花列传</strong>》等</li>
+</ul>
+<h4 id="谴责小说" tabindex="-1"><a class="header-anchor" href="#谴责小说" aria-hidden="true">#</a> 谴责小说</h4>
+<ul>
+<li>抨击时政、揭露官场黑暗的作品</li>
+<li>四大谴责小说《二十年目睹之怪现状》《官场现形记》《老残游记》《孽海花》<br>
+<strong>1. 《二十年目睹之怪现状》</strong></li>
+<li>作者<strong>吴沃尧</strong>，号“我佛山人”<br>
+<strong>2. 《官场现形记》</strong></li>
+<li>作者<strong>李宝嘉</strong>，揭露官场丑态<br>
+<strong>3. 《老残游记》</strong></li>
+<li>作者<strong>刘鹗</strong></li>
+<li>通过老残的旅行见闻串联故事，提出“赃官可恨，清官犹可恨”打破了此前公案小说的陈规</li>
+<li>对社会正义和道德基础提出了质疑<br>
+<strong>4. 《孽海花》</strong></li>
+<li>作者<strong>曾朴</strong></li>
+<li>描写清末30年间政治外交及社会风俗的各种情态</li>
+</ul>
+<h4 id="鸳鸯蝴蝶派" tabindex="-1"><a class="header-anchor" href="#鸳鸯蝴蝶派" aria-hidden="true">#</a> 鸳鸯蝴蝶派</h4>
+<ul>
+<li>清末民初小说流派，又称<strong>礼拜六派</strong></li>
+<li>知识分子失望于政治革命，却讴歌爱情</li>
+<li>作家：<strong>刘半农、周瘦鹃、徐枕亚</strong>、包天笑等</li>
+<li>内容以言情为主，代表作是徐枕亚的《<strong>玉梨魂</strong>》</li>
+</ul>
+<h4 id="翻译小说" tabindex="-1"><a class="header-anchor" href="#翻译小说" aria-hidden="true">#</a> 翻译小说</h4>
+<ul>
+<li>林纾，晚清古文大家，本不懂外文</li>
+<li>中国以<strong>古文笔法译西洋小说第一人</strong></li>
+<li>作品《<strong>巴黎</strong>茶花女遗事》《<strong>黑奴</strong>吁天录》《<strong>滑铁卢</strong>战血余腥录》《撒克逊劫后<strong>英雄</strong>录》</li>
+</ul>
+<h4 id="花部新剧种" tabindex="-1"><a class="header-anchor" href="#花部新剧种" aria-hidden="true">#</a> 花部新剧种</h4>
+<ul>
+<li>河南的豫剧、安徽的黄梅剧、江西的采茶戏、湖南的花鼓戏、云贵川的花灯戏、广西的彩调等</li>
+<li><strong>京剧</strong>是主要的戏曲样式</li>
+<li><strong>汪笑侬</strong>是最早参与京剧改良的艺术家</li>
+</ul>
+<h4 id="近代京剧剧目" tabindex="-1"><a class="header-anchor" href="#近代京剧剧目" aria-hidden="true">#</a> 近代京剧剧目</h4>
+<ul>
+<li>据<strong>陶君起《京剧剧目初探</strong>》统计，共1280多种</li>
+<li>取材三国、水浒、杨家将、岳家将的剧目最多</li>
+<li>歌颂了<strong>对压迫的反抗和斗争</strong></li>
+</ul>
+<h4 id="近代戏剧改良运动" tabindex="-1"><a class="header-anchor" href="#近代戏剧改良运动" aria-hidden="true">#</a> 近代戏剧改良运动</h4>
+<ul>
+<li>首先在<strong>理论上提出戏剧改革</strong>的是<strong>梁启超</strong></li>
+<li><strong>最早参与</strong>京剧改良的艺术家是<strong>汪笑侬</strong></li>
+</ul>
+<h4 id="早期形态的话剧" tabindex="-1"><a class="header-anchor" href="#早期形态的话剧" aria-hidden="true">#</a> 早期形态的话剧</h4>
+<ul>
+<li>我国<strong>第一个戏剧团体</strong>是<strong>春柳社</strong> 1906</li>
+<li>中国境内<strong>第一个话剧团体</strong>是<strong>春阳社</strong> 1907</li>
+<li>中国早期话剧的<strong>第一个职业剧团</strong>是<strong>进化团</strong> 1910</li>
+</ul>
+</div></template>

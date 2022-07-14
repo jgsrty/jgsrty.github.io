@@ -152,7 +152,7 @@ function resolveHeaders (page) {
   const headers = groupHeaders(page.headers || [])
   return [{
     type: 'group',
-    collapsable: false,
+    collapsible: false,
     title: page.title,
     path: null,
     children: headers.map(h => ({
@@ -234,7 +234,7 @@ function resolveItem (item, pages, base, groupDepth = 1) {
       title: item.title,
       sidebarDepth: item.sidebarDepth,
       children: children.map(child => resolveItem(child, pages, base, groupDepth + 1)),
-      collapsable: item.collapsable !== false
+      collapsible: item.collapsible !== false
     }
   }
 }

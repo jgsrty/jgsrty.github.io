@@ -1,0 +1,107 @@
+<template><div><h1 id="乔布斯斯坦福演讲-3" tabindex="-1"><a class="header-anchor" href="#乔布斯斯坦福演讲-3" aria-hidden="true">#</a> 乔布斯斯坦福演讲 3</h1>
+<h3 id="part-3-love-and-loss" tabindex="-1"><a class="header-anchor" href="#part-3-love-and-loss" aria-hidden="true">#</a> Part 3 Love and Loss</h3>
+<blockquote>
+<p>Steve Jobs 爱与得失</p>
+</blockquote>
+<h2 id="翻译" tabindex="-1"><a class="header-anchor" href="#翻译" aria-hidden="true">#</a> 翻译</h2>
+<h4 id="my-second-story-is-about-love-and-loss" tabindex="-1"><a class="header-anchor" href="#my-second-story-is-about-love-and-loss" aria-hidden="true">#</a> My second story is about love and loss.</h4>
+<p>我的第二个故事是关于爱与得失。</p>
+<h4 id="i-was-lucky-i-found-what-i-love-to-do-early-in-life" tabindex="-1"><a class="header-anchor" href="#i-was-lucky-i-found-what-i-love-to-do-early-in-life" aria-hidden="true">#</a> I was lucky -- I found what I love to do early in life.</h4>
+<p>我很幸运，因为我很早就找到了自己钟爱的东西</p>
+<h4 id="woz-and-i-started-apple-in-my-parent-s-garage-when-i-was-20-we-worked-hard-and-in-ten-years-apple-had-grown-from-just-the-two-of-us-in-a-garage-into-a-2-billion-company-with-over-4-000-employees" tabindex="-1"><a class="header-anchor" href="#woz-and-i-started-apple-in-my-parent-s-garage-when-i-was-20-we-worked-hard-and-in-ten-years-apple-had-grown-from-just-the-two-of-us-in-a-garage-into-a-2-billion-company-with-over-4-000-employees" aria-hidden="true">#</a> Woz and I started Apple in my parent's garage when I was 20. We worked hard, and in ten years Apple had grown from just the two of us in a garage into a $2 billion company with over 4,000 employees.</h4>
+<p>沃兹和我在20岁的时候在父母的车库里开创了苹果公司。我们工作很努力，十年之后苹果公司从两个车库里的穷光蛋，发展成为拥有超过四千名员工和二十亿美元市值的大公司。</p>
+<h4 id="we-had-just-released-our-finest-creation-the-macintosh-a-year-earlier-and-i-had-just-turned-30-and-then-i-got-fired" tabindex="-1"><a class="header-anchor" href="#we-had-just-released-our-finest-creation-the-macintosh-a-year-earlier-and-i-had-just-turned-30-and-then-i-got-fired" aria-hidden="true">#</a> We had just released our finest creation -- the Macintosh -- a year earlier, and I had just turned 30. And then I got fired.</h4>
+<p>一年前，我们发布了我们最好的产品，苹果电脑，我也快要30岁了。不久之后，我就被解雇了。</p>
+<h4 id="how-can-you-get-fired-from-a-company-you-started" tabindex="-1"><a class="header-anchor" href="#how-can-you-get-fired-from-a-company-you-started" aria-hidden="true">#</a> How can you get fired from a company you started?</h4>
+<p>你怎么会被你自己创立的公司炒鱿鱼呢？</p>
+<h4 id="well-as-apple-grew-we-hired-someone-who-i-thought-was-very-talented-to-run-the-company-with-me-and-for-the-first-years-or-so-things-went-well" tabindex="-1"><a class="header-anchor" href="#well-as-apple-grew-we-hired-someone-who-i-thought-was-very-talented-to-run-the-company-with-me-and-for-the-first-years-or-so-things-went-well" aria-hidden="true">#</a> Well, as Apple grew we hired someone who I thought was very talented to run the company with me, and for the first years or so things went well.</h4>
+<p>是这样的，随着苹果公司的壮大，我们雇了一些我认为很有天分的人和我一起经营公司，刚开始的时候，一切都进行的很顺利。</p>
+<h4 id="but-then-our-visions-of-the-future-began-to-diverge-and-eventually-we-had-a-falling-out" tabindex="-1"><a class="header-anchor" href="#but-then-our-visions-of-the-future-began-to-diverge-and-eventually-we-had-a-falling-out" aria-hidden="true">#</a> But then our visions of the future began to <code v-pre>diverge</code> and eventually we had a falling out.</h4>
+<p>但是我们对公司未来的发展产生了分歧，最后我们吵了一架。</p>
+<h4 id="when-we-did-our-board-of-directors-sided-with-him-and-so-at-30-i-was-out-and-very-publicly-out-what-had-been-the-focus-of-my-entire-adult-life-was-gone-and-it-was-devastating" tabindex="-1"><a class="header-anchor" href="#when-we-did-our-board-of-directors-sided-with-him-and-so-at-30-i-was-out-and-very-publicly-out-what-had-been-the-focus-of-my-entire-adult-life-was-gone-and-it-was-devastating" aria-hidden="true">#</a> When we did, our Board of Directors sided with him. And so at 30 I was out. And very publicly out. What had been the focus of my entire adult life was gone, and it was <code v-pre>devastating</code>.</h4>
+<p>当我们吵得不可开交的时候，董事会选择站在他那一边。所以在30岁那年，我离开了公司。在这么多人眼皮底下离开了。我生命中全部的支柱离自己远去，这真是毁灭性的打击。</p>
+<h4 id="i-really-didn-t-know-what-to-do-for-a-few-months-i-felt-that-i-had-let-the-previous-generation-of-entrepreneurs-down-that-i-had-dropped-the-baton-as-it-was-being-passed-to-me" tabindex="-1"><a class="header-anchor" href="#i-really-didn-t-know-what-to-do-for-a-few-months-i-felt-that-i-had-let-the-previous-generation-of-entrepreneurs-down-that-i-had-dropped-the-baton-as-it-was-being-passed-to-me" aria-hidden="true">#</a> I really didn't know what to do for a few months. I felt that I had let the previous generation of entrepreneurs down -- that I had dropped the baton as it was being passed to me.</h4>
+<p>在接下来的几个月里，我真的不知道该做些什么。我认为我让老一代的企业家失望了，因为我丢掉了交到自己手里的接力棒。</p>
+<h4 id="i-met-with-david-packard-and-bob-noyce-and-tried-to-apologize-for-screwing-up-so-badly-i-was-very-public-failure-and-i-even-thought-about-running-away-from-the-valley" tabindex="-1"><a class="header-anchor" href="#i-met-with-david-packard-and-bob-noyce-and-tried-to-apologize-for-screwing-up-so-badly-i-was-very-public-failure-and-i-even-thought-about-running-away-from-the-valley" aria-hidden="true">#</a> I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly. I was very public failure, and I even thought about running away from the valley.</h4>
+<p>我去见了David Packard和Bob Noyce，想要为自己把事情搞砸说声抱歉。这次失败弄得沸沸扬扬，我甚至想过逃离硅谷。</p>
+<h4 id="but-something-slowly-began-to-dawn-on-me-i-still-loved-what-i-did" tabindex="-1"><a class="header-anchor" href="#but-something-slowly-began-to-dawn-on-me-i-still-loved-what-i-did" aria-hidden="true">#</a> But something slowly began to dawn on me -- I still loved what I did.</h4>
+<p>但是我逐渐发现，我仍然喜欢我从事的事业。</p>
+<h4 id="the-turn-of-events-at-apple-had-not-changed-that-one-bit-i-had-been-rejected-but-i-was-still-in-love-and-so-i-decided-to-start-over" tabindex="-1"><a class="header-anchor" href="#the-turn-of-events-at-apple-had-not-changed-that-one-bit-i-had-been-rejected-but-i-was-still-in-love-and-so-i-decided-to-start-over" aria-hidden="true">#</a> The turn of events at Apple had not changed that one bit. I had been rejected, but I was still in love. And so I decided to start over.</h4>
+<p>在苹果公司发生的这件事丝毫没有改变这一点。我虽然被拒之门外，但是我仍然热爱我的事业，所以我决定从头再来。</p>
+<h4 id="i-didn-t-see-it-then-but-it-turned-out-that-getting-fired-from-apple-was-the-best-thing-that-could-have-ever-happened-to-me" tabindex="-1"><a class="header-anchor" href="#i-didn-t-see-it-then-but-it-turned-out-that-getting-fired-from-apple-was-the-best-thing-that-could-have-ever-happened-to-me" aria-hidden="true">#</a> I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me.</h4>
+<p>我开始并没有意识到，但事后证明，被苹果公司炒鱿鱼是我这辈子碰到的最好的事。</p>
+<h4 id="the-heaviness-of-being-successful-was-replaced-by-the-lightness-of-being-a-beginner-again-less-sure-about-everything-it-freed-me-to-enter-one-of-the-most-creative-periods-of-my-life" tabindex="-1"><a class="header-anchor" href="#the-heaviness-of-being-successful-was-replaced-by-the-lightness-of-being-a-beginner-again-less-sure-about-everything-it-freed-me-to-enter-one-of-the-most-creative-periods-of-my-life" aria-hidden="true">#</a> The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.</h4>
+<p>从头开始的轻松替代了成功之后的沉重感，对任何事的不确定，让我觉得如此自由，使我进入了人生中最具创造力的阶段。</p>
+<h4 id="during-the-next-five-years-i-started-a-company-named-next-another-company-named-pixar-and-fell-in-love-with-an-amazing-women-who-would-become-my-wife" tabindex="-1"><a class="header-anchor" href="#during-the-next-five-years-i-started-a-company-named-next-another-company-named-pixar-and-fell-in-love-with-an-amazing-women-who-would-become-my-wife" aria-hidden="true">#</a> During the next five years, I started a company named NeXT, another company named Pixar, and fell in love with an amazing women who would become my wife.</h4>
+<p>在接下来的五年里，我创立了一家名为NeXT的公司和名为Pixar的公司，和以为了不起的女人相爱，最终结婚。</p>
+<h4 id="pixar-went-on-to-create-the-world-s-first-computer-animated-feature-film-toy-story-and-is-now-the-most-successful-animation-studio-in-the-world" tabindex="-1"><a class="header-anchor" href="#pixar-went-on-to-create-the-world-s-first-computer-animated-feature-film-toy-story-and-is-now-the-most-successful-animation-studio-in-the-world" aria-hidden="true">#</a> Pixar went on to create the world's first computer animated feature film, Toy Story, and is now the most successful animation studio in the world.</h4>
+<p>Pixar推出了世界上第一个用电脑特效制作的动画电影《玩具总动员》，即使现在Pixar也是世界上最成功的动画制作室。</p>
+<h4 id="in-a-remarakble-turn-of-events-apple-bought-next-and-i-returned-to-apple-and-the-technology-we-developed-at-next-is-at-the-heart-of-apple-s-current-renaissance-and-laurene-and-i-have-a-wonderful-family-together" tabindex="-1"><a class="header-anchor" href="#in-a-remarakble-turn-of-events-apple-bought-next-and-i-returned-to-apple-and-the-technology-we-developed-at-next-is-at-the-heart-of-apple-s-current-renaissance-and-laurene-and-i-have-a-wonderful-family-together" aria-hidden="true">#</a> In a remarakble turn of events, Apple bought NeXT, and I returned to Apple, and the technology we developed at NeXT is at the heart of Apple's current <code v-pre>renaissance</code>. And Laurene and I have a wonderful family together.</h4>
+<p>世道轮回，苹果公司收购了NeXT，我又回到了苹果公司。我们在NeXT开发的技术成为了苹果公司崛起的核心。我和Laurene也组建了美满的家庭。</p>
+<h4 id="i-m-pretty-sure-none-of-this-would-have-happened-if-i-hadn-t-been-fired-from-apple-it-was-awful-tasting-medicine-but-i-guess-the-patient-needed-it" tabindex="-1"><a class="header-anchor" href="#i-m-pretty-sure-none-of-this-would-have-happened-if-i-hadn-t-been-fired-from-apple-it-was-awful-tasting-medicine-but-i-guess-the-patient-needed-it" aria-hidden="true">#</a> I'm pretty sure none of this would have happened if I hadn't been fired from Apple. It was awful tasting medicine, but I guess the patient needed it.</h4>
+<p>我可以非常肯定的说，如果我不被苹果公司解雇，这一切都不会发生。这是一剂苦药，但我认为苦药利于病。</p>
+<h4 id="sometimes-life-is-gonna-hit-you-in-the-head-with-a-brick-don-t-lose-faith" tabindex="-1"><a class="header-anchor" href="#sometimes-life-is-gonna-hit-you-in-the-head-with-a-brick-don-t-lose-faith" aria-hidden="true">#</a> Sometimes life is gonna hit you in the head with a brick. Don't lose faith.</h4>
+<p>有时候生活会给你当头一棒，不要灰心。</p>
+<h4 id="i-m-convinced-that-the-only-thing-that-kept-me-going-was-that-i-loved-what-i-did-you-ve-got-to-find-what-you-love-and-that-is-as-true-for-work-as-it-is-for-your-lovers" tabindex="-1"><a class="header-anchor" href="#i-m-convinced-that-the-only-thing-that-kept-me-going-was-that-i-loved-what-i-did-you-ve-got-to-find-what-you-love-and-that-is-as-true-for-work-as-it-is-for-your-lovers" aria-hidden="true">#</a> I'm convinced that the only thing that kept me going was that I loved what I did. You've got to find what you love. And that is as true for work as it is for your lovers.</h4>
+<p>我坚信唯一使我坚持下去的就是我对所做的事无比热爱。你需要清楚自己喜欢什么，选择爱人时如此，选择工作时亦如此。</p>
+<h4 id="your-work-is-gonna-fill-a-large-part-of-your-life-and-the-only-way-to-be-truly-satisfied-is-to-do-what-you-believe-is-great-work-and-the-only-way-to-do-great-work-is-to-love-what-you-do" tabindex="-1"><a class="header-anchor" href="#your-work-is-gonna-fill-a-large-part-of-your-life-and-the-only-way-to-be-truly-satisfied-is-to-do-what-you-believe-is-great-work-and-the-only-way-to-do-great-work-is-to-love-what-you-do" aria-hidden="true">#</a> Your work is gonna fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.</h4>
+<p>工作将会占据你生活很大一部分，让自己真正满意的唯一方法就是做自己认为有意义的工作。做有意义的工作的唯一办法就是热爱自己的工作。</p>
+<h4 id="if-you-haven-t-found-it-yet-keep-looking-and-don-t-settle" tabindex="-1"><a class="header-anchor" href="#if-you-haven-t-found-it-yet-keep-looking-and-don-t-settle" aria-hidden="true">#</a> If you haven't found it yet, keep looking. And don't settle.</h4>
+<p>如果你现在还没有发现自己喜欢什么，那就继续寻找，不要急于做出决定。</p>
+<h4 id="as-with-all-matters-of-the-heart-you-ll-know-when-you-find-it-and-like-any-great-relationship-it-just-gets-better-and-better-as-the-years-roll-on" tabindex="-1"><a class="header-anchor" href="#as-with-all-matters-of-the-heart-you-ll-know-when-you-find-it-and-like-any-great-relationship-it-just-gets-better-and-better-as-the-years-roll-on" aria-hidden="true">#</a> As with all matters of the heart, you'll know when you find it. And, like any great relationship, it just gets better and better as the years roll on.</h4>
+<p>用心寻找，只有这样当你发现的时候你会感觉到。就像任何真挚的关系，都是历久弥新。</p>
+<h4 id="so-keep-looking-don-t-settle" tabindex="-1"><a class="header-anchor" href="#so-keep-looking-don-t-settle" aria-hidden="true">#</a> So keep looking. Don't settle.</h4>
+<p>所以继续寻找，知道找到自己喜欢的东西，不要将就。</p>
+<h2 id="生词统计" tabindex="-1"><a class="header-anchor" href="#生词统计" aria-hidden="true">#</a> 生词统计</h2>
+<table>
+<thead>
+<tr>
+<th>单词</th>
+<th>音标</th>
+<th>翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>diverge</td>
+<td>divɛrʒe</td>
+<td>v. 分歧、分开、偏离</td>
+</tr>
+<tr>
+<td>devastate</td>
+<td>'dɛvəstet</td>
+<td>v. 毁灭、毁坏</td>
+</tr>
+<tr>
+<td>reanissance</td>
+<td>ˈrenəsɑ:ns</td>
+<td>n. 新生、再生、复活</td>
+</tr>
+</tbody>
+</table>
+<h2 id="原文阅读" tabindex="-1"><a class="header-anchor" href="#原文阅读" aria-hidden="true">#</a> 原文阅读</h2>
+<p>My second story is about love and loss.</p>
+<p>I was lucky -- I found what I love to do early in life.</p>
+<p>Woz and I started Apple in my parent's garage when I was 20. We worked hard, and in ten years Apple had grown from just the two of us in a garage into a $2 billion company with over 4,000 employees.</p>
+<p>We had just released our finest creation -- the Macintosh -- a year earlier, and I had just turned 30. And then I got fired.</p>
+<p>How can you get fired from a company you started?</p>
+<p>Well, as Apple grew we hired someone who I thought was very talented to run the company with me, and for the first years or so things went well.</p>
+<p>But then our visions of the future began to diverge and eventually we had a falling out.</p>
+<p>When we did, our Board of Directors sided with him. And so at 30 I was out. And very publicly out. What had been the focus of my entire adult life was gone, and it was devastating.</p>
+<p>I really didn't know what to do for a few months. I felt that I had let the previous generation of entrepreneurs down -- that I had dropped the baton as it was being passed to me.</p>
+<p>I met with David Packard and Bod Noyce and tried to apologize for screwing up so badly. I was very public failure, and I even thought about running away from the valley.</p>
+<p>But something slowly began to dawn on me -- I still loved what I did.</p>
+<p>The turn of events at Apple had not changed that one bit. I had been rejected, but I was still in love. And so I dicided to start over.</p>
+<p>I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me.</p>
+<p>The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.</p>
+<p>During the next five years, I started a company named NeXT, another company named Pixar, and fell in love with an amazing women who would become my wife.</p>
+<p>Pixar went on to create the world's first computer animated feature film, Toy Story, and is now the most successful animation studio in the world.</p>
+<p>In a remarkable turn of events, Apple bought NeXT, and I returned to Apple, and the technology we developed at NeXT is at the heart of Apple's current renaissance. And Laurene and I have a wonderful family together.</p>
+<p>I'm pretty sure none of this would have happened if I hadn't been fired from Apple. It was awful tasting medicine, but I guess the patient needed it.</p>
+<p>Sometimes life is gonna hit you in the head with a brick. Don't lose faith.</p>
+<p>I'm convinced that the only thing that kept me going was that I loved what I did. You've got to find what you love. And that is as true for work as it is for you lovers.</p>
+<p>Your work is gonna fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.</p>
+<p>If you haven't found it yet, keep looking. And don't settle.</p>
+<p>As with all matters of the heart, you'll know when you find it. And, like any great relationship, it just gets better and better as the years roll on.</p>
+<p>So keep looking. Don't settle.</p>
+<src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresources2019/2019-March/Love and Loss.mp3'"></src-rtyAudio></div></template>

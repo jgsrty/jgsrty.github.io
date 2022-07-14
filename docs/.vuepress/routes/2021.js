@@ -2,33 +2,33 @@ const genSidebarConfig = require('./getSidebarConfig')
 
 module.exports = [
     {
-        title: '怦然心动(Flipped)',
-        collapsable: false,
+        text: '怦然心动(Flipped)',
+        collapsible: true,
         children: [
-            '2021/Flipped/Diving Under',
-            '2021/Flipped/Flipped',
-            '2021/Flipped/Buddy,Beware',
-            '2021/Flipped/The Sycamore Tree',
-            '2021/Flipped/Brawk-Brawk-Brawk',
-            '2021/Flipped/The Eggs',
-            '2021/Flipped/Get a Grip, Man',
-            '2021/Flipped/The Yard',
-            '2021/Flipped/Looming Large and Smelly',
-            '2021/Flipped/The Visit',
-            '2021/Flipped/The Serious Willies',
-            '2021/Flipped/The Dinner',
-            '2021/Flipped/Flipped ',
-            '2021/Flipped/The Basket Boys',
+            '/english/2021/Flipped/Diving Under',
+            '/english/2021/Flipped/Flipped',
+            '/english/2021/Flipped/Buddy,Beware',
+            '/english/2021/Flipped/The Sycamore Tree',
+            '/english/2021/Flipped/Brawk-Brawk-Brawk',
+            '/english/2021/Flipped/The Eggs',
+            '/english/2021/Flipped/Get a Grip, Man',
+            '/english/2021/Flipped/The Yard',
+            '/english/2021/Flipped/Looming Large and Smelly',
+            '/english/2021/Flipped/The Visit',
+            '/english/2021/Flipped/The Serious Willies',
+            '/english/2021/Flipped/The Dinner',
+            '/english/2021/Flipped/Flipped ',
+            '/english/2021/Flipped/The Basket Boys',
         ]
     },
     {
-        title: '2021二月(February)',
-        collapsable: true,
+        text: '2021二月(February)',
+        collapsible: true,
         children: genSidebarConfig('english/2021/February', false)
     },
     {
-        title: '2021一月(January)',
-        collapsable: true,
+        text: '2021一月(January)',
+        collapsible: true,
         children: genSidebarConfig('english/2021/January', false)
     },
 ]

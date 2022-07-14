@@ -10,7 +10,7 @@ module.exports = function genSidebarConfig(dir, hasSub) {
         item = subDir
             ? subDir + '/' + path.basename(item, '.md')
             : path.basename(item, '.md')
-        return item
+        return '/english/' + item
     })
     return files
 }

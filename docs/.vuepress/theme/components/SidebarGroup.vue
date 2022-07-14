@@ -3,7 +3,7 @@
     class="sidebar-group"
     :class="[
       {
-        collapsable,
+        collapsible,
         'is-sub-group': depth !== 0
       },
       `depth-${depth}`
@@ -21,7 +21,7 @@
     >
       <span>{{ item.title }}</span>
       <span
-        v-if="collapsable"
+        v-if="collapsible"
         class="arrow"
         :class="open ? 'down' : 'right'"
       />
@@ -35,7 +35,7 @@
     >
       <span>{{ item.title }}</span>
       <span
-        v-if="collapsable"
+        v-if="collapsible"
         class="arrow"
         :class="open ? 'down' : 'right'"
       />
@@ -43,7 +43,7 @@
 
     <DropdownTransition>
       <SidebarLinks
-        v-if="open || !collapsable"
+        v-if="open || !collapsible"
         class="sidebar-group-items"
         :items="item.children"
         :sidebar-depth="item.sidebarDepth"
@@ -67,7 +67,7 @@ export default {
   props: [
     'item',
     'open',
-    'collapsable',
+    'collapsible',
     'depth'
   ],
 
@@ -84,7 +84,7 @@ export default {
 .sidebar-group
   .sidebar-group
     padding-left 0.5em
-  &:not(.collapsable)
+  &:not(.collapsible)
     .sidebar-heading:not(.clickable)
       cursor auto
       color inherit
