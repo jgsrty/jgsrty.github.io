@@ -15,7 +15,7 @@ module.exports = {
   description: "Welcome to my docs",
   plugins: [
     docsearchPlugin({
-      apiKey: '3d4ea44166cf504c2b795750bfa57c2d',
+      apiKey: '72a1e43a6604d24f021bfdde9cf319da',
       indexName: 'jgsrty',
     }),
   ],
