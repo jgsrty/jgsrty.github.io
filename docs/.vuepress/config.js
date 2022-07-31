@@ -9,9 +9,16 @@ const SelfStudy = require("./routes/SelfStudy.js");
 const { defaultTheme } = require("vuepress-webpack");
 let englishFiles = ["/english/introduction.md"];
 englishFiles = englishFiles.concat(SelfStudy, route2021, route2020, route2019, route2018);
+const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
 module.exports = {
   title: "rty-docs",
   description: "Welcome to my docs",
+  plugins: [
+    docsearchPlugin({
+      apiKey: '3d4ea44166cf504c2b795750bfa57c2d',
+      indexName: 'jgsrty',
+    }),
+  ],
   head: [
     [
       "link",
