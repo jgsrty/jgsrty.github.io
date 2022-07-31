@@ -123,6 +123,40 @@ export const pagesComponents = {
   "v-929687aa": defineAsyncComponent(() => import(/* webpackChunkName: "v-929687aa" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2019/2019-September/Origins of Christmas 1.html.vue")),
   // path: /english/2019/2019-September/Origins%20of%20Christmas%202.html
   "v-8f2cd66c": defineAsyncComponent(() => import(/* webpackChunkName: "v-8f2cd66c" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2019/2019-September/Origins of Christmas 2.html.vue")),
+  // path: /english/2021/February/Live%20in%20the%20Moment.html
+  "v-6afc92ad": defineAsyncComponent(() => import(/* webpackChunkName: "v-6afc92ad" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/February/Live in the Moment.html.vue")),
+  // path: /english/2021/Flipped/Brawk-Brawk-Brawk.html
+  "v-a833b82a": defineAsyncComponent(() => import(/* webpackChunkName: "v-a833b82a" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Brawk-Brawk-Brawk.html.vue")),
+  // path: /english/2021/Flipped/Buddy,Beware.html
+  "v-d63331a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-d63331a8" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Buddy,Beware.html.vue")),
+  // path: /english/2021/Flipped/Diving%20Under.html
+  "v-047f7fcc": defineAsyncComponent(() => import(/* webpackChunkName: "v-047f7fcc" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Diving Under.html.vue")),
+  // path: /english/2021/Flipped/Flipped%20.html
+  "v-6911f0f1": defineAsyncComponent(() => import(/* webpackChunkName: "v-6911f0f1" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Flipped .html.vue")),
+  // path: /english/2021/Flipped/Flipped.html
+  "v-7183735e": defineAsyncComponent(() => import(/* webpackChunkName: "v-7183735e" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Flipped.html.vue")),
+  // path: /english/2021/Flipped/Get%20a%20Grip,%20Man.html
+  "v-15ba93fe": defineAsyncComponent(() => import(/* webpackChunkName: "v-15ba93fe" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Get a Grip, Man.html.vue")),
+  // path: /english/2021/Flipped/Looming%20Large%20and%20Smelly.html
+  "v-2a9e2e64": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a9e2e64" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Looming Large and Smelly.html.vue")),
+  // path: /english/2021/Flipped/The%20Basket%20Boys.html
+  "v-69515a24": defineAsyncComponent(() => import(/* webpackChunkName: "v-69515a24" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Basket Boys.html.vue")),
+  // path: /english/2021/Flipped/The%20Dinner.html
+  "v-0aca4a64": defineAsyncComponent(() => import(/* webpackChunkName: "v-0aca4a64" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Dinner.html.vue")),
+  // path: /english/2021/Flipped/The%20Eggs.html
+  "v-67ae6d72": defineAsyncComponent(() => import(/* webpackChunkName: "v-67ae6d72" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Eggs.html.vue")),
+  // path: /english/2021/Flipped/The%20Serious%20Willies.html
+  "v-26fc0e4c": defineAsyncComponent(() => import(/* webpackChunkName: "v-26fc0e4c" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Serious Willies.html.vue")),
+  // path: /english/2021/Flipped/The%20Sycamore%20Tree.html
+  "v-099207ea": defineAsyncComponent(() => import(/* webpackChunkName: "v-099207ea" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Sycamore Tree.html.vue")),
+  // path: /english/2021/Flipped/The%20Visit.html
+  "v-3154fa67": defineAsyncComponent(() => import(/* webpackChunkName: "v-3154fa67" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Visit.html.vue")),
+  // path: /english/2021/Flipped/The%20Yard.html
+  "v-8be83274": defineAsyncComponent(() => import(/* webpackChunkName: "v-8be83274" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Yard.html.vue")),
+  // path: /english/2021/January/Learn%20From%20the%20Nature.html
+  "v-6b8f88e5": defineAsyncComponent(() => import(/* webpackChunkName: "v-6b8f88e5" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/January/Learn From the Nature.html.vue")),
+  // path: /english/2021/January/Meditation.html
+  "v-2f670e08": defineAsyncComponent(() => import(/* webpackChunkName: "v-2f670e08" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/January/Meditation.html.vue")),
   // path: /english/2020/April/Learning%20Has%20No%20Past.html
   "v-3d35910f": defineAsyncComponent(() => import(/* webpackChunkName: "v-3d35910f" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2020/April/Learning Has No Past.html.vue")),
   // path: /english/2020/April/Learning%20Is%20Not%20Experience.html
@@ -173,40 +207,6 @@ export const pagesComponents = {
   "v-b35f705a": defineAsyncComponent(() => import(/* webpackChunkName: "v-b35f705a" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2020/September/Sleeping with Science.html.vue")),
   // path: /english/2020/September/What%20would%20happen%20if%20you%20didn't%20sleep.html
   "v-3bc5fd68": defineAsyncComponent(() => import(/* webpackChunkName: "v-3bc5fd68" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2020/September/What would happen if you didn't sleep.html.vue")),
-  // path: /english/2021/February/Live%20in%20the%20Moment.html
-  "v-6afc92ad": defineAsyncComponent(() => import(/* webpackChunkName: "v-6afc92ad" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/February/Live in the Moment.html.vue")),
-  // path: /english/2021/Flipped/Brawk-Brawk-Brawk.html
-  "v-a833b82a": defineAsyncComponent(() => import(/* webpackChunkName: "v-a833b82a" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Brawk-Brawk-Brawk.html.vue")),
-  // path: /english/2021/Flipped/Buddy,Beware.html
-  "v-d63331a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-d63331a8" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Buddy,Beware.html.vue")),
-  // path: /english/2021/Flipped/Diving%20Under.html
-  "v-047f7fcc": defineAsyncComponent(() => import(/* webpackChunkName: "v-047f7fcc" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Diving Under.html.vue")),
-  // path: /english/2021/Flipped/Flipped%20.html
-  "v-6911f0f1": defineAsyncComponent(() => import(/* webpackChunkName: "v-6911f0f1" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Flipped .html.vue")),
-  // path: /english/2021/Flipped/Flipped.html
-  "v-7183735e": defineAsyncComponent(() => import(/* webpackChunkName: "v-7183735e" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Flipped.html.vue")),
-  // path: /english/2021/Flipped/Get%20a%20Grip,%20Man.html
-  "v-15ba93fe": defineAsyncComponent(() => import(/* webpackChunkName: "v-15ba93fe" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Get a Grip, Man.html.vue")),
-  // path: /english/2021/Flipped/Looming%20Large%20and%20Smelly.html
-  "v-2a9e2e64": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a9e2e64" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/Looming Large and Smelly.html.vue")),
-  // path: /english/2021/Flipped/The%20Basket%20Boys.html
-  "v-69515a24": defineAsyncComponent(() => import(/* webpackChunkName: "v-69515a24" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Basket Boys.html.vue")),
-  // path: /english/2021/Flipped/The%20Dinner.html
-  "v-0aca4a64": defineAsyncComponent(() => import(/* webpackChunkName: "v-0aca4a64" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Dinner.html.vue")),
-  // path: /english/2021/Flipped/The%20Eggs.html
-  "v-67ae6d72": defineAsyncComponent(() => import(/* webpackChunkName: "v-67ae6d72" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Eggs.html.vue")),
-  // path: /english/2021/Flipped/The%20Serious%20Willies.html
-  "v-26fc0e4c": defineAsyncComponent(() => import(/* webpackChunkName: "v-26fc0e4c" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Serious Willies.html.vue")),
-  // path: /english/2021/Flipped/The%20Sycamore%20Tree.html
-  "v-099207ea": defineAsyncComponent(() => import(/* webpackChunkName: "v-099207ea" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Sycamore Tree.html.vue")),
-  // path: /english/2021/Flipped/The%20Visit.html
-  "v-3154fa67": defineAsyncComponent(() => import(/* webpackChunkName: "v-3154fa67" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Visit.html.vue")),
-  // path: /english/2021/Flipped/The%20Yard.html
-  "v-8be83274": defineAsyncComponent(() => import(/* webpackChunkName: "v-8be83274" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/Flipped/The Yard.html.vue")),
-  // path: /english/2021/January/Learn%20From%20the%20Nature.html
-  "v-6b8f88e5": defineAsyncComponent(() => import(/* webpackChunkName: "v-6b8f88e5" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/January/Learn From the Nature.html.vue")),
-  // path: /english/2021/January/Meditation.html
-  "v-2f670e08": defineAsyncComponent(() => import(/* webpackChunkName: "v-2f670e08" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/2021/January/Meditation.html.vue")),
   // path: /english/SelfStudy/ChineseLiterature/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E6%96%87%E5%AD%A6%E5%8F%B2%E4%BA%8C.html
   "v-66687ea6": defineAsyncComponent(() => import(/* webpackChunkName: "v-66687ea6" */"/Users/rongtianyang/Documents/rty/docs/jgsrty.github.io/docs/.vuepress/.temp/pages/english/SelfStudy/ChineseLiterature/中国古代文学史二.html.vue")),
   // path: /english/SelfStudy/ChineseLiterature/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81%E9%80%89.html
