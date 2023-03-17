@@ -5,7 +5,7 @@ module.exports = [
     text: "汉语言文学",
     collapsible: false,
     children: [
-      "/english/SelfStudy/ChineseLiterature/古文选一",
+      // "/english/SelfStudy/ChineseLiterature/古文选一",
       "/english/SelfStudy/ChineseLiterature/红楼梦研究-上海",
       "/english/SelfStudy/ChineseLiterature/红楼梦研究",
       // "/english/SelfStudy/ChineseLiterature/中国现代文学史-总",

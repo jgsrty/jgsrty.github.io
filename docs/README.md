@@ -5,7 +5,7 @@ actionText:
 actionLink: 
 actions:
   - text: 汉语言文学
-    link: /english/SelfStudy/ChineseLiterature/古文选一.html
+    link: /english/SelfStudy/ChineseLiterature/美学-绪论.html
     type: primary
   - text: 英语学习
     link: /english/introduction
