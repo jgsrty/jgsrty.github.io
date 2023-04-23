@@ -758,9 +758,9 @@
     markdown-it "^13.0.1"
     markdown-it-container "^3.0.0"
 
-"@vuepress/plugin-docsearch@^2.0.0-beta.49":
+"@vuepress/plugin-docsearch@2.0.0-beta.49":
   version "2.0.0-beta.49"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-docsearch/-/plugin-docsearch-2.0.0-beta.49.tgz#3c58d9815cb30cba60f7f8e9aaa9dc7490277e0b"
+  resolved "https://npmjs.swhysc.tech:443/@vuepress%2fplugin-docsearch/-/plugin-docsearch-2.0.0-beta.49.tgz#3c58d9815cb30cba60f7f8e9aaa9dc7490277e0b"
   integrity sha512-580pQ9AyOjTe64YH8h3MHsvj+EfxCmJ6IJ/3kp51tT0/zL59mE8aLyveyvgwJrvhBdki5PMOGgBx95tOT7QVwQ==
   dependencies:
     "@docsearch/css" "^3.1.1"
@@ -1218,8 +1218,8 @@ batch@0.6.1:
 
 big.js@^5.2.2:
   version "5.2.2"
-  resolved "https://npmjs.swhysc.tech:443/big.js/-/big.js-5.2.2.tgz#65f0af382f578bcdc742bd9c281e9cb2d7768328"
-  integrity sha1-ZfCvOC9Xi83HQr2cKB6cstd2gyg=
+  resolved "https://registry.yarnpkg.com/big.js/-/big.js-5.2.2.tgz#65f0af382f578bcdc742bd9c281e9cb2d7768328"
+  integrity sha512-vyL2OymJxmarO8gxMr0mhChsO9QGwhynfuu4+MHTAW6czfq9humCB7rKpUjDd9YUiDPU4mzpyupFSvOClAwbmQ==
 
 binary-extensions@^2.0.0:
   version "2.2.0"
@@ -1741,8 +1741,8 @@ electron-to-chromium@^1.4.188:
 
 emojis-list@^3.0.0:
   version "3.0.0"
-  resolved "https://npmjs.swhysc.tech:443/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
-  integrity sha1-VXBmIEatKeLpFucariYKvf9Pang=
+  resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
+  integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
 encodeurl@~1.0.2:
   version "1.0.2"
@@ -2622,9 +2622,9 @@ loader-runner@^4.2.0:
   integrity sha512-3R/1M+yS3j5ou80Me59j7F9IMs4PXs3VqRrm0TU3AbKPxlmpoY1TNscJV/oGJXo8qCatFGTfDbY6W6ipGOYXfg==
 
 loader-utils@^2.0.0:
-  version "2.0.2"
-  resolved "https://npmjs.swhysc.tech:443/loader-utils/-/loader-utils-2.0.2.tgz#d6e3b4fb81870721ae4e0868ab11dd638368c129"
-  integrity sha1-1uO0+4GHByGuTghoqxHdY4NowSk=
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-2.0.4.tgz#8b5cb38b5c34a9a018ee1fc0e6a066d1dfcc528c"
+  integrity sha512-xXqpXoINfFhgua9xiqD8fPFHgkoq1mmmpE92WlDbm9rNRd/EbRb+Gqf908T2DMfuHjjJlksiK2RbHVOdD/MqSw==
   dependencies:
     big.js "^5.2.2"
     emojis-list "^3.0.0"
@@ -3764,7 +3764,7 @@ vuepress-vite@2.0.0-beta.49:
     "@vuepress/core" "2.0.0-beta.49"
     "@vuepress/theme-default" "2.0.0-beta.49"
 
-vuepress-webpack@^2.0.0-beta.49:
+vuepress-webpack@2.0.0-beta.49:
   version "2.0.0-beta.49"
   resolved "https://npmjs.swhysc.tech:443/vuepress-webpack/-/vuepress-webpack-2.0.0-beta.49.tgz#0fd07aca94b336b795cb5aa04a61bbad07cb4562"
   integrity sha512-GCdJGKf1TbA4//OlKMkgmhKO3eYOvw7f/beCgL7c7I2dQ1Z1+vA9quGnykhA5gtZjMbvTwqBRI9eAsS+W/aOzg==
@@ -3775,7 +3775,7 @@ vuepress-webpack@^2.0.0-beta.49:
     "@vuepress/theme-default" "2.0.0-beta.49"
     sass-loader "^13.0.2"
 
-vuepress@^2.0.0-beta.49:
+vuepress@2.0.0-beta.49:
   version "2.0.0-beta.49"
   resolved "https://npmjs.swhysc.tech:443/vuepress/-/vuepress-2.0.0-beta.49.tgz#f1cc8e72dc473379d36d71e96d7991eb7f51f97d"
   integrity sha512-dxbgCNn+S9DDUu4Ao/QqwfdQF3e6IgpKhqQxYPPO/xVYZbnQnmXbzh0uGdtKUAyKKgP8UouWbp4Qdk1/Z6ay9Q==
