@@ -758,9 +758,9 @@
     markdown-it "^13.0.1"
     markdown-it-container "^3.0.0"
 
-"@vuepress/plugin-docsearch@^2.0.0-beta.49":
+"@vuepress/plugin-docsearch@2.0.0-beta.49":
   version "2.0.0-beta.49"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-docsearch/-/plugin-docsearch-2.0.0-beta.49.tgz#3c58d9815cb30cba60f7f8e9aaa9dc7490277e0b"
+  resolved "https://npmjs.swhysc.tech:443/@vuepress%2fplugin-docsearch/-/plugin-docsearch-2.0.0-beta.49.tgz#3c58d9815cb30cba60f7f8e9aaa9dc7490277e0b"
   integrity sha512-580pQ9AyOjTe64YH8h3MHsvj+EfxCmJ6IJ/3kp51tT0/zL59mE8aLyveyvgwJrvhBdki5PMOGgBx95tOT7QVwQ==
   dependencies:
     "@docsearch/css" "^3.1.1"
@@ -1059,10 +1059,15 @@ acorn-import-assertions@^1.7.6:
   resolved "https://npmjs.swhysc.tech:443/acorn-import-assertions/-/acorn-import-assertions-1.8.0.tgz#ba2b5939ce62c238db6d93d81c9b111b29b855e9"
   integrity sha1-uitZOc5iwjjbbZPYHJsRGym4Vek=
 
-acorn@^8.4.1, acorn@^8.5.0:
+acorn@^8.5.0:
   version "8.7.1"
   resolved "https://npmjs.swhysc.tech:443/acorn/-/acorn-8.7.1.tgz#0197122c843d1bf6d0a5e83220a788f278f63c30"
   integrity sha512-Xx54uLJQZ19lKygFXOWsscKUbsBZW0CPykPhVQdhIeIwrbPmJzqeASDInc8nKBnp/JT6igTs82qPXz069H8I/A==
+
+acorn@^8.7.1:
+  version "8.8.2"
+  resolved "https://npmjs.swhysc.tech:443/acorn/-/acorn-8.8.2.tgz#1b2f25db02af965399b9776b0c2c391276d37c4a"
+  integrity sha512-xjIYgE8HBrkpd/sJqOGNspf8uHG+NOHGOw6a/Urj8taM2EXfdNAH2oFcPeIFfsv3+kz/mJrS5VuMqbNLjCa2vw==
 
 ajv-formats@^2.1.1:
   version "2.1.1"
@@ -1749,10 +1754,10 @@ encodeurl@~1.0.2:
   resolved "https://npmjs.swhysc.tech:443/encodeurl/-/encodeurl-1.0.2.tgz#ad3ff4c86ec2d029322f5a02c3a9a606c95b3f59"
   integrity sha1-rT/0yG7C0CkyL1oCw6mmBslbP1k=
 
-enhanced-resolve@^5.9.3:
-  version "5.10.0"
-  resolved "https://npmjs.swhysc.tech:443/enhanced-resolve/-/enhanced-resolve-5.10.0.tgz#0dc579c3bb2a1032e357ac45b8f3a6f3ad4fb1e6"
-  integrity sha512-T0yTFjdpldGY8PmuXXR0PyQ1ufZpEGiHVrp7zHKB7jdR4qlmZHhONVM5AQOAWXuF/w3dnHbEQVrNptJgt7F+cQ==
+enhanced-resolve@^5.10.0:
+  version "5.12.0"
+  resolved "https://npmjs.swhysc.tech:443/enhanced-resolve/-/enhanced-resolve-5.12.0.tgz#300e1c90228f5b570c4d35babf263f6da7155634"
+  integrity sha512-QHTXI/sZQmko1cbDoNAa3mJ5qhWUUNAq3vR0/YiD379fWQrcfuoX1+HW2S0MTt7XmoPLapdaDKUtelUSPic7hQ==
   dependencies:
     graceful-fs "^4.2.4"
     tapable "^2.2.0"
@@ -3764,7 +3769,7 @@ vuepress-vite@2.0.0-beta.49:
     "@vuepress/core" "2.0.0-beta.49"
     "@vuepress/theme-default" "2.0.0-beta.49"
 
-vuepress-webpack@^2.0.0-beta.49:
+vuepress-webpack@2.0.0-beta.49:
   version "2.0.0-beta.49"
   resolved "https://npmjs.swhysc.tech:443/vuepress-webpack/-/vuepress-webpack-2.0.0-beta.49.tgz#0fd07aca94b336b795cb5aa04a61bbad07cb4562"
   integrity sha512-GCdJGKf1TbA4//OlKMkgmhKO3eYOvw7f/beCgL7c7I2dQ1Z1+vA9quGnykhA5gtZjMbvTwqBRI9eAsS+W/aOzg==
@@ -3775,14 +3780,14 @@ vuepress-webpack@^2.0.0-beta.49:
     "@vuepress/theme-default" "2.0.0-beta.49"
     sass-loader "^13.0.2"
 
-vuepress@^2.0.0-beta.49:
+vuepress@2.0.0-beta.49:
   version "2.0.0-beta.49"
   resolved "https://npmjs.swhysc.tech:443/vuepress/-/vuepress-2.0.0-beta.49.tgz#f1cc8e72dc473379d36d71e96d7991eb7f51f97d"
   integrity sha512-dxbgCNn+S9DDUu4Ao/QqwfdQF3e6IgpKhqQxYPPO/xVYZbnQnmXbzh0uGdtKUAyKKgP8UouWbp4Qdk1/Z6ay9Q==
   dependencies:
     vuepress-vite "2.0.0-beta.49"
 
-watchpack@^2.3.1:
+watchpack@^2.4.0:
   version "2.4.0"
   resolved "https://npmjs.swhysc.tech:443/watchpack/-/watchpack-2.4.0.tgz#fa33032374962c78113f93c7f2fb4c54c9862a5d"
   integrity sha512-Lcvm7MGST/4fup+ifyKi2hjyIAwcdI4HRgtvTpIUxBRhB+RFtUh8XtDOxUfctVCnhVi+QQj49i91OyvzkJl6cg==
@@ -3880,20 +3885,20 @@ webpack-sources@^3.2.3:
   integrity sha512-/DyMEOrDgLKKIG0fmvtz+4dUX/3Ghozwgm6iPp8KRhvn+eQf9+Q7GWxVNMk3+uCPWfdXYC4ExGBckIXdFEfH1w==
 
 webpack@^5.73.0:
-  version "5.73.0"
-  resolved "https://npmjs.swhysc.tech:443/webpack/-/webpack-5.73.0.tgz#bbd17738f8a53ee5760ea2f59dce7f3431d35d38"
-  integrity sha512-svjudQRPPa0YiOYa2lM/Gacw0r6PvxptHj4FuEKQ2kX05ZLkjbVc5MnPs6its5j7IZljnIqSVo/OsY2X0IpHGA==
+  version "5.76.1"
+  resolved "https://npmjs.swhysc.tech:443/webpack/-/webpack-5.76.1.tgz#7773de017e988bccb0f13c7d75ec245f377d295c"
+  integrity sha512-4+YIK4Abzv8172/SGqObnUjaIHjLEuUasz9EwQj/9xmPPkYJy2Mh03Q/lJfSD3YLzbxy5FeTq5Uw0323Oh6SJQ==
   dependencies:
     "@types/eslint-scope" "^3.7.3"
     "@types/estree" "^0.0.51"
     "@webassemblyjs/ast" "1.11.1"
     "@webassemblyjs/wasm-edit" "1.11.1"
     "@webassemblyjs/wasm-parser" "1.11.1"
-    acorn "^8.4.1"
+    acorn "^8.7.1"
     acorn-import-assertions "^1.7.6"
     browserslist "^4.14.5"
     chrome-trace-event "^1.0.2"
-    enhanced-resolve "^5.9.3"
+    enhanced-resolve "^5.10.0"
     es-module-lexer "^0.9.0"
     eslint-scope "5.1.1"
     events "^3.2.0"
@@ -3906,7 +3911,7 @@ webpack@^5.73.0:
     schema-utils "^3.1.0"
     tapable "^2.1.1"
     terser-webpack-plugin "^5.1.3"
-    watchpack "^2.3.1"
+    watchpack "^2.4.0"
     webpack-sources "^3.2.3"
 
 websocket-driver@>=0.5.1, websocket-driver@^0.7.4:
