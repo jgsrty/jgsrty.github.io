@@ -758,9 +758,9 @@
     markdown-it "^13.0.1"
     markdown-it-container "^3.0.0"
 
-"@vuepress/plugin-docsearch@^2.0.0-beta.49":
+"@vuepress/plugin-docsearch@2.0.0-beta.49":
   version "2.0.0-beta.49"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-docsearch/-/plugin-docsearch-2.0.0-beta.49.tgz#3c58d9815cb30cba60f7f8e9aaa9dc7490277e0b"
+  resolved "https://npmjs.swhysc.tech:443/@vuepress%2fplugin-docsearch/-/plugin-docsearch-2.0.0-beta.49.tgz#3c58d9815cb30cba60f7f8e9aaa9dc7490277e0b"
   integrity sha512-580pQ9AyOjTe64YH8h3MHsvj+EfxCmJ6IJ/3kp51tT0/zL59mE8aLyveyvgwJrvhBdki5PMOGgBx95tOT7QVwQ==
   dependencies:
     "@docsearch/css" "^3.1.1"
@@ -2581,9 +2581,9 @@ json-schema-traverse@^1.0.0:
   integrity sha1-rnvLNlard6c7pcSb9lTzjmtoYOI=
 
 json5@^2.1.2, json5@^2.2.0:
-  version "2.2.1"
-  resolved "https://npmjs.swhysc.tech:443/json5/-/json5-2.2.1.tgz#655d50ed1e6f95ad1a3caababd2b0efda10b395c"
-  integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
+  integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
 
 jsonfile@^6.0.1:
   version "6.1.0"
@@ -3764,7 +3764,7 @@ vuepress-vite@2.0.0-beta.49:
     "@vuepress/core" "2.0.0-beta.49"
     "@vuepress/theme-default" "2.0.0-beta.49"
 
-vuepress-webpack@^2.0.0-beta.49:
+vuepress-webpack@2.0.0-beta.49:
   version "2.0.0-beta.49"
   resolved "https://npmjs.swhysc.tech:443/vuepress-webpack/-/vuepress-webpack-2.0.0-beta.49.tgz#0fd07aca94b336b795cb5aa04a61bbad07cb4562"
   integrity sha512-GCdJGKf1TbA4//OlKMkgmhKO3eYOvw7f/beCgL7c7I2dQ1Z1+vA9quGnykhA5gtZjMbvTwqBRI9eAsS+W/aOzg==
@@ -3775,7 +3775,7 @@ vuepress-webpack@^2.0.0-beta.49:
     "@vuepress/theme-default" "2.0.0-beta.49"
     sass-loader "^13.0.2"
 
-vuepress@^2.0.0-beta.49:
+vuepress@2.0.0-beta.49:
   version "2.0.0-beta.49"
   resolved "https://npmjs.swhysc.tech:443/vuepress/-/vuepress-2.0.0-beta.49.tgz#f1cc8e72dc473379d36d71e96d7991eb7f51f97d"
   integrity sha512-dxbgCNn+S9DDUu4Ao/QqwfdQF3e6IgpKhqQxYPPO/xVYZbnQnmXbzh0uGdtKUAyKKgP8UouWbp4Qdk1/Z6ay9Q==
