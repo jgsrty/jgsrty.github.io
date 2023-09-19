@@ -6,6 +6,9 @@ module.exports = [
     collapsible: false,
     children: [
       // "/english/SelfStudy/ChineseLiterature/古文选一",
+      "/english/SelfStudy/ChineseLiterature/红楼梦研究-上海-2023",
+      "/english/SelfStudy/ChineseLiterature/红楼梦诗词",
+      "/english/SelfStudy/ChineseLiterature/红楼梦回目(八十回)",
       "/english/SelfStudy/ChineseLiterature/红楼梦研究-上海",
       "/english/SelfStudy/ChineseLiterature/红楼梦研究",
       // "/english/SelfStudy/ChineseLiterature/中国现代文学史-总",
