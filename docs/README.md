@@ -5,7 +5,7 @@ actionText:
 actionLink: 
 actions:
   - text: 汉语言文学
-    link: /english/SelfStudy/ChineseLiterature/红楼梦回目(八十回).html
+    link: /english/SelfStudy/ChineseLiterature/红楼梦研究-上海-2023.html
     type: primary
   - text: 英语学习
     link: /english/introduction
