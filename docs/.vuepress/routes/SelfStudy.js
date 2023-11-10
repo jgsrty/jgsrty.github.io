@@ -1,9 +1,7 @@
-const genSidebarConfig = require("./getSidebarConfig");
-
 module.exports = [
   {
     text: "汉语言文学",
-    collapsible: false,
+    collapsible: true,
     children: [
       // "/english/SelfStudy/ChineseLiterature/古文选一",
       "/english/SelfStudy/ChineseLiterature/红楼梦研究-上海-2023",

@@ -5,19 +5,27 @@ const route2018 = require("./routes/2018.js");
 const route2019 = require("./routes/2019.js");
 const route2020 = require("./routes/2020.js");
 const route2021 = require("./routes/2021.js");
+const route2023 = require("./routes/2023.js");
 const SelfStudy = require("./routes/SelfStudy.js");
 const { defaultTheme } = require("vuepress-webpack");
 let englishFiles = ["/english/introduction.md"];
-englishFiles = englishFiles.concat(SelfStudy, route2021, route2020, route2019, route2018);
-const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
+englishFiles = englishFiles.concat(
+  route2023,
+  SelfStudy,
+  route2021,
+  route2020,
+  route2019,
+  route2018
+);
+const { docsearchPlugin } = require("@vuepress/plugin-docsearch");
 module.exports = {
   title: "rty-docs",
   description: "Welcome to my docs",
   plugins: [
     docsearchPlugin({
       appId: "PFAMZDC9Z4",
-      apiKey: 'b528d6541463420ac954f7fca1565180',
-      indexName: 'jgsrty',
+      apiKey: "b528d6541463420ac954f7fca1565180",
+      indexName: "jgsrty",
     }),
   ],
   head: [
@@ -32,7 +40,8 @@ module.exports = {
       "meta",
       {
         name: "keywords",
-        content: "rty,荣天阳,rtyxmd,英文阅读,英语学习,vue组件,vue,英文歌曲,bruno",
+        content:
+          "rty,荣天阳,rtyxmd,英文阅读,英语学习,vue组件,vue,英文歌曲,bruno",
       },
     ],
   ],
@@ -136,9 +145,13 @@ module.exports = {
 function genSidebarConfig(dir, hasSub) {
   let p = path.join(__dirname, "../", dir);
   let files = fs.readdirSync(p);
-  let subDir = hasSub ? dir.split("/")[1] : dir.split("/")[1] + "/" + dir.split("/")[2];
+  let subDir = hasSub
+    ? dir.split("/")[1]
+    : dir.split("/")[1] + "/" + dir.split("/")[2];
   files = files.map((item) => {
-    item = subDir ? subDir + "/" + path.basename(item, ".md") : path.basename(item, ".md");
+    item = subDir
+      ? subDir + "/" + path.basename(item, ".md")
+      : path.basename(item, ".md");
     return `/${dir.split("/")[0]}/${item}`;
   });
   return files;
