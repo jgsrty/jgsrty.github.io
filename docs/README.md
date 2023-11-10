@@ -5,7 +5,7 @@ actionText:
 actionLink: 
 actions:
   - text: 英语学习
-    link: /english/2023/The Little Prince/PDF.html
+    link: /english/2023/The Little Prince/原文PDF.html
     type: primary
   - text: 汉语言文学
     link: /english/SelfStudy/ChineseLiterature/红楼梦研究-上海-2023.html
