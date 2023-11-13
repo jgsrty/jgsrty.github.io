@@ -1,9 +1,13 @@
 module.exports = [
-    {
-        text: '小王子(The Little Prince)',
-        collapsible: true,
-        children: [
-            '/english/2023/The Little Prince/原文PDF',
-        ]
-    }
-]
+  {
+    text: "英语原著",
+    collapsible: true,
+    children: [
+      "/english/2023/1",
+      "/english/2023/2",
+      "/english/2023/3",
+      "/english/2023/4",
+      "/english/2023/5",
+    ],
+  },
+];
