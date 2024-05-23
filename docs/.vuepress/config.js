@@ -6,10 +6,12 @@ const route2019 = require("./routes/2019.js");
 const route2020 = require("./routes/2020.js");
 const route2021 = require("./routes/2021.js");
 const route2023 = require("./routes/2023.js");
+const routeVocabulary = require("./routes/Vocabulary.js");
 const SelfStudy = require("./routes/SelfStudy.js");
 const { defaultTheme } = require("vuepress-webpack");
 let englishFiles = ["/english/introduction.md"];
 englishFiles = englishFiles.concat(
+  routeVocabulary,
   route2023,
   SelfStudy,
   route2021,
