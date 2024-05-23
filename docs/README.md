@@ -21,3 +21,23 @@ footer: MIT Licensed | Copyright © 8102-present Evan You
 ---
 <!-- <src-rtyMusicList></src-rtyMusicList>
 <src-nintendoPoint></src-nintendoPoint> -->
+
+<!-- <CodeGroup>
+  <CodeGroupItem title="pnpm" active>
+
+```bash
+# 安装 vite 打包工具
+pnpm add -D vuepress@next @vuepress/bundler-vite@next
+```
+
+  </CodeGroupItem>
+
+  <CodeGroupItem title="yarn">
+
+```bash
+# 安装 vite 打包工具
+yarn add -D vuepress@next @vuepress/bundler-vite@next
+```
+
+  </CodeGroupItem>
+</CodeGroup> -->

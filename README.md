@@ -99,7 +99,7 @@ $ cd jgsrty.github.docs
 #### 安装依赖 - Install dependencies
 ```
 # 安装 - install
-$ npm install 
+$ yarn install 
 
 # 本地运行 - dev
 $ npm run dev
