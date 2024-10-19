@@ -3,7 +3,7 @@ module.exports = [
     text: "汉语言文学",
     collapsible: true,
     children: [
-      // "/english/SelfStudy/ChineseLiterature/古文选一",
+      "/english/SelfStudy/ChineseLiterature/习近平新时代中国特色社会主义思想概论",
       "/english/SelfStudy/ChineseLiterature/红楼梦研究-上海-2023",
       "/english/SelfStudy/ChineseLiterature/红楼梦诗词",
       "/english/SelfStudy/ChineseLiterature/红楼梦回目(八十回)",
