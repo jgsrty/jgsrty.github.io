@@ -8,7 +8,7 @@ actions:
     link: english/Vocabulary/Day by Day.html
     type: primary
   - text: 汉语言文学
-    link: /english/SelfStudy/ChineseLiterature/习近平新时代中国特色社会主义思想概论.html
+    link: /english/SelfStudy/ChineseLiterature/xi.html
     type: secondary
 features:
 - title: 汉语言文学
