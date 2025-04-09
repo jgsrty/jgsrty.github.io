@@ -5,7 +5,7 @@ actionText:
 actionLink: 
 actions:
   - text: 英语学习
-    link: english/Vocabulary/Day by Day.html
+    link: english/Reading/2025.html
     type: primary
   - text: 汉语言文学
     link: /english/SelfStudy/ChineseLiterature/xi.html
