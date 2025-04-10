@@ -13,7 +13,7 @@ const { defaultTheme } = require("vuepress-webpack");
 let englishFiles = ["/english/introduction.md"];
 englishFiles = englishFiles.concat(
   Reading,
-  routeVocabulary,
+  // routeVocabulary,
   route2023,
   SelfStudy,
   route2021,
