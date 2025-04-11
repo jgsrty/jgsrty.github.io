@@ -5,16 +5,16 @@ const route2018 = require("./routes/2018.js");
 const route2019 = require("./routes/2019.js");
 const route2020 = require("./routes/2020.js");
 const route2021 = require("./routes/2021.js");
-const route2023 = require("./routes/2023.js");
-const routeVocabulary = require("./routes/Vocabulary.js");
+const routeBooks = require("./routes/Books.js");
+// const routeVocabulary = require("./routes/Vocabulary.js");
 const SelfStudy = require("./routes/SelfStudy.js");
-const Reading = require("./routes/Reading.js");
+const routeDailyRecite = require("./routes/DailyRecite.js");
 const { defaultTheme } = require("vuepress-webpack");
 let englishFiles = ["/english/introduction.md"];
 englishFiles = englishFiles.concat(
-  Reading,
+  routeDailyRecite,
   // routeVocabulary,
-  route2023,
+  routeBooks,
   SelfStudy,
   route2021,
   route2020,
