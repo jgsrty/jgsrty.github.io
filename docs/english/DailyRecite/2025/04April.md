@@ -1,5 +1,16 @@
 # April
 
+## Day8
+#### The new Gaza ceasefire has been in place for almost a week now. Today Hamas revealed the names of four more hostages scheduled to be freed tomorrow.
+
+#### Four female Israeli soldiers are expected to be released in exchange for 180 Palestinian prisoners.
+
+#### The women were kidnapped from an army base in southern Israel during the October 7th Hamas attacks.
+
+|  |  |
+|-|-|
+|  |  |
+
 ## Day7
 #### No absolutely not. As it says right here in the memo, which I have —— and I'd encourage all of you to read it, it says, "The American people selected President Trump to be the president of United State and gave him a mandate to increase the impact of every federal dollar."
 
