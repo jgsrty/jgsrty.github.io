@@ -1,5 +1,17 @@
 # April
 
+## Day5
+#### The night wasn't without controversy, the Canadian who sang the national anthem made a political statement by altering some of the lyrics.
+
+#### Chantal Kreviazuk changed the line "in all of us command" to "that only us command" in response to US president Trump's repeated comments about Canada.
+
+#### Kreviazuk says in this very peculiar and potentially consequential moment I truely believe that we must stand up, use our voices and try to protect ourselves.
+
+|  |  |
+|-|-|
+| controversy | n.争议；(公开的)争论，辩论，论战 |
+| consequential | adj.相应的；重要的；随之而来的；作为结果的；相应发生的；将产生重大结果的 |
+
 ## Day4
 #### The federal government had abandoned controvertial plans to redistribute quotas in Atlantic Canadas lucrative elver fishery.
 
