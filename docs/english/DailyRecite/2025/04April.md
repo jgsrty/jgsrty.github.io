@@ -1,5 +1,18 @@
 # April
 
+## Day6
+#### Absolutely, I'll echo the answer that the president gave on Air Force One last night when he was asked a very similar question by one of your collegues in the media.
+
+#### This signifies peace through stength is back, and this president will not tolerate illegal immigration into America's interior.
+
+#### And he expectes every nation on this planet, again, to coorperate with the repatriation of their citizens who illegally entered into our country and broke America's laws. Won't be tolerated.
+
+#### And as you saw, the Colombian government quickly folded and agreed to all of president Trump's demands. Flights are underway once again.
+
+|  |  |
+|-|-|
+| repatriation | n.遣返；遣送回国，归国 |
+
 ## Day5
 #### The night wasn't without controversy, the Canadian who sang the national anthem made a political statement by altering some of the lyrics.
 
