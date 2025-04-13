@@ -1,5 +1,16 @@
 # April
 
+## Day7
+#### No absolutely not. As it says right here in the memo, which I have —— and I'd encourage all of you to read it, it says, "The American people selected President Trump to be the president of United State and gave him a mandate to increase the impact of every federal dollar."
+
+#### This memo requires federal agencies to identify and review all Federal financial assistance programs and supporting activiies consistent with the president's policies and requirements.
+
+#### The American people give President Trump an overwhelming mandate on November 5th, and he's just tring to ensure that the tax money going out the door in this very bankrupt city actually aligns with the will and the priorities of the American people. 
+
+|  |  |
+|-|-|
+|  |  |
+
 ## Day6
 #### Absolutely, I'll echo the answer that the president gave on Air Force One last night when he was asked a very similar question by one of your collegues in the media.
 
