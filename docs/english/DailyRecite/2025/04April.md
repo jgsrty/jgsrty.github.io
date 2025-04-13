@@ -1,6 +1,13 @@
 # April
 
-## Day8
+## Day17
+#### 
+
+|  |  |
+|-|-|
+|  |  |
+
+## Day16
 #### The new Gaza ceasefire has been in place for almost a week now. Today Hamas revealed the names of four more hostages scheduled to be freed tomorrow.
 
 #### Four female Israeli soldiers are expected to be released in exchange for 180 Palestinian prisoners.
@@ -11,7 +18,7 @@
 |-|-|
 |  |  |
 
-## Day7
+## Day15
 #### No absolutely not. As it says right here in the memo, which I have —— and I'd encourage all of you to read it, it says, "The American people selected President Trump to be the president of United State and gave him a mandate to increase the impact of every federal dollar."
 
 #### This memo requires federal agencies to identify and review all Federal financial assistance programs and supporting activiies consistent with the president's policies and requirements.
@@ -22,7 +29,7 @@
 |-|-|
 |  |  |
 
-## Day6
+## Day14
 #### Absolutely, I'll echo the answer that the president gave on Air Force One last night when he was asked a very similar question by one of your collegues in the media.
 
 #### This signifies peace through stength is back, and this president will not tolerate illegal immigration into America's interior.
@@ -35,7 +42,7 @@
 |-|-|
 | repatriation | n.遣返；遣送回国，归国 |
 
-## Day5
+## Day13
 #### The night wasn't without controversy, the Canadian who sang the national anthem made a political statement by altering some of the lyrics.
 
 #### Chantal Kreviazuk changed the line "in all of us command" to "that only us command" in response to US president Trump's repeated comments about Canada.
@@ -47,7 +54,7 @@
 | controversy | n.争议；(公开的)争论，辩论，论战 |
 | consequential | adj.相应的；重要的；随之而来的；作为结果的；相应发生的；将产生重大结果的 |
 
-## Day4
+## Day13
 #### The federal government had abandoned controvertial plans to redistribute quotas in Atlantic Canadas lucrative elver fishery.
 
 #### The move was designed to combat unlicensed fishing of the baby eels also know as elvers.
@@ -62,7 +69,7 @@
 | elver | n.幼鳗 |
 | baby eels | 鳗鱼苗 |
 
-## Day3
+## Day11
 #### 原文
 The president had said countless times on the campaign trail, I've benn with him at the rallies. 
 
@@ -75,7 +82,7 @@ And if you are an individual, a foreign national, who illegally enters the Unite
 |-|-|
 | campaign trail | 竞选巡游、竞选活动 |
 
-## Day2
+## Day10
 
 #### 原文
 It is a sport tied to our national identity, and today Canadians woke up with a new reason to feel proud.
@@ -103,7 +110,7 @@ More than 7 million Canadians watch the excitment unfold, there was no public re
 超过700万加拿大人观看了这场激动人心的比赛过程，当加拿大国旗伴随着国歌升起时，美国总统没有发表公开反应。
 
 
-## Day1
+## Day09
 
 #### 原文
 Good evening once again I'm Stephanie Rule, and we're going to begin this broadcast with some very good breaking news.
