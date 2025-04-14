@@ -1,11 +1,19 @@
 # April
 
 ## Day17
-#### 
+#### You know just during this pause, DOGE and OMB have actually found that there was $37 million that was about to go out the door to the World Health Organization, which is an organization as you all know, that President Trump, with the swipe of his pen in that executive order, is no longer wants the United State to be apart of.
 
+#### So that wouldn't be in line with the president's agenda.
+
+#### DOGE and OMB also found that there was about to be 50 million taxpayer dollars that went out the door to fund condoms in Gaza. That is a preposterous waste of taxpayer money.
+
+#### So that's what this pause in focused on: being good stewards of tax dollars.
+Office of Management and Budget
 |  |  |
 |-|-|
-|  |  |
+| DOGE | Department of Government Efficiency |
+| OMB | Office of Management and Budget |
+| steward | n.乘务员；（私人家中的）管家；(轮船、飞机或火车上的)服务员；(大学、俱乐部等的)伙食管理员； |
 
 ## Day16
 #### The new Gaza ceasefire has been in place for almost a week now. Today Hamas revealed the names of four more hostages scheduled to be freed tomorrow.
@@ -54,7 +62,7 @@
 | controversy | n.争议；(公开的)争论，辩论，论战 |
 | consequential | adj.相应的；重要的；随之而来的；作为结果的；相应发生的；将产生重大结果的 |
 
-## Day13
+## Day12
 #### The federal government had abandoned controvertial plans to redistribute quotas in Atlantic Canadas lucrative elver fishery.
 
 #### The move was designed to combat unlicensed fishing of the baby eels also know as elvers.
