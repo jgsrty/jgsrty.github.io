@@ -1,5 +1,18 @@
 # April
 
+## Day18
+#### Canada Post has announced it's receiving $1 billion in Federal funding to help with financial challenges.
+
+#### In a press release the Crown Corporation says its cash reserves would have depleted by the second quarter without the money.
+
+#### It says this will help continue operations but not help with structural issues.
+
+#### Canada Post has faced billions of dollars in financial losses in recent years because of increased competition.
+
+|  |  |
+|-|-|
+| deplete | vt.耗尽；使枯竭；大量减少 |
+
 ## Day17
 #### You know just during this pause, DOGE and OMB have actually found that there was $37 million that was about to go out the door to the World Health Organization, which is an organization as you all know, that President Trump, with the swipe of his pen in that executive order, is no longer wants the United State to be apart of.
 
@@ -8,7 +21,7 @@
 #### DOGE and OMB also found that there was about to be 50 million taxpayer dollars that went out the door to fund condoms in Gaza. That is a preposterous waste of taxpayer money.
 
 #### So that's what this pause in focused on: being good stewards of tax dollars.
-Office of Management and Budget
+
 |  |  |
 |-|-|
 | DOGE | Department of Government Efficiency |
