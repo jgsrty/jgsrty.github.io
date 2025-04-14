@@ -1,5 +1,16 @@
 # April
 
+## Day19
+#### The federal government is threatening to review its business relationship with Amazon after the retail giant said is't closing its warehouses in Quebec.
+
+#### On Wednesday, Amazon confirmed it would cease operation of all seven of its facilities in the province.
+
+#### At least 1,700 permanent workers would be laid off.
+
+|  |  |
+|-|-|
+|  |  |
+
 ## Day18
 #### Canada Post has announced it's receiving $1 billion in Federal funding to help with financial challenges.
 
