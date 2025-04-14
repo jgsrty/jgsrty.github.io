@@ -1,5 +1,14 @@
 # April
 
+## Day20
+#### In Ottawa the race is on to determine the new Liberal leader and prime minister.
+
+#### Former deputy prime minister Christia Freeland is busy trying to make the case for why she should replace Justin Trudeau, as competing front runner Mark Carney keeps gaining momentum, and there are less than 50 days left in the campaign.
+
+|  |  |
+|-|-|
+| deputy | n.副手；(某些国家的)议员；代理；副职；(美国协助地方治安官办案的)警官 |
+
 ## Day19
 #### The federal government is threatening to review its business relationship with Amazon after the retail giant said is't closing its warehouses in Quebec.
 
