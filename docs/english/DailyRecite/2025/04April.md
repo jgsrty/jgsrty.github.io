@@ -1,6 +1,18 @@
 # April
 
-## Day20
+
+## Day13
+#### The U.S. president spend time in North Carolina today, assessing the ongoing cleanup after last September's hurricane Helene.
+
+#### While there Trump proposed eliminating the Federal Emergency Management Agency FEMA.
+
+#### He suggested federal funds for cleanup and rebuilding should insteaded sent directly to state governments 
+
+|  |  |
+|-|-|
+|  |  |
+
+## Day12
 #### In Ottawa the race is on to determine the new Liberal leader and prime minister.
 
 #### Former deputy prime minister Christia Freeland is busy trying to make the case for why she should replace Justin Trudeau, as competing front runner Mark Carney keeps gaining momentum, and there are less than 50 days left in the campaign.
@@ -9,7 +21,7 @@
 |-|-|
 | deputy | n.副手；(某些国家的)议员；代理；副职；(美国协助地方治安官办案的)警官 |
 
-## Day19
+## Day11
 #### The federal government is threatening to review its business relationship with Amazon after the retail giant said is't closing its warehouses in Quebec.
 
 #### On Wednesday, Amazon confirmed it would cease operation of all seven of its facilities in the province.
@@ -20,7 +32,7 @@
 |-|-|
 |  |  |
 
-## Day18
+## Day10
 #### Canada Post has announced it's receiving $1 billion in Federal funding to help with financial challenges.
 
 #### In a press release the Crown Corporation says its cash reserves would have depleted by the second quarter without the money.
@@ -33,7 +45,7 @@
 |-|-|
 | deplete | vt.耗尽；使枯竭；大量减少 |
 
-## Day17
+## Day09
 #### You know just during this pause, DOGE and OMB have actually found that there was $37 million that was about to go out the door to the World Health Organization, which is an organization as you all know, that President Trump, with the swipe of his pen in that executive order, is no longer wants the United State to be apart of.
 
 #### So that wouldn't be in line with the president's agenda.
@@ -48,7 +60,7 @@
 | OMB | Office of Management and Budget |
 | steward | n.乘务员；（私人家中的）管家；(轮船、飞机或火车上的)服务员；(大学、俱乐部等的)伙食管理员； |
 
-## Day16
+## Day08
 #### The new Gaza ceasefire has been in place for almost a week now. Today Hamas revealed the names of four more hostages scheduled to be freed tomorrow.
 
 #### Four female Israeli soldiers are expected to be released in exchange for 180 Palestinian prisoners.
@@ -59,7 +71,7 @@
 |-|-|
 |  |  |
 
-## Day15
+## Day07
 #### No absolutely not. As it says right here in the memo, which I have —— and I'd encourage all of you to read it, it says, "The American people selected President Trump to be the president of United State and gave him a mandate to increase the impact of every federal dollar."
 
 #### This memo requires federal agencies to identify and review all Federal financial assistance programs and supporting activiies consistent with the president's policies and requirements.
@@ -70,7 +82,7 @@
 |-|-|
 |  |  |
 
-## Day14
+## Day06
 #### Absolutely, I'll echo the answer that the president gave on Air Force One last night when he was asked a very similar question by one of your collegues in the media.
 
 #### This signifies peace through stength is back, and this president will not tolerate illegal immigration into America's interior.
@@ -83,7 +95,7 @@
 |-|-|
 | repatriation | n.遣返；遣送回国，归国 |
 
-## Day13
+## Day05
 #### The night wasn't without controversy, the Canadian who sang the national anthem made a political statement by altering some of the lyrics.
 
 #### Chantal Kreviazuk changed the line "in all of us command" to "that only us command" in response to US president Trump's repeated comments about Canada.
@@ -95,7 +107,7 @@
 | controversy | n.争议；(公开的)争论，辩论，论战 |
 | consequential | adj.相应的；重要的；随之而来的；作为结果的；相应发生的；将产生重大结果的 |
 
-## Day12
+## Day04
 #### The federal government had abandoned controvertial plans to redistribute quotas in Atlantic Canadas lucrative elver fishery.
 
 #### The move was designed to combat unlicensed fishing of the baby eels also know as elvers.
@@ -110,7 +122,7 @@
 | elver | n.幼鳗 |
 | baby eels | 鳗鱼苗 |
 
-## Day11
+## Day03
 #### 原文
 The president had said countless times on the campaign trail, I've benn with him at the rallies. 
 
@@ -123,7 +135,7 @@ And if you are an individual, a foreign national, who illegally enters the Unite
 |-|-|
 | campaign trail | 竞选巡游、竞选活动 |
 
-## Day10
+## Day02
 
 #### 原文
 It is a sport tied to our national identity, and today Canadians woke up with a new reason to feel proud.
@@ -151,7 +163,7 @@ More than 7 million Canadians watch the excitment unfold, there was no public re
 超过700万加拿大人观看了这场激动人心的比赛过程，当加拿大国旗伴随着国歌升起时，美国总统没有发表公开反应。
 
 
-## Day09
+## Day01
 
 #### 原文
 Good evening once again I'm Stephanie Rule, and we're going to begin this broadcast with some very good breaking news.
