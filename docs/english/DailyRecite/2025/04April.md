@@ -1,6 +1,12 @@
 # April
 
 
+## Day19
+#### One thing all big cities have incommon is the struggle to move people around efficiently.
+#### But even with all the subway lines under New York, traffic on the surface has remained a nightmare.
+#### The city tried to change that today, initiating congestion tolls for vehicles entering parts of Manhattan.
+#### Benedict explains the new fees and whether the idea could catch on in Canada's biggest city.
+
 ## Day18
 #### It has been a bittersweet holiday season for the people of Jasper.
 #### Five months after a wildfire tore through the moutain town, the cleanup is still underway.
