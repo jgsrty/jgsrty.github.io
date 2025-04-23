@@ -1,5 +1,12 @@
 # April
 
+
+## Day18
+#### It has been a bittersweet holiday season for the people of Jasper.
+#### Five months after a wildfire tore through the moutain town, the cleanup is still underway.
+
+#### It'll take years to fully recover, but business owners don't have that kind of time.
+
 ## Day17
 #### Ontario Premier Doug Ford made it official today.
 
@@ -8,10 +15,6 @@
 #### Ford says he's seeking a stronger mandate to tackle U.S. President Donald Trump's tariffs threat.
 
 #### But with Ford's progressive conservatives already wielding a majority government, he's receiving political scrutiny from more than just the opposition.
-
-|  |  |
-|-|-|
-|  |  |
 
 ## Day16
 #### Donald Trump once again threatened to introduce a 25% tariff on Canadian goods today while claiming the U.S. no longer needs to rely on this country's exports.
