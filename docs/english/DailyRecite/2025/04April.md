@@ -1,15 +1,27 @@
 # April
 
+
+## Day15
+#### The mayors of Canada's border cities are uniting to oppose Trump's tariff threat.
+
+#### Windsor mayor Drew Dilkens who chairs the border mayor alliance says our two nations have never faced a circumstance that so profoundly threatens our shared economy, and the alliance has already begun identifying alternative supply chains.
+
+#### The group met last weekend and hopes to serve as a unified national voice on the issue.
+
+|  |  |
+|-|-|
+|  |  |
+
 ## Day14
 #### Days after Donald Trump took office, hundreds of illegal migrants were flown out of the U.S. on military aircraft.
 
 #### Beginning what the president calls the largest mass deportation operation in American history.
 
-### Trump says the deported migrants are hardened criminals, but there's no evidence to corroborate that claim.
+#### Trump says the deported migrants are hardened criminals, but there's no evidence to corroborate that claim.
 
 |  |  |
 |-|-|
-|  |  |
+| corroborate | vt.证实；确证(陈述、理论等) |
 
 ## Day13
 #### The U.S. president spend time in North Carolina today, assessing the ongoing cleanup after last September's hurricane Helene.
