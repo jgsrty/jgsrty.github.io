@@ -1,5 +1,15 @@
 # April
 
+## Day14
+#### Days after Donald Trump took office, hundreds of illegal migrants were flown out of the U.S. on military aircraft.
+
+#### Beginning what the president calls the largest mass deportation operation in American history.
+
+### Trump says the deported migrants are hardened criminals, but there's no evidence to corroborate that claim.
+
+|  |  |
+|-|-|
+|  |  |
 
 ## Day13
 #### The U.S. president spend time in North Carolina today, assessing the ongoing cleanup after last September's hurricane Helene.
