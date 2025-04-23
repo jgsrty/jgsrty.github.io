@@ -1,6 +1,17 @@
 # April
 
 
+## Day16
+#### Donald Trump once again threatened to introduce a 25% tariff on Canadian goods today while claiming the U.S. no longer needs to rely on this country's exports.
+
+#### The repeated comments have Canadian politicians ready to retaliate if necessary.
+
+#### And they've reignited a movement to reduce Canada's reliance on the U.S. by knocking down interprovincial barriers.
+
+|  |  |
+|-|-|
+|  |  |
+
 ## Day15
 #### The mayors of Canada's border cities are uniting to oppose Trump's tariff threat.
 
