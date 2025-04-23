@@ -1,5 +1,17 @@
 # April
 
+## Day17
+#### Ontario Premier Doug Ford made it official today.
+
+#### He confirmed he is dropping the writ next Wednesday, sending provincial voters to the polls at the end of next month.
+
+#### Ford says he's seeking a stronger mandate to tackle U.S. President Donald Trump's tariffs threat.
+
+#### But with Ford's progressive conservatives already wielding a majority government, he's receiving political scrutiny from more than just the opposition.
+
+|  |  |
+|-|-|
+|  |  |
 
 ## Day16
 #### Donald Trump once again threatened to introduce a 25% tariff on Canadian goods today while claiming the U.S. no longer needs to rely on this country's exports.
