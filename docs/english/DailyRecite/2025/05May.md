@@ -18,6 +18,10 @@
 #### The storm has snarled travel and triggered avalanches. 
 
 ## Day 26
+#### We are learning more tonight about the mass attack in New Orleans that claimed 14 lives.
+#### The FBI has released new details revealing the now deceased suspect had traveled to Canada from Egypt more than a year before the attack.
+#### The purpose of the trip remains unknown as investigators piece together the assailant's movements leading up to the tragedy.
+
 
 ## Day 27
 
