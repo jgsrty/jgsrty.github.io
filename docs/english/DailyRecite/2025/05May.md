@@ -24,5 +24,8 @@
 
 
 ## Day 27
+#### As we reflect on the stories that shaped 2024, one case continues to raise critical questions about justice, accountability and systemic discrimination.
+#### For the family of Douglas Eustache, a residential school survivor, his sudden death remains shrouded in mystery.
+#### As the coroner's investigation moves into 2025, some believe this case underscores ongoing challenges indigenous communities face within the justice system.
 
 ## Day 28
