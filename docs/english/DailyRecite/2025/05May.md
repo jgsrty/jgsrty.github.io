@@ -29,3 +29,8 @@
 #### As the coroner's investigation moves into 2025, some believe this case underscores ongoing challenges indigenous communities face within the justice system.
 
 ## Day 28
+#### In Florida, SpaceX launched its first Falcon 9 rocket of the year.
+#### The rocket lifted off from Cape Canaveral last night.
+#### It's carrying a satellite that will provite mobile communication services through Europe, the Middle East and Africa.
+#### The rocket's booster returned to Earth, landing on SpaceX's drone ship.
+#### It's the 20th flight and recovery for this Falcon 9 first stage booster.
