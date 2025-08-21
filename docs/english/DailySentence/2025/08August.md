@@ -16,6 +16,14 @@
 
 #### Tasmania, Victoria, New South Wales, Queensland, Sydney, Melbourne, Canberra, Brisbane, Perth, Adelaide
 
+#### The old idea that the sun moved around the earth is known as the "geocentric" theory.
+
+#### Some other Greek philosophers had suggested instead that the earth might travel around the sun. However, this idea, which is known as the "heliocentric" theory, was not widely accepted.
+
+#### Kepler used the observations of previous scientists to figure out the motion of the planets around the sun.
+
+#### Kepler realized that the planets did not travel in circular paths, but instead, in paths that were elliptical, or oval, in shape.
+
 
 
 ## Day 20
