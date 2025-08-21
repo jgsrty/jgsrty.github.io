@@ -14,6 +14,8 @@
 
 #### Aborigines' most famous invention is a curved hunting stick known as the "boomerang".
 
+#### Tasmania, Victoria, New South Wales, Queensland, Sydney, Melbourne, Canberra, Brisbane, Perth, Adelaide
+
 
 
 ## Day 20
