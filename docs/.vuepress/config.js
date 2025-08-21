@@ -8,13 +8,15 @@ const route2021 = require("./routes/2021.js");
 const routeBooks = require("./routes/Books.js");
 // const routeVocabulary = require("./routes/Vocabulary.js");
 const SelfStudy = require("./routes/SelfStudy.js");
-const routeDailyRecite = require("./routes/DailyRecite.js");
-const DesperateHousewives = require("./routes/DesperateHousewives.js");
+// const routeDailyRecite = require("./routes/DailyRecite.js");
+const routeDailySentence = require("./routes/DailySentence.js");
+// const DesperateHousewives = require("./routes/DesperateHousewives.js");
 const { defaultTheme } = require("vuepress-webpack");
 let englishFiles = ["/english/introduction.md"];
 englishFiles = englishFiles.concat(
-  DesperateHousewives,
-  routeDailyRecite,
+  // DesperateHousewives,
+  // routeDailyRecite,
+  routeDailySentence,
   // routeVocabulary,
   routeBooks,
   SelfStudy,

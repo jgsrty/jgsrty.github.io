@@ -5,7 +5,7 @@ actionText:
 actionLink: 
 actions:
   - text: 英语学习
-    link: english/DesperateHousewives/season01/episode01.html
+    link: english/DailySentence/2025/08August.html
     type: primary
   - text: 汉语言文学
     link: /english/SelfStudy/ChineseLiterature/xi.html
