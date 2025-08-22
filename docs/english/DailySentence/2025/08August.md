@@ -1,4 +1,33 @@
 # August
+
+## Day 22
+#### George Washington Carver is possibly the most famous agricultural scientist of all time.
+
+#### The story of George Washington Carver's life is interesting and inspiring, as it shows how some people can achieve success despite adversity.
+
+#### One problem for farmers in the southern United States was that the most widespread crops, cotton and tobacco, tended to remove nutrients from the soil.
+
+#### When Carver died, in 1943, the American government made his birthplace a national monument.
+
+#### One of the most famous features of New York City is its dramatic skyline.
+
+#### New York has more tall buildings, called "skyscrapers," than any other city in the world.
+
+#### New York is famous for much more than just its architecture.
+
+#### The United Nations has its headquarters in New York City.
+
+#### The bustling Times Square, located in the mid-town Manhattan area.
+
+#### By far the most populous state of the United States is California.
+
+#### Temperatures in Death Valley sometimes exceed 50 degrees Celsius.
+
+#### California contains some of the largest cities in the United States. Within the greater Los Angeles area, one can find Hollywood, known as the movie capital of the world. Many rich people live in suburbs such as Beverly Hills.
+
+#### Further north is the city of San Francisco, one of the most beautiful cities of the United States.
+
+
 ## Day 21
 #### In contrast to the dry interior areas, the northern coast of Australia receives a great deal of rainfall.
 
