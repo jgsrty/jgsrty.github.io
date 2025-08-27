@@ -1,5 +1,16 @@
 # August
 
+## Day 27
+#### When the keys are turned in the ignition of the car, this creates a spark that ignites some gasoline vapor inside a cylinder. Then, the rapid expansion of this vapor pushes against a part called a piston. The movement of the piston then causes a turning motion in a shaft that is connected to the wheels.
+
+#### One of these problems was air pollution, because car engines burn gasoline, which produces poisonous exhaust fumes.
+
+#### The future is likely to bring many interesting new changes to the car. Improvements in the safety of cars, in fuel efficiency, and in the cleanliness of car emissions are continuing to be made.
+
+#### The Mississippi River begins in the hills of northern Minnesota, near the Canadian border, and flows southward about 3700 kilometers, through ten states, before draining its water and silt into the Gulf of Mexico.
+
+#### Near the mouth of the Mississippi River is another famous city, New Orleans.
+
 ## Day 22
 #### George Washington Carver is possibly the most famous agricultural scientist of all time.
 
