@@ -1,4 +1,32 @@
 # August
+## Day 29
+##### In 1999, the Nobel Prize for Peace was won by the organization known as "Doctors Without Borders". This is the English name for the organization, based in Belgium, which won the prize for its humanitarian assistance to people around the world, in areas that have been struck by disaster.
+
+#### The organization helps people regardless of their nationality, race, religion, ethnicity, sex, or political opinions. 
+
+#### These volunteers include doctors, nurses, surgeons, anesthetists, laboratory technicians, and other medical workers.
+
+#### There are also some non-medical volunteers who work for Doctors Without Borders in positions of administration or logistics.
+
+#### They promise to abide by a code of professional ethics, and they promise to remain neutral in any conflicts within a disaster area.
+
+#### The volunteers are witnesses who tell the world about the cruelty that is inflicted upon innocent people.
+
+#### Chicago became notorious for organized crime during the Prohibition Era of the 1920s, when the sale of alcohol was illegal.
+
+#### Mobsters such as Al Capone became rich by smuggling liquor, and many people were killed in conflicts between rival gangs of criminals.
+
+#### The city has efficient transportation, and many beautiful parks along the Lake Michigan shoreline.
+
+#### Chicago is famous for its many attractions, including the Art Institute of Chicago, the Field Museum of Natural History, the Shedd Aquarium, the Sears Tower, and the "Miracle Mile" shopping district.
+
+#### One of Dickens' most famous early novels is called Oliver Twist. The book exposed the conditions that faced the poor people of London, and helped to encourage reforms aimed at improving those conditions.
+
+#### Another famous novel of Dickens is A Tale of Two Cities. This is a story of the violence and upheaval during the French Revolution. The story is famous for the heroic act of sacrifice that is made by one character for the benefit of the others.
+
+
+
+
 
 ## Day 27
 #### When the keys are turned in the ignition of the car, this creates a spark that ignites some gasoline vapor inside a cylinder. Then, the rapid expansion of this vapor pushes against a part called a piston. The movement of the piston then causes a turning motion in a shaft that is connected to the wheels.
