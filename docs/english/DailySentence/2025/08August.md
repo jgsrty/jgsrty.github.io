@@ -1,4 +1,14 @@
 # August
+## Day 30
+#### Mark Twain was the author of some of the greatest works of American English literature, such as Tom Sawyer, Life on the Mississippi, and The Adventures of Huckleberry Finn.
+
+#### The earliest of Mark Twain's really famous novels was The Adventures of Tom Sawyer. This novel describes a boy who engages in much mischief, but who has a kind heart. The story contains several scenes that are quite funny. In one of these, Tom's working at the boring task of painting a fence. He persuades several other boys to help him, by pretending that painting the fence is a fun and enjoyable activity.
+
+
+
+
+
+
 ## Day 29
 ##### In 1999, the Nobel Prize for Peace was won by the organization known as "Doctors Without Borders". This is the English name for the organization, based in Belgium, which won the prize for its humanitarian assistance to people around the world, in areas that have been struck by disaster.
 
