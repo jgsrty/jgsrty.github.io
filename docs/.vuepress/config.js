@@ -10,11 +10,11 @@ const routeBooks = require("./routes/Books.js");
 const SelfStudy = require("./routes/SelfStudy.js");
 // const routeDailyRecite = require("./routes/DailyRecite.js");
 const routeDailySentence = require("./routes/DailySentence.js");
-// const DesperateHousewives = require("./routes/DesperateHousewives.js");
+const DesperateHousewives = require("./routes/DesperateHousewives.js");
 const { defaultTheme } = require("vuepress-webpack");
 let englishFiles = ["/english/introduction.md"];
 englishFiles = englishFiles.concat(
-  // DesperateHousewives,
+  DesperateHousewives,
   // routeDailyRecite,
   routeDailySentence,
   // routeVocabulary,
