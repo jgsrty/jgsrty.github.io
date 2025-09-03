@@ -48,7 +48,7 @@
 #### Such a lovely face
 多么可爱的脸庞
 
-#### Plenty of room at the Hotel California
+#### Plenty of rooms at the Hotel California
 加州旅馆有如此多的房间
 
 #### Any time of year (Any time of year)
@@ -58,10 +58,10 @@
 你都可以在这找到地方
 
 
-#### Her mind is Tiffany-twisted, she got the Mercedes bends
+#### Her mind is Tiffany-twisted, she got the Mercedes Benz
 她的心为珠宝所扭曲，她开着一辆梅塞德斯奔驰
 
-#### She got a lot of pretty, pretty boys she calls friends
+#### She got a lot of pretty, pretty boys that she calls friends
 还带着许多漂亮迷人的小伙子，她称之为朋友
 
 #### How they dance in the courtyard, sweet summer sweat.
@@ -99,10 +99,10 @@
 #### Such a lovely face
 多么可爱的脸庞
 
-#### They livin' it up at the Hotel California
+#### They living it up at the Hotel California
 在加州旅馆他们纵情狂欢
 
-#### What a nice surprise (what a nice surprise)
+#### What nice surprise (what nice surprise)
 这里好得令人吃惊
 
 #### Bring your alibis
@@ -118,13 +118,13 @@
 #### And she said "We are all just prisoners here, of our own device"
 她说： “我们都是这里的囚犯，为自己的欲望负债 ”
 
-#### And in the master's chambers,
+#### In the master's chambers,
 在主厅大房间内
 
 #### They gathered for the feast
 人们举起狂欢之火
 
-#### They stab it with their steely knives,
+#### They stabbed it with their steely knives,
 他们用钢刀挥刺着
 
 #### But they just can't kill the beast
@@ -189,16 +189,16 @@ Such a lovely place (Such a lovely place)
 
 Such a lovely face
 
-Plenty of room at the Hotel California
+Plenty of rooms at the Hotel California
 
 Any time of year (Any time of year)
 
 You can find it here
 
 
-Her mind is Tiffany-twisted, she got the Mercedes bends
+Her mind is Tiffany-twisted, she got the Mercedes Benz
 
-She got a lot of pretty, pretty boys she calls friends
+She got a lot of pretty, pretty boys that she calls friends
 
 How they dance in the courtyard, sweet summer sweat.
 
@@ -224,9 +224,9 @@ Such a lovely place (Such a lovely place)
 
 Such a lovely face
 
-They livin' it up at the Hotel California
+They living it up at the Hotel California
 
-What a nice surprise (what a nice surprise)
+What nice surprise (what nice surprise)
 
 Bring your alibis
 
@@ -237,11 +237,11 @@ The pink champagne on ice
 
 And she said "We are all just prisoners here, of our own device"
 
-And in the master's chambers,
+In the master's chambers,
 
 They gathered for the feast
 
-They stab it with their steely knives,
+They stabbed it with their steely knives,
 
 But they just can't kill the beast
 
