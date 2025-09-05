@@ -112,7 +112,7 @@ the irony if she'd thought about it.
 
 But she couldn't. She didn't have the time.
 
- Stop it, stop it, stop it.  - But, mom.
+Stop it, stop it, stop it.  - But, mom.
 
 No. You are going to behave today.
 
@@ -296,7 +296,7 @@ Well, sometimes people are so unhappy,
 
 they think that's the only way to solve their problems.
 
- Mrs. Young always seemed happy.  - Yeah.
+Mrs. Young always seemed happy.  - Yeah.
 
 Sometimes people pretend to be one way,
 
@@ -316,7 +316,7 @@ What's going on?
 
 Sorry I'm late.
 
- Hi, Susan.  - Hey.
+Hi, Susan.  - Hey.
 
 So, what did Karl say when you confronted him?
 
@@ -398,7 +398,7 @@ and help pack up her things.
 
 He says he can't face doing it by himself.
 
- Sure. That's fine.  - Are you ok?
+Sure. That's fine.  - Are you ok?
 
 Yeah. I'm just so angry.
 
@@ -422,7 +422,7 @@ Gabby, the woman killed herself.
 
 Something must've been going on.
 
- I wouldn't eat that if I were you.  - Why?
+I wouldn't eat that if I were you.  - Why?
 
 I made it. Trust me.
 
@@ -484,7 +484,7 @@ Yeah, we put 'em on ourselves before we left.
 
 You three planned this? All right. That's it. Get out.
 
- No.  - No?
+No.  - No?
 
 I am your mother. You have to do what I say. Come on.
 
@@ -492,7 +492,7 @@ We want to swim and you can't stop us!
 
 Here.
 
- No!  - Get out.
+No!  - Get out.
 
 Think I won't get in this pool and just grab you? Get out!
 
@@ -594,17 +594,17 @@ Hi, Mike. I brought you a little house-warming gift.
 
 I should've brought something by earlier, but
 
- Actually, you're the first to stop by.  - Really?
+Actually, you're the first to stop by.  - Really?
 
 Susan knew she was lucky.
 
- An eligible bachelor had moved on to Wisteria Lane  - Welcome
+An eligible bachelor had moved on to Wisteria Lane  - Welcome
 
 and she was the first to find out.
 
 But she also knew that good news...
 
- Hello there.  - ...Travels quickly.
+Hello there.  - ...Travels quickly.
 
 Edie Britt was the most predatory
 
@@ -710,7 +710,7 @@ See, now this is what a marriage is all about.
 
 Compromise.
 
- Is your finger ok?  - Yeah, it's just a small cut.
+Is your finger ok?  - Yeah, it's just a small cut.
 
 Let me see. Mmm.
 
@@ -776,7 +776,7 @@ do you always have to serve cuisine?
 
 Can't we ever just have food?
 
- Are you doing drugs?  - What?
+Are you doing drugs?  - What?
 
 Change in behavior is one of the warning signs,
 
@@ -828,11 +828,11 @@ Mom.
 
 Not now. Mommy's threatening daddy.
 
- Mom.  - No, I...
+Mom.  - No, I...
 
- Where are your brothers?  - Noodles, my favorite.
+Where are your brothers?  - Noodles, my favorite.
 
- Lyneettee Scavo?  - Crap.
+Lyneettee Scavo?  - Crap.
 
 Natalie Klein. I don't believe it.
 
@@ -864,7 +864,7 @@ So Lynette responded as she always did. She lied.
 
 It's the best job I've ever had.
 
- You know what I don't get?  - What?
+You know what I don't get?  - What?
 
 Why you married Mr. Solis.
 
@@ -872,7 +872,7 @@ Well... He promised to give me
 
 everything I've ever wanted.
 
- And did he?  - Yes.
+And did he?  - Yes.
 
 Then why aren't you happy?
 
@@ -888,7 +888,7 @@ Because I don't want to wake up one morning
 
 with a sudden urge to blow my brains out.
 
- Hey, can I have a drag?  - Absolutely not.
+Hey, can I have a drag?  - Absolutely not.
 
 You are much too young to smoke.
 
@@ -914,11 +914,11 @@ Before Mike figures out he can do better.
 
 Tell me again why I fought for custody of you.
 
- You were using me to hurt dad.  - Oh, that's right.
+You were using me to hurt dad.  - Oh, that's right.
 
 Oh, god.
 
- Hi.  - Hey, Susan.
+Hi.  - Hey, Susan.
 
 Are you busy?
 
@@ -930,9 +930,9 @@ Well, I... I just, uh, was wondering if...
 
 ...I just wanted to ask if...
 
- Edie.  - Hey, there, Susan.
+Edie.  - Hey, there, Susan.
 
- What are you...?  - I was making ambrosia.
+What are you...?  - I was making ambrosia.
 
 And I made too much so I thought
 
@@ -942,11 +942,11 @@ What's going on?
 
 Susan was just going to ask me something.
 
- I have a clog.  - Excuse me?
+I have a clog.  - Excuse me?
 
- And you're a plumber, right?  - Yeah.
+And you're a plumber, right?  - Yeah.
 
- The clog's in the pipe.  - Yeah,
+The clog's in the pipe.  - Yeah,
 
 That's usually where they are.
 
@@ -962,15 +962,15 @@ Just give me two minutes. I'll be right over.
 
 That's it.
 
- Just stuff the hair down there.  - I stuffed it.
+Just stuff the hair down there.  - I stuffed it.
 
- It's not enough to clog it.  - Here. Okay, look.
+It's not enough to clog it.  - Here. Okay, look.
 
 Put in this peanut butter
 
 and this cooking oil.
 
- Mom  - And these olives.
+Mom  - And these olives.
 
 Mom, I'm telling you, it's not working.
 
@@ -1032,7 +1032,7 @@ Thank you.
 
 Um, I think I'll go get your salad for you.
 
- Bree Van De Kamp.  - Oh. Hello, Mrs. Huber.
+Bree Van De Kamp.  - Oh. Hello, Mrs. Huber.
 
 We didn't get a chance to talk at
 
@@ -1066,9 +1066,9 @@ What's in this?
 
 What do you mean, what's in this? It's salad.
 
- With... with onions.  - What?
+With... with onions.  - What?
 
- You put onions in my salad.  - No, I didn't.
+You put onions in my salad.  - No, I didn't.
 
 Oh, wait.
 
@@ -1088,7 +1088,7 @@ finally returned to normal.
 
 Which, for some of my friends, was unfortunate.
 
- Mommy, mommy!  - Now what?
+Mommy, mommy!  - Now what?
 
 Daddy's home!
 
@@ -1102,13 +1102,13 @@ But I got your call. You sounded frazzled.
 
 Yeah.
 
- It's been a little rough.  - Hi. Yeah. Peaches.
+It's been a little rough.  - Hi. Yeah. Peaches.
 
 Did you buy us any presents?
 
 Oh, god, presents. Wait up. Let me see.
 
- Ohhh!  - Yeah!
+Ohhh!  - Yeah!
 
 But I'm not giving it to you unless
 
@@ -1116,7 +1116,7 @@ you promise to go outside right now
 
 and practise throwing for 20 minutes. You promise?
 
- Yeah! Yeah! Yeah!  - Punks. Get out!
+Yeah! Yeah! Yeah!  - Punks. Get out!
 
 Who's open? Go out. Deeper. Deeper. Touchdown!
 
@@ -1134,7 +1134,7 @@ Well, is it ok if I just lie here?
 
 Absolutely.
 
- I love you.  - I love you more.
+I love you.  - I love you more.
 
 Wait. I gotta tell you I was having trouble with swelling.
 
@@ -1142,11 +1142,11 @@ The doctor took me off the pill.
 
 You just gotta put on a condom.
 
- A condom?  - Yeah.
+A condom?  - Yeah.
 
 What's the big deal? Let's risk it.
 
- Let's risk it?  - Yeah.
+Let's risk it?  - Yeah.
 
 I can't believe you tried to kill me.
 
@@ -1208,7 +1208,7 @@ The lawn hasn't been mowed. I've had it.
 
 We're getting a real gardener.
 
- Why?  - Are you deaf?
+Why?  - Are you deaf?
 
 I just said he's not doing his job.
 
@@ -1220,13 +1220,13 @@ I'm not feeling the grass.
 
 Let's just get going. Come on, we're late.
 
- Take care of it.  - Yes, sir.
+Take care of it.  - Yes, sir.
 
 There's Tanaka. Time for me to go and do my dance.
 
 Good luck, sweetheart.
 
- Excuse me.  - Ma'am.
+Excuse me.  - Ma'am.
 
 You see that man just walked away?
 
@@ -1234,13 +1234,13 @@ Can you make sure he has a drink in his hand all night long?
 
 Yes, ma'am.
 
- Susan? Susan!  - Mrs. Huber, how are you doing?
+Susan? Susan!  - Mrs. Huber, how are you doing?
 
 Not too well, I'm afraid.
 
 I'm trying to find something to soothe my stomach.
 
- It's upset?  - Yeah.
+It's upset?  - Yeah.
 
 I had the worst macaroni and cheese at the wake.
 
@@ -1326,7 +1326,7 @@ We all do.
 
 Come on.
 
- Wow! What happened?  - Mike!
+Wow! What happened?  - Mike!
 
 And suddenly there he was.
 
@@ -1346,9 +1346,9 @@ Life was suddenly full of... possibilities.
 
 Not to mention a few unexpected surprises.
 
- Hello.  - It's me.
+Hello.  - It's me.
 
- Have anything yet?  - No, nothing yet.
+Have anything yet?  - No, nothing yet.
 
 But don't worry. I'm definitely getting closer.
 
@@ -1368,7 +1368,7 @@ To Mary Alice, a good friend and neighbor.
 
 Wherever you are, we hope you've found peace.
 
- To Mary Alice.  - To Mary Alice.
+To Mary Alice.  - To Mary Alice.
 
 Let's get this show on the road.
 
@@ -1380,7 +1380,7 @@ We found the skeleton in her closet.
 
 Not quite, Gabrielle, not quite.
 
- What's that?  - A letter addressed to Mary Alice.
+What's that?  - A letter addressed to Mary Alice.
 
 How ironic.
 
