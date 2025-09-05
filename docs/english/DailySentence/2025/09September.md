@@ -1,5 +1,23 @@
 # September
 
+## Day 04
+#### The result of ParticipAction was impressive. Canadians became more active in the years following the program's inception.
+
+#### ParticipAction was seen as a positive program because it got Canadians active while reducing health care costs caused by inactivity and poor physical conditioning.
+
+#### The professional career of tennis player Bjorn Borg was one of the most interesting ones in recent sports history. By the time he was 26, and in the prime of his career, Borg inexplicably retired from professional tennis.
+
+#### Probably his greatest achievement was a winning streak at Wimbledon that spanned five years. Borg enjoyed almost complete dominance in competitive tennis. His retirement in 1983, then, was a bit of a puzzle. Although his tennis skills waned somewhat in the previous year, he was still one of the top players on the tour, and only 26 years old.
+
+#### Five years after his retirement, an emergency hospital procedure saved his life. While Borg claimed he had food poisoning, it was suspected he had a barbiturate overdose. In 1991, Borg attempted to make a comeback on the professional tennis tour, only to fail miserably. His insistence on using a wooden racket at the time, when all of the world's top players were using synthetic fiber rackets, didn't help matters. Eventually, Borg disappeared into obscurity, and there is little news of his life today.
+
+#### Borg was an important figure in modern tennis history. He was the sport's first modern media star and icon. Teenage girls conferred upon him a status comparable to a rock star. His face adorned t-shirts and other merchandise, making him the most marketable tennis player in history. Borg's career was a catalyst for Swedish tennis players.
+
+#### Perhaps most important of all, Borg gave to the sport of tennis a degree of showmanship,
+
+
+
+
 ## Day 03
 #### As long as it effectively manages problems such as funding, Sport Canada will continue to provide the Canadian public with international-caliber athletes who compete with the very best in the world.
 
