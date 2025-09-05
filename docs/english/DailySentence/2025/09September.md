@@ -1,5 +1,30 @@
 # September
 
+## Day 05
+#### Fall fairs have been a feature of North American life since early in the nineteenth century. At the end of the harvest, people from rural areas have come together to celebrate. Usually, these fairs take the form of a competition regarding the best of all farm products of that year.
+
+#### When the United States and Canada were organized, they were divided into small units called counties. Larger units were called states or provinces. Many of the best-known fairs are county fairs or state fairs.
+
+#### Since these fairs are usually annual events, many have developed permanent buildings over the years. Most of these are large barn-like structures.
+
+#### Usually, there is a grandstand, which is a stage with wooden seats around it. Here entertainers perform for an audience during the fair. Country and western singers are usually popular at fairs, but so are comedians, clowns, dancers and musicians.
+
+#### Ploughing contests test the strength and steadiness of horses, and so do pulling contests.
+
+#### Every kind of grain, fruit, vegetable, berry and animal is tested, and only the best win a ribbon.
+
+#### Fall fairs have taken over the idea of the midway from the circus. The midway has rides like Ferris wheels, merry-go-rounds, and roller coasters. It also has games of chance and skill, such as trying to throw a small hoop over a large bottle.
+
+#### North American children know about Hiroshima. They are taught about the dangers of nuclear war. There was a blinding flash of light, a scorching heat, and a mushroom cloud rose up. People close to the explosion were instantly vaporized. Many of those further away would die from burns and radiation. Sixty thousand houses were destroyed immediately.
+
+#### Even those who were not seriously injured in the explosion later became very ill. They became very sick from radiation poisoning. Many developed leukemia - a disease of the blood and bone marrow.
+
+#### There is a Peace Museum in Hiroshima which has objects left by the explosion. These include bottles, metal, stones and tiles twisted into strange shapes by the heat. There are objects on which people were vaporized, so that their shape appears like a shadow on the material.
+
+#### World War II was a long and bitter war. The rules of war, which said not to kill civilians, were forgotten. Hitler bombed London, hoping to break the spirit of the English. Then England bombed Germany to destroy the factories and kill the people who worked in them. Americans wanted revenge for the Japanese attack on Pearl Harbor. The U.S. government had spent $6 billion developing the A-bomb and wanted to use it.
+
+
+
 ## Day 04
 #### The result of ParticipAction was impressive. Canadians became more active in the years following the program's inception.
 
@@ -13,7 +38,7 @@
 
 #### Borg was an important figure in modern tennis history. He was the sport's first modern media star and icon. Teenage girls conferred upon him a status comparable to a rock star. His face adorned t-shirts and other merchandise, making him the most marketable tennis player in history. Borg's career was a catalyst for Swedish tennis players.
 
-#### Perhaps most important of all, Borg gave to the sport of tennis a degree of showmanship,
+#### Perhaps most important of all, Borg gave to the sport of tennis a degree of showmanship, visibility, and marketability that was used as a role model for the sport in future decades.
 
 
 
