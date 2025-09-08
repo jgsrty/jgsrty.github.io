@@ -1,5 +1,30 @@
 # September
 
+## Day 08
+#### Niagara Falls is one of the world's leading tourist attractions. When the first Europeans came to Niagara, the Falls were surrounded by forest. The noise of the Falls could be heard miles away, before they were actually seen. The first visitors were filled with horror at the sight. Later, fear ceased to be the main emotion inspired by the Falls. Visitors were impressed by the beauty and grandeur of the Falls, which overwhelmed them with wonder.
+
+#### As more and more people came, the tourist industry developed. Early tourism was not well regulated, and there were many complaints about cheats and swindles. Today, there are similar complaints about tourist junk and high prices.
+
+#### Since the Niagara River forms the boundary here between Canada and the United States, each country has one of the falls. The Canadian Horseshoe Falls is wider and more impressive than the American Rainbow Falls.
+
+#### Newly married couples began coming to Niagara Falls when it was still a secluded, peaceful and romantic spot. It is still popular with newly-weds as a relatively inexpensive and convenient place to spend their honeymoon.
+
+#### Their falling water is the power behind several of the largest hydroelectric stations in the world. Much of the electric power used in this part of North America comes from Niagara Falls.
+
+#### Daredevils have come to make a name for themselves. Some have gone over the falls in a barrel, while others have walked above the falls on a tightrope. Poets and artists have visited here to capture its beauty. Lovers have come to gaze on its romantic scenery.
+
+#### The Golden Age of the American cowboy was short lived. It began in the 1860s with the great cattle drives from Texas north to Kansas.
+
+#### The Spanish conqueror of Mexico, Hernan Cortes, brought cattle with him in 1521. Cortes also branded his cattle with a three cross design. The Spanish sharp-horned cattle roamed the deserts and prairies freely. American settlers in Texas interbred their animals with the Spanish breed, the Texas longhorn cow was the result!
+
+#### After the American Civil War ended in 1865, disbanded soldiers, who were former black slaves, and young men seeking adventure headed west.
+
+#### Cowboys and cattle followed the Chisholm Trail north to Abilene, Kansas. This cattle trail became the most famous route for driving cattle, until it was barred with barbed wire in 1884.
+
+#### In 1871, 350 cowboys driving 60,000 cattle waited two weeks for the water level in the Red River to go down. Food for men and animals was also difficult to find at times. An early cattleman developed the chuck wagon, which were both a supply wagon and a portable kitchen.
+
+
+
 ## Day 05
 #### Fall fairs have been a feature of North American life since early in the nineteenth century. At the end of the harvest, people from rural areas have come together to celebrate. Usually, these fairs take the form of a competition regarding the best of all farm products of that year.
 
