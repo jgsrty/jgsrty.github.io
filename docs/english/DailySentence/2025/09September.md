@@ -1,5 +1,25 @@
 # September
 
+## Day 09
+#### George W. Bush Jr. was inaugurated as the 43rd President of the United States on January 20 2001. Many republicans thought that the democrats could be defeated in 2000. But they themselves lacked a candidate with strong appeal. As the election approached, leading republicans worried about whom to support. 
+
+#### In November 1998, Bush was re-elected as Governor by an impressive margin. Of course, one advantage that Governor Bush had was a familiar name. 
+
+#### George W. attended the same prestigious eastern colleges as his father. Then he came back to Texas and was a fighter pilot with the Texas Air National Guard. During the early '70s he wandered from place to place, trying different jobs.
+
+#### He became closely involved in his father's campaign for president in 1988. Here he developed a lot of the political skills he was later able to use to run for office himself.
+
+#### In 1994, he surprised the political world by defeating the incumbent Governor of Texas. As Governor, he pushed ahead with an energetic program, which reflected neo-conservative values.
+
+#### Handel traveled to England in 1711 and made an immediate success with his operas. Queen Anne granted him a royal pension for life in 1713.
+
+#### Since operas used full stage settings with costumes, scenery and props, they were expensive to produce. Handel decided to produce oratorios in which the parts were simply sung without actions.
+
+#### Handel began to work on his oratorio "The Messiah". The text was made up of passages from the Bible relating to the birth, life and death of Jesus. Handel worked on it feverishly, missing meals and going without sleep. In the fall of 1741, Handel received an invitation from the Lord Lieutenant of Ireland to present operas and concerts there.
+
+#### "The Messiah" was first publicly performed on April 13, 1742. Seven hundred people squeezed into a 600-seat theatre to hear it. A notice had requested that ladies attend in hoopless skirts, and that gentlemen come without their swords. A Dublin paper reported, "Words are wanting to express the exquisite delight it afforded to the admiring crowded audience". All proceeds were donated to charity, as the church choirs had refused to participate except on those conditions.
+
+
 ## Day 08
 #### Niagara Falls is one of the world's leading tourist attractions. When the first Europeans came to Niagara, the Falls were surrounded by forest. The noise of the Falls could be heard miles away, before they were actually seen. The first visitors were filled with horror at the sight. Later, fear ceased to be the main emotion inspired by the Falls. Visitors were impressed by the beauty and grandeur of the Falls, which overwhelmed them with wonder.
 
