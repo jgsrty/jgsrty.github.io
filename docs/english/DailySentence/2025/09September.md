@@ -1,5 +1,21 @@
 # September
 
+## Day 10
+#### For much of its history, it has been an advantage to Ireland to be far from the mainland. It was the remoteness of Ireland that helped preserve much of Christian and classical culture.
+
+#### The Catholic Irish were not allowed to vote until 1829. Since Irish Catholics were not allowed to own land, they were poor tenant farmers. The main food crop in the 1840s was potatoes. When these became infected by blight, thousands of Irishmen starved. Many others were evicted from their dwellings because they couldn't pay the rent.
+
+#### A rebellion against England in 1916 began a struggle that resulted in independence for most of Ireland. Some Protestant areas in Northern Ireland preferred to stay with England.
+
+#### The Irish differ from other people because the vast majority of Irishmen live away from their homeland. However, this exodus from Ireland has helped to spread Irish music, culture and products around the world.
+
+#### New England in the early and middle years of the nineteenth century had a flourishing culture.
+
+#### Louisa wrote little plays that she and her sisters performed at home. They all enjoyed the woods and ponds around Concord, Massachusetts.
+
+#### "Little Women" and its sequel opened up a new kind of writing for children.
+
+
 ## Day 09
 #### George W. Bush Jr. was inaugurated as the 43rd President of the United States on January 20 2001. Many republicans thought that the democrats could be defeated in 2000. But they themselves lacked a candidate with strong appeal. As the election approached, leading republicans worried about whom to support. 
 
