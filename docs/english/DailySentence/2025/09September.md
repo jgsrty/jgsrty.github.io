@@ -1,5 +1,37 @@
 # September
 
+## Day 11
+#### For a long time, newspapers were not very common. Governments didn't want public discussion of their policies and decisions. The "Stamp Tax" on newspapers and pamphlets was one of the causes of the American Revolution.
+
+#### The Times was one of the first papers to include illustrations. It was the first newspaper to use a steam engine to turn the presses.
+
+#### The Times made its greatest reputation during the Crimean War between Britain and Russia. British armies, fighting in Russia's Crimean Peninsula, were not only unsuccessful in the war, but were suffering severely from illnesses. The Times sent out the world's first war correspondent, William Howard Russell, in 1854.
+
+#### Meanwhile in America, a more popular approach to newspapers had developed. The newspaper had spread west with the pioneers, and nearly every little settlement had its own paper.
+
+#### Hearst, especially, employed sensational and emotional writing, which aimed at stirring up the public to action. Hearst is sometimes accused of starting the Spanish-American War of 1898 with his over-heated editorials. Nonetheless, his methods were successful in raising circulation and were widely imitated.
+
+#### The modern newspaper contains more than hard news. In fact, news may be a fairly small part of it. Advertisements, gossip, show business, photos of celebrities, sports, stock market prices, horoscopes, comic strips, weather reports and much more are found in its pages.
+
+#### Since Christopher Columbus first met American Indians in 1492, many Europeans had been fascinated by Indian life and culture. As a result, there was a demand in Europe for drawings and paintings of Native Americans. European artists who had never seen an Indian supplied most of this demand. But in the nineteenth century, several painters traveled into Indian Territory to make an authentic record of native life.
+
+#### At that time, there were still Indians living in wigwams in the Toronto area. Young Paul liked visiting the Indian village instead of going to school.
+
+#### American Indians were dying so rapidly from European diseases, such as measles and smallpox, that many people believed they would soon vanish as a race. His plan was to sketch Indian life before it disappeared forever.
+
+#### As white settlers demanded more land, Indians were being herded into small pieces of land called "reservations".
+
+#### In May 1846, Kane joined the annual canoe fleet of fur traders going west. Kane would travel all through the wilderness areas of western Canada and northwestern U.S.A. During this time, he made hundreds of sketches of Indian life. Although Kane faced incredible hardships during his travels, he was able to see what he wanted to see.
+
+#### He was able to take part in one of the last great Buffalo hunts and killed two large bison himself. He shot a grizzly bear at close range and killed several wolves that attacked his horses. Finally, he arrived at the Pacific coast, where he made some fine drawings of the west coast Indians.
+
+#### One wealthy chief had ruled 1,000 warriors
+
+#### On his return trip, he encountered a large war party of 1,500 braves on the warpath against their traditional enemies.
+
+#### When he arrived back in Toronto, Kane gave an exhibit of his sketches and watercolors.  Most of the rest of his life was spent turning these drawings into finished paintings.
+
+
 ## Day 10
 #### For much of its history, it has been an advantage to Ireland to be far from the mainland. It was the remoteness of Ireland that helped preserve much of Christian and classical culture.
 
