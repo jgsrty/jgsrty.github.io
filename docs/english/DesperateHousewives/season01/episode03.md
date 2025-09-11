@@ -3,9 +3,7 @@ She was his wife.
 
 He deserves to have all the facts.
 
-She abandoned her husband and her
-
-son and I'll never forgive her.
+She abandoned her husband and her son and I'll never forgive her.
 
 It's the age-old question,
 
@@ -27,7 +25,7 @@ I keep hoping he'll ask me out.
 
 I really hate the way you talk to me.
 
-I hate that I spent $15,000 on your diamond necklace,
+I really hate that I spent $15,000 on your diamond necklace,
 
 but I'm learning to deal with it.
 
@@ -1449,9 +1447,7 @@ Sexy ridiculous?
 
 Maybe.
 
-I can live...
-
-with maybe.
+I can live... with maybe.
 
 You know, it's going to take more than just this one night.
 
