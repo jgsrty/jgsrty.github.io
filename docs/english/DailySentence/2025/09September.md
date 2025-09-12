@@ -1,5 +1,20 @@
 # September
 
+## Day 12
+#### There were many tribes of Plains Indians, for the Northern American prairies or plains stretch from the northern forest of western Canada down to the States of Oklahoma and Texas in southern U.S.A.
+
+#### There was always the danger that the herd would stampede and trample the hunters. Another method was to drive the buffalo over a steep cliff. The hunters carried their bullets in their mouths so they could shoot faster. They could ride right into the herd, shooting at close quarters.
+
+#### They would drop an article of clothes on the slain buffalo to mark it for themselves. After the hunt, the Indians would skin the animals, and the women would dry the meat and store it in fat.
+
+#### They also used the buffalo skins for clothing, blankets, and the covering of their teepees. These teepees were cone-shaped tents, which were easy to put up and take down. They developed complex religions and social rituals, as well as specialized societies or clubs.
+
+#### Smith pressured the colonists to build huts, a storehouse, and a church. He made daring trips to Indian villages, demanding that they give the settlers food in return for beads and copper. On one of his trips to the interior, Indians attacked John Smith. They killed his two companions but captured him alive. This chief was impressed by Smith's compass and spared his life. His captors dragged Smith from village to village.
+
+
+
+
+
 ## Day 11
 #### For a long time, newspapers were not very common. Governments didn't want public discussion of their policies and decisions. The "Stamp Tax" on newspapers and pamphlets was one of the causes of the American Revolution.
 
