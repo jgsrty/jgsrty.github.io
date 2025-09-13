@@ -1,5 +1,18 @@
 # September
 
+## Day 13
+#### Nowadays, the telephone has become a very complex instrument; it rivals the computer as to the number of possible uses.
+
+#### Answering machines have been around for several decades, but they are now being replaced by voicemail. Voicemail does away with the need for an answering machine.
+
+#### It is very useful for business discussions where different people need to talk about the same thing. It also speeds up the process of consensus, and allows everybody to be in on the decision or discussion.
+
+#### If you want to hang up without putting the receiver down, press "goodbye". Newer phones will indicate when you have voicemail messages. You can designate your message to go to the top of the recipient's voicemail list. You can also program it so that the recipient cannot forward it.
+
+#### Some systems have limits on how much space can be used for individual voicemail. There are a number of courtesies that voicemail users should follow. Some people use voicemail to screen calls; this can be annoying to someone who can never contact you directly. Check your messages regularly and reply to them promptly.
+
+#### Enjoy the telecommunications revolution!
+
 ## Day 12
 #### There were many tribes of Plains Indians, for the Northern American prairies or plains stretch from the northern forest of western Canada down to the States of Oklahoma and Texas in southern U.S.A.
 
@@ -10,6 +23,8 @@
 #### They also used the buffalo skins for clothing, blankets, and the covering of their teepees. These teepees were cone-shaped tents, which were easy to put up and take down. They developed complex religions and social rituals, as well as specialized societies or clubs.
 
 #### Smith pressured the colonists to build huts, a storehouse, and a church. He made daring trips to Indian villages, demanding that they give the settlers food in return for beads and copper. On one of his trips to the interior, Indians attacked John Smith. They killed his two companions but captured him alive. This chief was impressed by Smith's compass and spared his life. His captors dragged Smith from village to village.
+
+#### Pocahontas warned Smith about the plot against his life. Smith had to fight off several attempts to kill him. Pocahontas had believed that Smith was dead. The following year she died and was buried in England. Pocahontas' love for Smith, and Smith's determination to fight for the colony,
 
 
 
