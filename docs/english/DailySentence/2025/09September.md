@@ -1,5 +1,46 @@
 # September
 
+## Day 16
+#### A commission was formed to obtain control of all land along the Niagara River. This was made easier because a narrow strip along the river was already government land.
+
+#### Before the Queen Victoria Park Commission began to buy up land besides the Falls, tourists had to pay for everything. There were no public washrooms, no drinking fountains, and no safety barriers around the Falls. As a result, it was not uncommon for tourists crowding close to the Falls, or hypnotized by the flow of the river, to step too close and fall in.
+
+#### Each section of the 56-kilometer stretch of Niagara Parks has its own places of interest. These are joined by the Niagara Parkway, a road that runs the whole length of the river.
+
+#### The Niagara Parks Commission operates restaurants, parks and gardens, rides, museums and historic houses, golf courses, native sites and gift shops. The Commission also operates a School of Horticulture, with large gardens.
+
+#### The Commission shows how governments can work to make visits to natural wonders like Niagara Falls a good experience for the general public.
+
+#### Before railways and automobiles became common, transporting goods over long distances was a difficult chore. In early North America, roads were often bad or non-existent.
+
+#### Fur traders carried their furs and other supplies in canoes. But even large canoes were not big enough to hold a shipment of wheat.
+
+#### Without a canal to move their farm produce, crops were sometimes left to rot.
+
+#### This creek runs towards Lake Ontario. It rises above the Escarpment, which stands from 150 to 300 feet high.
+
+#### Nearly all the work was done with shovels, pickaxes, horses and wagons. In places, the ground was soft and landslides occurred. In other places, the men had to dig through solid granite rock.
+
+#### After sinking all the money that he, his family and friends had into the canal, more was needed.
+
+#### The problem of getting the boats to climb the escarpment was solved by a series of 35 wooden locks. These carried a ship 327 feet upwards. The ship would enter a lock with a small amount of water. More water would come into the lock, lifting the boat another ten or fifteen feet. Then the ship would move into the next lock, and be lifted up again. Boats going in the opposite direction were lowered instead of lifted.
+
+#### Now large sea-going and lake vessels cross the Niagara Peninsula from Lake Ontario to Lake Erie. They carry grain, coal, iron ore, oil and many other bulk products.
+
+#### Sam Walton opened his Walton's Five and Dime in Bentonville, Arkansas, in 1950. Twelve years later he opened the first Walmart in Bentonville. His business philosophy was simple good prices, great selection and a friendly greeting.
+
+#### He emphasized that it is important to speak to people before they speak to you. Walton also believed that good deals from suppliers should be passed along to customers. The combination of low prices and friendly service is basic to Walmart's success.
+
+#### Walmart also has the Walmart Foundation, which sponsors numerous good causes. Among their programs are high school scholarships, fundraising for local hospitals and sick children, environmental concerns and community "matching grant" outreach.
+
+#### So, what's not to like about Walmart? The main complaint is that their business style is extremely aggressive. Walmart's attitudes towards manufacturers and suppliers are: "You do it our way, or we won't do business with you". This puts Walmart at an advantage over smaller retails who don't have the same retailing power.
+
+#### Walmart has been known to demand that its suppliers provide products at discount for Walmart store openings; levy fines for shipment errors; tell manufacturers what products, styles and colors to make, etc.
+
+#### Walmart expects product delivery in two days, and expects manufacturers to cooperate with its promotional and retailing strategies. In effect any company that works with Walmart becomes one of their employees.
+
+#### Any company, which so dominates one area of the market, will have a lot of power. So far, Walmart has been successful in getting what it wants, and providing customers with what they want.
+
 ## Day 13
 #### Nowadays, the telephone has become a very complex instrument; it rivals the computer as to the number of possible uses.
 
