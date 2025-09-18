@@ -1,4 +1,30 @@
 # September
+## Day 18
+#### Occasionally, school officials will try to shut down or censor student papers, if they find their writing embarrassing or offensive. But usually these disagreements are resolved by discussion.
+
+#### At some colleges, the student newspaper is connected to a professional program in journalism. But, most of the time, the idea behind the paper is to get students to research the facts, debate the issues, and learn how to get their opinions expressed.
+
+#### You might wonder whether enough things happen at a college to fill out a weekly paper. There are often problems with the budget and cuts to programs. New buildings go up, or are torn down. Policies change; tuition goes up; classrooms become crowded; and personnel come and go.
+
+#### University morale and funding often reflect government policies and social attitudes. These tie the college to the larger world.
+
+#### Should the university pay attention to student activities off-campus? Committees meet, with student representation, to set guidelines for these matters.
+
+#### Corporate sponsors today are buying exclusive rights to distribute their products on campus.
+
+#### Student newspapers are an important training group for democracy. They are also very interesting to read.
+
+#### Canada has about fifty accredited universities spread across ten provinces. All, except one, are primarily government-funded. This means that there is considerable uniformity regarding programs, administration and policy. Private colleges tend to be smaller and are mostly based on a religious curriculum. 
+
+#### Most universities offer programs in the Humanities, Social Sciences and pure Sciences. Many have additional faculties such as Education and Physical Education. Many programs that lead directly to a position in the workplace are given at community colleges. Community colleges differ from universities because their programs involve job training and practical experience. Their programs are considered to be less abstract and academic than university programs. However, a university degree may be less likely to lead directly to a job.
+
+#### Universities, however, were founded mainly as liberal arts institutions. This means that their original intent was to prepare people to be well-rounded human beings and knowledgeable citizens. So nearly all universities have programs in literature, languages, philosophy, culture, music, history and politics, as well as studies that are more job-related.
+
+#### A pass B.A. or B.Sc. degree in Canada is normally three full years of study after secondary school. A bachelor degree with honors includes one more year of study. A Master's degree is a further one or two years. A doctorate usually requires four or more years. This is similar to the United States, except that their bachelor degree is normally three years, and their master's degree may be up to three years.
+
+#### As long as you keep up with your readings and assignments, you should be able to avoid major difficulties. Facilities for athletics, student radio and newspapers, pubs and lounges and generally pleasant surroundings make campus life agreeable.
+
+
 
 ## Day 16
 #### A commission was formed to obtain control of all land along the Niagara River. This was made easier because a narrow strip along the river was already government land.
