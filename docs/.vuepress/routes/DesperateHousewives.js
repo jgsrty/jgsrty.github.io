@@ -3,6 +3,6 @@ module.exports = [
   {
     text: "绝望主妇",
     collapsible: true,
-    children: genSidebarConfig("english/DesperateHousewives/season01", false),
+    children: genSidebarConfig("english/DesperateHousewives/season", false),
   },
 ];
