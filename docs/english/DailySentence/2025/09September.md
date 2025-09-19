@@ -1,4 +1,17 @@
 # September
+## Day 19
+#### Some were businessmen who saw economic opportunities overseas. Soldiers wanted fame and a chance to enlarge the British Empire. Big-game hunters wanted to be the first to shoot strange animals and bring back trophies to England. Scientists intended to study unknown animals and plants. Missionaries planned to be the first to introduce Christianity to faraway people.
+
+#### Livingstone intended to become a medical missionary. This means that he would be a doctor, as well as a preacher and teacher. However, unlike some missionaries, he was also interested in science, geography and exploring.
+
+#### He had planned to go to China in 1839, but because of the Opium Wars no missionaries were being sent there. Instead, he asked to go to South Africa. Europeans had traveled around the coasts of Africa for hundreds of years. But very few white people had traveled inland. Livingstone arrived in Kuruman in 1841. This was the farthest outpost of white settlement, and no one seemed to want to go further inland.
+
+#### With a fellow missionary he set out. When they came to an African tribe, they would talk to the chief and ask permission to preach to his people. There were many diseases, including malaria and sleeping sickness. Livingstone suffered much of his life from river fever. He was also so weak that he rode on the back of an ox.
+
+#### Livingstone was being criticized for neglecting missionary work in order to explore. Livingstone replied that he was opening up the continent for missionaries.
+
+#### Nowadays, the countries that Livingstone visited are nearly all Christian, just as he had hoped they would be.
+
 ## Day 18
 #### Occasionally, school officials will try to shut down or censor student papers, if they find their writing embarrassing or offensive. But usually these disagreements are resolved by discussion.
 
