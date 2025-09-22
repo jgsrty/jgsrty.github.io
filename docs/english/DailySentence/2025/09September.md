@@ -1,4 +1,24 @@
 # September
+## Day 22
+#### Florence's father ensured that she had a good education. But she was frustrated because girls and women were always under parental supervision. She felt called to a life of action, but her family insisted that she divide her time between being with her family and attending social functions.
+
+#### Nightingale became more angry and rebellious. She offended her family and friends by refusing to marry several prominent men who wanted to marry her.
+
+#### At that time, the profession didn't seem promising. The only respectable nurses were those women in religious orders that ministered to the patient's spiritual health, but were not trained in medicine. The majority of nurses were poor, untrained women who were suspected of being too fond of men or alcohol, or both.
+
+#### In fact, one hospital preferred to hire unwed mothers as nurses because they had no reputations to lose.
+
+#### In 1853, she was appointed superintendent of a women's nursing home in London. In 1855, the Times of London was printing reports from the Crimean War. France and England were fighting Russia in the Crimean Peninsula. After one allied victory, the wounded French soldiers were well taken care of, but the wounded English soldiers were left to die.
+
+#### Scutari, Turkey, was the hospital where the British wounded were brought. This so-called hospital was a death pit, where 42 out of every 100 men died.
+
+#### The army was unwilling to listen to Miss Nightingale or to let her tend the wounded. She had to wait until conditions became so bad that the regular medical officers were overwhelmed. As soon as the army turned to her, she immediately went to work. She had the entire hospital cleaned, a new kitchen set up, and a good water supply obtained. 
+
+#### The death rate dropped to 22 out of every 1,000. Although her efforts in the Crimean War injured her health, she continued her work back in London. She published a 1,000-page report on medical conditions in the British Army, several books on nursing and her own proposals and suggestions.
+
+#### Long before her death in 1910, she had seen nursing become a well-established profession. Almost single-handedly she had helped to bring about proper treatment of the sick and injured.
+
+
 ## Day 19
 #### Some were businessmen who saw economic opportunities overseas. Soldiers wanted fame and a chance to enlarge the British Empire. Big-game hunters wanted to be the first to shoot strange animals and bring back trophies to England. Scientists intended to study unknown animals and plants. Missionaries planned to be the first to introduce Christianity to faraway people.
 
