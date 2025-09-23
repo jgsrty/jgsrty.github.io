@@ -1,4 +1,19 @@
 # September
+## Day 23
+#### The slaves were mainly used to pick crops like cotton and tobacco. Harriet Tubman was illiterate. Later in life, when she was in danger of being captured, she picked up a book and pretended to read it. This fooled the bounty hunters.
+
+#### The overseer was so angry with her that he hit her over the head with an iron weight. Harriet was knocked unconscious for many days. All the rest of her life she suffered from headaches and sudden sleeping spells. Harriet escaped from the plantation to Philadelphia, Pennsylvania.
+
+#### These people, both white and black, used the language of the railroad. Escaped slaves were called passengers, safe houses were called stations, and the guides were called conductors.
+
+#### In 1850, the American government passed a second Fugitive Slave Act. This put more pressure on Northern States to return escaped slaves to the South.
+
+#### In 1793, Upper Canada (Ontario) had passed a law, bringing a gradual stop to slavery. In 1834, slavery was abolished in the whole British Empire. A lot of escaped slaves had come to Canada before 1850, but now nearly all escaped slaves tried to go there. This provided a shelter for new arrivals.
+
+#### Black slaves knew Harriet as "Moses". The Bible tells the story of how Moses led the people of Israel out of slavery in Egypt.
+
+
+
 ## Day 22
 #### Florence's father ensured that she had a good education. But she was frustrated because girls and women were always under parental supervision. She felt called to a life of action, but her family insisted that she divide her time between being with her family and attending social functions.
 
