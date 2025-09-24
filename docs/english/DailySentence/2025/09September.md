@@ -1,4 +1,16 @@
 # September
+## Day 24
+#### Meanwhile in Texas, Elmer Doolin was trying to sell chips made from corn dough. This was an old Mexican recipe, which Doolin had found in San Antonio, Texas. At first, these Fritos corn chips were made in Mr. Doolin's mother's kitchen.
+
+#### In 1945, he granted the H. W. Lay Co. the rights to make Fritos corn chip for the American southeast. In 1961, the two companies merged to become Frito-Lay Inc. In 1965, Frito-Lay merged with Pepsi to become PepsiCo. Inc., one of the largest snack food and beverage companies in the world.
+
+#### Why are potato chips and corn chips so popular? Well, they are versatile. You can eat them by themselves or with a sandwich for lunch. They can replace other forms of potatoes and corn. They can also come in various flavors. For example, potato chip flavors include ketchup, salt and vinegar, barbeque, dill pickle and cheddar.
+
+#### Potato chips can be thick or thin, ridged or flat, spicy or bland. Chips can be made from many things besides potatoes. There is corn dough and tortilla dough, of course. But chips can also be made from sweet potatoes, parsnips, taro root, peppers and other vegetables.
+
+#### One caution about potato chips is that they are not a good source of nutrition. Because snack chips usually contain a lot of fat, they can also lead to weight gain. It is better not to eat snack chips too often, and not to eat them instead of healthier foods.
+
+
 ## Day 23
 #### The slaves were mainly used to pick crops like cotton and tobacco. Harriet Tubman was illiterate. Later in life, when she was in danger of being captured, she picked up a book and pretended to read it. This fooled the bounty hunters.
 
