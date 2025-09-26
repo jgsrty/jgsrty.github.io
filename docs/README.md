@@ -5,7 +5,7 @@ actionText:
 actionLink: 
 actions:
   - text: 英语学习
-    link: english/DailySentence/2025/09September.html
+    link: english/DailySentence/2025/10October.html
     type: primary
   - text: 汉语言文学
     link: /english/SelfStudy/ChineseLiterature/xi.html
