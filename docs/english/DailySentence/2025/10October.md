@@ -1,5 +1,22 @@
 # October
 
+## Day 16
+#### Many people visit Europe and see the old castles left from the days of knighthood. Toronto businessman Henry Pellatt actually built such a castle - Casa Loma. His father opened Toronto's first stock brokerage firm in 1866.
+
+#### The young Pellatt was especially attracted by the military and the British armed forces. When Henry was 18, he joined the Queen's Own Rifles, a militia unit. He was soon one of the soldiers sent to suppress a railway strike.
+
+#### He was gradually moved up through the ranks, eventually becoming a brigadier general. Meanwhile, Henry was learning the stock brokerage business.
+
+#### He also made money as a land speculator in the Canadian West. He sponsored many charitable organizations and supported various good causes.
+
+#### He brought back ideas for a "castle on the hill". Pellatt's castle, however, would not be a damp, drafty castle of the Middle Ages. Outwardly, it looked like a mediaeval castle, but inside it was comfortable and luxurious.
+
+#### There were 98 rooms, three bowling alleys. It had an electric elevator and an indoor swimming pool. A temperature-controlled wine cellar, a shooting gallery, and a large art collection.
+
+#### Pellatt ordered only the most expensive materials and employed the best craftsmen. Pellatt had hoped that Casa Loma would be the center of an extensive subdivision.
+
+#### In 1924, Pellatt turned Casa Loma over to the City of Toronto because he could not pay his property tax. His $1.5 million collection of art and artifacts sold for only $250,000.
+
 ## Day 15
 #### When someone dies, arrangements are made with a funeral home to get the body and prepare it for burial. Funeral homes are private businesses. They usually handle most or all aspects of a funeral, except for providing the burial plot. That usually has to be purchased separately. Old roomy private homes and new modern one-level buildings are common types.
 
