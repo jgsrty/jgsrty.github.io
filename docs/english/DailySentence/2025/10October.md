@@ -1,5 +1,22 @@
 # October
 
+## Day 21 
+#### His endurance was so much admired that runners ever since have attempted to run similar long "Marathon" distances.
+
+#### They felt sure that such a feat would attract large crowds. Chadwick had swum the English Channel in both directions. However, no one - neither man nor woman - had crossed Lake Ontario. It was a 32-mile swim through cold water and difficult currents.
+
+#### Marilyn not only had to overcome her fears of the dark, but she was attacked during the night by blood-sucking lamprey eels. As dawn approached, the winds and waves increased, and Marilyn's weariness mounted. Her coach, Gus Ryder, passed her some corn syrup on a stick, and later gave her liniment for her tired legs.
+
+#### Sometimes, he tricked her into thinking that she was nearer to the shore than she was. Marilyn fell asleep in the water twice and had to be awakened. The second time, a friend of hers jumped into the water beside her, and swam with her for a distance. 
+
+#### Because Marilyn's strength was declining, she was being pushed off course by the currents. Although the direct route was 32 miles, Marilyn swam a total of 45 miles. 
+
+#### It was getting dark again, and the swimmer was barely conscious as she approached the shore. Thousands of people lined the shore hoping to touch her or get a picture of her. Marilyn's supporters had to push the crowds back so they wouldn't stop her from touching the shore.
+
+#### Finally, after 21 hours in the water, Marilyn reached land. The exhausted girl was rushed to an ambulance. She had lost about 20 pounds of her 120 pounds weight in the crossing.
+
+#### Two days later there was a parade in her honor through the streets of Toronto. Everyone admired the courage and endurance of the 16-year-old girl,
+
 ## Day 16
 #### Many people visit Europe and see the old castles left from the days of knighthood. Toronto businessman Henry Pellatt actually built such a castle - Casa Loma. His father opened Toronto's first stock brokerage firm in 1866.
 
