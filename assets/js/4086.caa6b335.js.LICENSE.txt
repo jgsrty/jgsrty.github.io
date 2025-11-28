@@ -1,0 +1,12 @@
+/*!
+  * vue-router v4.2.4
+  * (c) 2023 Eduardo San Martin Morote
+  * @license MIT
+  */
+
+/*! @docsearch/js 3.5.2 | MIT License | © Algolia, Inc. and contributors | https://docsearch.algolia.com */
+
+/**
+ * NProgress, (c) 2013, 2014 Rico Sta. Cruz - http://ricostacruz.com/nprogress
+ * @license MIT
+ */
