@@ -1,24 +1,25 @@
 ---
 home: true
 heroImage: ./img/lion.png
-actionText: 
-actionLink: 
+actionText:
+actionLink:
 actions:
   - text: 英语学习
-    link: english/DailySentence/2025/10October.html
+    link: english/DesperateHousewives/season/01.html
     type: primary
   - text: 汉语言文学
     link: /english/SelfStudy/ChineseLiterature/xi.html
     type: secondary
 features:
-- title: 汉语言文学
-  details: 华师大自考汉语言文学
-- title: 英语阅读
-  details: 培养阅读习惯，提高英文读写能力，培养坚持阅读记笔记习惯
-- title: 组件demo
-  details: rty-vue-components 不定期更新~
+  - title: 汉语言文学
+    details: 华师大自考汉语言文学
+  - title: 英语阅读
+    details: 培养阅读习惯，提高英文读写能力，培养坚持阅读记笔记习惯
+  - title: 组件demo
+    details: rty-vue-components 不定期更新~
 footer: MIT Licensed | Copyright © 8102-present Evan You
 ---
+
 <!-- <src-rtyMusicList></src-rtyMusicList>
 <src-nintendoPoint></src-nintendoPoint> -->
 
