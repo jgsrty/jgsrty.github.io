@@ -23,7 +23,7 @@ englishFiles = englishFiles.concat(
   route2021,
   route2020,
   route2019,
-  route2018
+  route2018,
 );
 const { docsearchPlugin } = require("@vuepress/plugin-docsearch");
 module.exports = {
