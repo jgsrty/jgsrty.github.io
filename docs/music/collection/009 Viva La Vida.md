@@ -1,7 +1,8 @@
 # Viva La Vida
-### 生命万岁 -- Coldplay
 
-## 翻译
+### Coldplay
+
+<!-- ## 翻译
 #### I used to rule the world
 我曾是这世界的王
 #### Seas would rise when I gave the word
@@ -107,100 +108,101 @@ Ohhhhh Ohhh Ohhh
 | puppet | 'pʌpɪt | n. 木偶、傀儡、受他人操纵的人 |
 
 ## 歌曲背景
->克里斯·马汀（酷玩乐队主唱）在看了二十世纪墨西哥艺术家弗里达·卡罗的一幅画后产生了《Viva La Vida》创作灵感，他将画作的名字作为了该首歌的标题。在西班牙语中，"viva"表达着向某人或者某事喝彩的意思。一天夜晚，克里斯·马汀坐在钢琴边，慢慢地有了这首歌的感觉。克里斯·马汀坐一边歌，一边他写的唱给强尼·巴克兰（酷玩乐队吉他手），当强尼感到满意时克里斯就会把写的部分给威尔·查平（酷玩乐队鼓手）
+>克里斯·马汀（酷玩乐队主唱）在看了二十世纪墨西哥艺术家弗里达·卡罗的一幅画后产生了《Viva La Vida》创作灵感，他将画作的名字作为了该首歌的标题。在西班牙语中，"viva"表达着向某人或者某事喝彩的意思。一天夜晚，克里斯·马汀坐在钢琴边，慢慢地有了这首歌的感觉。克里斯·马汀坐一边歌，一边他写的唱给强尼·巴克兰（酷玩乐队吉他手），当强尼感到满意时克里斯就会把写的部分给威尔·查平（酷玩乐队鼓手） -->
 
-## Lyric 歌词
-I used to rule the world
+## Lyric
 
-Seas would rise when I gave the word
+#### I used to rule the world
 
-Now in the morning I sleep alone
+#### Seas would rise when I gave the word
 
-Sweep the streets I used to own
+#### Now in the morning I sleep alone
 
-I used to roll the dice
+#### Sweep the streets I used to own
 
-Fell the fear in my enemy's eyes
+#### I used to roll the dice
 
-Listen as the crowd would sing:
+#### Fell the fear in my enemy's eyes
 
-"Now the old king is dead
+#### Listen as the crowd would sing:
 
-Long live the king"
+#### "Now the old king is dead
 
-One minute I held the key
+#### Long live the king"
 
-Next the walls were closed on me
+#### One minute I held the key
 
-And I discovered that my castles stand
+#### Next the walls were closed on me
 
-Upon pillars of salt' pillars of sand
+#### And I discovered that my castles stand
 
-I hear Jerusalem bells a ringing
+#### Upon pillars of salt' pillars of sand
 
-Roman Cavalry choirs are singing
+#### I hear Jerusalem bells a ringing
 
-Be my mirror my sword and shield
+#### Roman Cavalry choirs are singing
 
-My missionaries in a foreign field
+#### Be my mirror my sword and shield
 
-For some reason I can't explain
+#### My missionaries in a foreign field
 
-Once you'd gone there was never'
+#### For some reason I can't explain
 
-Never an honest word
+#### Once you'd gone there was never'
 
-That was when I ruled the world
+#### Never an honest word
 
-It was the wicked and wild wind
+#### That was when I ruled the world
 
-Blew down the doors to let me in
+#### It was the wicked and wild wind
 
-Shattered windows and the sound of drums
+#### Blew down the doors to let me in
 
-People couldn't believe what I'd become
+#### Shattered windows and the sound of drums
 
-Revolutionaries wait
+#### People couldn't believe what I'd become
 
-For my head on a silver plate
+#### Revolutionaries wait
 
-Just a puppet on a lonely string
+#### For my head on a silver plate
 
-Oh who would ever wanna be king
+#### Just a puppet on a lonely string
 
-I hear Jerusalem bells a ringing
+#### Oh who would ever wanna be king
 
-Roman Cavalry choirs are singing
+#### I hear Jerusalem bells a ringing
 
-Be my mirror my sword and shield
+#### Roman Cavalry choirs are singing
 
-My missionaries in a foreign field
+#### Be my mirror my sword and shield
 
-For some reason I can't explain
+#### My missionaries in a foreign field
 
-I know Saint Peter won't call my name
+#### For some reason I can't explain
 
-Never an honest word
+#### I know Saint Peter won't call my name
 
-But that was when I ruled the world
+#### Never an honest word
 
-(Ohhhhh Ohhh Ohhh)
+#### But that was when I ruled the world
 
-Hear Jerusalem bells a ringing
+#### (Ohhhhh Ohhh Ohhh)
 
-Roman Cavalry choirs are singing
+#### Hear Jerusalem bells a ringing
 
-Be my mirror my sword and shield
+#### Roman Cavalry choirs are singing
 
-My missionaries in a foreign field
+#### Be my mirror my sword and shield
 
-For some reason I can't explain
+#### My missionaries in a foreign field
 
-I know Saint Peter won't call my name
+#### For some reason I can't explain
 
-Never an honest word
+#### I know Saint Peter won't call my name
 
-But that was when I rulled the world
+#### Never an honest word
+
+#### But that was when I rulled the world
 
 <!-- <src-rtyAudio :src="'https://rtyresourcesmusic.github.io/Coldplay/Viva La Vida.mp3'"></src-rtyAudio> -->
 <!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Viva%20La%20Vida.mp3'"></src-rtyAudio> -->

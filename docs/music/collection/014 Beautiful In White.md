@@ -1,7 +1,8 @@
 # Beautiful In White
+
 ### Shane Filan
 
-## 翻译
+<!-- ## 翻译
 #### Not sure if you know this
 不确定你是否清楚
 #### But when we first met
@@ -87,87 +88,88 @@
 | asile | aɪl | n. 通道、走廊、侧廊 |
 
 ## 歌曲背景
->《Beautiful in White》 是爱尔兰最流行的组合天王Westlife的主唱Shane Filan为自己的妻子儿女所演唱的歌曲，这是一首旋律优美、非常感人的歌曲，这首歌后被收录在单飞后的第三张录音室专辑《Love Always》里。
+>《Beautiful in White》 是爱尔兰最流行的组合天王Westlife的主唱Shane Filan为自己的妻子儿女所演唱的歌曲，这是一首旋律优美、非常感人的歌曲，这首歌后被收录在单飞后的第三张录音室专辑《Love Always》里。 -->
 
-## Lyric 歌词
-Not sure if you know this
+## Lyric
 
-But when we first met
+#### Not sure if you know this
 
-I got so nervous I couldn't speak
+#### But when we first met
 
-In that very moment
+#### I got so nervous I couldn't speak
 
-I found the one and 
+#### In that very moment
 
-My life had found it's missing piece
+#### I found the one and
 
-So as long as I live I love you
+#### My life had found it's missing piece
 
-Will have and hold you
+#### So as long as I live I love you
 
-You look so beautiful in white
+#### Will have and hold you
 
-And from now to my very last breath
+#### You look so beautiful in white
 
-This day I'll cherish
+#### And from now to my very last breath
 
-You look so beautiful in white Tonight
+#### This day I'll cherish
 
-What we have is timeless
+#### You look so beautiful in white Tonight
 
-My love is endless
+#### What we have is timeless
 
-And with this ring I say to the world
+#### My love is endless
 
-You're my every reason
+#### And with this ring I say to the world
 
-You're all that I believe in
+#### You're my every reason
 
-With all my heart I mean every word
+#### You're all that I believe in
 
-So as long as I live I love you
+#### With all my heart I mean every word
 
-Will have and hold you
+#### So as long as I live I love you
 
-You look so beautiful in white
+#### Will have and hold you
 
-And from now to my very last breath
+#### You look so beautiful in white
 
-This day I'll cherish
+#### And from now to my very last breath
 
-You look so beautiful in white Tonight
+#### This day I'll cherish
 
-You look so beautiful in white
+#### You look so beautiful in white Tonight
 
-So beautiful in white
+#### You look so beautiful in white
 
-And if our daughter is what our future holds
+#### So beautiful in white
 
-I hope she has your eyes
+#### And if our daughter is what our future holds
 
-Finds love like you and I did
+#### I hope she has your eyes
 
-Yeah, if she falls in love and we will let her go
+#### Finds love like you and I did
 
-I'll walk her down the aisle
+#### Yeah, if she falls in love and we will let her go
 
-She looks so beautiful in white
+#### I'll walk her down the aisle
 
-So beautiful in white
+#### She looks so beautiful in white
 
-So as long as I live I love you
+#### So beautiful in white
 
-Will have and hold you
+#### So as long as I live I love you
 
-You look so beautiful in white
+#### Will have and hold you
 
-And from now to my very last breath
+#### You look so beautiful in white
 
-This day I'll cherish
+#### And from now to my very last breath
 
-You look so beautiful in white Tonight
+#### This day I'll cherish
 
-So beautiful in white Tonight
+#### You look so beautiful in white Tonight
+
+#### So beautiful in white Tonight
 
 <!-- <src-rtyAudio :src="'https://rtyxmd.gitee.io/rtyresourcesmusic/Beautiful%20In%20White.mp3'"></src-rtyAudio> -->
