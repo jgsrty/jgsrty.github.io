@@ -14,8 +14,8 @@ const DesperateHousewives = require("./routes/DesperateHousewives.js");
 const { defaultTheme } = require("vuepress-webpack");
 let englishFiles = ["/english/introduction.md"];
 englishFiles = englishFiles.concat(
-  routeDailySentence,
   DesperateHousewives,
+  routeDailySentence,
   // routeDailyRecite,
   // routeVocabulary,
   routeBooks,
