@@ -1,4 +1,4 @@
-# Season-01
+# Season-01-Words
 
 ## Episode-01
 
@@ -68,15 +68,78 @@
   - **adv.** not often; rarely.
 - **treachery**
   - She understood that treachery never goes out of style.
-  - **n. the act of betraying someone who trusts you; betrayal.**
+  - **n.** the act of betraying someone who trusts you; betrayal.
 - **compassion**
   - And sometimes the only way to ward off the darkness is to shine the light of compassion.
   - **n.** a strong feeling of sympathy and sadness for the suffering of others, and a wish to help them.
 
 ## Episode-10
 
+- **villain**
+  - Every morality play has its cast of characters. There is always an innocent victim, a deceitful villain.
+  - **n.** a bad person in a story, film or play; someone who harms others or breaks rules.
+- **fornicate**
+  - Daddy's gonna fornicate for us!
+  - **v.** to have sexual intercourse between people who are not married to each other.
+- **impounding**
+  - The government's impounding it. Here's your receipt.
+  - **n.** to take and keep something officially, usually by legal authority.
+- **brazen**
+  - You know you are pretty brazen for a woman who just admitted, however tacitly, that she just slept with my husband.
+  - **n.** shameless and bold; done openly without any embarrassment or fear of punishment.
+- **eviscerate**
+  - I am gonna go out and find the most vindictive lawyer I can find, and together we are going to eviscerate you.
+  - **v.** to remove the internal organs of a person or animal
+
+## Episode-11
+
+- **disparage**
+  - Within five minutes Mrs. Huber managed to disparage what Edie was wearing.
+  - **v.**
+- **recuperate**
+  - He's gotta have a place to recuperate.
+  - **v.** to recover health and strength after illness or injury
+- **embolism**
+  - I'm sorry to disappoint you, Andew but my plan is to have an embolism and to die young.
+  - **n.** the blockage of a blood vessel by an embolus (such as a blood clot, air bubble or fat globule)
+- **grudge**
+  - You wanna say how long I can hold a grudge?
+  - **n.** a persistent feeling of resentment toward someone for a past wrong
+- **extortionist**
+  - You're only here because your children are master extortionists.
+  - **n.** a person who gets money or favors from others by threats or force
+- **aaa**
+  - Please don't mistake my anal retentiveness for actual affection.
+  - **n.** the ability to remember and retain information; the quality of keeping or holding something
+- **abduction**
+  - People fake their own abductions all the time.
+  - **n.** the act of taking someone away by force or deception; kidnappings
+- **boutique**
+  - We like to hit the boutiques together.
+  - **n.** a small shop that sells fashionable clothes, gifts or specialized goods
+
+  ## Episode-12
+
+- **haute couture**
+  - Carlos, this is not like New York where I made thousands of dollars a day modeling haute couture.
+  - **n.** high-end custom fashion, handmade to fit individual clients; the exclusive craft of designing and making these luxury garments (from French, literally “high sewing”)
+- **lieu**
+  - Oh, in lieu of a memorial service, I'll be holding an estate sale day after tomorrow.
+  - **n.** place; used mainly in the phrase "in lieu of", meaning instead of
+- **grovel**
+  - That's why you're going to grovel at her feet and beg forgiveness.
+  - **v.** to behave with excessive humility or fear, begging or apologising in a humiliating way; to crawl on the ground
+- **perky**
+  - I'm still the outsider that doesn't get invited to the cool parties, and you're still the perky cheerleader.
+  - **adj.** cheerful, lively and full of energy; standing upright and firm
+
+  ## Episode-13
+  - **aaa**
+  - bbb
+  - **n.**
+
 - **aaa**
   - bbb
   - **n.**
-  - **adj.**
-  - **adv.**
+  - adj
+  - adv
