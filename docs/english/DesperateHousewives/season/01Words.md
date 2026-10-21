@@ -134,10 +134,50 @@
   - **adj.** cheerful, lively and full of energy; standing upright and firm
 
   ## Episode-13
-  - **aaa**
+
+- **chaperone**
+  - Please. Why also do you want to chaperone the dance?
+  - **n.** an adult who accompanies and supervises young people at an event
+- **condone**
+  - And that worries me because if you can find it in you to condone something like that, then what's going to happen when you've been on the road for 40 years?
+  - **v.** to accept or allow behaviour that is wrong
+- **ruckus**
+  - I'm sorry about the ruckus I caused.
+  - **n.** a noisy disturbance or commotion
+
+## Episode-14
+
+- **pretentious**
+  - Ooh, that place is so pretentious.
+  - **adj.** trying to appear more important, intelligent or cultured than you really are
+- **implode**
+  - If she doesn't get a new nanny soon, she's gonna implode.
+  - **v.** to collapse inward violently
+- **perfunctory**
+  - There'll be a lot of forced smiles and perfunctory love-making.
+  - **adj.** done with minimal effort, without real care or interest
+- **dementia**
+  - Maybe it's my dementia, but I still haven't found my purple wall clock.
+  - **n.** a serious mental disorder caused by brain disease or injury, marked by memory loss, confusion and impaired reasoning
+
+## Episode-15
+
+--
+
+## Episode-16
+
+- **delousing**
+  - These flyers detail all the important information, concerning the situation, including the recommended delousing combs.
+  - **v.** the act of removing lice, fleas or other small parasites from a person, animal or place
+- **ridicule**
+  - To identify the child who initiated the outbreak might result in him or her being subjected to ridicule.
+  - **n.** unkind mocking or scornful laughter
+
+## Episode-17
+
+- **aaa**
   - bbb
   - **n.**
-
 - **aaa**
   - bbb
   - **n.**
