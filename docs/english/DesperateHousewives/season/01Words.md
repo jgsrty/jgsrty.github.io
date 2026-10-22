@@ -175,9 +175,21 @@
 
 ## Episode-17
 
-- **aaa**
-  - bbb
-  - **n.**
+- **recidivism**
+  - The barracks are a little bit bleak but that recidivism rate is to die for.
+  - **n.** the tendency of a convicted criminal to reoffend or commit another crime after being released.
+- **veneer**
+  - Maybe this one. Wood veneer.
+  - **n.** a thin decorative layer covering a surface, usually of wood
+- **crypt**
+  - A crypt? You bought your mother a crypt?!
+  - **n.** an underground room or vault beneath a church, used as a burial chamber.
+- **litigation**
+  - Provided you and your husband waive any future right to litigation, of course.
+  - **n.** the process of taking legal action; a lawsuit.
+
+  ## Episode-18
+
 - **aaa**
   - bbb
   - **n.**
