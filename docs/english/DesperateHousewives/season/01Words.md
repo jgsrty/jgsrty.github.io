@@ -190,6 +190,27 @@
 
   ## Episode-18
 
+- **impeccable**
+  - I feel so blessed to be getting sage advice from an impeccable mother like you.
+  - **adj.** without any faults or mistakes; perfect
+- **alimony**
+  - You didn't want to marry Morty so he doesn't have to pay you alimony.
+  - **n.** money that a court orders one spouse to pay to the other after a divorce or separation
+
+  ## Episode-19
+  - **perverted**
+  - It's no wonder you're perverted. Look who your parents are.
+  - **adj.** showing sexual thoughts or behaviour that are considered abnormal and unacceptable; also meaning twisted from its original purpose
+
+- **capper**
+  - The perfect capper to the perfect evening.
+  - **n.** something that finishes or tops off an event, story, etc. (often the final, striking part)
+- **umbilical**
+  - The umbilical cord wrapped around your neck and you stopped breathing.
+  - **n.** relating to the navel or the umbilical cord
+
+## Episode-20
+
 - **aaa**
   - bbb
   - **n.**
