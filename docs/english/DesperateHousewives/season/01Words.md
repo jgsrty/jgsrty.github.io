@@ -211,6 +211,39 @@
 
 ## Episode-20
 
+- **nectar**
+  - It's the time when flowers start to bloom, when butterflies emerge from their cocoons.
+  - **n.** the sweet liquid inside flowers that bees and hummingbirds collect to make honey
+- **bonsai**
+  - I happen to have extra tickets to a bonsai exposition in Mount Pleasant Friday night.
+  - **n.** an artificially dwarfed ornamental tree or shrub grown and shaped in a small pot
+- **paranoia**
+  - You're just so convinced that I'm gonna be unfaithful, it makes me sick, the distrust, the paranoia...
+  - **n.** an irrational, persistent fear or suspicion that other people intend to harm you
+
+## Episode-21
+
+- **hazmat**
+  - Do you want me to wear a hazmat suit?
+  - **n.** substances that are dangerous to health, property or the environment, such as toxic chemicals, radioactive waste or flammable agents.
+- **manicured**
+  - The hot woman that you work with every day with her manicured nails and her designer outfits.
+  - **adj.** (of hands/nails) shaped, cleaned and neatly trimmed
+
+## Episode-22
+
+- **lascivious**
+  - Her sudden appearance was always sure to generate a few appreciative glances, a few lascivious looks, and some downright ogling.
+  - **adj.** showing or feeling strong sexual desire in an offensive or inappropriate way
+- **hoboes**
+  - Like famine or disease or hoboes.
+  - **n.** people who travel from place to place looking for casual work, usually with no permanent home; itinerant migrant workers (often distinct from a tramp or bum)
+- **strollers**
+  - Babe, you want to go online and check out strollers?
+  - **n.** (American English) a small wheeled carriage for pushing a baby or young child (British English: pushchair)
+
+## Episode-23
+
 - **aaa**
   - bbb
   - **n.**
