@@ -113,3 +113,27 @@
 #### The winner takes it all
 
 #### The winner takes it all...
+
+#### So the winner
+
+#### Takes it all
+
+#### And the loser
+
+#### Has to fall
+
+#### Throw a dice
+
+#### Cold as ice
+
+#### Way down here
+
+#### Someone dear
+
+#### Takes it all
+
+#### Has to fall
+
+#### Yes, it's plain
+
+#### Why complain
